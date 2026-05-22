@@ -1,0 +1,89 @@
+name: Satya Entity Updater
+
+on:
+  schedule:
+    # Runs every Sunday at midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update_entities:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-entity-updater
+          restore-keys: |
+            ${{ runner.os }}-pip-entity-updater
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install gspread oauth2client spacy requests huggingface_hub llama-cpp-python
+          python -m spacy download en_core_web_sm
+
+      - name: Cache Gemma Model
+        id: cache-model
+        uses: actions/cache@v4
+        with:
+          path: ./models
+          key: gemma-2-2b-it-Q6_K_L
+
+      - name: Download Gemma Model
+        if: steps.cache-model.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p ./models
+          python -c "
+          from huggingface_hub import hf_hub_download
+          hf_hub_download(
+            repo_id='bartowski/gemma-2-2b-it-GGUF',
+            filename='gemma-2-2b-it-Q6_K_L.gguf',
+            local_dir='./models'
+          )
+          "
+
+      - name: Download current entities.json
+        env:
+          ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+        run: |
+          curl -L "$ENTITIES_JSON_URL" -o ./entities.json
+          echo "Downloaded entities.json"
+          wc -l ./entities.json
+
+      - name: Run Entity Updater
+        env:
+          GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
+          ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+        run: |
+          python entity_updater.py
+
+      - name: Commit updated entities.json back to repo
+        run: |
+          git config --local user.email "satya-bot@github.com"
+          git config --local user.name "Satya Bot"
+          git add entities.json review_flags.json
+          git diff --staged --quiet || git commit -m "Auto-update entities.json [$(date '+%Y-%m-%d')]"
+          git push
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: entity-updater-output-${{ github.run_number }}
+          path: |
+            entities.json
+            review_flags.json
+            *.log
+          retention-days: 14
