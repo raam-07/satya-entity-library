@@ -238,6 +238,10 @@ def detect_cms(articles, entities, nlp, llm):
     state_cm_contexts = defaultdict(lambda: defaultdict(list))
 
     for article in window_articles:
+        # Skip international articles for Indian entity extraction
+        if article.get('category') == 'international':
+            continue
+
         text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:500]}"
         text_lower = text.lower()
         states_in_article = article.get('states_mentioned', [])
