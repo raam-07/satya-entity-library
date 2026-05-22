@@ -1,11 +1,16 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-23",
+    "last_updated": "2026-05-22",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
-    "maintainer": "Satya Project"
+    "maintainer": "Satya Project",
+    "auto_updated_fields": {
+      "cm_updates": 0,
+      "party_updates": 0,
+      "criminal_updates": 0,
+      "new_promises": 0
+    }
   },
-
   "india": {
     "central_government": {
       "ruling_party": "BJP",
@@ -14,11 +19,15 @@
       "president": "Droupadi Murmu",
       "vice_president": "Jagdeep Dhankhar"
     },
-
     "cabinet_ministers": [
       {
         "name": "Narendra Modi",
-        "aliases": ["Modi", "PM Modi", "NaMo", "Modiji"],
+        "aliases": [
+          "Modi",
+          "PM Modi",
+          "NaMo",
+          "Modiji"
+        ],
         "role": "Prime Minister",
         "ministry": "Prime Minister's Office",
         "party": "BJP",
@@ -32,7 +41,11 @@
       },
       {
         "name": "Amit Shah",
-        "aliases": ["Shah", "Amit Shah", "Home Minister Shah"],
+        "aliases": [
+          "Shah",
+          "Amit Shah",
+          "Home Minister Shah"
+        ],
         "role": "Union Home Minister",
         "ministry": "Ministry of Home Affairs",
         "party": "BJP",
@@ -46,7 +59,10 @@
       },
       {
         "name": "Rajnath Singh",
-        "aliases": ["Rajnath", "Defence Minister"],
+        "aliases": [
+          "Rajnath",
+          "Defence Minister"
+        ],
         "role": "Defence Minister",
         "ministry": "Ministry of Defence",
         "party": "BJP",
@@ -60,7 +76,11 @@
       },
       {
         "name": "Nirmala Sitharaman",
-        "aliases": ["Nirmala", "Finance Minister", "FM Sitharaman"],
+        "aliases": [
+          "Nirmala",
+          "Finance Minister",
+          "FM Sitharaman"
+        ],
         "role": "Finance Minister",
         "ministry": "Ministry of Finance",
         "party": "BJP",
@@ -74,7 +94,12 @@
       },
       {
         "name": "S. Jaishankar",
-        "aliases": ["Jaishankar", "EAM", "External Affairs Minister", "MEA"],
+        "aliases": [
+          "Jaishankar",
+          "EAM",
+          "External Affairs Minister",
+          "MEA"
+        ],
         "role": "External Affairs Minister",
         "ministry": "Ministry of External Affairs",
         "party": "BJP",
@@ -88,7 +113,10 @@
       },
       {
         "name": "Nitin Gadkari",
-        "aliases": ["Gadkari", "Road Transport Minister"],
+        "aliases": [
+          "Gadkari",
+          "Road Transport Minister"
+        ],
         "role": "Road Transport and Highways Minister",
         "ministry": "Ministry of Road Transport and Highways",
         "party": "BJP",
@@ -102,7 +130,11 @@
       },
       {
         "name": "JP Nadda",
-        "aliases": ["Nadda", "BJP President", "Health Minister"],
+        "aliases": [
+          "Nadda",
+          "BJP President",
+          "Health Minister"
+        ],
         "role": "Health Minister / BJP National President",
         "ministry": "Ministry of Health and Family Welfare",
         "party": "BJP",
@@ -116,7 +148,10 @@
       },
       {
         "name": "Smriti Irani",
-        "aliases": ["Smriti", "Irani"],
+        "aliases": [
+          "Smriti",
+          "Irani"
+        ],
         "role": "Former Women and Child Development Minister",
         "ministry": "Ministry of Women and Child Development",
         "party": "BJP",
@@ -130,7 +165,10 @@
       },
       {
         "name": "Piyush Goyal",
-        "aliases": ["Goyal", "Commerce Minister"],
+        "aliases": [
+          "Goyal",
+          "Commerce Minister"
+        ],
         "role": "Commerce and Industry Minister",
         "ministry": "Ministry of Commerce and Industry",
         "party": "BJP",
@@ -144,7 +182,10 @@
       },
       {
         "name": "Dharmendra Pradhan",
-        "aliases": ["Pradhan", "Education Minister"],
+        "aliases": [
+          "Pradhan",
+          "Education Minister"
+        ],
         "role": "Education Minister",
         "ministry": "Ministry of Education",
         "party": "BJP",
@@ -158,7 +199,11 @@
       },
       {
         "name": "Ashwini Vaishnaw",
-        "aliases": ["Vaishnaw", "Railways Minister", "IT Minister"],
+        "aliases": [
+          "Vaishnaw",
+          "Railways Minister",
+          "IT Minister"
+        ],
         "role": "Railways and IT Minister",
         "ministry": "Ministry of Railways",
         "party": "BJP",
@@ -172,7 +217,10 @@
       },
       {
         "name": "Mansukh Mandaviya",
-        "aliases": ["Mandaviya", "Labour Minister"],
+        "aliases": [
+          "Mandaviya",
+          "Labour Minister"
+        ],
         "role": "Labour and Employment Minister",
         "ministry": "Ministry of Labour and Employment",
         "party": "BJP",
@@ -186,7 +234,10 @@
       },
       {
         "name": "Giriraj Singh",
-        "aliases": ["Giriraj", "Textile Minister"],
+        "aliases": [
+          "Giriraj",
+          "Textile Minister"
+        ],
         "role": "Textile Minister",
         "ministry": "Ministry of Textiles",
         "party": "BJP",
@@ -200,7 +251,11 @@
       },
       {
         "name": "Hardeep Singh Puri",
-        "aliases": ["Puri", "Petroleum Minister", "Housing Minister"],
+        "aliases": [
+          "Puri",
+          "Petroleum Minister",
+          "Housing Minister"
+        ],
         "role": "Petroleum and Natural Gas Minister",
         "ministry": "Ministry of Petroleum and Natural Gas",
         "party": "BJP",
@@ -214,7 +269,10 @@
       },
       {
         "name": "Kiren Rijiju",
-        "aliases": ["Rijiju", "Parliamentary Affairs Minister"],
+        "aliases": [
+          "Rijiju",
+          "Parliamentary Affairs Minister"
+        ],
         "role": "Parliamentary Affairs Minister",
         "ministry": "Ministry of Parliamentary Affairs",
         "party": "BJP",
@@ -227,11 +285,15 @@
         "image_placeholder": "kiren_rijiju"
       }
     ],
-
     "opposition_leaders": [
       {
         "name": "Rahul Gandhi",
-        "aliases": ["Rahul", "RaGa", "LoP", "Leader of Opposition"],
+        "aliases": [
+          "Rahul",
+          "RaGa",
+          "LoP",
+          "Leader of Opposition"
+        ],
         "role": "Leader of Opposition",
         "party": "INC",
         "state": "Kerala",
@@ -243,7 +305,10 @@
       },
       {
         "name": "Sonia Gandhi",
-        "aliases": ["Sonia", "Congress President Emeritus"],
+        "aliases": [
+          "Sonia",
+          "Congress President Emeritus"
+        ],
         "role": "Congress Parliamentary Party Chairperson",
         "party": "INC",
         "state": "Rajasthan",
@@ -255,7 +320,10 @@
       },
       {
         "name": "Priyanka Gandhi",
-        "aliases": ["Priyanka", "Priyanka Gandhi Vadra"],
+        "aliases": [
+          "Priyanka",
+          "Priyanka Gandhi Vadra"
+        ],
         "role": "MP, Congress General Secretary",
         "party": "INC",
         "state": "Uttar Pradesh",
@@ -267,7 +335,10 @@
       },
       {
         "name": "Mallikarjun Kharge",
-        "aliases": ["Kharge", "Congress President"],
+        "aliases": [
+          "Kharge",
+          "Congress President"
+        ],
         "role": "INC National President",
         "party": "INC",
         "state": "Karnataka",
@@ -279,7 +350,11 @@
       },
       {
         "name": "Arvind Kejriwal",
-        "aliases": ["Kejriwal", "AK", "AAP Chief"],
+        "aliases": [
+          "Kejriwal",
+          "AK",
+          "AAP Chief"
+        ],
         "role": "AAP National Convenor",
         "party": "AAP",
         "state": "Delhi",
@@ -291,7 +366,11 @@
       },
       {
         "name": "Mamata Banerjee",
-        "aliases": ["Mamata", "Didi", "TMC Chief"],
+        "aliases": [
+          "Mamata",
+          "Didi",
+          "TMC Chief"
+        ],
         "role": "West Bengal Chief Minister / TMC Chairperson",
         "party": "TMC",
         "state": "West Bengal",
@@ -303,7 +382,10 @@
       },
       {
         "name": "Akhilesh Yadav",
-        "aliases": ["Akhilesh", "SP Chief"],
+        "aliases": [
+          "Akhilesh",
+          "SP Chief"
+        ],
         "role": "Samajwadi Party President",
         "party": "SP",
         "state": "Uttar Pradesh",
@@ -315,7 +397,10 @@
       },
       {
         "name": "Mayawati",
-        "aliases": ["BSP Chief", "Behenji"],
+        "aliases": [
+          "BSP Chief",
+          "Behenji"
+        ],
         "role": "BSP National President",
         "party": "BSP",
         "state": "Uttar Pradesh",
@@ -327,7 +412,10 @@
       },
       {
         "name": "Asaduddin Owaisi",
-        "aliases": ["Owaisi", "AIMIM Chief"],
+        "aliases": [
+          "Owaisi",
+          "AIMIM Chief"
+        ],
         "role": "AIMIM President",
         "party": "AIMIM",
         "state": "Telangana",
@@ -339,7 +427,10 @@
       },
       {
         "name": "Sharad Pawar",
-        "aliases": ["Pawar", "NCP Chief"],
+        "aliases": [
+          "Pawar",
+          "NCP Chief"
+        ],
         "role": "NCP (SP) President",
         "party": "NCP",
         "state": "Maharashtra",
@@ -351,7 +442,10 @@
       },
       {
         "name": "Lalu Prasad Yadav",
-        "aliases": ["Lalu", "RJD Chief"],
+        "aliases": [
+          "Lalu",
+          "RJD Chief"
+        ],
         "role": "RJD President",
         "party": "RJD",
         "state": "Bihar",
@@ -363,7 +457,10 @@
       },
       {
         "name": "Tejashwi Yadav",
-        "aliases": ["Tejashwi", "Bihar Deputy CM"],
+        "aliases": [
+          "Tejashwi",
+          "Bihar Deputy CM"
+        ],
         "role": "RJD Leader / Former Bihar Deputy CM",
         "party": "RJD",
         "state": "Bihar",
@@ -374,11 +471,14 @@
         "image_placeholder": "tejashwi_yadav"
       }
     ],
-
     "state_chief_ministers": [
       {
         "name": "Yogi Adityanath",
-        "aliases": ["Yogi", "UP CM", "Gorakhpur CM"],
+        "aliases": [
+          "Yogi",
+          "UP CM",
+          "Gorakhpur CM"
+        ],
         "role": "Chief Minister",
         "state": "Uttar Pradesh",
         "party": "BJP",
@@ -390,7 +490,10 @@
       },
       {
         "name": "Nitish Kumar",
-        "aliases": ["Nitish", "Bihar CM"],
+        "aliases": [
+          "Nitish",
+          "Bihar CM"
+        ],
         "role": "Chief Minister",
         "state": "Bihar",
         "party": "JDU",
@@ -402,7 +505,11 @@
       },
       {
         "name": "Mamata Banerjee",
-        "aliases": ["Mamata", "Didi", "Bengal CM"],
+        "aliases": [
+          "Mamata",
+          "Didi",
+          "Bengal CM"
+        ],
         "role": "Chief Minister",
         "state": "West Bengal",
         "party": "TMC",
@@ -414,7 +521,10 @@
       },
       {
         "name": "Siddaramaiah",
-        "aliases": ["Siddaramaiah", "Karnataka CM"],
+        "aliases": [
+          "Siddaramaiah",
+          "Karnataka CM"
+        ],
         "role": "Chief Minister",
         "state": "Karnataka",
         "party": "INC",
@@ -426,7 +536,10 @@
       },
       {
         "name": "Revanth Reddy",
-        "aliases": ["Revanth", "Telangana CM"],
+        "aliases": [
+          "Revanth",
+          "Telangana CM"
+        ],
         "role": "Chief Minister",
         "state": "Telangana",
         "party": "INC",
@@ -438,7 +551,11 @@
       },
       {
         "name": "M.K. Stalin",
-        "aliases": ["Stalin", "Tamil Nadu CM", "DMK Chief"],
+        "aliases": [
+          "Stalin",
+          "Tamil Nadu CM",
+          "DMK Chief"
+        ],
         "role": "Chief Minister",
         "state": "Tamil Nadu",
         "party": "DMK",
@@ -450,7 +567,10 @@
       },
       {
         "name": "Pinarayi Vijayan",
-        "aliases": ["Pinarayi", "Kerala CM"],
+        "aliases": [
+          "Pinarayi",
+          "Kerala CM"
+        ],
         "role": "Chief Minister",
         "state": "Kerala",
         "party": "CPM",
@@ -462,7 +582,10 @@
       },
       {
         "name": "Hemant Soren",
-        "aliases": ["Hemant", "Jharkhand CM"],
+        "aliases": [
+          "Hemant",
+          "Jharkhand CM"
+        ],
         "role": "Chief Minister",
         "state": "Jharkhand",
         "party": "JMM",
@@ -474,7 +597,11 @@
       },
       {
         "name": "Chandrababu Naidu",
-        "aliases": ["Naidu", "CBN", "Andhra CM"],
+        "aliases": [
+          "Naidu",
+          "CBN",
+          "Andhra CM"
+        ],
         "role": "Chief Minister",
         "state": "Andhra Pradesh",
         "party": "TDP",
@@ -486,7 +613,10 @@
       },
       {
         "name": "Devendra Fadnavis",
-        "aliases": ["Fadnavis", "Maharashtra CM"],
+        "aliases": [
+          "Fadnavis",
+          "Maharashtra CM"
+        ],
         "role": "Chief Minister",
         "state": "Maharashtra",
         "party": "BJP",
@@ -498,7 +628,10 @@
       },
       {
         "name": "Bhajanlal Sharma",
-        "aliases": ["Bhajanlal", "Rajasthan CM"],
+        "aliases": [
+          "Bhajanlal",
+          "Rajasthan CM"
+        ],
         "role": "Chief Minister",
         "state": "Rajasthan",
         "party": "BJP",
@@ -510,7 +643,10 @@
       },
       {
         "name": "Mohan Yadav",
-        "aliases": ["Mohan Yadav", "MP CM"],
+        "aliases": [
+          "Mohan Yadav",
+          "MP CM"
+        ],
         "role": "Chief Minister",
         "state": "Madhya Pradesh",
         "party": "BJP",
@@ -522,7 +658,10 @@
       },
       {
         "name": "Omar Abdullah",
-        "aliases": ["Omar", "J&K CM"],
+        "aliases": [
+          "Omar",
+          "J&K CM"
+        ],
         "role": "Chief Minister",
         "state": "Jammu and Kashmir",
         "party": "National Conference",
@@ -534,7 +673,10 @@
       },
       {
         "name": "Sukhvinder Singh Sukhu",
-        "aliases": ["Sukhu", "Himachal CM"],
+        "aliases": [
+          "Sukhu",
+          "Himachal CM"
+        ],
         "role": "Chief Minister",
         "state": "Himachal Pradesh",
         "party": "INC",
@@ -546,7 +688,10 @@
       },
       {
         "name": "Bhupesh Baghel",
-        "aliases": ["Baghel", "Former Chhattisgarh CM"],
+        "aliases": [
+          "Baghel",
+          "Former Chhattisgarh CM"
+        ],
         "role": "Former Chief Minister",
         "state": "Chhattisgarh",
         "party": "INC",
@@ -557,60 +702,101 @@
         "image_placeholder": "bhupesh_baghel"
       }
     ],
-
     "parties": [
       {
         "name": "BJP",
         "full_name": "Bharatiya Janata Party",
-        "aliases": ["Bhartiya Janata Party", "Bharatiya Janata"],
+        "aliases": [
+          "Bhartiya Janata Party",
+          "Bharatiya Janata"
+        ],
         "ideology": "Hindu nationalism, right-wing",
         "founded": "1980",
         "president": "JP Nadda",
         "coalition": "NDA",
-        "ruling_states": ["Uttar Pradesh", "Gujarat", "Madhya Pradesh", "Rajasthan", "Maharashtra", "Haryana", "Uttarakhand", "Himachal Pradesh", "Tripura", "Assam", "Manipur", "Arunachal Pradesh", "Meghalaya", "Nagaland", "Sikkim", "Goa"],
+        "ruling_states": [
+          "Uttar Pradesh",
+          "Gujarat",
+          "Madhya Pradesh",
+          "Rajasthan",
+          "Maharashtra",
+          "Haryana",
+          "Uttarakhand",
+          "Himachal Pradesh",
+          "Tripura",
+          "Assam",
+          "Manipur",
+          "Arunachal Pradesh",
+          "Meghalaya",
+          "Nagaland",
+          "Sikkim",
+          "Goa"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
         "color": "#FF9933"
       },
       {
         "name": "INC",
         "full_name": "Indian National Congress",
-        "aliases": ["Congress", "Grand Old Party", "Congress Party"],
+        "aliases": [
+          "Congress",
+          "Grand Old Party",
+          "Congress Party"
+        ],
         "ideology": "Centrist, Social liberalism",
         "founded": "1885",
         "president": "Mallikarjun Kharge",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["Karnataka", "Telangana", "Himachal Pradesh"],
+        "ruling_states": [
+          "Karnataka",
+          "Telangana",
+          "Himachal Pradesh"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Indian_National_Congress",
         "color": "#00BFFF"
       },
       {
         "name": "AAP",
         "full_name": "Aam Aadmi Party",
-        "aliases": ["Aam Aadmi", "Common Man Party"],
+        "aliases": [
+          "Aam Aadmi",
+          "Common Man Party"
+        ],
         "ideology": "Anti-corruption, Populism",
         "founded": "2012",
         "president": "Arvind Kejriwal",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["Punjab"],
+        "ruling_states": [
+          "Punjab"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
         "color": "#0066FF"
       },
       {
         "name": "TMC",
         "full_name": "All India Trinamool Congress",
-        "aliases": ["Trinamool", "AITC", "Trinamool Congress"],
+        "aliases": [
+          "Trinamool",
+          "AITC",
+          "Trinamool Congress"
+        ],
         "ideology": "Populism, Secularism",
         "founded": "1998",
         "president": "Mamata Banerjee",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["West Bengal"],
+        "ruling_states": [
+          "West Bengal"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/All_India_Trinamool_Congress",
         "color": "#00FF00"
       },
       {
         "name": "SP",
         "full_name": "Samajwadi Party",
-        "aliases": ["Samajwadi", "Yadav party"],
+        "aliases": [
+          "Samajwadi",
+          "Yadav party"
+        ],
         "ideology": "Socialism, OBC politics",
         "founded": "1992",
         "president": "Akhilesh Yadav",
@@ -622,7 +808,10 @@
       {
         "name": "BSP",
         "full_name": "Bahujan Samaj Party",
-        "aliases": ["Bahujan Samaj", "Dalit party"],
+        "aliases": [
+          "Bahujan Samaj",
+          "Dalit party"
+        ],
         "ideology": "Dalit politics, Ambedkarism",
         "founded": "1984",
         "president": "Mayawati",
@@ -634,43 +823,62 @@
       {
         "name": "DMK",
         "full_name": "Dravida Munnetra Kazhagam",
-        "aliases": ["Dravidam", "Karunanidhi party"],
+        "aliases": [
+          "Dravidam",
+          "Karunanidhi party"
+        ],
         "ideology": "Dravidian politics, Secularism",
         "founded": "1949",
         "president": "M.K. Stalin",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["Tamil Nadu"],
+        "ruling_states": [
+          "Tamil Nadu"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam",
         "color": "#FF0000"
       },
       {
         "name": "CPM",
         "full_name": "Communist Party of India (Marxist)",
-        "aliases": ["CPI(M)", "Left Front", "Marxist"],
+        "aliases": [
+          "CPI(M)",
+          "Left Front",
+          "Marxist"
+        ],
         "ideology": "Marxism, Communism",
         "founded": "1964",
         "president": "Sitaram Yechury",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["Kerala"],
+        "ruling_states": [
+          "Kerala"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
         "color": "#FF0000"
       },
       {
         "name": "JDU",
         "full_name": "Janata Dal (United)",
-        "aliases": ["Janata Dal United", "Nitish party"],
+        "aliases": [
+          "Janata Dal United",
+          "Nitish party"
+        ],
         "ideology": "Social justice, Secularism",
         "founded": "1999",
         "president": "Nitish Kumar",
         "coalition": "NDA",
-        "ruling_states": ["Bihar"],
+        "ruling_states": [
+          "Bihar"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Janata_Dal_(United)",
         "color": "#00FF00"
       },
       {
         "name": "NCP",
         "full_name": "Nationalist Congress Party",
-        "aliases": ["Nationalist Congress", "Sharad Pawar party"],
+        "aliases": [
+          "Nationalist Congress",
+          "Sharad Pawar party"
+        ],
         "ideology": "Nationalism, Secularism",
         "founded": "1999",
         "president": "Sharad Pawar",
@@ -682,31 +890,44 @@
       {
         "name": "TDP",
         "full_name": "Telugu Desam Party",
-        "aliases": ["Telugu Desam", "Naidu party"],
+        "aliases": [
+          "Telugu Desam",
+          "Naidu party"
+        ],
         "ideology": "Telugu regionalism",
         "founded": "1982",
         "president": "Chandrababu Naidu",
         "coalition": "NDA",
-        "ruling_states": ["Andhra Pradesh"],
+        "ruling_states": [
+          "Andhra Pradesh"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Telugu_Desam_Party",
         "color": "#FFFF00"
       },
       {
         "name": "JMM",
         "full_name": "Jharkhand Mukti Morcha",
-        "aliases": ["Jharkhand Mukti", "Soren party"],
+        "aliases": [
+          "Jharkhand Mukti",
+          "Soren party"
+        ],
         "ideology": "Adivasi rights, Regionalism",
         "founded": "1972",
         "president": "Hemant Soren",
         "coalition": "INDIA Alliance",
-        "ruling_states": ["Jharkhand"],
+        "ruling_states": [
+          "Jharkhand"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Jharkhand_Mukti_Morcha",
         "color": "#008000"
       },
       {
         "name": "RJD",
         "full_name": "Rashtriya Janata Dal",
-        "aliases": ["Rashtriya Janata", "Lalu party"],
+        "aliases": [
+          "Rashtriya Janata",
+          "Lalu party"
+        ],
         "ideology": "Social justice, OBC politics",
         "founded": "1997",
         "president": "Lalu Prasad Yadav",
@@ -718,7 +939,11 @@
       {
         "name": "AIMIM",
         "full_name": "All India Majlis-e-Ittehadul Muslimeen",
-        "aliases": ["Majlis", "Owaisi party", "MIM"],
+        "aliases": [
+          "Majlis",
+          "Owaisi party",
+          "MIM"
+        ],
         "ideology": "Muslim interests, Conservatism",
         "founded": "1927",
         "president": "Asaduddin Owaisi",
@@ -730,118 +955,809 @@
       {
         "name": "Shiv Sena",
         "full_name": "Shiv Sena (Eknath Shinde)",
-        "aliases": ["Shinde Sena", "Balasahebanchi Shiv Sena"],
+        "aliases": [
+          "Shinde Sena",
+          "Balasahebanchi Shiv Sena"
+        ],
         "ideology": "Marathi regionalism, Hindu nationalism",
         "founded": "1966",
         "president": "Eknath Shinde",
         "coalition": "NDA",
-        "ruling_states": ["Maharashtra"],
+        "ruling_states": [
+          "Maharashtra"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Shiv_Sena",
         "color": "#FF8000"
       }
     ],
-
     "states": [
-      {"name": "Andhra Pradesh", "aliases": ["AP"], "capital": "Amaravati", "ruling_party": "TDP", "cm": "Chandrababu Naidu", "region": "South"},
-      {"name": "Arunachal Pradesh", "aliases": [], "capital": "Itanagar", "ruling_party": "BJP", "cm": "Pema Khandu", "region": "Northeast"},
-      {"name": "Assam", "aliases": [], "capital": "Dispur", "ruling_party": "BJP", "cm": "Himanta Biswa Sarma", "region": "Northeast"},
-      {"name": "Bihar", "aliases": [], "capital": "Patna", "ruling_party": "JDU", "cm": "Nitish Kumar", "region": "East"},
-      {"name": "Chhattisgarh", "aliases": ["CG"], "capital": "Raipur", "ruling_party": "BJP", "cm": "Vishnu Deo Sai", "region": "Central"},
-      {"name": "Goa", "aliases": [], "capital": "Panaji", "ruling_party": "BJP", "cm": "Pramod Sawant", "region": "West"},
-      {"name": "Gujarat", "aliases": [], "capital": "Gandhinagar", "ruling_party": "BJP", "cm": "Bhupendra Patel", "region": "West"},
-      {"name": "Haryana", "aliases": [], "capital": "Chandigarh", "ruling_party": "BJP", "cm": "Nayab Singh Saini", "region": "North"},
-      {"name": "Himachal Pradesh", "aliases": ["HP"], "capital": "Shimla", "ruling_party": "INC", "cm": "Sukhvinder Singh Sukhu", "region": "North"},
-      {"name": "Jharkhand", "aliases": [], "capital": "Ranchi", "ruling_party": "JMM", "cm": "Hemant Soren", "region": "East"},
-      {"name": "Karnataka", "aliases": [], "capital": "Bengaluru", "ruling_party": "INC", "cm": "Siddaramaiah", "region": "South"},
-      {"name": "Kerala", "aliases": [], "capital": "Thiruvananthapuram", "ruling_party": "CPM", "cm": "Pinarayi Vijayan", "region": "South"},
-      {"name": "Madhya Pradesh", "aliases": ["MP"], "capital": "Bhopal", "ruling_party": "BJP", "cm": "Mohan Yadav", "region": "Central"},
-      {"name": "Maharashtra", "aliases": [], "capital": "Mumbai", "ruling_party": "BJP", "cm": "Devendra Fadnavis", "region": "West"},
-      {"name": "Manipur", "aliases": [], "capital": "Imphal", "ruling_party": "BJP", "cm": "N. Biren Singh", "region": "Northeast"},
-      {"name": "Meghalaya", "aliases": [], "capital": "Shillong", "ruling_party": "NPP", "cm": "Conrad Sangma", "region": "Northeast"},
-      {"name": "Mizoram", "aliases": [], "capital": "Aizawl", "ruling_party": "ZPM", "cm": "Lalduhoma", "region": "Northeast"},
-      {"name": "Nagaland", "aliases": [], "capital": "Kohima", "ruling_party": "NDPP", "cm": "Neiphiu Rio", "region": "Northeast"},
-      {"name": "Odisha", "aliases": [], "capital": "Bhubaneswar", "ruling_party": "BJP", "cm": "Mohan Majhi", "region": "East"},
-      {"name": "Punjab", "aliases": [], "capital": "Chandigarh", "ruling_party": "AAP", "cm": "Bhagwant Mann", "region": "North"},
-      {"name": "Rajasthan", "aliases": [], "capital": "Jaipur", "ruling_party": "BJP", "cm": "Bhajanlal Sharma", "region": "North"},
-      {"name": "Sikkim", "aliases": [], "capital": "Gangtok", "ruling_party": "SKM", "cm": "Prem Singh Tamang", "region": "Northeast"},
-      {"name": "Tamil Nadu", "aliases": ["TN"], "capital": "Chennai", "ruling_party": "DMK", "cm": "M.K. Stalin", "region": "South"},
-      {"name": "Telangana", "aliases": [], "capital": "Hyderabad", "ruling_party": "INC", "cm": "Revanth Reddy", "region": "South"},
-      {"name": "Tripura", "aliases": [], "capital": "Agartala", "ruling_party": "BJP", "cm": "Manik Saha", "region": "Northeast"},
-      {"name": "Uttar Pradesh", "aliases": ["UP"], "capital": "Lucknow", "ruling_party": "BJP", "cm": "Yogi Adityanath", "region": "North"},
-      {"name": "Uttarakhand", "aliases": [], "capital": "Dehradun", "ruling_party": "BJP", "cm": "Pushkar Singh Dhami", "region": "North"},
-      {"name": "West Bengal", "aliases": ["WB"], "capital": "Kolkata", "ruling_party": "TMC", "cm": "Mamata Banerjee", "region": "East"},
-      {"name": "Delhi", "aliases": ["NCT", "NCR"], "capital": "New Delhi", "ruling_party": "BJP", "cm": "Rekha Gupta", "region": "North"},
-      {"name": "Jammu and Kashmir", "aliases": ["J&K", "JK"], "capital": "Srinagar / Jammu", "ruling_party": "National Conference", "cm": "Omar Abdullah", "region": "North"},
-      {"name": "Ladakh", "aliases": [], "capital": "Leh", "ruling_party": "Central Govt", "cm": "N/A", "region": "North"},
-      {"name": "Puducherry", "aliases": ["Pondicherry"], "capital": "Puducherry", "ruling_party": "INC", "cm": "N. Rangasamy", "region": "South"},
-      {"name": "Chandigarh", "aliases": [], "capital": "Chandigarh", "ruling_party": "Central Govt", "cm": "N/A", "region": "North"},
-      {"name": "Andaman and Nicobar", "aliases": ["Andaman"], "capital": "Port Blair", "ruling_party": "Central Govt", "cm": "N/A", "region": "Island"},
-      {"name": "Lakshadweep", "aliases": [], "capital": "Kavaratti", "ruling_party": "Central Govt", "cm": "N/A", "region": "Island"}
+      {
+        "name": "Andhra Pradesh",
+        "aliases": [
+          "AP"
+        ],
+        "capital": "Amaravati",
+        "ruling_party": "TDP",
+        "cm": "Chandrababu Naidu",
+        "region": "South"
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "aliases": [],
+        "capital": "Itanagar",
+        "ruling_party": "BJP",
+        "cm": "Pema Khandu",
+        "region": "Northeast"
+      },
+      {
+        "name": "Assam",
+        "aliases": [],
+        "capital": "Dispur",
+        "ruling_party": "BJP",
+        "cm": "Himanta Biswa Sarma",
+        "region": "Northeast"
+      },
+      {
+        "name": "Bihar",
+        "aliases": [],
+        "capital": "Patna",
+        "ruling_party": "JDU",
+        "cm": "Nitish Kumar",
+        "region": "East"
+      },
+      {
+        "name": "Chhattisgarh",
+        "aliases": [
+          "CG"
+        ],
+        "capital": "Raipur",
+        "ruling_party": "BJP",
+        "cm": "Vishnu Deo Sai",
+        "region": "Central"
+      },
+      {
+        "name": "Goa",
+        "aliases": [],
+        "capital": "Panaji",
+        "ruling_party": "BJP",
+        "cm": "Pramod Sawant",
+        "region": "West"
+      },
+      {
+        "name": "Gujarat",
+        "aliases": [],
+        "capital": "Gandhinagar",
+        "ruling_party": "BJP",
+        "cm": "Bhupendra Patel",
+        "region": "West"
+      },
+      {
+        "name": "Haryana",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "BJP",
+        "cm": "Nayab Singh Saini",
+        "region": "North"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "aliases": [
+          "HP"
+        ],
+        "capital": "Shimla",
+        "ruling_party": "INC",
+        "cm": "Sukhvinder Singh Sukhu",
+        "region": "North"
+      },
+      {
+        "name": "Jharkhand",
+        "aliases": [],
+        "capital": "Ranchi",
+        "ruling_party": "JMM",
+        "cm": "Hemant Soren",
+        "region": "East"
+      },
+      {
+        "name": "Karnataka",
+        "aliases": [],
+        "capital": "Bengaluru",
+        "ruling_party": "INC",
+        "cm": "Siddaramaiah",
+        "region": "South"
+      },
+      {
+        "name": "Kerala",
+        "aliases": [],
+        "capital": "Thiruvananthapuram",
+        "ruling_party": "CPM",
+        "cm": "Pinarayi Vijayan",
+        "region": "South"
+      },
+      {
+        "name": "Madhya Pradesh",
+        "aliases": [
+          "MP"
+        ],
+        "capital": "Bhopal",
+        "ruling_party": "BJP",
+        "cm": "Mohan Yadav",
+        "region": "Central"
+      },
+      {
+        "name": "Maharashtra",
+        "aliases": [],
+        "capital": "Mumbai",
+        "ruling_party": "BJP",
+        "cm": "Devendra Fadnavis",
+        "region": "West"
+      },
+      {
+        "name": "Manipur",
+        "aliases": [],
+        "capital": "Imphal",
+        "ruling_party": "BJP",
+        "cm": "N. Biren Singh",
+        "region": "Northeast"
+      },
+      {
+        "name": "Meghalaya",
+        "aliases": [],
+        "capital": "Shillong",
+        "ruling_party": "NPP",
+        "cm": "Conrad Sangma",
+        "region": "Northeast"
+      },
+      {
+        "name": "Mizoram",
+        "aliases": [],
+        "capital": "Aizawl",
+        "ruling_party": "ZPM",
+        "cm": "Lalduhoma",
+        "region": "Northeast"
+      },
+      {
+        "name": "Nagaland",
+        "aliases": [],
+        "capital": "Kohima",
+        "ruling_party": "NDPP",
+        "cm": "Neiphiu Rio",
+        "region": "Northeast"
+      },
+      {
+        "name": "Odisha",
+        "aliases": [],
+        "capital": "Bhubaneswar",
+        "ruling_party": "BJP",
+        "cm": "Mohan Majhi",
+        "region": "East"
+      },
+      {
+        "name": "Punjab",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "AAP",
+        "cm": "Bhagwant Mann",
+        "region": "North"
+      },
+      {
+        "name": "Rajasthan",
+        "aliases": [],
+        "capital": "Jaipur",
+        "ruling_party": "BJP",
+        "cm": "Bhajanlal Sharma",
+        "region": "North"
+      },
+      {
+        "name": "Sikkim",
+        "aliases": [],
+        "capital": "Gangtok",
+        "ruling_party": "SKM",
+        "cm": "Prem Singh Tamang",
+        "region": "Northeast"
+      },
+      {
+        "name": "Tamil Nadu",
+        "aliases": [
+          "TN"
+        ],
+        "capital": "Chennai",
+        "ruling_party": "DMK",
+        "cm": "M.K. Stalin",
+        "region": "South"
+      },
+      {
+        "name": "Telangana",
+        "aliases": [],
+        "capital": "Hyderabad",
+        "ruling_party": "INC",
+        "cm": "Revanth Reddy",
+        "region": "South"
+      },
+      {
+        "name": "Tripura",
+        "aliases": [],
+        "capital": "Agartala",
+        "ruling_party": "BJP",
+        "cm": "Manik Saha",
+        "region": "Northeast"
+      },
+      {
+        "name": "Uttar Pradesh",
+        "aliases": [
+          "UP"
+        ],
+        "capital": "Lucknow",
+        "ruling_party": "BJP",
+        "cm": "Yogi Adityanath",
+        "region": "North"
+      },
+      {
+        "name": "Uttarakhand",
+        "aliases": [],
+        "capital": "Dehradun",
+        "ruling_party": "BJP",
+        "cm": "Pushkar Singh Dhami",
+        "region": "North"
+      },
+      {
+        "name": "West Bengal",
+        "aliases": [
+          "WB"
+        ],
+        "capital": "Kolkata",
+        "ruling_party": "TMC",
+        "cm": "Mamata Banerjee",
+        "region": "East"
+      },
+      {
+        "name": "Delhi",
+        "aliases": [
+          "NCT",
+          "NCR"
+        ],
+        "capital": "New Delhi",
+        "ruling_party": "BJP",
+        "cm": "Rekha Gupta",
+        "region": "North"
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "aliases": [
+          "J&K",
+          "JK"
+        ],
+        "capital": "Srinagar / Jammu",
+        "ruling_party": "National Conference",
+        "cm": "Omar Abdullah",
+        "region": "North"
+      },
+      {
+        "name": "Ladakh",
+        "aliases": [],
+        "capital": "Leh",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "North"
+      },
+      {
+        "name": "Puducherry",
+        "aliases": [
+          "Pondicherry"
+        ],
+        "capital": "Puducherry",
+        "ruling_party": "INC",
+        "cm": "N. Rangasamy",
+        "region": "South"
+      },
+      {
+        "name": "Chandigarh",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "North"
+      },
+      {
+        "name": "Andaman and Nicobar",
+        "aliases": [
+          "Andaman"
+        ],
+        "capital": "Port Blair",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "Island"
+      },
+      {
+        "name": "Lakshadweep",
+        "aliases": [],
+        "capital": "Kavaratti",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "Island"
+      }
     ],
-
     "institutions": [
-      {"name": "Supreme Court of India", "aliases": ["Supreme Court", "SC", "Apex Court"], "type": "judiciary", "head": "Chief Justice of India", "wikipedia": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"},
-      {"name": "Reserve Bank of India", "aliases": ["RBI", "Central Bank"], "type": "financial", "head": "Sanjay Malhotra", "wikipedia": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India"},
-      {"name": "Central Bureau of Investigation", "aliases": ["CBI"], "type": "law_enforcement", "head": "Director CBI", "wikipedia": "https://en.wikipedia.org/wiki/Central_Bureau_of_Investigation"},
-      {"name": "Enforcement Directorate", "aliases": ["ED", "Enforcement"], "type": "law_enforcement", "head": "Director ED", "wikipedia": "https://en.wikipedia.org/wiki/Directorate_of_Enforcement"},
-      {"name": "Election Commission of India", "aliases": ["ECI", "Election Commission"], "type": "constitutional", "head": "Chief Election Commissioner", "wikipedia": "https://en.wikipedia.org/wiki/Election_Commission_of_India"},
-      {"name": "SEBI", "aliases": ["Securities Board", "Market Regulator"], "type": "financial", "head": "SEBI Chairman", "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India"},
-      {"name": "National Human Rights Commission", "aliases": ["NHRC"], "type": "rights", "head": "NHRC Chairman", "wikipedia": "https://en.wikipedia.org/wiki/National_Human_Rights_Commission_of_India"},
-      {"name": "Income Tax Department", "aliases": ["IT Department", "Income Tax"], "type": "financial", "head": "CBDT Chairman", "wikipedia": "https://en.wikipedia.org/wiki/Income_Tax_Department"},
-      {"name": "Parliament of India", "aliases": ["Parliament", "Lok Sabha", "Rajya Sabha", "Sansad"], "type": "legislative", "head": "Speaker of Lok Sabha", "wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_India"},
-      {"name": "NITI Aayog", "aliases": ["Planning Commission", "Niti"], "type": "policy", "head": "NITI Aayog CEO", "wikipedia": "https://en.wikipedia.org/wiki/NITI_Aayog"},
-      {"name": "National Investigation Agency", "aliases": ["NIA"], "type": "law_enforcement", "head": "NIA Director General", "wikipedia": "https://en.wikipedia.org/wiki/National_Investigation_Agency"},
-      {"name": "Comptroller and Auditor General", "aliases": ["CAG"], "type": "audit", "head": "CAG of India", "wikipedia": "https://en.wikipedia.org/wiki/Comptroller_and_Auditor_General_of_India"}
+      {
+        "name": "Supreme Court of India",
+        "aliases": [
+          "Supreme Court",
+          "SC",
+          "Apex Court"
+        ],
+        "type": "judiciary",
+        "head": "Chief Justice of India",
+        "wikipedia": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
+      },
+      {
+        "name": "Reserve Bank of India",
+        "aliases": [
+          "RBI",
+          "Central Bank"
+        ],
+        "type": "financial",
+        "head": "Sanjay Malhotra",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India"
+      },
+      {
+        "name": "Central Bureau of Investigation",
+        "aliases": [
+          "CBI"
+        ],
+        "type": "law_enforcement",
+        "head": "Director CBI",
+        "wikipedia": "https://en.wikipedia.org/wiki/Central_Bureau_of_Investigation"
+      },
+      {
+        "name": "Enforcement Directorate",
+        "aliases": [
+          "ED",
+          "Enforcement"
+        ],
+        "type": "law_enforcement",
+        "head": "Director ED",
+        "wikipedia": "https://en.wikipedia.org/wiki/Directorate_of_Enforcement"
+      },
+      {
+        "name": "Election Commission of India",
+        "aliases": [
+          "ECI",
+          "Election Commission"
+        ],
+        "type": "constitutional",
+        "head": "Chief Election Commissioner",
+        "wikipedia": "https://en.wikipedia.org/wiki/Election_Commission_of_India"
+      },
+      {
+        "name": "SEBI",
+        "aliases": [
+          "Securities Board",
+          "Market Regulator"
+        ],
+        "type": "financial",
+        "head": "SEBI Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India"
+      },
+      {
+        "name": "National Human Rights Commission",
+        "aliases": [
+          "NHRC"
+        ],
+        "type": "rights",
+        "head": "NHRC Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/National_Human_Rights_Commission_of_India"
+      },
+      {
+        "name": "Income Tax Department",
+        "aliases": [
+          "IT Department",
+          "Income Tax"
+        ],
+        "type": "financial",
+        "head": "CBDT Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/Income_Tax_Department"
+      },
+      {
+        "name": "Parliament of India",
+        "aliases": [
+          "Parliament",
+          "Lok Sabha",
+          "Rajya Sabha",
+          "Sansad"
+        ],
+        "type": "legislative",
+        "head": "Speaker of Lok Sabha",
+        "wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_India"
+      },
+      {
+        "name": "NITI Aayog",
+        "aliases": [
+          "Planning Commission",
+          "Niti"
+        ],
+        "type": "policy",
+        "head": "NITI Aayog CEO",
+        "wikipedia": "https://en.wikipedia.org/wiki/NITI_Aayog"
+      },
+      {
+        "name": "National Investigation Agency",
+        "aliases": [
+          "NIA"
+        ],
+        "type": "law_enforcement",
+        "head": "NIA Director General",
+        "wikipedia": "https://en.wikipedia.org/wiki/National_Investigation_Agency"
+      },
+      {
+        "name": "Comptroller and Auditor General",
+        "aliases": [
+          "CAG"
+        ],
+        "type": "audit",
+        "head": "CAG of India",
+        "wikipedia": "https://en.wikipedia.org/wiki/Comptroller_and_Auditor_General_of_India"
+      }
     ],
-
     "corporations": [
-      {"name": "Adani Group", "aliases": ["Adani", "Gautam Adani"], "sector": "conglomerate", "head": "Gautam Adani", "wikipedia": "https://en.wikipedia.org/wiki/Adani_Group"},
-      {"name": "Reliance Industries", "aliases": ["Reliance", "Mukesh Ambani", "RIL", "Jio"], "sector": "conglomerate", "head": "Mukesh Ambani", "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Industries"},
-      {"name": "Tata Group", "aliases": ["Tata", "Tata Sons", "Ratan Tata"], "sector": "conglomerate", "head": "N. Chandrasekaran", "wikipedia": "https://en.wikipedia.org/wiki/Tata_Group"},
-      {"name": "Wipro", "aliases": [], "sector": "technology", "head": "Azim Premji", "wikipedia": "https://en.wikipedia.org/wiki/Wipro"},
-      {"name": "Infosys", "aliases": [], "sector": "technology", "head": "Salil Parekh", "wikipedia": "https://en.wikipedia.org/wiki/Infosys"},
-      {"name": "HDFC Bank", "aliases": ["HDFC"], "sector": "banking", "head": "Sashidhar Jagdishan", "wikipedia": "https://en.wikipedia.org/wiki/HDFC_Bank"},
-      {"name": "State Bank of India", "aliases": ["SBI"], "sector": "banking", "head": "Challa Sreenivasulu Setty", "wikipedia": "https://en.wikipedia.org/wiki/State_Bank_of_India"},
-      {"name": "Hindenburg Research", "aliases": ["Hindenburg"], "sector": "research", "head": "Nate Anderson", "wikipedia": "https://en.wikipedia.org/wiki/Hindenburg_Research"}
+      {
+        "name": "Adani Group",
+        "aliases": [
+          "Adani",
+          "Gautam Adani"
+        ],
+        "sector": "conglomerate",
+        "head": "Gautam Adani",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adani_Group"
+      },
+      {
+        "name": "Reliance Industries",
+        "aliases": [
+          "Reliance",
+          "Mukesh Ambani",
+          "RIL",
+          "Jio"
+        ],
+        "sector": "conglomerate",
+        "head": "Mukesh Ambani",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Industries"
+      },
+      {
+        "name": "Tata Group",
+        "aliases": [
+          "Tata",
+          "Tata Sons",
+          "Ratan Tata"
+        ],
+        "sector": "conglomerate",
+        "head": "N. Chandrasekaran",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tata_Group"
+      },
+      {
+        "name": "Wipro",
+        "aliases": [],
+        "sector": "technology",
+        "head": "Azim Premji",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wipro"
+      },
+      {
+        "name": "Infosys",
+        "aliases": [],
+        "sector": "technology",
+        "head": "Salil Parekh",
+        "wikipedia": "https://en.wikipedia.org/wiki/Infosys"
+      },
+      {
+        "name": "HDFC Bank",
+        "aliases": [
+          "HDFC"
+        ],
+        "sector": "banking",
+        "head": "Sashidhar Jagdishan",
+        "wikipedia": "https://en.wikipedia.org/wiki/HDFC_Bank"
+      },
+      {
+        "name": "State Bank of India",
+        "aliases": [
+          "SBI"
+        ],
+        "sector": "banking",
+        "head": "Challa Sreenivasulu Setty",
+        "wikipedia": "https://en.wikipedia.org/wiki/State_Bank_of_India"
+      },
+      {
+        "name": "Hindenburg Research",
+        "aliases": [
+          "Hindenburg"
+        ],
+        "sector": "research",
+        "head": "Nate Anderson",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hindenburg_Research"
+      }
     ]
   },
-
   "international": {
     "world_leaders": [
-      {"name": "Donald Trump", "aliases": ["Trump", "US President", "POTUS"], "role": "President", "country": "USA", "party": "Republican", "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"},
-      {"name": "Xi Jinping", "aliases": ["Xi", "China President", "Chinese President"], "role": "President", "country": "China", "party": "CCP", "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping"},
-      {"name": "Vladimir Putin", "aliases": ["Putin", "Russia President"], "role": "President", "country": "Russia", "party": "United Russia", "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin"},
-      {"name": "Keir Starmer", "aliases": ["Starmer", "UK PM", "British PM"], "role": "Prime Minister", "country": "UK", "party": "Labour", "wikipedia": "https://en.wikipedia.org/wiki/Keir_Starmer"},
-      {"name": "Emmanuel Macron", "aliases": ["Macron", "French President"], "role": "President", "country": "France", "party": "Renaissance", "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Macron"},
-      {"name": "Olaf Scholz", "aliases": ["Scholz", "German Chancellor"], "role": "Chancellor", "country": "Germany", "party": "SPD", "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz"},
-      {"name": "Shehbaz Sharif", "aliases": ["Shehbaz", "Pakistan PM"], "role": "Prime Minister", "country": "Pakistan", "party": "PML-N", "wikipedia": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"},
-      {"name": "Muhammad Yunus", "aliases": ["Yunus", "Bangladesh PM"], "role": "Chief Adviser", "country": "Bangladesh", "party": "Interim Govt", "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus"},
-      {"name": "Benjamin Netanyahu", "aliases": ["Netanyahu", "Bibi", "Israeli PM"], "role": "Prime Minister", "country": "Israel", "party": "Likud", "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"},
-      {"name": "Marco Rubio", "aliases": ["Rubio", "US Secretary of State"], "role": "Secretary of State", "country": "USA", "party": "Republican", "wikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio"},
-      {"name": "Asim Munir", "aliases": ["Munir", "Pakistan Army Chief"], "role": "Army Chief", "country": "Pakistan", "party": "Military", "wikipedia": "https://en.wikipedia.org/wiki/Asim_Munir"},
-      {"name": "Mark Carney", "aliases": ["Carney", "Canadian PM"], "role": "Prime Minister", "country": "Canada", "party": "Liberal", "wikipedia": "https://en.wikipedia.org/wiki/Mark_Carney"}
+      {
+        "name": "Donald Trump",
+        "aliases": [
+          "Trump",
+          "US President",
+          "POTUS"
+        ],
+        "role": "President",
+        "country": "USA",
+        "party": "Republican",
+        "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"
+      },
+      {
+        "name": "Xi Jinping",
+        "aliases": [
+          "Xi",
+          "China President",
+          "Chinese President"
+        ],
+        "role": "President",
+        "country": "China",
+        "party": "CCP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping"
+      },
+      {
+        "name": "Vladimir Putin",
+        "aliases": [
+          "Putin",
+          "Russia President"
+        ],
+        "role": "President",
+        "country": "Russia",
+        "party": "United Russia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin"
+      },
+      {
+        "name": "Keir Starmer",
+        "aliases": [
+          "Starmer",
+          "UK PM",
+          "British PM"
+        ],
+        "role": "Prime Minister",
+        "country": "UK",
+        "party": "Labour",
+        "wikipedia": "https://en.wikipedia.org/wiki/Keir_Starmer"
+      },
+      {
+        "name": "Emmanuel Macron",
+        "aliases": [
+          "Macron",
+          "French President"
+        ],
+        "role": "President",
+        "country": "France",
+        "party": "Renaissance",
+        "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+      },
+      {
+        "name": "Olaf Scholz",
+        "aliases": [
+          "Scholz",
+          "German Chancellor"
+        ],
+        "role": "Chancellor",
+        "country": "Germany",
+        "party": "SPD",
+        "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz"
+      },
+      {
+        "name": "Shehbaz Sharif",
+        "aliases": [
+          "Shehbaz",
+          "Pakistan PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"
+      },
+      {
+        "name": "Muhammad Yunus",
+        "aliases": [
+          "Yunus",
+          "Bangladesh PM"
+        ],
+        "role": "Chief Adviser",
+        "country": "Bangladesh",
+        "party": "Interim Govt",
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus"
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "aliases": [
+          "Netanyahu",
+          "Bibi",
+          "Israeli PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Israel",
+        "party": "Likud",
+        "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+      },
+      {
+        "name": "Marco Rubio",
+        "aliases": [
+          "Rubio",
+          "US Secretary of State"
+        ],
+        "role": "Secretary of State",
+        "country": "USA",
+        "party": "Republican",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio"
+      },
+      {
+        "name": "Asim Munir",
+        "aliases": [
+          "Munir",
+          "Pakistan Army Chief"
+        ],
+        "role": "Army Chief",
+        "country": "Pakistan",
+        "party": "Military",
+        "wikipedia": "https://en.wikipedia.org/wiki/Asim_Munir"
+      },
+      {
+        "name": "Mark Carney",
+        "aliases": [
+          "Carney",
+          "Canadian PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Canada",
+        "party": "Liberal",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mark_Carney"
+      }
     ],
-
     "global_institutions": [
-      {"name": "United Nations", "aliases": ["UN", "United Nations Organization"], "type": "international", "wikipedia": "https://en.wikipedia.org/wiki/United_Nations"},
-      {"name": "International Monetary Fund", "aliases": ["IMF"], "type": "financial", "wikipedia": "https://en.wikipedia.org/wiki/International_Monetary_Fund"},
-      {"name": "World Bank", "aliases": ["WB", "World Bank Group"], "type": "financial", "wikipedia": "https://en.wikipedia.org/wiki/World_Bank"},
-      {"name": "NATO", "aliases": ["North Atlantic Treaty Organization"], "type": "military", "wikipedia": "https://en.wikipedia.org/wiki/NATO"},
-      {"name": "World Health Organization", "aliases": ["WHO"], "type": "health", "wikipedia": "https://en.wikipedia.org/wiki/World_Health_Organization"},
-      {"name": "World Trade Organization", "aliases": ["WTO"], "type": "trade", "wikipedia": "https://en.wikipedia.org/wiki/World_Trade_Organization"},
-      {"name": "BRICS", "aliases": [], "type": "economic", "wikipedia": "https://en.wikipedia.org/wiki/BRICS"},
-      {"name": "G20", "aliases": ["G-20", "Group of Twenty"], "type": "economic", "wikipedia": "https://en.wikipedia.org/wiki/G20"},
-      {"name": "Shanghai Cooperation Organisation", "aliases": ["SCO"], "type": "security", "wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"},
-      {"name": "QUAD", "aliases": ["Quadrilateral Security Dialogue"], "type": "security", "wikipedia": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"},
-      {"name": "SAARC", "aliases": ["South Asian Association"], "type": "regional", "wikipedia": "https://en.wikipedia.org/wiki/South_Asian_Association_for_Regional_Cooperation"},
-      {"name": "International Criminal Court", "aliases": ["ICC"], "type": "judiciary", "wikipedia": "https://en.wikipedia.org/wiki/International_Criminal_Court"}
+      {
+        "name": "United Nations",
+        "aliases": [
+          "UN",
+          "United Nations Organization"
+        ],
+        "type": "international",
+        "wikipedia": "https://en.wikipedia.org/wiki/United_Nations"
+      },
+      {
+        "name": "International Monetary Fund",
+        "aliases": [
+          "IMF"
+        ],
+        "type": "financial",
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+      },
+      {
+        "name": "World Bank",
+        "aliases": [
+          "WB",
+          "World Bank Group"
+        ],
+        "type": "financial",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Bank"
+      },
+      {
+        "name": "NATO",
+        "aliases": [
+          "North Atlantic Treaty Organization"
+        ],
+        "type": "military",
+        "wikipedia": "https://en.wikipedia.org/wiki/NATO"
+      },
+      {
+        "name": "World Health Organization",
+        "aliases": [
+          "WHO"
+        ],
+        "type": "health",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Health_Organization"
+      },
+      {
+        "name": "World Trade Organization",
+        "aliases": [
+          "WTO"
+        ],
+        "type": "trade",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Trade_Organization"
+      },
+      {
+        "name": "BRICS",
+        "aliases": [],
+        "type": "economic",
+        "wikipedia": "https://en.wikipedia.org/wiki/BRICS"
+      },
+      {
+        "name": "G20",
+        "aliases": [
+          "G-20",
+          "Group of Twenty"
+        ],
+        "type": "economic",
+        "wikipedia": "https://en.wikipedia.org/wiki/G20"
+      },
+      {
+        "name": "Shanghai Cooperation Organisation",
+        "aliases": [
+          "SCO"
+        ],
+        "type": "security",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+      },
+      {
+        "name": "QUAD",
+        "aliases": [
+          "Quadrilateral Security Dialogue"
+        ],
+        "type": "security",
+        "wikipedia": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+      },
+      {
+        "name": "SAARC",
+        "aliases": [
+          "South Asian Association"
+        ],
+        "type": "regional",
+        "wikipedia": "https://en.wikipedia.org/wiki/South_Asian_Association_for_Regional_Cooperation"
+      },
+      {
+        "name": "International Criminal Court",
+        "aliases": [
+          "ICC"
+        ],
+        "type": "judiciary",
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+      }
     ],
-
     "pakistan_figures": [
-      {"name": "Imran Khan", "aliases": ["IK", "PTI Chief", "Kaptaan"], "role": "Former Prime Minister / PTI Chairman", "country": "Pakistan", "party": "PTI", "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan"},
-      {"name": "Nawaz Sharif", "aliases": ["Nawaz", "PML-N Chief"], "role": "PML-N Supremo", "country": "Pakistan", "party": "PML-N", "wikipedia": "https://en.wikipedia.org/wiki/Nawaz_Sharif"},
-      {"name": "Bilawal Bhutto", "aliases": ["Bilawal", "PPP Chief"], "role": "PPP Chairman", "country": "Pakistan", "party": "PPP", "wikipedia": "https://en.wikipedia.org/wiki/Bilawal_Bhutto_Zardari"},
-      {"name": "Maryam Nawaz", "aliases": ["Maryam", "Punjab CM Pakistan"], "role": "Punjab Chief Minister", "country": "Pakistan", "party": "PML-N", "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Nawaz"}
+      {
+        "name": "Imran Khan",
+        "aliases": [
+          "IK",
+          "PTI Chief",
+          "Kaptaan"
+        ],
+        "role": "Former Prime Minister / PTI Chairman",
+        "country": "Pakistan",
+        "party": "PTI",
+        "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan"
+      },
+      {
+        "name": "Nawaz Sharif",
+        "aliases": [
+          "Nawaz",
+          "PML-N Chief"
+        ],
+        "role": "PML-N Supremo",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+      },
+      {
+        "name": "Bilawal Bhutto",
+        "aliases": [
+          "Bilawal",
+          "PPP Chief"
+        ],
+        "role": "PPP Chairman",
+        "country": "Pakistan",
+        "party": "PPP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bilawal_Bhutto_Zardari"
+      },
+      {
+        "name": "Maryam Nawaz",
+        "aliases": [
+          "Maryam",
+          "Punjab CM Pakistan"
+        ],
+        "role": "Punjab Chief Minister",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+      }
     ]
   }
 }

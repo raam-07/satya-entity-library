@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-05-22 22:09:57.493012",
+  "summary": {
+    "cm_updates_applied": 0,
+    "party_updates_applied": 0,
+    "criminal_updates_applied": 0,
+    "promises_extracted": 0,
+    "new_entities_discovered": 0,
+    "items_needing_review": 12
+  },
+  "new_entities_discovered": [],
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu **Edappadi K. Palaniswami**, general secretary of the **AIADMK**, questioned the **Tamil Nadu** government's abi"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "Pinarayi Vijayan",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu **Thiruvanchoor Radhakrishnan**, a senior Congress leader, was elected as the Speaker of the 16th Kerala Legislative Asse"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Gujarat",
+      "candidate": "Harsh Sanghavi",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Gujarat Police trace 701 missing persons under ‘Operation Milap’ in two weeks - The Hindu **Gujarat Police** have successfully reunited 701 missing persons with their families through a statewide oper"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Uttar Pradesh",
+      "candidate": "Congress",
+      "confidence": 0.8,
+      "reason": "Gemma rejected",
+      "context": "Tulsi Gabbard resigns as US director of national intelligence **Tulsi Gabbard**, the US director of national intelligence under **President Donald Trump**, will resign from her position on June 30th. "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Delhi",
+      "candidate": "Congress",
+      "confidence": 0.4,
+      "reason": "Below auto-update threshold",
+      "context": "Tulsi Gabbard resigns as US director of national intelligence **Tulsi Gabbard**, the US director of national intelligence under **President Donald Trump**, will resign from her position on June 30th. "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "Congress",
+      "confidence": 0.5,
+      "reason": "Below auto-update threshold",
+      "context": "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu **Edappadi K. Palaniswami**, general secretary of the **AIADMK**, questioned the **Tamil Nadu** government's abi"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Andhra Pradesh",
+      "candidate": "Congress",
+      "confidence": 0.43,
+      "reason": "Below auto-update threshold",
+      "context": "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu **Edappadi K. Palaniswami**, general secretary of the **AIADMK**, questioned the **Tamil Nadu** government's abi"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Punjab",
+      "candidate": "SP",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Anmol alias Pinky sent to jail on judicial remand in narcotics, murder cases - Pakistan - DAWN.COM **Anmol**, also known as Pinky, an alleged drug queenpin, was sent to jail on a 14-day judicial reman"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Assam",
+      "candidate": "SP",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Anmol alias Pinky sent to jail on judicial remand in narcotics, murder cases - Pakistan - DAWN.COM **Anmol**, also known as Pinky, an alleged drug queenpin, was sent to jail on a 14-day judicial reman"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Himachal Pradesh",
+      "candidate": "Congress",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Turkish court ousts leader of main opposition party | Politics News | Al Jazeera A Turkish court overturned the 2023 leadership election of the main opposition **Republican People’s Party (CHP)**, rei"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Rajasthan",
+      "candidate": "BJP",
+      "confidence": 0.5,
+      "reason": "Below auto-update threshold",
+      "context": "Congress workers clash with police in Jaipur during stir against NEET-UG paper leak - The Hindu **Congress** party workers clashed with **police** in **Rajasthan** on Thursday during a protest against"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Ladakh",
+      "candidate": "SAD",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Ladakh seeks belonging through representation - The Hindu The **Union Ministry of Home Affairs** argues that Ladakh needs more districts rather than a legislature due to its sparse population, strateg"
+    }
+  ]
+}
