@@ -39,7 +39,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ./models
-          key: gemma-2-2b-it-Q6_K_L
+          key: gemma-2-9b-it-Q6_K
 
       - name: Download Gemma Model
         if: steps.cache-model.outputs.cache-hit != 'true'
@@ -48,8 +48,8 @@ jobs:
           python -c "
           from huggingface_hub import hf_hub_download
           hf_hub_download(
-            repo_id='bartowski/gemma-2-2b-it-GGUF',
-            filename='gemma-2-2b-it-Q6_K_L.gguf',
+            repo_id='bartowski/gemma-2-9b-it-GGUF',
+            filename='gemma-2-9b-it-Q6_K.gguf',
             local_dir='./models'
           )
           "
