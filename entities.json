@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 0,
+      "cm_updates": 1,
+      "party_updates": 1,
       "criminal_updates": 0,
-      "new_promises": 0
+      "new_promises": 1
     }
   },
   "india": {
@@ -1012,8 +1012,10 @@
         ],
         "capital": "Raipur",
         "ruling_party": "BJP",
-        "cm": "Vishnu Deo Sai",
-        "region": "Central"
+        "cm": "Bhupesh Baghel",
+        "region": "Central",
+        "cm_confidence": 1.0,
+        "cm_last_updated": "2026-05-23"
       },
       {
         "name": "Goa",
@@ -1029,7 +1031,9 @@
         "capital": "Gandhinagar",
         "ruling_party": "BJP",
         "cm": "Bhupendra Patel",
-        "region": "West"
+        "region": "West",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-05-23"
       },
       {
         "name": "Haryana",
@@ -1759,5 +1763,17 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
       }
     ]
-  }
+  },
+  "extracted_promises": [
+    {
+      "person": "health minister",
+      "promise_text": "that all close contacts of a hantavirus case linked to the MV Hondius cruise ship have tested negative",
+      "source_url": "https://www.dawn.com/news/2000246/france-netherlands-say-all-hantavirus-contact-cases-negative",
+      "source_title": "France, Netherlands say all hantavirus contact cases negative - World - DAWN.COM",
+      "scraped_at": "2026-05-14 17:27:00.975579",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    }
+  ]
 }

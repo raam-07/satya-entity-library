@@ -1,38 +1,101 @@
 {
-  "generated_at": "2026-05-23 05:11:44.021429",
+  "generated_at": "2026-05-23 10:48:04.631155",
   "summary": {
-    "cm_updates_applied": 0,
-    "party_updates_applied": 0,
+    "cm_updates_applied": 1,
+    "party_updates_applied": 1,
     "criminal_updates_applied": 0,
-    "promises_extracted": 0,
-    "new_entities_discovered": 0,
-    "items_needing_review": 9
+    "promises_extracted": 1,
+    "new_entities_discovered": 7,
+    "items_needing_review": 10
   },
-  "new_entities_discovered": [],
+  "new_entities_discovered": [
+    {
+      "name": "Tamil Nadu",
+      "mentions_last_30_days": 67,
+      "sample_articles": [
+        "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
+        "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
+        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "C. Joseph Vijay**",
+      "mentions_last_30_days": 32,
+      "sample_articles": [
+        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
+        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
+        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Donald Trump**",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
+        "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
+        "Will Raúl Castro’s indictment over 1996 shooting down of civilian planes push US and Cuba closer to war? - The Times of India"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Donald Trump News",
+      "mentions_last_30_days": 23,
+      "sample_articles": [
+        "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
+        "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
+        "Chris Rabb win in Pennsylvania energises Democrats’ progressive flank | Donald Trump News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Hormuz",
+      "mentions_last_30_days": 23,
+      "sample_articles": [
+        "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
+        "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
+        "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours | US-Israel war on Iran News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Wes Streeting",
+      "mentions_last_30_days": 22,
+      "sample_articles": [
+        "Brexit may be back, but Britain needs to know what it wants | World news | The Guardian",
+        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian",
+        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Raúl Castro",
+      "mentions_last_30_days": 21,
+      "sample_articles": [
+        "Why is the US putting pressure on Cuba and what are Trump's aims?",
+        "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+        "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action | US news | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    }
+  ],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Gujarat",
-      "candidate": "Harsh Sanghavi",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Gujarat Police trace 701 missing persons under ‘Operation Milap’ in two weeks - The Hindu **Gujarat Police** have successfully reunited 701 missing persons with their families through a statewide oper"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Punjab",
-      "candidate": "SP",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Anmol alias Pinky sent to jail on judicial remand in narcotics, murder cases - Pakistan - DAWN.COM **Anmol**, also known as Pinky, an alleged drug queenpin, was sent to jail on a 14-day judicial reman"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Assam",
-      "candidate": "SP",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Anmol alias Pinky sent to jail on judicial remand in narcotics, murder cases - Pakistan - DAWN.COM **Anmol**, also known as Pinky, an alleged drug queenpin, was sent to jail on a 14-day judicial reman"
+      "state": "Manipur",
+      "candidate": "C. Joseph Vijay**",
+      "confidence": 0.5,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Governor’s role in government formation | Explained - The Hindu The **Tamilaga Vettri Kazhagam (TVK)** secured a majority in the recent Tamil Nadu Assembly elections, but the Governor invited the part"
     },
     {
       "type": "ruling_party",
@@ -44,35 +107,19 @@
     },
     {
       "type": "ruling_party",
-      "state": "Rajasthan",
-      "candidate": "BJP",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "Congress workers clash with police in Jaipur during stir against NEET-UG paper leak - The Hindu **Congress** party workers clashed with **police** in **Rajasthan** on Thursday during a protest against"
-    },
-    {
-      "type": "ruling_party",
       "state": "Ladakh",
       "candidate": "SAD",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
+      "confidence": 0.5,
+      "reason": "Below auto-update threshold",
       "context": "Ladakh seeks belonging through representation - The Hindu The **Union Ministry of Home Affairs** argues that Ladakh needs more districts rather than a legislature due to its sparse population, strateg"
     },
     {
       "type": "ruling_party",
       "state": "Kerala",
       "candidate": "Congress",
-      "confidence": 0.6,
+      "confidence": 0.48,
       "reason": "Below auto-update threshold",
       "context": "Chennithala seeks report on parole granted to Periye murder convicts - The Hindu Following protests from the families of the victims in the Periye twin murder case, **Kerala Home Minister Ramesh Chenn"
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.43,
-      "reason": "Below auto-update threshold",
-      "context": "West Bengal government to detect, delete and deport illegal infiltrators, says CM Adhikari - The Hindu **Suvendu Adhikari**, West Bengal Chief Minister, announced a new policy of \"detect, delete, and "
     },
     {
       "type": "ruling_party",
@@ -81,6 +128,46 @@
       "confidence": 0.5,
       "reason": "Below auto-update threshold",
       "context": "NEET paper leak row: Congress demands resignation of Education Minister Dharmendra Pradhan - The Hindu **Congress** leaders demanded the resignation of **Dharmendra Pradhan**, the **Union Education Mi"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Telangana",
+      "candidate": "BJP",
+      "confidence": 0.56,
+      "reason": "Below auto-update threshold",
+      "context": "Fuel price hike negatively impacts economy, triggers rise in essential commodity prices: Telangana CM Revanth Reddy - The Hindu **A Revanth Reddy**, **Telangana Chief Minister**, criticized the **Unio"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Manipur",
+      "candidate": "BJP",
+      "confidence": 0.4,
+      "reason": "Below auto-update threshold",
+      "context": "Efforts on to release Kuki, Naga people held hostage in Manipur, say Ministers - The Hindu Following the killings of four church leaders in separate ambushes, **Govindas Konthoujam**, **Losii Dikho** "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Andaman",
+      "candidate": "Congress",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Nicobarese oppose proposal for three wildlife sanctuaries - The Hindu The **Union government** notified three wildlife sanctuaries in the Little Nicobar, Menchal, and Meroe islands in 2022, despite co"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Chandigarh",
+      "candidate": "BJP",
+      "confidence": 0.5,
+      "reason": "Below auto-update threshold",
+      "context": "AAP holds protests against BJP over ED action against Punjab Minister Sanjeev Arora - The Hindu The **Aam Aadmi Party (AAP)** held protests across Punjab against the **BJP** following the ED's arrest "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Chhattisgarh",
+      "candidate": "Congress",
+      "confidence": 0.5,
+      "reason": "Below auto-update threshold",
+      "context": "Punjab Congress to release ‘chargesheet’ against AAP government - The Hindu **Bhupesh Baghel**, former **Chhattisgarh** Chief Minister and Congress General Secretary in charge of Punjab, presided over"
     }
   ]
 }
