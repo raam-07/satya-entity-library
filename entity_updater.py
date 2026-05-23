@@ -51,7 +51,7 @@ REVIEW_THRESHOLD = 0.40         # Between this and above = flag for review
 NEW_ENTITY_MIN_MENTIONS = 20    # Min mentions to flag as new entity
 
 # Gemma model
-MODEL_PATH = "./models/gemma-2-2b-it-Q6_K_L.gguf"
+MODEL_PATH = "./models/gemma-2-9b-it-Q6_K.gguf"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -154,9 +154,9 @@ def load_gemma():
         logging.info("Loading Gemma model for validation...")
         llm = Llama(
             model_path=MODEL_PATH,
-            n_ctx=2048,
-            n_batch=256,
-            n_threads=4,
+            n_ctx=4096,
+            n_batch=512,
+            n_threads=2,
             verbose=False
         )
         logging.info("Gemma loaded.")
