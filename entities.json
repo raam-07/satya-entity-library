@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
-      "party_updates": 0,
-      "criminal_updates": 0,
+      "cm_updates": 0,
+      "party_updates": 1,
+      "criminal_updates": 5,
       "new_promises": 2
     }
   },
@@ -37,7 +37,39 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
-        "image_placeholder": "narendra_modi"
+        "image_placeholder": "narendra_modi",
+        "criminal_cases_in_news": 4,
+        "criminal_incidents": [
+          {
+            "incident_text": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu **Kalvakuntla Kavitha**, president of the **Telangana Rakshana Sena**, urged **Prime Minister Narendra Modi** to remove **Union M",
+            "source_url": "https://www.thehindu.com/news/national/telangana/remove-bandi-sanjay-from-union-cabinet-kavitha-tells-modi/article70987855.ece",
+            "source_title": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu",
+            "scraped_at": "2026-05-16 15:39:59.887875",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Supreme Court to hear ED plea against bail granted to accused in West Bengal coal scam case - The Hindu The **Supreme Court** agreed to hear the **Enforcement Directorate’s** (ED) appeal against the g",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-to-hear-ed-plea-against-bail-granted-to-accused-in-west-bengal-coal-scam-case/article70968999.ece",
+            "source_title": "Supreme Court to hear ED plea against bail granted to accused in West Bengal coal scam case - The Hindu",
+            "scraped_at": "2026-05-13 00:10:28.039683",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
+            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
+            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-08 21:38:27.389329",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu **Union Minister of State (MoS) for Finance Pankaj Chaudhary** stated that the **Enforce",
+            "source_url": "https://www.thehindu.com/news/national/modi-empowered-ed-to-cleanse-cancer-of-financial-crimes-not-to-target-anyone-mos-pankaj-chaudhary/article70928211.ece",
+            "source_title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
+            "scraped_at": "2026-05-01 14:04:53.149265",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-23"
       },
       {
         "name": "Amit Shah",
@@ -55,7 +87,25 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
-        "image_placeholder": "amit_shah"
+        "image_placeholder": "amit_shah",
+        "criminal_cases_in_news": 2,
+        "criminal_incidents": [
+          {
+            "incident_text": "ATS questions 57 in Maharashtra over alleged gangster network links - The Hindu **Maharashtra Anti-Terrorism Squad (ATS)** officials conducted searches across several cities in the state as part of an",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ats-questions-57-in-maharashtra-over-alleged-gangster-network-links/article70975441.ece",
+            "source_title": "ATS questions 57 in Maharashtra over alleged gangster network links - The Hindu",
+            "scraped_at": "2026-05-13 21:57:37.092104",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
+            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
+            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-08 21:38:27.389329",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-23"
       },
       {
         "name": "Rajnath Singh",
@@ -195,7 +245,18 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
         "known_promises": [],
-        "image_placeholder": "dharmendra_pradhan"
+        "image_placeholder": "dharmendra_pradhan",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case - The Hindu **Jawad Ahmed Siddiqui**, chairman of the **Al Falah University** group, had his regular bail plea de",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-rejects-bail-plea-of-al-falah-university-chairman-in-money-laundering-case/article70933115.ece",
+            "source_title": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case - The Hindu",
+            "scraped_at": "2026-05-02 22:51:53.167038",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-23"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -301,7 +362,32 @@
         "criminal_cases": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
-        "image_placeholder": "rahul_gandhi"
+        "image_placeholder": "rahul_gandhi",
+        "criminal_cases_in_news": 3,
+        "criminal_incidents": [
+          {
+            "incident_text": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu **Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranc",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/congress-leader-and-former-jharkhand-minister-alamgir-alam-walks-out-of-jail/article70979362.ece",
+            "source_title": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu",
+            "scraped_at": "2026-05-15 01:28:26.871494",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
+            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
+            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-08 21:38:27.389329",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of ",
+            "source_url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+            "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-02 00:03:57.391908",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-23"
       },
       {
         "name": "Sonia Gandhi",
@@ -378,7 +464,25 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
-        "image_placeholder": "mamata_banerjee"
+        "image_placeholder": "mamata_banerjee",
+        "criminal_cases_in_news": 2,
+        "criminal_incidents": [
+          {
+            "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
+            "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
+            "scraped_at": "2026-05-14 17:27:51.324299",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu **Mamata Banerjee**, leader of the **Trinamool Congress**, appeared before the Supreme",
+            "source_url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
+            "source_title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
+            "scraped_at": "2026-05-11 22:40:30.666506",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-05-23"
       },
       {
         "name": "Akhilesh Yadav",
@@ -1209,9 +1313,11 @@
           "WB"
         ],
         "capital": "Kolkata",
-        "ruling_party": "TMC",
+        "ruling_party": "BJP",
         "cm": "Mamata Banerjee",
-        "region": "East"
+        "region": "East",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-05-23"
       },
       {
         "name": "Delhi",

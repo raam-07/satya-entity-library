@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-23 18:17:39.043809",
+  "generated_at": "2026-05-23 21:40:10.055030",
   "summary": {
-    "cm_updates_applied": 1,
-    "party_updates_applied": 0,
-    "criminal_updates_applied": 0,
+    "cm_updates_applied": 0,
+    "party_updates_applied": 1,
+    "criminal_updates_applied": 5,
     "promises_extracted": 2,
-    "new_entities_discovered": 18,
-    "items_needing_review": 12
+    "new_entities_discovered": 20,
+    "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 127,
+      "mentions_last_30_days": 136,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 80,
+      "mentions_last_30_days": 94,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Donald Trump**",
-      "mentions_last_30_days": 51,
+      "mentions_last_30_days": 54,
       "sample_articles": [
         "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
         "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
@@ -43,19 +43,8 @@
       "needs_verification": true
     },
     {
-      "name": "C. Joseph Vijay**",
-      "mentions_last_30_days": 46,
-      "sample_articles": [
-        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
-        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
-        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Donald Trump*",
-      "mentions_last_30_days": 41,
+      "mentions_last_30_days": 51,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
@@ -65,8 +54,19 @@
       "needs_verification": true
     },
     {
+      "name": "C. Joseph Vijay**",
+      "mentions_last_30_days": 48,
+      "sample_articles": [
+        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
+        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
+        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Donald Trump News",
-      "mentions_last_30_days": 37,
+      "mentions_last_30_days": 47,
       "sample_articles": [
         "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
         "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Marco Rubio**",
-      "mentions_last_30_days": 30,
+      "mentions_last_30_days": 34,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
@@ -87,12 +87,56 @@
       "needs_verification": true
     },
     {
+      "name": "Vladimir Putin*",
+      "mentions_last_30_days": 30,
+      "sample_articles": [
+        "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "What’s the significance of the Russian president’s visit to China? | International Trade News | Al Jazeera",
+        "Russia’s Putin to visit China following Trump’s trip | Politics News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Charlie Kirk",
-      "mentions_last_30_days": 27,
+      "mentions_last_30_days": 30,
       "sample_articles": [
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
         "Tennessee man jailed for 37 days over Charlie Kirk meme to receive $835,000 settlement - The Times of India"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Donald Trump's",
+      "mentions_last_30_days": 27,
+      "sample_articles": [
+        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
+        "Greenlanders protest against Trump outside new US consulate in Nuuk",
+        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Candace Owens",
+      "mentions_last_30_days": 27,
+      "sample_articles": [
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "\"Erika wanted his position\": Candace Owens reacts after Charlie Kirk reportedly named wife Erika as TPUSA successor before assassination"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Charles III*",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "Slow Food founder Carlo Petrini dies aged 76 in Italy",
+        "British radio Caroline apologises for accidental King Charles III death broadcast | World News - The Times of India",
+        "Radio station mistakenly announces death of King Charles - World - DAWN.COM"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -120,23 +164,23 @@
       "needs_verification": true
     },
     {
-      "name": "Vladimir Putin*",
+      "name": "Pete Hegseth",
       "mentions_last_30_days": 24,
       "sample_articles": [
-        "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-        "What’s the significance of the Russian president’s visit to China? | International Trade News | Al Jazeera",
-        "Russia’s Putin to visit China following Trump’s trip | Politics News | Al Jazeera"
+        "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief | Taiwan | The Guardian",
+        "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says | US-Israel war on Iran News | Al Jazeera",
+        "Pete Hegseth: Hegseth pushes Trump’s $1.5 trillion defense budget for 2027 as Congress presses Pentagon over Iran war costs - The Times of India"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
-      "name": "Donald Trump's",
-      "mentions_last_30_days": 23,
+      "name": "Raúl Castro",
+      "mentions_last_30_days": 22,
       "sample_articles": [
-        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
-        "Greenlanders protest against Trump outside new US consulate in Nuuk",
-        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
+        "Why is the US putting pressure on Cuba and what are Trump's aims?",
+        "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+        "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action | US news | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -153,34 +197,12 @@
       "needs_verification": true
     },
     {
-      "name": "Raúl Castro",
-      "mentions_last_30_days": 21,
-      "sample_articles": [
-        "Why is the US putting pressure on Cuba and what are Trump's aims?",
-        "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-        "Rubio doubtful of diplomacy with Cuba as Trump renews threat of military action | US news | The Guardian"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "V.D. Satheesan",
       "mentions_last_30_days": 21,
       "sample_articles": [
         "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
         "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
         "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Candace Owens",
-      "mentions_last_30_days": 21,
-      "sample_articles": [
-        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
-        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
-        "\"Erika wanted his position\": Candace Owens reacts after Charlie Kirk reportedly named wife Erika as TPUSA successor before assassination"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -197,12 +219,12 @@
       "needs_verification": true
     },
     {
-      "name": "Pete Hegseth",
+      "name": "Asif Ali Zardari",
       "mentions_last_30_days": 20,
       "sample_articles": [
-        "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief | Taiwan | The Guardian",
-        "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says | US-Israel war on Iran News | Al Jazeera",
-        "Pete Hegseth: Hegseth pushes Trump’s $1.5 trillion defense budget for 2027 as Congress presses Pentagon over Iran war costs - The Times of India"
+        "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
+        "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
+        "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -211,100 +233,19 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Jharkhand",
-      "candidate": "Hemant Soren",
-      "confidence": 0.41,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "Hemant Soren launches self-enumeration phase of Census 2027 in Jharkhand - The Hindu **Hemant Soren**, **Chief Minister of Jharkhand**, launched the self-enumeration phase of Census 2027, urging resid"
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.8,
+      "reason": "Gemma rejected",
+      "context": "Bengali actors face heat after power shift to BJP; FIR filed over 2021 social media posts linked to post-poll violence - The Hindu **Parambrata Chatterjee**, a Bengali actor, announced he had to align"
     },
     {
       "type": "ruling_party",
-      "state": "Ladakh",
-      "candidate": "SAD",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "Ladakh seeks belonging through representation - The Hindu The **Union Ministry of Home Affairs** argues that Ladakh needs more districts rather than a legislature due to its sparse population, strateg"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Goa",
-      "candidate": "BJP",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "NEET paper leak row: Congress demands resignation of Education Minister Dharmendra Pradhan - The Hindu **Congress** leaders demanded the resignation of **Dharmendra Pradhan**, the **Union Education Mi"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Telangana",
-      "candidate": "BJP",
-      "confidence": 0.47,
-      "reason": "Below auto-update threshold",
-      "context": "Fuel price hike negatively impacts economy, triggers rise in essential commodity prices: Telangana CM Revanth Reddy - The Hindu **A Revanth Reddy**, **Telangana Chief Minister**, criticized the **Unio"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Bihar",
-      "candidate": "BJP",
-      "confidence": 0.44,
-      "reason": "Below auto-update threshold",
-      "context": "One month of Samrat Choudhary Government in Bihar - The Hindu **Samrat Choudhary**, the leader of the **Bharatiya Janata Party (BJP)**, took office as Chief Minister of Bihar on April 15, 2026.  He ha"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Haryana",
-      "candidate": "BJP",
-      "confidence": 0.4,
-      "reason": "Below auto-update threshold",
-      "context": "AAP, Congress raises concern over SIR in Punjab ahead of 2027 Assembly polls - The Hindu The **Election Commission of India (ECI)** issued a notification for a Special Intensive Revision (SIR) of elec"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Andaman",
-      "candidate": "Congress",
+      "state": "Karnataka",
+      "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "Nicobarese oppose proposal for three wildlife sanctuaries - The Hindu The **Union government** notified three wildlife sanctuaries in the Little Nicobar, Menchal, and Meroe islands in 2022, despite co"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Chandigarh",
-      "candidate": "BJP",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "AAP holds protests against BJP over ED action against Punjab Minister Sanjeev Arora - The Hindu The **Aam Aadmi Party (AAP)** held protests across Punjab against the **BJP** following the ED's arrest "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Chhattisgarh",
-      "candidate": "Congress",
-      "confidence": 0.4,
-      "reason": "Below auto-update threshold",
-      "context": "Punjab Congress to release ‘chargesheet’ against AAP government - The Hindu **Bhupesh Baghel**, former **Chhattisgarh** Chief Minister and Congress General Secretary in charge of Punjab, presided over"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Uttarakhand",
-      "candidate": "BJP",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "Congress slams Modi Government over women’s safety citing NCRB data - The Hindu **Congress** party leaders, including **Mallikarjun Kharge**, criticized the **Narendra Modi Government** for its handli"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Sikkim",
-      "candidate": "BJP",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Bangladesh seeks China support for Teesta restoration project - The Times of India **Bangladesh**’s new government has sought **China's** involvement in the Teesta River restoration project, a move th"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Jharkhand",
-      "candidate": "BJP",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Hemant Soren launches self-enumeration phase of Census 2027 in Jharkhand - The Hindu **Hemant Soren**, **Chief Minister of Jharkhand**, launched the self-enumeration phase of Census 2027, urging resid"
+      "context": "Congress unveils ‘Bhu Guarantee’ in Karnataka - The Hindu **D.K. Shivakumar**, the **Deputy Chief Minister** of Karnataka, unveiled the \"sixth guarantee\" — Bhu Guarantee — which includes a 60% discoun"
     }
   ]
 }
