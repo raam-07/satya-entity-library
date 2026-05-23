@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-23 14:55:32.594346",
+  "generated_at": "2026-05-23 18:17:39.043809",
   "summary": {
     "cm_updates_applied": 1,
-    "party_updates_applied": 1,
+    "party_updates_applied": 0,
     "criminal_updates_applied": 0,
-    "promises_extracted": 1,
-    "new_entities_discovered": 12,
-    "items_needing_review": 14
+    "promises_extracted": 2,
+    "new_entities_discovered": 18,
+    "items_needing_review": 12
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 111,
+      "mentions_last_30_days": 127,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 64,
+      "mentions_last_30_days": 80,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -32,19 +32,8 @@
       "needs_verification": true
     },
     {
-      "name": "C. Joseph Vijay**",
-      "mentions_last_30_days": 45,
-      "sample_articles": [
-        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
-        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
-        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Donald Trump**",
-      "mentions_last_30_days": 36,
+      "mentions_last_30_days": 51,
       "sample_articles": [
         "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
         "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
@@ -54,19 +43,19 @@
       "needs_verification": true
     },
     {
-      "name": "Donald Trump News",
-      "mentions_last_30_days": 29,
+      "name": "C. Joseph Vijay**",
+      "mentions_last_30_days": 46,
       "sample_articles": [
-        "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
-        "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
-        "Chris Rabb win in Pennsylvania energises Democrats’ progressive flank | Donald Trump News | Al Jazeera"
+        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
+        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
+        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
       "name": "Donald Trump*",
-      "mentions_last_30_days": 27,
+      "mentions_last_30_days": 41,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
@@ -76,8 +65,19 @@
       "needs_verification": true
     },
     {
+      "name": "Donald Trump News",
+      "mentions_last_30_days": 37,
+      "sample_articles": [
+        "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
+        "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
+        "Chris Rabb win in Pennsylvania energises Democrats’ progressive flank | Donald Trump News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Marco Rubio**",
-      "mentions_last_30_days": 26,
+      "mentions_last_30_days": 30,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
@@ -87,8 +87,30 @@
       "needs_verification": true
     },
     {
+      "name": "Charlie Kirk",
+      "mentions_last_30_days": 27,
+      "sample_articles": [
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "Tennessee man jailed for 37 days over Charlie Kirk meme to receive $835,000 settlement - The Times of India"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "C. Joseph Vijay",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
+        "T.N. Cabinet expansion LIVE: Congress set to join Tamil Nadu’s first coalition government in decades - The Hindu",
+        "Kamal meets Vijay, submits 6 demands Tamil film industry’s development - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Wes Streeting",
-      "mentions_last_30_days": 24,
+      "mentions_last_30_days": 25,
       "sample_articles": [
         "Brexit may be back, but Britain needs to know what it wants | World news | The Guardian",
         "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian",
@@ -99,7 +121,7 @@
     },
     {
       "name": "Vladimir Putin*",
-      "mentions_last_30_days": 23,
+      "mentions_last_30_days": 24,
       "sample_articles": [
         "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
         "What’s the significance of the Russian president’s visit to China? | International Trade News | Al Jazeera",
@@ -109,12 +131,23 @@
       "needs_verification": true
     },
     {
-      "name": "C. Joseph Vijay",
+      "name": "Donald Trump's",
       "mentions_last_30_days": 23,
       "sample_articles": [
-        "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
-        "T.N. Cabinet expansion LIVE: Congress set to join Tamil Nadu’s first coalition government in decades - The Hindu",
-        "Kamal meets Vijay, submits 6 demands Tamil film industry’s development - The Hindu"
+        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
+        "Greenlanders protest against Trump outside new US consulate in Nuuk",
+        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Andy Burnham",
+      "mentions_last_30_days": 22,
+      "sample_articles": [
+        "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
+        "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
+        "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -131,6 +164,28 @@
       "needs_verification": true
     },
     {
+      "name": "V.D. Satheesan",
+      "mentions_last_30_days": 21,
+      "sample_articles": [
+        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
+        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
+        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Candace Owens",
+      "mentions_last_30_days": 21,
+      "sample_articles": [
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "\"Erika wanted his position\": Candace Owens reacts after Charlie Kirk reportedly named wife Erika as TPUSA successor before assassination"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Nigel Farage",
       "mentions_last_30_days": 21,
       "sample_articles": [
@@ -140,41 +195,28 @@
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
+    },
+    {
+      "name": "Pete Hegseth",
+      "mentions_last_30_days": 20,
+      "sample_articles": [
+        "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief | Taiwan | The Guardian",
+        "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says | US-Israel war on Iran News | Al Jazeera",
+        "Pete Hegseth: Hegseth pushes Trump’s $1.5 trillion defense budget for 2027 as Congress presses Pentagon over Iran war costs - The Times of India"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
     }
   ],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Manipur",
-      "candidate": "C. Joseph Vijay**",
-      "confidence": 0.5,
-      "mentions": 6,
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.41,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
-      "context": "Governor’s role in government formation | Explained - The Hindu The **Tamilaga Vettri Kazhagam (TVK)** secured a majority in the recent Tamil Nadu Assembly elections, but the Governor invited the part"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Punjab",
-      "candidate": "AAP",
-      "confidence": 0.43,
-      "reason": "Below auto-update threshold",
-      "context": "AAP, Congress raises concern over SIR in Punjab ahead of 2027 Assembly polls - The Hindu The **Election Commission of India (ECI)** issued a notification for a Special Intensive Revision (SIR) of elec"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Himachal Pradesh",
-      "candidate": "Congress",
-      "confidence": 0.4,
-      "reason": "Below auto-update threshold",
-      "context": "Turkish court ousts leader of main opposition party | Politics News | Al Jazeera A Turkish court overturned the 2023 leadership election of the main opposition **Republican People’s Party (CHP)**, rei"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Rajasthan",
-      "candidate": "Congress",
-      "confidence": 0.43,
-      "reason": "Below auto-update threshold",
-      "context": "Congress workers clash with police in Jaipur during stir against NEET-UG paper leak - The Hindu **Congress** party workers clashed with **police** in **Rajasthan** on Thursday during a protest against"
+      "context": "Hemant Soren launches self-enumeration phase of Census 2027 in Jharkhand - The Hindu **Hemant Soren**, **Chief Minister of Jharkhand**, launched the self-enumeration phase of Census 2027, urging resid"
     },
     {
       "type": "ruling_party",
@@ -196,7 +238,7 @@
       "type": "ruling_party",
       "state": "Telangana",
       "candidate": "BJP",
-      "confidence": 0.5,
+      "confidence": 0.47,
       "reason": "Below auto-update threshold",
       "context": "Fuel price hike negatively impacts economy, triggers rise in essential commodity prices: Telangana CM Revanth Reddy - The Hindu **A Revanth Reddy**, **Telangana Chief Minister**, criticized the **Unio"
     },
@@ -207,6 +249,14 @@
       "confidence": 0.44,
       "reason": "Below auto-update threshold",
       "context": "One month of Samrat Choudhary Government in Bihar - The Hindu **Samrat Choudhary**, the leader of the **Bharatiya Janata Party (BJP)**, took office as Chief Minister of Bihar on April 15, 2026.  He ha"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Haryana",
+      "candidate": "BJP",
+      "confidence": 0.4,
+      "reason": "Below auto-update threshold",
+      "context": "AAP, Congress raises concern over SIR in Punjab ahead of 2027 Assembly polls - The Hindu The **Election Commission of India (ECI)** issued a notification for a Special Intensive Revision (SIR) of elec"
     },
     {
       "type": "ruling_party",
@@ -228,17 +278,9 @@
       "type": "ruling_party",
       "state": "Chhattisgarh",
       "candidate": "Congress",
-      "confidence": 0.5,
-      "reason": "Below auto-update threshold",
-      "context": "Punjab Congress to release ‘chargesheet’ against AAP government - The Hindu **Bhupesh Baghel**, former **Chhattisgarh** Chief Minister and Congress General Secretary in charge of Punjab, presided over"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Tripura",
-      "candidate": "BJP",
       "confidence": 0.4,
       "reason": "Below auto-update threshold",
-      "context": "West Bengal Cabinet 2026: From Dilip Ghosh to Agnimitra Paul, Ministers who were sworn in along with Suvendu Adhikari - The Hindu **Suvendu Adhikari**, newly sworn in as the Chief Minister of West Ben"
+      "context": "Punjab Congress to release ‘chargesheet’ against AAP government - The Hindu **Bhupesh Baghel**, former **Chhattisgarh** Chief Minister and Congress General Secretary in charge of Punjab, presided over"
     },
     {
       "type": "ruling_party",
@@ -255,6 +297,14 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "Bangladesh seeks China support for Teesta restoration project - The Times of India **Bangladesh**’s new government has sought **China's** involvement in the Teesta River restoration project, a move th"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Jharkhand",
+      "candidate": "BJP",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Hemant Soren launches self-enumeration phase of Census 2027 in Jharkhand - The Hindu **Hemant Soren**, **Chief Minister of Jharkhand**, launched the self-enumeration phase of Census 2027, urging resid"
     }
   ]
 }

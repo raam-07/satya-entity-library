@@ -6,9 +6,9 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
-      "party_updates": 1,
+      "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 1
+      "new_promises": 2
     }
   },
   "india": {
@@ -1771,6 +1771,16 @@
       "source_url": "https://www.dawn.com/news/2000246/france-netherlands-say-all-hantavirus-contact-cases-negative",
       "source_title": "France, Netherlands say all hantavirus contact cases negative - World - DAWN.COM",
       "scraped_at": "2026-05-14 17:27:00.975579",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "government employees that the State would clear retirement benefits worth ₹6",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-government-to-clear-6000-crore-retirement-benefits-in-100-days-promises-revanth-reddy/article70932062.ece",
+      "source_title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy - The Hindu",
+      "scraped_at": "2026-05-02 14:38:11.450962",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
