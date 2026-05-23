@@ -211,72 +211,93 @@ No explanation. No extra text.
 def detect_cms(articles, entities, nlp, llm):
     """
     Detect current Chief Minister per state from last 90 days articles.
-    Uses spaCy NER + pattern matching + confidence scoring.
+    Strict two-pass: pattern match in CM context + Gemma validation.
     """
     logging.info("--- Detecting CMs per state ---")
     window_articles = filter_by_window(articles, WINDOW_CM_PARTY_DAYS)
     logging.info(f"Using {len(window_articles)} articles from last {WINDOW_CM_PARTY_DAYS} days.")
 
-    # Build state list from entities
-    state_names = [s['name'] for s in entities['india']['states']]
+    # Build state lookup
     state_aliases = {}
     for s in entities['india']['states']:
-        for alias in s.get('aliases', []):
+        for alias in [s['name']] + s.get('aliases', []):
             state_aliases[alias.lower()] = s['name']
-        state_aliases[s['name'].lower()] = s['name']
 
-    # CM patterns to scan for
-    cm_patterns = [
-        r'(\w[\w\s]+?)\s*,?\s*(?:the\s+)?(?:chief\s+minister|cm)\s+of\s+([\w\s]+)',
-        r'(?:chief\s+minister|cm)\s+([\w\s]+?)\s+of\s+([\w\s]+)',
-        r'([\w\s]+?)\s*,\s*(?:the\s+)?(?:chief\s+minister|cm)',
-        r'(?:chief\s+minister|cm)\s+([\w\s]+)',
+    # Build known minister lookup
+    all_ministers = (
+        entities['india']['cabinet_ministers'] +
+        entities['india']['state_chief_ministers'] +
+        entities['india']['opposition_leaders']
+    )
+    minister_lookup = {}
+    for m in all_ministers:
+        minister_lookup[m['name'].lower()] = m['name']
+        for alias in m.get('aliases', []):
+            minister_lookup[alias.lower()] = m['name']
+
+    # STRICT CM context patterns — must explicitly say "Chief Minister" or "CM of"
+    # NOT just "CM" alone which is too ambiguous
+    STRICT_CM_PATTERNS = [
+        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s*,?\s*(?:the\s+)?chief\s+minister\s+of\s+(\w[\w\s]+)',
+        r'chief\s+minister\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+of\s+(\w[\w\s]+)',
+        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+was\s+sworn\s+in\s+as\s+(?:the\s+)?chief\s+minister',
+        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+takes?\s+oath\s+as\s+(?:the\s+)?chief\s+minister',
+        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s*,\s*(?:the\s+)?(?:\w+\s+)?chief\s+minister',
+        r'new\s+(?:chief\s+minister|cm)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)',
     ]
 
-    # Per state, count person mentions in CM context
+    # Per state, count STRICT CM mentions
     state_cm_candidates = defaultdict(lambda: defaultdict(int))
     state_cm_contexts = defaultdict(lambda: defaultdict(list))
 
+    NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
+
     for article in window_articles:
-        # Skip international articles for Indian entity extraction
+        # Skip non-Indian sources and international articles
         if article.get('category') == 'international':
             continue
+        if article.get('source') in NON_INDIAN_SOURCES:
+            continue
 
-        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:500]}"
+        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:600]}"
         text_lower = text.lower()
-        states_in_article = article.get('states_mentioned', [])
 
-        # Also detect states via text scan
-        for state_name_lower, canonical_state in state_aliases.items():
-            if state_name_lower in text_lower and canonical_state not in states_in_article:
-                states_in_article.append(canonical_state)
+        # Only process articles that explicitly mention "chief minister"
+        if 'chief minister' not in text_lower and ' cm ' not in text_lower:
+            continue
+
+        states_in_article = list(article.get('states_mentioned', []) or [])
+        # Also scan text for state names
+        for alias_lower, canonical in state_aliases.items():
+            if len(alias_lower) >= 4 and alias_lower in text_lower:
+                if canonical not in states_in_article:
+                    states_in_article.append(canonical)
 
         if not states_in_article:
             continue
 
-        # spaCy NER to find persons
-        doc = nlp(text[:1000])
-        persons_in_article = [ent.text.strip() for ent in doc.ents if ent.label_ == 'PERSON' and len(ent.text.strip()) > 4]
+        # Match strict patterns
+        for pattern in STRICT_CM_PATTERNS:
+            for match in re.finditer(pattern, text, re.IGNORECASE):
+                person = match.group(1).strip() if match.lastindex >= 1 else None
+                if not person or len(person) < 5:
+                    continue
 
-        # Pattern matching for CM context
-        for pattern in cm_patterns:
-            matches = re.finditer(pattern, text_lower)
-            for match in matches:
-                groups = match.groups()
+                # Only accept known ministers — reject random names
+                canonical = minister_lookup.get(person.lower())
+                if not canonical:
+                    # Try partial match
+                    for alias, name in minister_lookup.items():
+                        if alias in person.lower() or person.lower() in alias:
+                            canonical = name
+                            break
+
+                if not canonical:
+                    continue
+
                 for state in states_in_article:
-                    for person in persons_in_article:
-                        if person.lower() in text_lower:
-                            state_cm_candidates[state][person] += 1
-                            state_cm_contexts[state][person].append(text[:300])
-
-        # Also check if known ministers in entities appear as CM
-        for minister in entities['india']['cabinet_ministers'] + entities['india']['state_chief_ministers'] + entities['india']['opposition_leaders']:
-            name = minister['name']
-            for alias in [name] + minister.get('aliases', []):
-                if alias.lower() in text_lower and 'chief minister' in text_lower or 'cm' in text_lower:
-                    for state in states_in_article:
-                        state_cm_candidates[state][name] += 2  # known entity gets boost
-                        state_cm_contexts[state][name].append(text[:300])
+                    state_cm_candidates[state][canonical] += 1
+                    state_cm_contexts[state][canonical].append(text[:400])
 
     # Score and decide
     cm_updates = []
@@ -290,13 +311,16 @@ def detect_cms(articles, entities, nlp, llm):
         top_count = candidates[top_candidate]
         confidence = top_count / total_mentions if total_mentions > 0 else 0
 
+        # Need at least 3 mentions to be credible
+        if top_count < 3:
+            continue
+
         context_sample = state_cm_contexts[state][top_candidate][0] if state_cm_contexts[state][top_candidate] else ""
 
-        # Gemma validation for high confidence candidates
         if confidence >= AUTO_UPDATE_THRESHOLD:
             is_cm, gem_conf = gemma_validate(
                 llm,
-                f"Is '{top_candidate}' mentioned as the Chief Minister in this text?",
+                f"Is '{top_candidate}' explicitly mentioned as the Chief Minister of {state} in this text?",
                 context_sample
             )
             if is_cm:
@@ -308,7 +332,7 @@ def detect_cms(articles, entities, nlp, llm):
                     "gemma_validated": True,
                     "gemma_confidence": gem_conf
                 })
-                logging.info(f"CM UPDATE: {state} → {top_candidate} (confidence: {confidence:.2f})")
+                logging.info(f"CM UPDATE: {state} → {top_candidate} (confidence: {confidence:.2f}, mentions: {top_count})")
             else:
                 cm_flags.append({
                     "type": "cm_detection",
@@ -318,7 +342,7 @@ def detect_cms(articles, entities, nlp, llm):
                     "reason": "Gemma rejected",
                     "context": context_sample[:200]
                 })
-        elif confidence >= REVIEW_THRESHOLD:
+        elif confidence >= REVIEW_THRESHOLD and top_count >= 3:
             cm_flags.append({
                 "type": "cm_detection",
                 "state": state,
@@ -335,11 +359,12 @@ def detect_cms(articles, entities, nlp, llm):
 def detect_ruling_parties(articles, entities, nlp, llm):
     """
     Detect ruling party per state from last 90 days articles.
+    Strict: only counts explicit "X government in Y" or "X ruling Y" patterns.
+    Requires minimum 3 mentions. Skips non-Indian sources.
     """
     logging.info("--- Detecting ruling parties per state ---")
     window_articles = filter_by_window(articles, WINDOW_CM_PARTY_DAYS)
 
-    party_names = [p['name'] for p in entities['india']['parties']]
     party_aliases = {}
     for p in entities['india']['parties']:
         for alias in [p['name']] + p.get('aliases', []):
@@ -350,23 +375,117 @@ def detect_ruling_parties(articles, entities, nlp, llm):
         for alias in [s['name']] + s.get('aliases', []):
             state_aliases[alias.lower()] = s['name']
 
-    ruling_patterns = [
-        r'([\w\s]+?)\s+government\s+in\s+([\w\s]+)',
-        r'([\w\s]+?)\s+ruled?\s+([\w\s]+)',
-        r'([\w\s]+?)\s+ruling\s+([\w\s]+)',
-        r'([\w\s]+?)-led\s+government\s+in\s+([\w\s]+)',
-        r'([\w\s]+?)\s+administration\s+in\s+([\w\s]+)',
+    NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
+
+    # STRICT patterns — must explicitly say party governs/rules a state
+    STRICT_RULING_PATTERNS = [
+        r'(BJP|Congress|INC|AAP|TMC|DMK|CPM|JDU|JMM|TDP|YSRCP|NCP|Shiv Sena|RJD|BJD)\s+government\s+in\s+(\w[\w\s]+)',
+        r'(BJP|Congress|INC|AAP|TMC|DMK|CPM|JDU|JMM|TDP|YSRCP|NCP|Shiv Sena|RJD|BJD)-led\s+government\s+in\s+(\w[\w\s]+)',
+        r'(BJP|Congress|INC|AAP|TMC|DMK|CPM|JDU|JMM|TDP|YSRCP|NCP|Shiv Sena|RJD|BJD)\s+(?:won|wins|won\s+power|came\s+to\s+power|swept)\s+(?:in\s+)?(\w[\w\s]+)',
+        r'(\w[\w\s]+)\s+(?:state|government)\s+(?:is\s+)?ruled?\s+by\s+(BJP|Congress|INC|AAP|TMC|DMK|CPM|JDU|JMM|TDP)',
+        r'(BJP|Congress|INC|AAP|TMC|DMK|CPM|JDU|JMM|TDP)\s+(?:wins?|victory|won)\s+(\w+\s+(?:Pradesh|Nadu|Bengal|Kerala|Karnataka|Bihar|Assam|Jharkhand|Odisha|Goa|Delhi|Punjab|Rajasthan|Gujarat|Maharashtra|Telangana|Andhra))',
     ]
 
     state_party_candidates = defaultdict(lambda: defaultdict(int))
     state_party_contexts = defaultdict(lambda: defaultdict(list))
 
     for article in window_articles:
+        if article.get('category') == 'international':
+            continue
+        if article.get('source') in NON_INDIAN_SOURCES:
+            continue
+
         text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:500]}"
         text_lower = text.lower()
 
-        states_in_article = article.get('states_mentioned', [])
-        parties_in_article = article.get('party_mentioned', [])
+        # Only process articles about elections or governance
+        governance_keywords = ['government', 'ruling', 'election', 'won', 'victory', 'cm', 'chief minister', 'sworn in']
+        if not any(kw in text_lower for kw in governance_keywords):
+            continue
+
+        # Match strict patterns
+        for pattern in STRICT_RULING_PATTERNS:
+            for match in re.finditer(pattern, text, re.IGNORECASE):
+                groups = match.groups()
+                if len(groups) < 2:
+                    continue
+
+                # Figure out which group is party and which is state
+                g1, g2 = groups[0].strip(), groups[1].strip()
+
+                # Identify party
+                party_canonical = party_aliases.get(g1.lower()) or party_aliases.get(g2.lower())
+                if not party_canonical:
+                    continue
+
+                # Identify state
+                state_canonical = state_aliases.get(g1.lower()) or state_aliases.get(g2.lower())
+                if not state_canonical:
+                    # Try partial state match
+                    for alias_lower, canonical in state_aliases.items():
+                        if alias_lower in g1.lower() or alias_lower in g2.lower():
+                            state_canonical = canonical
+                            break
+
+                if not state_canonical:
+                    continue
+
+                state_party_candidates[state_canonical][party_canonical] += 1
+                state_party_contexts[state_canonical][party_canonical].append(text[:400])
+
+    # Score and decide
+    party_updates = []
+    party_flags = []
+
+    for state, candidates in state_party_candidates.items():
+        if not candidates:
+            continue
+        total = sum(candidates.values())
+        top_party = max(candidates, key=candidates.get)
+        top_count = candidates[top_party]
+        confidence = top_count / total if total > 0 else 0
+
+        # Need at least 3 explicit mentions to be credible
+        if top_count < 3:
+            continue
+
+        context_sample = state_party_contexts[state][top_party][0] if state_party_contexts[state][top_party] else ""
+
+        if confidence >= AUTO_UPDATE_THRESHOLD:
+            is_ruling, gem_conf = gemma_validate(
+                llm,
+                f"Is '{top_party}' explicitly mentioned as the ruling party or government of {state} in this text?",
+                context_sample
+            )
+            if is_ruling:
+                party_updates.append({
+                    "state": state,
+                    "ruling_party": top_party,
+                    "confidence": round(confidence, 2),
+                    "mentions": top_count,
+                    "gemma_validated": True
+                })
+                logging.info(f"PARTY UPDATE: {state} → {top_party} (confidence: {confidence:.2f}, mentions: {top_count})")
+            else:
+                party_flags.append({
+                    "type": "ruling_party",
+                    "state": state,
+                    "candidate": top_party,
+                    "confidence": round(confidence, 2),
+                    "reason": "Gemma rejected",
+                    "context": context_sample[:200]
+                })
+        elif confidence >= REVIEW_THRESHOLD and top_count >= 3:
+            party_flags.append({
+                "type": "ruling_party",
+                "state": state,
+                "candidate": top_party,
+                "confidence": round(confidence, 2),
+                "reason": "Below auto-update threshold",
+                "context": context_sample[:200]
+            })
+
+    return party_updates, party_flags
 
         # Cross-reference: if article mentions a state and a party, count it
         for state in states_in_article:
@@ -507,11 +626,15 @@ def extract_promises(articles, entities, nlp, llm):
 # --- 4. Criminal Case Detection ---
 def detect_criminal_cases(articles, entities, nlp, llm):
     """
-    Detect criminal cases / FIRs linked to known entities. All time.
+    Detect criminal cases / FIRs linked to known entities.
+    Strict: requires PERSON + CRIME in same sentence.
+    Gemma validates each incident before counting.
+    Skips non-Indian sources.
     """
     logging.info("--- Detecting criminal cases ---")
-    # Use all articles
     window_articles = articles
+
+    NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
 
     known_entities = {}
     for m in entities['india']['cabinet_ministers'] + entities['india']['opposition_leaders'] + entities['india']['state_chief_ministers']:
@@ -519,42 +642,82 @@ def detect_criminal_cases(articles, entities, nlp, llm):
         for alias in m.get('aliases', []):
             known_entities[alias.lower()] = m['name']
 
-    criminal_keywords = [
-        'arrested', 'fir', 'chargesheet', 'convicted', 'bail',
-        'custody', 'detained', 'charged with', 'accused of',
-        'money laundering', 'corruption case', 'scam', 'fraud case',
-        'ed summons', 'cbi summons', 'raid on', 'bribery'
+    # Only SERIOUS criminal keywords — not just "arrested" which can be a protestor
+    SERIOUS_CRIMINAL_KEYWORDS = [
+        'fir filed against', 'fir registered against',
+        'chargesheeted', 'chargesheet filed against',
+        'convicted', 'sentenced',
+        'money laundering case', 'corruption case',
+        'ed arrested', 'cbi arrested',
+        'rape accused', 'murder accused',
+        'disproportionate assets',
+        'hawala', 'bribery case',
+        'criminal case against', 'criminal charges against'
     ]
 
-    criminal_pattern = re.compile(
-        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\s+(?:was\s+|has\s+been\s+|is\s+)?(?:' +
-        '|'.join(criminal_keywords) + r')',
-        re.IGNORECASE
-    )
+    # Broader keywords for pattern matching — but require Gemma confirmation
+    BROAD_CRIMINAL_KEYWORDS = [
+        'arrested', 'detained', 'fir', 'bail', 'custody',
+        'charged with', 'accused of', 'fraud case', 'scam',
+        'ed summons', 'cbi summons', 'raid on'
+    ]
 
-    # Count unique incidents per entity
     entity_incidents = defaultdict(list)
 
     for article in window_articles:
-        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:600]}"
+        if article.get('category') == 'international':
+            continue
+        if article.get('source') in NON_INDIAN_SOURCES:
+            continue
 
-        matches = criminal_pattern.finditer(text)
-        for match in matches:
-            person = match.group(1).strip()
-            if person.lower() in known_entities:
-                canonical_name = known_entities[person.lower()]
-                # Avoid duplicate incidents from same article
-                already_logged = any(
-                    inc['source_url'] == article.get('url', '')
-                    for inc in entity_incidents[canonical_name]
+        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:600]}"
+        text_lower = text.lower()
+
+        # Check for criminal context first
+        has_serious = any(kw in text_lower for kw in SERIOUS_CRIMINAL_KEYWORDS)
+        has_broad = any(kw in text_lower for kw in BROAD_CRIMINAL_KEYWORDS)
+
+        if not has_serious and not has_broad:
+            continue
+
+        # Find which known entities are mentioned
+        for entity_lower, canonical_name in known_entities.items():
+            if len(entity_lower) < 4:
+                continue
+            if entity_lower not in text_lower:
+                continue
+
+            # Avoid duplicate from same article
+            already_logged = any(
+                inc['source_url'] == article.get('url', '')
+                for inc in entity_incidents[canonical_name]
+            )
+            if already_logged:
+                continue
+
+            # For broad keywords — require Gemma to confirm it's a criminal case
+            # For serious keywords — accept directly
+            if has_serious:
+                confirmed = True
+                incident_type = "serious"
+            else:
+                # Ask Gemma: is this article about a criminal case involving this person?
+                confirmed, _ = gemma_validate(
+                    llm,
+                    f"Is this article specifically about a criminal case, FIR, arrest, or legal action directly involving '{canonical_name}'?",
+                    text[:400]
                 )
-                if not already_logged:
-                    entity_incidents[canonical_name].append({
-                        "incident_text": match.group(0)[:200],
-                        "source_url": article.get('url', ''),
-                        "source_title": article.get('title', ''),
-                        "scraped_at": article.get('scraped_at', '')
-                    })
+                incident_type = "broad"
+
+            if confirmed:
+                entity_incidents[canonical_name].append({
+                    "incident_text": text[:200],
+                    "source_url": article.get('url', ''),
+                    "source_title": article.get('title', ''),
+                    "scraped_at": article.get('scraped_at', ''),
+                    "incident_type": incident_type
+                })
+                logging.info(f"CRIMINAL CASE [{incident_type}]: {canonical_name} — {article.get('title', '')[:60]}")
 
     criminal_updates = []
     for entity_name, incidents in entity_incidents.items():
@@ -562,9 +725,9 @@ def detect_criminal_cases(articles, entities, nlp, llm):
             criminal_updates.append({
                 "entity": entity_name,
                 "incident_count": len(incidents),
-                "incidents": incidents[:10]  # Cap at 10 for JSON size
+                "incidents": incidents[:10]
             })
-            logging.info(f"CRIMINAL CASES: {entity_name} — {len(incidents)} incidents found in news")
+            logging.info(f"CRIMINAL SUMMARY: {entity_name} — {len(incidents)} validated incidents")
 
     return criminal_updates
 
