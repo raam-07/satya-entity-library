@@ -2,8 +2,8 @@ name: Satya Entity Updater
 
 on:
   schedule:
-    # Runs every Sunday at midnight
-    - cron: '0 0/2 * * *'
+    # Runs every 5 minutes
+    - cron: '0/5 * * * *'
   workflow_dispatch:
 
 jobs:
