@@ -8,7 +8,7 @@
       "cm_updates": 0,
       "party_updates": 1,
       "criminal_updates": 5,
-      "new_promises": 2
+      "new_promises": 11
     }
   },
   "india": {
@@ -1888,6 +1888,86 @@
       "source_title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy - The Hindu",
       "scraped_at": "2026-05-02 14:38:11.450962",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Priyanka",
+      "promise_text": "that village officers are conducting assessments and compensation will be provided to affected parties",
+      "source_url": "https://www.thehindu.com/news/national/kerala/summer-showers-strong-winds-damage-over-200-houses-in-ernakulam/article70994317.ece",
+      "source_title": "Summer showers, strong winds damage over 200 houses in Ernakulam - The Hindu",
+      "scraped_at": "2026-05-21 23:17:54.878551",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Priyanka",
+      "promise_text": "the activation of Taluk Emergency Operation Centres (TEOCs) by May 20th to prepare for the monsoon season",
+      "source_url": "https://www.thehindu.com/news/national/kerala/taluk-emergency-centres-for-disaster-management-to-be-activated-by-may-20/article70975249.ece",
+      "source_title": "24x7 control rooms for disaster management to be set up in Ernakulam - The Hindu",
+      "scraped_at": "2026-05-13 23:14:19.953079",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Priyanka",
+      "promise_text": "the final phase of the HPV vaccination campaign against cervical cancer in the district",
+      "source_url": "https://www.thehindu.com/news/national/kerala/free-vaccination-for-cervical-cancer-until-may-31/article70970998.ece",
+      "source_title": "Free vaccination for cervical cancer until May 31 - The Hindu",
+      "scraped_at": "2026-05-13 00:09:00.148550",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the Telangana government will prioritize education",
+      "source_url": "https://www.thehindu.com/news/national/telangana/education-budget-will-grow-every-year-says-telangana-cm-revanth-reddy/article70966847.ece",
+      "source_title": "Education Budget will grow every year, says Telangana CM Revanth Reddy - The Hindu",
+      "scraped_at": "2026-05-11 19:58:17.483919",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to establish \"labour addas\" across the state",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-will-set-up-labour-addas-to-upskill-workers-says-cm-naidu/article70928673.ece",
+      "source_title": "A.P. govt. will set up ‘Labour Addas’ to upskill workers, says CM Naidu - The Hindu",
+      "scraped_at": "2026-05-01 23:04:40.886310",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "plans to complete unfinished Indiramma houses and allocate funds for their completion",
+      "source_url": "https://www.thehindu.com/news/national/telangana/cabinet-clears-25-lakh-houses-587-crore-for-prlsi/article71015536.ece",
+      "source_title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
+      "scraped_at": "2026-05-23 17:09:52.164425",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "that farmers would receive fair compensation and land allocation for their surrendered properties",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-have-second-largest-international-cricket-stadium-in-india/article71014440.ece",
+      "source_title": "Karnataka to soon get India’s second largest international cricket stadium - The Hindu",
+      "scraped_at": "2026-05-23 21:33:40.778202",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Stalin",
+      "promise_text": "that Tamil Nadu has voted and will win on May 4th",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-commends-people-of-tn-for-record-voter-turnout/article70898779.ece",
+      "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
+      "scraped_at": "2026-04-24 23:45:42.804584",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }

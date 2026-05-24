@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-24 13:00:56.223775",
+  "generated_at": "2026-05-24 16:18:16.875569",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
     "criminal_updates_applied": 5,
-    "promises_extracted": 2,
+    "promises_extracted": 11,
     "new_entities_discovered": 28,
     "items_needing_review": 2
   },
@@ -99,7 +99,7 @@
     },
     {
       "name": "Abbas Araghchi",
-      "mentions_last_30_days": 34,
+      "mentions_last_30_days": 33,
       "sample_articles": [
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
         "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
@@ -241,19 +241,8 @@
       "needs_verification": true
     },
     {
-      "name": "Andy Burnham",
-      "mentions_last_30_days": 22,
-      "sample_articles": [
-        "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
-        "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
-        "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Kevin Warsh",
-      "mentions_last_30_days": 21,
+      "mentions_last_30_days": 22,
       "sample_articles": [
         "Kevin Warsh takes over US Fed with a policy problem already in view - The Economic Times",
         "Kevin Warsh sworn in as new US Fed chair | Business and Economy News | Al Jazeera",
@@ -264,11 +253,22 @@
     },
     {
       "name": "Jerome Powell",
-      "mentions_last_30_days": 21,
+      "mentions_last_30_days": 22,
       "sample_articles": [
         "Kevin Warsh takes over US Fed with a policy problem already in view - The Economic Times",
         "Kevin Warsh sworn in as new US Fed chair | Business and Economy News | Al Jazeera",
         "Jerome Powell: Steering the US Fed through COVID-19 and political pressures | Banks News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Andy Burnham",
+      "mentions_last_30_days": 22,
+      "sample_articles": [
+        "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
+        "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
+        "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -296,23 +296,23 @@
       "needs_verification": true
     },
     {
-      "name": "JD Vance",
-      "mentions_last_30_days": 21,
-      "sample_articles": [
-        "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon | US-Israel war on Iran News | Al Jazeera",
-        "JD Vance threatens health funding to states that don’t comply with White House anti-fraud effort | US healthcare | The Guardian",
-        "'Brown kids' comment was out of love: Michigan democrat El-Sayed says JD Vance is 'deeply evil' though - The Times of India"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Taylor",
       "mentions_last_30_days": 20,
       "sample_articles": [
         "Angus Taylor says migrants are a ‘net drain’ on Australia. The numbers say the opposite is true | Australian immigration and asylum | The Guardian",
         "‘We are not in Trump’s America’: migrant groups say Angus Taylor in race to bottom with far right | Angus Taylor | The Guardian",
         "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of ‘dog whistle’ budget reply | Australia news | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "JD Vance",
+      "mentions_last_30_days": 20,
+      "sample_articles": [
+        "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon | US-Israel war on Iran News | Al Jazeera",
+        "JD Vance threatens health funding to states that don’t comply with White House anti-fraud effort | US healthcare | The Guardian",
+        "'Brown kids' comment was out of love: Michigan democrat El-Sayed says JD Vance is 'deeply evil' though - The Times of India"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
