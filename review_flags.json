@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-23 21:40:10.055030",
+  "generated_at": "2026-05-24 08:59:59.351282",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
     "criminal_updates_applied": 5,
     "promises_extracted": 2,
-    "new_entities_discovered": 20,
+    "new_entities_discovered": 23,
     "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 136,
+      "mentions_last_30_days": 145,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 94,
+      "mentions_last_30_days": 104,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -32,19 +32,8 @@
       "needs_verification": true
     },
     {
-      "name": "Donald Trump**",
-      "mentions_last_30_days": 54,
-      "sample_articles": [
-        "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
-        "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
-        "Will Raúl Castro’s indictment over 1996 shooting down of civilian planes push US and Cuba closer to war? - The Times of India"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Donald Trump*",
-      "mentions_last_30_days": 51,
+      "mentions_last_30_days": 66,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
@@ -54,19 +43,19 @@
       "needs_verification": true
     },
     {
-      "name": "C. Joseph Vijay**",
-      "mentions_last_30_days": 48,
+      "name": "Donald Trump**",
+      "mentions_last_30_days": 64,
       "sample_articles": [
-        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
-        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
-        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
+        "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
+        "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
+        "Will Raúl Castro’s indictment over 1996 shooting down of civilian planes push US and Cuba closer to war? - The Times of India"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
       "name": "Donald Trump News",
-      "mentions_last_30_days": 47,
+      "mentions_last_30_days": 57,
       "sample_articles": [
         "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
         "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
@@ -76,8 +65,19 @@
       "needs_verification": true
     },
     {
+      "name": "C. Joseph Vijay**",
+      "mentions_last_30_days": 49,
+      "sample_articles": [
+        "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
+        "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
+        "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Marco Rubio**",
-      "mentions_last_30_days": 34,
+      "mentions_last_30_days": 35,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
@@ -88,11 +88,33 @@
     },
     {
       "name": "Vladimir Putin*",
-      "mentions_last_30_days": 30,
+      "mentions_last_30_days": 35,
       "sample_articles": [
         "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
         "What’s the significance of the Russian president’s visit to China? | International Trade News | Al Jazeera",
         "Russia’s Putin to visit China following Trump’s trip | Politics News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Charles III*",
+      "mentions_last_30_days": 31,
+      "sample_articles": [
+        "Slow Food founder Carlo Petrini dies aged 76 in Italy",
+        "British radio Caroline apologises for accidental King Charles III death broadcast | World News - The Times of India",
+        "Radio station mistakenly announces death of King Charles - World - DAWN.COM"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Donald Trump's",
+      "mentions_last_30_days": 30,
+      "sample_articles": [
+        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
+        "Greenlanders protest against Trump outside new US consulate in Nuuk",
+        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -109,19 +131,19 @@
       "needs_verification": true
     },
     {
-      "name": "Donald Trump's",
-      "mentions_last_30_days": 27,
+      "name": "Abbas Araghchi",
+      "mentions_last_30_days": 28,
       "sample_articles": [
-        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
-        "Greenlanders protest against Trump outside new US consulate in Nuuk",
-        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
+        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
+        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
+        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
       "name": "Candace Owens",
-      "mentions_last_30_days": 27,
+      "mentions_last_30_days": 28,
       "sample_articles": [
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
@@ -131,19 +153,8 @@
       "needs_verification": true
     },
     {
-      "name": "Charles III*",
-      "mentions_last_30_days": 26,
-      "sample_articles": [
-        "Slow Food founder Carlo Petrini dies aged 76 in Italy",
-        "British radio Caroline apologises for accidental King Charles III death broadcast | World News - The Times of India",
-        "Radio station mistakenly announces death of King Charles - World - DAWN.COM"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "C. Joseph Vijay",
-      "mentions_last_30_days": 26,
+      "mentions_last_30_days": 27,
       "sample_articles": [
         "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
         "T.N. Cabinet expansion LIVE: Congress set to join Tamil Nadu’s first coalition government in decades - The Hindu",
@@ -154,7 +165,7 @@
     },
     {
       "name": "Wes Streeting",
-      "mentions_last_30_days": 25,
+      "mentions_last_30_days": 27,
       "sample_articles": [
         "Brexit may be back, but Britain needs to know what it wants | World news | The Guardian",
         "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian",
@@ -164,12 +175,45 @@
       "needs_verification": true
     },
     {
+      "name": "Asif Ali Zardari",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
+        "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
+        "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Pete Hegseth",
-      "mentions_last_30_days": 24,
+      "mentions_last_30_days": 26,
       "sample_articles": [
         "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief | Taiwan | The Guardian",
         "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says | US-Israel war on Iran News | Al Jazeera",
         "Pete Hegseth: Hegseth pushes Trump’s $1.5 trillion defense budget for 2027 as Congress presses Pentagon over Iran war costs - The Times of India"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "V.D. Satheesan",
+      "mentions_last_30_days": 24,
+      "sample_articles": [
+        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
+        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
+        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Kash Patel",
+      "mentions_last_30_days": 23,
+      "sample_articles": [
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -197,17 +241,6 @@
       "needs_verification": true
     },
     {
-      "name": "V.D. Satheesan",
-      "mentions_last_30_days": 21,
-      "sample_articles": [
-        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
-        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
-        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Nigel Farage",
       "mentions_last_30_days": 21,
       "sample_articles": [
@@ -219,12 +252,12 @@
       "needs_verification": true
     },
     {
-      "name": "Asif Ali Zardari",
+      "name": "Taylor",
       "mentions_last_30_days": 20,
       "sample_articles": [
-        "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
-        "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
-        "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
+        "Angus Taylor says migrants are a ‘net drain’ on Australia. The numbers say the opposite is true | Australian immigration and asylum | The Guardian",
+        "‘We are not in Trump’s America’: migrant groups say Angus Taylor in race to bottom with far right | Angus Taylor | The Guardian",
+        "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of ‘dog whistle’ budget reply | Australia news | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true

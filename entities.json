@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-23",
+    "last_updated": "2026-05-24",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -69,7 +69,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-23"
+        "criminal_last_updated": "2026-05-24"
       },
       {
         "name": "Amit Shah",
@@ -105,7 +105,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-23"
+        "criminal_last_updated": "2026-05-24"
       },
       {
         "name": "Rajnath Singh",
@@ -256,7 +256,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-23"
+        "criminal_last_updated": "2026-05-24"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -387,7 +387,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-23"
+        "criminal_last_updated": "2026-05-24"
       },
       {
         "name": "Sonia Gandhi",
@@ -482,7 +482,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-23"
+        "criminal_last_updated": "2026-05-24"
       },
       {
         "name": "Akhilesh Yadav",
@@ -1317,7 +1317,7 @@
         "cm": "Mamata Banerjee",
         "region": "East",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-23"
+        "party_last_updated": "2026-05-24"
       },
       {
         "name": "Delhi",
