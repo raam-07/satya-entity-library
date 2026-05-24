@@ -469,7 +469,8 @@ def extract_promises(articles, entities, nlp, llm):
     extracted_promises = []
 
     for article in window_articles:
-        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:800]}"
+        raw_text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:800]}"
+        text = re.sub(r'\*\*(.*?)\*\*', r'\1', raw_text)  # strip bold markdown
 
         matches = promise_pattern.finditer(text)
         for match in matches:
