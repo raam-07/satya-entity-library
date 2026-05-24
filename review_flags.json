@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-24 16:18:16.875569",
+  "generated_at": "2026-05-24 21:18:30.034093",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
     "criminal_updates_applied": 5,
     "promises_extracted": 11,
-    "new_entities_discovered": 28,
+    "new_entities_discovered": 25,
     "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 164,
+      "mentions_last_30_days": 156,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 110,
+      "mentions_last_30_days": 111,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -44,7 +44,7 @@
     },
     {
       "name": "Donald Trump**",
-      "mentions_last_30_days": 67,
+      "mentions_last_30_days": 66,
       "sample_articles": [
         "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
         "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Donald Trump News",
-      "mentions_last_30_days": 60,
+      "mentions_last_30_days": 57,
       "sample_articles": [
         "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
         "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
@@ -66,11 +66,22 @@
     },
     {
       "name": "C. Joseph Vijay**",
-      "mentions_last_30_days": 51,
+      "mentions_last_30_days": 50,
       "sample_articles": [
         "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
         "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
         "22 Ministers aged below 50: Cabinet signals generational shift in Tamil Nadu politics - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Marco Rubio**",
+      "mentions_last_30_days": 36,
+      "sample_articles": [
+        "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
+        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
+        "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? | International Trade News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -87,19 +98,8 @@
       "needs_verification": true
     },
     {
-      "name": "Marco Rubio**",
-      "mentions_last_30_days": 35,
-      "sample_articles": [
-        "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
-        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
-        "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained? | International Trade News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Abbas Araghchi",
-      "mentions_last_30_days": 33,
+      "mentions_last_30_days": 31,
       "sample_articles": [
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
         "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
@@ -110,7 +110,7 @@
     },
     {
       "name": "Charles III*",
-      "mentions_last_30_days": 32,
+      "mentions_last_30_days": 31,
       "sample_articles": [
         "Slow Food founder Carlo Petrini dies aged 76 in Italy",
         "British radio Caroline apologises for accidental King Charles III death broadcast | World News - The Times of India",
@@ -121,7 +121,7 @@
     },
     {
       "name": "Donald Trump's",
-      "mentions_last_30_days": 32,
+      "mentions_last_30_days": 30,
       "sample_articles": [
         "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
         "Greenlanders protest against Trump outside new US consulate in Nuuk",
@@ -164,6 +164,17 @@
       "needs_verification": true
     },
     {
+      "name": "Wes Streeting",
+      "mentions_last_30_days": 28,
+      "sample_articles": [
+        "Brexit may be back, but Britain needs to know what it wants | World news | The Guardian",
+        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian",
+        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Pete Hegseth",
       "mentions_last_30_days": 27,
       "sample_articles": [
@@ -186,34 +197,23 @@
       "needs_verification": true
     },
     {
-      "name": "Wes Streeting",
-      "mentions_last_30_days": 27,
+      "name": "Andy Burnham",
+      "mentions_last_30_days": 25,
       "sample_articles": [
-        "Brexit may be back, but Britain needs to know what it wants | World news | The Guardian",
-        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian",
-        "Wes Streeting confirms he will stand if Labour leadership race is triggered | Wes Streeting | The Guardian"
+        "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
+        "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
+        "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
       "name": "Kash Patel",
-      "mentions_last_30_days": 27,
+      "mentions_last_30_days": 25,
       "sample_articles": [
         "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
         "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
         "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Steve Witkoff",
-      "mentions_last_30_days": 27,
-      "sample_articles": [
-        "Trump aide Josh Gruenbaum dropped from Ukraine, Iran roles: Here's why he was sidelined - The Times of India",
-        "Iran war: What’s happening on day 60 as diplomacy gathers pace? | US-Israel war on Iran News | Al Jazeera",
-        "US-Iran conflict: What’s the latest as the Islamabad talks stall? | US-Israel war on Iran News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -241,39 +241,6 @@
       "needs_verification": true
     },
     {
-      "name": "Kevin Warsh",
-      "mentions_last_30_days": 22,
-      "sample_articles": [
-        "Kevin Warsh takes over US Fed with a policy problem already in view - The Economic Times",
-        "Kevin Warsh sworn in as new US Fed chair | Business and Economy News | Al Jazeera",
-        "Kevin Warsh sworn in as new US Fed chair | Business and Economy News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Jerome Powell",
-      "mentions_last_30_days": 22,
-      "sample_articles": [
-        "Kevin Warsh takes over US Fed with a policy problem already in view - The Economic Times",
-        "Kevin Warsh sworn in as new US Fed chair | Business and Economy News | Al Jazeera",
-        "Jerome Powell: Steering the US Fed through COVID-19 and political pressures | Banks News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Andy Burnham",
-      "mentions_last_30_days": 22,
-      "sample_articles": [
-        "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
-        "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
-        "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Nigel Farage",
       "mentions_last_30_days": 21,
       "sample_articles": [
@@ -296,23 +263,23 @@
       "needs_verification": true
     },
     {
+      "name": "Emmanuel Macron*",
+      "mentions_last_30_days": 20,
+      "sample_articles": [
+        "Macron under pressure over reparatory justice for France’s role in slave trade | Slavery | The Guardian",
+        "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem | Europe | The Guardian",
+        "“He’s texting some hot actress”: Candace Owens reacts after Brigitte Macron slap claims shock France again"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Taylor",
       "mentions_last_30_days": 20,
       "sample_articles": [
         "Angus Taylor says migrants are a ‘net drain’ on Australia. The numbers say the opposite is true | Australian immigration and asylum | The Guardian",
         "‘We are not in Trump’s America’: migrant groups say Angus Taylor in race to bottom with far right | Angus Taylor | The Guardian",
         "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of ‘dog whistle’ budget reply | Australia news | The Guardian"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "JD Vance",
-      "mentions_last_30_days": 20,
-      "sample_articles": [
-        "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon | US-Israel war on Iran News | Al Jazeera",
-        "JD Vance threatens health funding to states that don’t comply with White House anti-fraud effort | US healthcare | The Guardian",
-        "'Brown kids' comment was out of love: Michigan democrat El-Sayed says JD Vance is 'deeply evil' though - The Times of India"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
