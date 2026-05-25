@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 9,
-      "new_promises": 11
+      "criminal_updates": 10,
+      "new_promises": 13
     }
   },
   "india": {
@@ -757,7 +757,18 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
-        "image_placeholder": "pinarayi_vijayan"
+        "image_placeholder": "pinarayi_vijayan",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu A Special Investigation Team (SIT) concluded that the assault on Indian Youth Congress activists in Alappuzha by",
+            "source_url": "https://www.thehindu.com/news/national/kerala/assault-on-youth-congress-workers-in-alappuzha-sit-says-assault-unlawful/article71022089.ece",
+            "source_title": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu",
+            "scraped_at": "2026-05-25 16:00:28.488083",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Hemant Soren",
@@ -2053,6 +2064,26 @@
       "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-commends-people-of-tn-for-record-voter-turnout/article70898779.ece",
       "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
       "scraped_at": "2026-04-24 23:45:42.804584",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "plans to support women self-help groups (SHGs) in setting up logistics parks",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-exhorts-shg-women-to-establish-super-markets-logistic-parks-and-godowns/article71021051.ece",
+      "source_title": "Telangana CM exhorts SHG women to establish super markets, logistic parks and godowns - The Hindu",
+      "scraped_at": "2026-05-25 12:51:57.730396",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Stalin",
+      "promise_text": "that the South stood united",
+      "source_url": "https://www.thehindu.com/news/national/south-stood-united-made-its-voice-heard-and-democracy-prevailed-tn-cm-stalin/article70874980.ece",
+      "source_title": "South stood united, made its voice heard and democracy prevailed: T.N. CM Stalin - The Hindu",
+      "scraped_at": "2026-04-17 17:31:34.297283",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false

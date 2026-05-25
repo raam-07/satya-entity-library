@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-25 19:46:57.969663",
+  "generated_at": "2026-05-25 23:50:40.474750",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 9,
-    "promises_extracted": 11,
-    "new_entities_discovered": 23,
+    "criminal_updates_applied": 10,
+    "promises_extracted": 13,
+    "new_entities_discovered": 22,
     "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 147,
+      "mentions_last_30_days": 146,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 107,
+      "mentions_last_30_days": 108,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Donald Trump**",
-      "mentions_last_30_days": 67,
+      "mentions_last_30_days": 66,
       "sample_articles": [
         "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
         "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Marco Rubio**",
-      "mentions_last_30_days": 38,
+      "mentions_last_30_days": 40,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
@@ -219,17 +219,6 @@
       "needs_verification": true
     },
     {
-      "name": "Kash Patel",
-      "mentions_last_30_days": 23,
-      "sample_articles": [
-        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
-        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
-        "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Raúl Castro",
       "mentions_last_30_days": 22,
       "sample_articles": [
@@ -252,12 +241,12 @@
       "needs_verification": true
     },
     {
-      "name": "Emmanuel Macron*",
-      "mentions_last_30_days": 20,
+      "name": "Kash Patel",
+      "mentions_last_30_days": 21,
       "sample_articles": [
-        "Macron under pressure over reparatory justice for France’s role in slave trade | Slavery | The Guardian",
-        "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem | Europe | The Guardian",
-        "“He’s texting some hot actress”: Candace Owens reacts after Brigitte Macron slap claims shock France again"
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
