@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-25 01:00:14.928253",
+  "generated_at": "2026-05-25 14:14:38.227589",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 6,
+    "criminal_updates_applied": 9,
     "promises_extracted": 11,
-    "new_entities_discovered": 25,
+    "new_entities_discovered": 24,
     "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 150,
+      "mentions_last_30_days": 148,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 111,
+      "mentions_last_30_days": 108,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Donald Trump*",
-      "mentions_last_30_days": 68,
+      "mentions_last_30_days": 67,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
@@ -109,17 +109,6 @@
       "needs_verification": true
     },
     {
-      "name": "Donald Trump's",
-      "mentions_last_30_days": 30,
-      "sample_articles": [
-        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
-        "Greenlanders protest against Trump outside new US consulate in Nuuk",
-        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Charlie Kirk",
       "mentions_last_30_days": 30,
       "sample_articles": [
@@ -131,23 +120,12 @@
       "needs_verification": true
     },
     {
-      "name": "Abbas Araghchi",
+      "name": "Donald Trump's",
       "mentions_last_30_days": 29,
       "sample_articles": [
-        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
-        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
-        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Asif Ali Zardari",
-      "mentions_last_30_days": 29,
-      "sample_articles": [
-        "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
-        "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
-        "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
+        "38.5% drop in H-1B registrations for FY 2027: Immigration attorney says numbers were like this 10 years ago - The Times of India",
+        "Greenlanders protest against Trump outside new US consulate in Nuuk",
+        "After Donald Trump's Beijing visit, Taiwan detects 8 Chinese naval vessels, one ship in its territorial water"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -165,7 +143,7 @@
     },
     {
       "name": "Candace Owens",
-      "mentions_last_30_days": 29,
+      "mentions_last_30_days": 28,
       "sample_articles": [
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
         "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
@@ -186,8 +164,41 @@
       "needs_verification": true
     },
     {
-      "name": "Pete Hegseth",
+      "name": "Abbas Araghchi",
       "mentions_last_30_days": 27,
+      "sample_articles": [
+        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
+        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
+        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Asif Ali Zardari",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
+        "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
+        "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "V.D. Satheesan",
+      "mentions_last_30_days": 26,
+      "sample_articles": [
+        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
+        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
+        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Pete Hegseth",
+      "mentions_last_30_days": 25,
       "sample_articles": [
         "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief | Taiwan | The Guardian",
         "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says | US-Israel war on Iran News | Al Jazeera",
@@ -203,17 +214,6 @@
         "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
         "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
         "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "V.D. Satheesan",
-      "mentions_last_30_days": 24,
-      "sample_articles": [
-        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
-        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
-        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -252,17 +252,6 @@
       "needs_verification": true
     },
     {
-      "name": "Sam Altman",
-      "mentions_last_30_days": 21,
-      "sample_articles": [
-        "High-stakes courtroom drama of Musk v OpenAI hears closing arguments | OpenAI | The Guardian",
-        "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI | Elon Musk News | Al Jazeera",
-        "Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial | Courts News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Emmanuel Macron*",
       "mentions_last_30_days": 20,
       "sample_articles": [
@@ -290,7 +279,7 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.8,
+      "confidence": 0.83,
       "reason": "Gemma rejected",
       "context": "Bengali actors face heat after power shift to BJP; FIR filed over 2021 social media posts linked to post-poll violence - The Hindu **Parambrata Chatterjee**, a Bengali actor, announced he had to align"
     },

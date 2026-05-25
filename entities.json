@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 6,
+      "criminal_updates": 9,
       "new_promises": 11
     }
   },
@@ -38,7 +38,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "criminal_incidents": [
           {
             "incident_text": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu **Kalvakuntla Kavitha**, president of the **Telangana Rakshana Sena**, urged **Prime Minister Narendra Modi** to remove **Union M",
@@ -66,6 +66,13 @@
             "source_url": "https://www.thehindu.com/news/national/modi-empowered-ed-to-cleanse-cancer-of-financial-crimes-not-to-target-anyone-mos-pankaj-chaudhary/article70928211.ece",
             "source_title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
             "scraped_at": "2026-05-01 14:04:53.149265",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
+            "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
+            "scraped_at": "2026-04-19 16:11:04.103449",
             "incident_type": "serious"
           }
         ],
@@ -308,7 +315,18 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Giriraj_Singh",
         "known_promises": [],
-        "image_placeholder": "giriraj_singh"
+        "image_placeholder": "giriraj_singh",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
+            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
+            "scraped_at": "2026-04-20 20:05:45.187031",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Hardeep Singh Puri",
@@ -363,7 +381,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu **Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranc",
@@ -385,6 +403,27 @@
             "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
             "scraped_at": "2026-05-02 00:03:57.391908",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
+            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
+            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-04-19 18:09:30.425946",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
+            "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
+            "scraped_at": "2026-04-19 16:11:04.103449",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
+            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-04-18 18:10:52.761906",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-05-25"
@@ -402,7 +441,18 @@
         "criminal_cases": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
-        "image_placeholder": "sonia_gandhi"
+        "image_placeholder": "sonia_gandhi",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
+            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
+            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-04-19 18:09:30.425946",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Priyanka Gandhi",
@@ -465,7 +515,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
         "image_placeholder": "mamata_banerjee",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
@@ -480,6 +530,13 @@
             "source_title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
             "scraped_at": "2026-05-11 22:40:30.666506",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
+            "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
+            "scraped_at": "2026-04-19 16:11:04.103449",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-05-25"
@@ -784,7 +841,18 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
-        "image_placeholder": "omar_abdullah"
+        "image_placeholder": "omar_abdullah",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the premises of two sons of Karnataka Congress MLA N.A. Ha",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-karnataka-congress-mla-sons-others-in-crypto-linked-pmla-case-haris/article70883362.ece",
+            "source_title": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu",
+            "scraped_at": "2026-04-20 06:28:35.976841",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Sukhvinder Singh Sukhu",
