@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-05-25 14:14:38.227589",
+  "generated_at": "2026-05-25 19:46:57.969663",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
     "criminal_updates_applied": 9,
     "promises_extracted": 11,
-    "new_entities_discovered": 24,
+    "new_entities_discovered": 23,
     "items_needing_review": 2
   },
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 148,
+      "mentions_last_30_days": 147,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -22,22 +22,11 @@
     },
     {
       "name": "Hormuz",
-      "mentions_last_30_days": 108,
+      "mentions_last_30_days": 107,
       "sample_articles": [
         "Strait of Hormuz: Iran steps up claim to control Middle East waterway",
         "Qatar sends mediators to Tehran in sign talks to reopen strait of Hormuz are reaching climax | US-Israel war on Iran | The Guardian",
         "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours | US-Israel war on Iran News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Donald Trump*",
-      "mentions_last_30_days": 67,
-      "sample_articles": [
-        "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
-        "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
-        "Trump may see himself in Ahmadinejad but having him lead Iran was a perplexing idea | Iran | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -54,8 +43,19 @@
       "needs_verification": true
     },
     {
+      "name": "Donald Trump*",
+      "mentions_last_30_days": 65,
+      "sample_articles": [
+        "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
+        "Trump says he will ‘try and make’ son’s wedding, but timing is ‘not good’ for him | Donald Trump | The Guardian",
+        "Trump may see himself in Ahmadinejad but having him lead Iran was a perplexing idea | Iran | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "Donald Trump News",
-      "mentions_last_30_days": 57,
+      "mentions_last_30_days": 55,
       "sample_articles": [
         "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund | Donald Trump News | Al Jazeera",
         "US judge dismisses indictment against Kilmar Abrego Garcia | Donald Trump News | Al Jazeera",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Marco Rubio**",
-      "mentions_last_30_days": 36,
+      "mentions_last_30_days": 38,
       "sample_articles": [
         "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit | Nato | The Guardian",
         "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
@@ -131,6 +131,17 @@
       "needs_verification": true
     },
     {
+      "name": "V.D. Satheesan",
+      "mentions_last_30_days": 29,
+      "sample_articles": [
+        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
+        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
+        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
       "name": "C. Joseph Vijay",
       "mentions_last_30_days": 29,
       "sample_articles": [
@@ -164,34 +175,12 @@
       "needs_verification": true
     },
     {
-      "name": "Abbas Araghchi",
-      "mentions_last_30_days": 27,
-      "sample_articles": [
-        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
-        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
-        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Asif Ali Zardari",
       "mentions_last_30_days": 26,
       "sample_articles": [
         "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
         "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
         "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "V.D. Satheesan",
-      "mentions_last_30_days": 26,
-      "sample_articles": [
-        "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
-        "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
-        "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -214,6 +203,17 @@
         "Manchester shows biggest fall in inner-city deprivation in boost for Burnham | Economics | The Guardian",
         "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
         "Wes Streeting insists he can win Labour leadership race despite ‘underdog’ status | Wes Streeting | The Guardian"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Abbas Araghchi",
+      "mentions_last_30_days": 24,
+      "sample_articles": [
+        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
+        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
+        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -258,17 +258,6 @@
         "Macron under pressure over reparatory justice for France’s role in slave trade | Slavery | The Guardian",
         "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem | Europe | The Guardian",
         "“He’s texting some hot actress”: Candace Owens reacts after Brigitte Macron slap claims shock France again"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Taylor",
-      "mentions_last_30_days": 20,
-      "sample_articles": [
-        "Angus Taylor says migrants are a ‘net drain’ on Australia. The numbers say the opposite is true | Australian immigration and asylum | The Guardian",
-        "‘We are not in Trump’s America’: migrant groups say Angus Taylor in race to bottom with far right | Angus Taylor | The Guardian",
-        "Australia news live: Delta Goodrem hits the stage in Eurovision semi; Angus Taylor accused of ‘dog whistle’ budget reply | Australia news | The Guardian"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
