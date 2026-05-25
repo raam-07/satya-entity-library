@@ -1,13 +1,13 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-24",
+    "last_updated": "2026-05-25",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 5,
+      "criminal_updates": 6,
       "new_promises": 11
     }
   },
@@ -69,7 +69,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-24"
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Amit Shah",
@@ -105,7 +105,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-24"
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Rajnath Singh",
@@ -256,7 +256,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-24"
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -387,7 +387,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-24"
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Sonia Gandhi",
@@ -482,7 +482,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-24"
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Akhilesh Yadav",
@@ -636,7 +636,18 @@
         "criminal_cases": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Siddaramaiah",
-        "image_placeholder": "siddaramaiah"
+        "image_placeholder": "siddaramaiah",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu **The Enforcement Directorate (ED)** conducted searches at various locations in Bengaluru on Tuesday as part",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-a-political-vendetta-claims-nalapad-congress-leaders-question-timing/article70889235.ece",
+            "source_title": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu",
+            "scraped_at": "2026-04-21 23:45:23.522573",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-05-25"
       },
       {
         "name": "Revanth Reddy",
@@ -1317,7 +1328,7 @@
         "cm": "Mamata Banerjee",
         "region": "East",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-24"
+        "party_last_updated": "2026-05-25"
       },
       {
         "name": "Delhi",

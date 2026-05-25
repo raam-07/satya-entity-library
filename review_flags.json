@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-24 21:18:30.034093",
+  "generated_at": "2026-05-25 01:00:14.928253",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 5,
+    "criminal_updates_applied": 6,
     "promises_extracted": 11,
     "new_entities_discovered": 25,
     "items_needing_review": 2
@@ -11,7 +11,7 @@
   "new_entities_discovered": [
     {
       "name": "Tamil Nadu",
-      "mentions_last_30_days": 156,
+      "mentions_last_30_days": 150,
       "sample_articles": [
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
         "Will TVK government take ‘firm stand’ on Mekedatu project, asks Palaniswami - The Hindu",
@@ -44,7 +44,7 @@
     },
     {
       "name": "Donald Trump**",
-      "mentions_last_30_days": 66,
+      "mentions_last_30_days": 67,
       "sample_articles": [
         "Trump shifts between diplomacy and threats in Iran standoff | US-Israel war on Iran News | Al Jazeera",
         "Oil markets nearing ‘red zone’ as Iran crisis continues, warns IEA chief | Iran | The Guardian",
@@ -66,7 +66,7 @@
     },
     {
       "name": "C. Joseph Vijay**",
-      "mentions_last_30_days": 50,
+      "mentions_last_30_days": 49,
       "sample_articles": [
         "After CM Vijay’s order to revive Amma Canteens, AIADMK hopes for comeback of other legacy schemes - The Hindu",
         "Historic shift: Vijay’s Cabinet marks Tamil Nadu’s best SC representation till date - The Hindu",
@@ -93,17 +93,6 @@
         "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
         "What’s the significance of the Russian president’s visit to China? | International Trade News | Al Jazeera",
         "Russia’s Putin to visit China following Trump’s trip | Politics News | Al Jazeera"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
-      "name": "Abbas Araghchi",
-      "mentions_last_30_days": 31,
-      "sample_articles": [
-        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
-        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
-        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -142,23 +131,45 @@
       "needs_verification": true
     },
     {
-      "name": "Candace Owens",
+      "name": "Abbas Araghchi",
       "mentions_last_30_days": 29,
       "sample_articles": [
-        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
-        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
-        "\"Erika wanted his position\": Candace Owens reacts after Charlie Kirk reportedly named wife Erika as TPUSA successor before assassination"
+        "CDF Asim Munir arrives in Iran as part of ongoing mediation efforts: ISPR - Pakistan - DAWN.COM",
+        "CDF Asim Munir leaves for official visit to Iran: security sources - Pakistan - DAWN.COM",
+        "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended | Border Disputes News | Al Jazeera"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
     },
     {
       "name": "Asif Ali Zardari",
-      "mentions_last_30_days": 28,
+      "mentions_last_30_days": 29,
       "sample_articles": [
         "Prince Rahim Aga Khan arrives in Gilgit-Baltistan - Pakistan - DAWN.COM",
         "PM Shehbaz lauds ‘steadfast’ Pak-China friendship, says Beijing supported Islamabad in ‘unwavering fashion’ - Pakistan - DAWN.COM",
         "Govt has not contacted PPP over any constitutional amendment: Bilawal - Pakistan - DAWN.COM"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "C. Joseph Vijay",
+      "mentions_last_30_days": 29,
+      "sample_articles": [
+        "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
+        "T.N. Cabinet expansion LIVE: Congress set to join Tamil Nadu’s first coalition government in decades - The Hindu",
+        "Kamal meets Vijay, submits 6 demands Tamil film industry’s development - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Candace Owens",
+      "mentions_last_30_days": 29,
+      "sample_articles": [
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "Candace Owens: \"Charlie was about to update his will\": Candace Owens sparks backlash after explosive Charlie Kirk conspiracy claims on livestream - The Times of India",
+        "\"Erika wanted his position\": Candace Owens reacts after Charlie Kirk reportedly named wife Erika as TPUSA successor before assassination"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -186,17 +197,6 @@
       "needs_verification": true
     },
     {
-      "name": "C. Joseph Vijay",
-      "mentions_last_30_days": 27,
-      "sample_articles": [
-        "CM’s appeal to kids for votes: Plea in Madras High Court seeks an inquiry by Election Commission - The Hindu",
-        "T.N. Cabinet expansion LIVE: Congress set to join Tamil Nadu’s first coalition government in decades - The Hindu",
-        "Kamal meets Vijay, submits 6 demands Tamil film industry’s development - The Hindu"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "Andy Burnham",
       "mentions_last_30_days": 25,
       "sample_articles": [
@@ -208,23 +208,23 @@
       "needs_verification": true
     },
     {
-      "name": "Kash Patel",
-      "mentions_last_30_days": 25,
-      "sample_articles": [
-        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
-        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
-        "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
-      ],
-      "suggested_action": "Review and add to entities.json",
-      "needs_verification": true
-    },
-    {
       "name": "V.D. Satheesan",
       "mentions_last_30_days": 24,
       "sample_articles": [
         "Congress leader Thiruvanchoor Radhakrishnan elected Kerala Speaker - The Hindu",
         "Full list of Kerala Cabinet Ministers by May 17, says Satheesan - The Hindu",
         "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu"
+      ],
+      "suggested_action": "Review and add to entities.json",
+      "needs_verification": true
+    },
+    {
+      "name": "Kash Patel",
+      "mentions_last_30_days": 23,
+      "sample_articles": [
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Kash Patel faces scrutiny over snorkeling outing at USS Arizona memorial in Hawaii | Hawaii | The Guardian",
+        "Snorkeling at Pearl Harbor, Philadelphia concert date with girlfriend at $50,000 suite: Kash Patel unfazed by new controversies"
       ],
       "suggested_action": "Review and add to entities.json",
       "needs_verification": true
@@ -242,7 +242,7 @@
     },
     {
       "name": "Nigel Farage",
-      "mentions_last_30_days": 21,
+      "mentions_last_30_days": 22,
       "sample_articles": [
         "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – as it happened | Politics | The Guardian",
         "Reform UK talking to watchdog over $7 million gift to leader Farage - World - DAWN.COM",
