@@ -8,7 +8,7 @@
       "cm_updates": 0,
       "party_updates": 1,
       "criminal_updates": 10,
-      "new_promises": 14
+      "new_promises": 15
     }
   },
   "india": {
@@ -2095,6 +2095,16 @@
       "source_title": "No State, be it north or south will be discriminated against in delimitation exercise: PM in LS - The Hindu",
       "scraped_at": "2026-04-16 12:49:19.100707",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the party had supported Jeevan Reddy's election campaigns and accommodated his requests for tickets",
+      "source_url": "https://www.thehindu.com/news/national/telangana/revanth-meets-jagtial-leaders-slams-jeevan-reddys-exit-from-congress/article70862405.ece",
+      "source_title": "Revanth meets Jagtial leaders, slams Jeevan Reddy’s exit from Congress - The Hindu",
+      "scraped_at": "2026-04-15 00:12:39.533728",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
