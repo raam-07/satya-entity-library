@@ -1,14 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-27",
+    "last_updated": "2026-05-28",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 1,
+      "cm_updates": 1,
+      "party_updates": 2,
       "criminal_updates": 10,
-      "new_promises": 15
+      "new_promises": 21
     }
   },
   "india": {
@@ -38,7 +38,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu **Kalvakuntla Kavitha**, president of the **Telangana Rakshana Sena**, urged **Prime Minister Narendra Modi** to remove **Union M",
@@ -74,9 +74,16 @@
             "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
             "scraped_at": "2026-04-19 16:11:04.103449",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu **Amal Kumar Tiwari**, a man from Simri locality in Bihar's Buxar district, was arrested for",
+            "source_url": "https://www.thehindu.com/news/national/bihar-man-sought-money-from-foreign-agency-for-threatening-pm-modis-security-arrested-police/article70850081.ece",
+            "source_title": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu",
+            "scraped_at": "2026-04-11 05:06:00.938906",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Amit Shah",
@@ -112,7 +119,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Rajnath Singh",
@@ -263,7 +270,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -326,7 +333,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Hardeep Singh Puri",
@@ -433,7 +440,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Sonia Gandhi",
@@ -459,7 +466,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Priyanka Gandhi",
@@ -546,7 +553,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Akhilesh Yadav",
@@ -711,7 +718,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Revanth Reddy",
@@ -758,7 +765,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu A Special Investigation Team (SIT) concluded that the assault on Indian Youth Congress activists in Alappuzha by",
@@ -766,9 +773,30 @@
             "source_title": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu",
             "scraped_at": "2026-05-25 16:00:28.488083",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
+            "source_title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
+            "scraped_at": "2026-05-27 04:12:25.958544",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
+            "source_url": "https://www.thehindu.com/news/national/kerala/defiant-pinarayi-vijayan-raises-fist-after-ed-raid-vows-long-battle-against-bjp-and-congress/article71028749.ece",
+            "source_title": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu",
+            "scraped_at": "2026-05-27 11:57:37.524091",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
+            "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
+            "scraped_at": "2026-05-28 00:10:22.645050",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Hemant Soren",
@@ -870,7 +898,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-27"
+        "criminal_last_updated": "2026-05-28"
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -901,6 +929,34 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
         "image_placeholder": "bhupesh_baghel"
+      },
+      {
+        "name": "C. Joseph Vijay",
+        "role": "Chief Minister of Tamil Nadu",
+        "party": "DMK",
+        "state": "Tamil Nadu",
+        "aliases": [
+          "C. Joseph Vijay**"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "auto_added": true,
+        "auto_added_on": "2026-05-28",
+        "gemma_confidence": "high",
+        "mentions_detected": 52
+      },
+      {
+        "name": "V.D. Satheesan",
+        "role": "Chief Minister of Kerala",
+        "party": "INC",
+        "state": "Kerala",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "auto_added": true,
+        "auto_added_on": "2026-05-28",
+        "gemma_confidence": "high",
+        "mentions_detected": 29
       }
     ],
     "parties": [
@@ -1204,7 +1260,9 @@
         "capital": "Patna",
         "ruling_party": "JDU",
         "cm": "Nitish Kumar",
-        "region": "East"
+        "region": "East",
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-05-28"
       },
       {
         "name": "Chhattisgarh",
@@ -1368,7 +1426,9 @@
         "capital": "Chennai",
         "ruling_party": "DMK",
         "cm": "M.K. Stalin",
-        "region": "South"
+        "region": "South",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-05-28"
       },
       {
         "name": "Telangana",
@@ -1413,8 +1473,8 @@
         "ruling_party": "BJP",
         "cm": "Mamata Banerjee",
         "region": "East",
-        "party_confidence": 1.0,
-        "party_last_updated": "2026-05-27"
+        "party_confidence": 0.88,
+        "party_last_updated": "2026-05-28"
       },
       {
         "name": "Delhi",
@@ -2105,6 +2165,76 @@
       "source_title": "Revanth meets Jagtial leaders, slams Jeevan Reddy’s exit from Congress - The Hindu",
       "scraped_at": "2026-04-15 00:12:39.533728",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "them that he would not forget his pre-election promise of resolving their grievances",
+      "source_url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
+      "source_title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
+      "scraped_at": "2026-05-16 11:11:28.750645",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhajanlal Sharma",
+      "promise_text": "this decision, citing consumer convenience and grievances following growing protests over alleged billing irregularities",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-scraps-smart-prepaid-meter-system-shifts-all-consumers-to-postpaid-mode/article70954813.ece",
+      "source_title": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu",
+      "scraped_at": "2026-05-08 11:57:19.685965",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "a plan to transform Kochi into a model city with seamless transport and world-class infrastructure through a \"twin city\" expansion",
+      "source_url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
+      "source_title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan - The Hindu",
+      "scraped_at": "2026-05-24 20:15:17.286499",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mamata Banerjee",
+      "promise_text": "that she would hire all I-PAC employees and absorb them into the party",
+      "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
+      "source_title": "Amid speculation of I-PAC suspending Bengal operations, Mamata says will engage its members in her party - The Hindu",
+      "scraped_at": "2026-04-19 16:10:39.383480",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "that the appointment of Rathan U",
+      "source_url": "https://www.thehindu.com/news/national/kerala/needless-fuss-kerala-cm-vd-satheesan-defends-posting-former-state-poll-chief-rathan-kelkar-as-his-secretary/article71020418.ece",
+      "source_title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
+      "scraped_at": "2026-05-25 09:17:28.180790",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "that his party is mobilizing a massive people's movement across Tamil Nadu",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-not-relying-merely-on-road-campaigns-massive-peoples-movement-under-way-vijay/article70877074.ece",
+      "source_title": "TVK not relying merely on road campaigns; massive people’s movement under way: Vijay - The Hindu",
+      "scraped_at": "2026-04-18 12:02:55.029154",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "to implement the UCC within six months if his party won",
+      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-polls-2026-modi-mamata-spar-over-ucc-implementation/article70851739.ece",
+      "source_title": "Bengal polls 2026: Modi, Mamata spar over UCC implementation - The Hindu",
+      "scraped_at": "2026-04-11 17:42:10.589164",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
