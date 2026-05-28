@@ -685,18 +685,14 @@ def detect_ruling_parties(articles, entities, nlp, llm):
     return party_updates, party_flags
 
 
-# --- 3. Promise Extraction ---
+# --- 3. Promise Extraction (Canonicalised) ---
 def extract_promises(articles, entities, nlp, llm):
     logging.info("--- Extracting promises ---")
     window_articles = filter_by_window(articles, WINDOW_PROMISES_DAYS)
 
-    known_names = set()
-    for m in (entities['india']['cabinet_ministers'] +
-              entities['india']['opposition_leaders'] +
-              entities['india']['state_chief_ministers']):
-        known_names.add(m['name'].lower())
-        for alias in m.get('aliases', []):
-            known_names.add(alias.lower())
+    # Master full canonical name resolution datasets
+    minister_lookup = build_minister_lookup(entities)
+    canonical_set   = build_canonical_minister_set(entities)
 
     promise_keywords = [
         'promised', 'vowed', 'pledged', 'assured', 'committed',
@@ -724,20 +720,34 @@ def extract_promises(articles, entities, nlp, llm):
             person       = match.group(1).strip()
             promise_text = match.group(2).strip()
 
-            if person.lower() not in known_names:
+            # --- RESOLVE TO CANONICAL POLITICIAN FULL NAME ---
+            canonical_person = None
+            
+            # Direct exact match or alias lookup (e.g. Narendra Modi or PM Modi)
+            if person.lower() in minister_lookup:
+                canonical_person = minister_lookup[person.lower()]
+            else:
+                # Ambiguous search (resolves "Modi" -> "Narendra Modi")
+                candidates = find_canonical_candidates(person, canonical_set)
+                if len(candidates) == 1:
+                    canonical_person = candidates[0]
+
+            # If we cannot confidently resolve this to a known minister, skip
+            if not canonical_person:
                 continue
+                
             if len(promise_text) < 20:
                 continue
 
             is_promise, gem_conf = gemma_validate(
                 llm,
-                f"Is this text describing a promise or commitment made by {person}?",
-                f"{person} {promise_text}"
+                f"Is this text describing a promise or commitment made by {canonical_person}?",
+                f"{canonical_person} {promise_text}"
             )
 
             if is_promise:
                 extracted_promises.append({
-                    "person":           person,
+                    "person":           canonical_person,  # Saved under clean canonical full name
                     "promise_text":     promise_text,
                     "source_url":       article.get('url', ''),
                     "source_title":     article.get('title', ''),
@@ -746,7 +756,7 @@ def extract_promises(articles, entities, nlp, llm):
                     "status":           "pending_review",
                     "verified":         False,
                 })
-                logging.info(f"PROMISE FOUND: {person} — {promise_text[:80]}...")
+                logging.info(f"PROMISE FOUND: {canonical_person} — {promise_text[:80]}...")
 
     logging.info(f"Extracted {len(extracted_promises)} promises.")
     return extracted_promises
