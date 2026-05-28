@@ -341,8 +341,22 @@ Reply with ONLY the exact name from the options. No explanation.
             json.dump(existing_audit, f, indent=2, ensure_ascii=False)
         logging.info(f"Audit log: {len(audit_log)} name changes recorded.")
 
+    # ✅ FIXED: Chunk writes to prevent Sheets API 500 / Payload-Size crashes
     if batch_updates:
-        sheet.batch_update(batch_updates)
+        chunk_size = 100
+        logging.info(f"Sending {len(batch_updates)} updates to Google Sheets in chunks of {chunk_size}...")
+        for i in range(0, len(batch_updates), chunk_size):
+            chunk = batch_updates[i : i + chunk_size]
+            try:
+                sheet.batch_update(chunk)
+                logging.info(f"Wrote batch of {len(chunk)} updates (progress: {i + len(chunk)}/{len(batch_updates)})")
+                time.sleep(1.0)  # Brief pause to respect API rate limits
+            except Exception as e:
+                logging.warning(f"Batch write failed at index {i} due to: {e}. Retrying after 5s...")
+                time.sleep(5.0)
+                sheet.batch_update(chunk)
+                logging.info("Batch retry successful.")
+        
         logging.info(
             f"Canonicalisation complete: {len(batch_updates)} rows processed, "
             f"{len(audit_log)} actual name changes."
@@ -1173,7 +1187,7 @@ def main():
 
     with open(REVIEW_FLAGS_PATH, 'w', encoding='utf-8') as f:
         json.dump(review_output, f, indent=2, ensure_ascii=False)
-    logging.info(f"Saved review_flags.json ({len(all_flags)} items need review)")
+    logging.info(f"Saved review_flags.json ({len(all_flags)} need review)")
 
     elapsed = round(time.time() - start_time, 2)
     logging.info(f"--- Entity Updater Finished in {elapsed}s ---")
