@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 10,
-      "new_promises": 21
+      "new_promises": 23
     }
   },
   "india": {
@@ -2241,6 +2241,26 @@
       "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-polls-2026-modi-mamata-spar-over-ucc-implementation/article70851739.ece",
       "source_title": "Bengal polls 2026: Modi, Mamata spar over UCC implementation - The Hindu",
       "scraped_at": "2026-04-11 17:42:10.589164",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "to oppose any attempt to weaken Karnataka's voice in the matter",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "source_title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
+      "scraped_at": "2026-04-05 19:41:36.196712",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that the government will conduct surveys and provide compensation as it has done in previous instances of unseasonal rain or hailstorms",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/unseasonal-rains-in-maharashtra-govt-will-provide-farmers-all-assistance-promises-cm/article70826670.ece",
+      "source_title": "Unseasonal rains in Maharashtra: Govt will provide farmers all assistance, promises CM - The Hindu",
+      "scraped_at": "2026-04-05 13:10:34.739347",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
