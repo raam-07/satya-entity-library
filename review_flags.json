@@ -1,40 +1,24 @@
 {
-  "generated_at": "2026-05-28 16:42:57.960302",
+  "generated_at": "2026-05-29 00:01:04.024621",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 10,
     "promises_extracted": 21,
-    "new_entities_auto_added": 2,
+    "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 3
   },
-  "new_entities_auto_added": [
-    {
-      "name": "C. Joseph Vijay",
-      "category": "state_chief_minister",
-      "confidence": "high",
-      "mentions": 52,
-      "role": "Chief Minister of Tamil Nadu",
-      "party": "DMK"
-    },
-    {
-      "name": "V.D. Satheesan",
-      "category": "state_chief_minister",
-      "confidence": "high",
-      "mentions": 29,
-      "role": "Chief Minister of Kerala",
-      "party": "INC"
-    }
-  ],
+  "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.83,
-      "reason": "Gemma rejected",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
       "context": "Bengali actors face heat after power shift to BJP; FIR filed over 2021 social media posts linked to post-poll violence - The Hindu **Parambrata Chatterjee**, a Bengali actor, announced he had to align"
     },
     {
@@ -42,7 +26,7 @@
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
       "confidence": 0.67,
-      "mentions": 4,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**"
     },

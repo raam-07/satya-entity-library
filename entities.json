@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-28",
+    "last_updated": "2026-05-29",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -83,7 +83,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Amit Shah",
@@ -119,7 +119,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Rajnath Singh",
@@ -270,7 +270,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -333,7 +333,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Hardeep Singh Puri",
@@ -388,7 +388,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 7,
+        "criminal_cases_in_news": 8,
         "criminal_incidents": [
           {
             "incident_text": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu **Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranc",
@@ -438,9 +438,16 @@
             "source_title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
             "scraped_at": "2026-04-17 19:46:37.812241",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
+            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
+            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
+            "scraped_at": "2026-04-09 09:55:44.844181",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Sonia Gandhi",
@@ -466,7 +473,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Priyanka Gandhi",
@@ -553,7 +560,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Akhilesh Yadav",
@@ -718,7 +725,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Revanth Reddy",
@@ -796,7 +803,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Hemant Soren",
@@ -898,7 +905,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-28"
+        "criminal_last_updated": "2026-05-29"
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -1262,7 +1269,7 @@
         "cm": "Nitish Kumar",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-05-28"
+        "cm_last_updated": "2026-05-29"
       },
       {
         "name": "Chhattisgarh",
@@ -1428,7 +1435,7 @@
         "cm": "M.K. Stalin",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-28"
+        "party_last_updated": "2026-05-29"
       },
       {
         "name": "Telangana",
@@ -1473,8 +1480,8 @@
         "ruling_party": "BJP",
         "cm": "Mamata Banerjee",
         "region": "East",
-        "party_confidence": 0.88,
-        "party_last_updated": "2026-05-28"
+        "party_confidence": 0.89,
+        "party_last_updated": "2026-05-29"
       },
       {
         "name": "Delhi",
