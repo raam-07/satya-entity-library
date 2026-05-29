@@ -895,13 +895,20 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
         "image_placeholder": "omar_abdullah",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the premises of two sons of Karnataka Congress MLA N.A. Ha",
             "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-karnataka-congress-mla-sons-others-in-crypto-linked-pmla-case-haris/article70883362.ece",
             "source_title": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu",
             "scraped_at": "2026-04-20 06:28:35.976841",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Congress MLA disqualified from Assembly hours after sentence; Congress slams ‘hasty’ move - The Hindu The **Legislative Assembly Secretariat** of Madhya Pradesh disqualified **Rajendra Bharti**, an ML",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-mla-disqualified-from-assembly-hours-after-sentence-congress-slams-hasty-move/article70820684.ece",
+            "source_title": "Congress MLA disqualified from Assembly hours after sentence; Congress slams ‘hasty’ move - The Hindu",
+            "scraped_at": "2026-04-04 02:40:00.718528",
             "incident_type": "serious"
           }
         ],

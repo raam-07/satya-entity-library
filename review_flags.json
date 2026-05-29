@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29 13:37:21.657860",
+  "generated_at": "2026-05-29 23:17:42.377887",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -7,7 +7,7 @@
     "promises_extracted": 23,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -29,6 +29,14 @@
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu The **Uttar Pradesh** government has decided to discontinue the smart prepaid electricity "
     },
     {
       "type": "ruling_party",
