@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 12,
-      "new_promises": 25
+      "new_promises": 27
     }
   },
   "india": {
@@ -2309,6 +2309,26 @@
       "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-trying-to-add-illegal-voters-from-outside-in-bengal-electoral-rolls-mamata/article70806124.ece",
       "source_title": "West Bengal election 2026: BJP trying to add illegal voters from outside in Bengal electoral rolls: Mamata Banerjee - The Hindu",
       "scraped_at": "2026-03-31 08:15:27.352481",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "an NDA government would advance a \"Viksit Kerala\" vision with faster development and measures to curb outward youth migration",
+      "source_url": "https://www.thehindu.com/elections/modi-targets-ldf-udf-over-decades-of-corruption-calls-bjp-keralas-real-a-team/article70799220.ece",
+      "source_title": "BJP is the ‘A team’ of Kerala, says Modi at campaign meet - The Hindu",
+      "scraped_at": "2026-03-29 21:41:49.368396",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "the Illatharasi Scheme under which all non-income tax assessee housewives will be given a coupon valued at ₹8",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+      "source_title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
+      "scraped_at": "2026-03-29 14:10:10.469164",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
