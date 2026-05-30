@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 11,
-      "new_promises": 24
+      "criminal_updates": 12,
+      "new_promises": 25
     }
   },
   "india": {
@@ -683,7 +683,18 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
-        "image_placeholder": "nitish_kumar"
+        "image_placeholder": "nitish_kumar",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/hamirpur-bridge-collapse-case-lodged-against-executing-agency-contractor/article71040445.ece",
+            "source_title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
+            "scraped_at": "2026-05-30 06:55:31.675098",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Mamata Banerjee",
@@ -2288,6 +2299,16 @@
       "source_url": "https://www.thehindu.com/news/national/need-to-continuously-update-public-services-to-achieve-goal-of-viksit-bharat-pm-modi/article70814539.ece",
       "source_title": "Need to continuously update public services to achieve goal of 'Viksit Bharat': PM Modi - The Hindu",
       "scraped_at": "2026-04-02 06:56:40.273691",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mamata Banerjee",
+      "promise_text": "to fight against these attempts",
+      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-trying-to-add-illegal-voters-from-outside-in-bengal-electoral-rolls-mamata/article70806124.ece",
+      "source_title": "West Bengal election 2026: BJP trying to add illegal voters from outside in Bengal electoral rolls: Mamata Banerjee - The Hindu",
+      "scraped_at": "2026-03-31 08:15:27.352481",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
