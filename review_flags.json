@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-30 03:17:27.727468",
+  "generated_at": "2026-05-30 12:05:00.950910",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 10,
-    "promises_extracted": 23,
+    "criminal_updates_applied": 11,
+    "promises_extracted": 24,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -16,10 +16,18 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.71,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
       "context": "Bengali actors face heat after power shift to BJP; FIR filed over 2021 social media posts linked to post-poll violence - The Hindu **Parambrata Chatterjee**, a Bengali actor, announced he had to align"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Tamil Nadu",
+      "candidate": "M.K. Stalin",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Vijay, Udhayanidhi, Palaniswami take oath as MLAs in Tamil Nadu; J.C.D. Prabhakar nominated for Speaker post - The Hindu **C. Joseph Vijay**, the new **Tamil Nadu Chief Minister**, and his cabinet col"
     },
     {
       "type": "cm_detection",
@@ -34,8 +42,9 @@
       "type": "cm_detection",
       "state": "Uttar Pradesh",
       "candidate": "Yogi Adityanath",
-      "confidence": 0.75,
-      "reason": "Gemma rejected",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
       "context": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu The **Uttar Pradesh** government has decided to discontinue the smart prepaid electricity "
     },
     {

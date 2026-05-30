@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 10,
-      "new_promises": 23
+      "criminal_updates": 11,
+      "new_promises": 24
     }
   },
   "india": {
@@ -953,11 +953,21 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
-        "mentions_detected": 52
+        "mentions_detected": 52,
+        "criminal_incidents": [
+          {
+            "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
+            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
+            "scraped_at": "2026-05-30 03:52:17.421777",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "V.D. Satheesan",
@@ -2268,6 +2278,16 @@
       "source_url": "https://www.thehindu.com/news/national/maharashtra/unseasonal-rains-in-maharashtra-govt-will-provide-farmers-all-assistance-promises-cm/article70826670.ece",
       "source_title": "Unseasonal rains in Maharashtra: Govt will provide farmers all assistance, promises CM - The Hindu",
       "scraped_at": "2026-04-05 13:10:34.739347",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that the principle of governance in the country is based on the mantra \"Nagrik Devo Bhavah\" (citizens are like gods)",
+      "source_url": "https://www.thehindu.com/news/national/need-to-continuously-update-public-services-to-achieve-goal-of-viksit-bharat-pm-modi/article70814539.ece",
+      "source_title": "Need to continuously update public services to achieve goal of 'Viksit Bharat': PM Modi - The Hindu",
+      "scraped_at": "2026-04-02 06:56:40.273691",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
