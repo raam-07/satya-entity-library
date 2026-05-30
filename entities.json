@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-29",
+    "last_updated": "2026-05-30",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -83,7 +83,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Amit Shah",
@@ -119,7 +119,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Rajnath Singh",
@@ -270,7 +270,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -333,7 +333,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Hardeep Singh Puri",
@@ -447,7 +447,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Sonia Gandhi",
@@ -473,7 +473,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Priyanka Gandhi",
@@ -560,7 +560,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Akhilesh Yadav",
@@ -725,7 +725,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Revanth Reddy",
@@ -803,7 +803,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Hemant Soren",
@@ -912,7 +912,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-29"
+        "criminal_last_updated": "2026-05-30"
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -1276,7 +1276,7 @@
         "cm": "Nitish Kumar",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-05-29"
+        "cm_last_updated": "2026-05-30"
       },
       {
         "name": "Chhattisgarh",
@@ -1442,7 +1442,7 @@
         "cm": "M.K. Stalin",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-29"
+        "party_last_updated": "2026-05-30"
       },
       {
         "name": "Telangana",
@@ -1488,7 +1488,7 @@
         "cm": "Mamata Banerjee",
         "region": "East",
         "party_confidence": 0.89,
-        "party_last_updated": "2026-05-29"
+        "party_last_updated": "2026-05-30"
       },
       {
         "name": "Delhi",
