@@ -1,14 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-05-30",
+    "last_updated": "2026-05-31",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 12,
-      "new_promises": 27
+      "new_promises": 29
     }
   },
   "india": {
@@ -83,7 +83,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Amit Shah",
@@ -119,7 +119,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Rajnath Singh",
@@ -270,7 +270,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -333,7 +333,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Hardeep Singh Puri",
@@ -447,7 +447,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Sonia Gandhi",
@@ -473,7 +473,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Priyanka Gandhi",
@@ -560,7 +560,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Akhilesh Yadav",
@@ -694,7 +694,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Mamata Banerjee",
@@ -736,7 +736,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Revanth Reddy",
@@ -814,7 +814,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Hemant Soren",
@@ -923,7 +923,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -978,7 +978,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-05-30"
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "V.D. Satheesan",
@@ -1297,7 +1297,7 @@
         "cm": "Nitish Kumar",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-05-30"
+        "cm_last_updated": "2026-05-31"
       },
       {
         "name": "Chhattisgarh",
@@ -1463,7 +1463,7 @@
         "cm": "M.K. Stalin",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-30"
+        "party_last_updated": "2026-05-31"
       },
       {
         "name": "Telangana",
@@ -1509,7 +1509,7 @@
         "cm": "Mamata Banerjee",
         "region": "East",
         "party_confidence": 0.89,
-        "party_last_updated": "2026-05-30"
+        "party_last_updated": "2026-05-31"
       },
       {
         "name": "Delhi",
@@ -2329,6 +2329,26 @@
       "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
       "source_title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
       "scraped_at": "2026-03-29 14:10:10.469164",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "the party's candidates for the upcoming Tamil Nadu Assembly elections",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+      "source_title": "TVK chief Vijay to contest from Perambur, Tiruchi East constituencies making electoral debut in T.N. Assembly election - The Hindu",
+      "scraped_at": "2026-03-29 08:50:52.753527",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the Minister will once again enter the fray from the Katpadi constituency",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-dmk-candidate-list-includes-60-fresh-faces-and-4-mayors/article70796987.ece",
+      "source_title": "T.N. Assembly election: DMK candidate list includes 60 fresh faces and 4 Mayors - The Hindu",
+      "scraped_at": "2026-03-28 19:40:26.314196",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
