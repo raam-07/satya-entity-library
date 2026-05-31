@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 12,
-      "new_promises": 29
+      "criminal_updates": 14,
+      "new_promises": 31
     }
   },
   "india": {
@@ -102,7 +102,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "ATS questions 57 in Maharashtra over alleged gangster network links - The Hindu **Maharashtra Anti-Terrorism Squad (ATS)** officials conducted searches across several cities in the state as part of an",
@@ -116,6 +116,13 @@
             "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
             "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
             "scraped_at": "2026-05-08 21:38:27.389329",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express **Amit Shah**, **Union Home and Cooperation Minister**, directed district magistra",
+            "source_url": "https://indianexpress.com/article/india/strictly-monitor-report-demographic-changes-in-border-districts-amit-shah-to-dms-10716332/",
+            "source_title": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express",
+            "scraped_at": "2026-05-31 01:41:16.381253",
             "incident_type": "serious"
           }
         ],
@@ -369,6 +376,57 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Kiren_Rijiju",
         "known_promises": [],
         "image_placeholder": "kiren_rijiju"
+      },
+      {
+        "name": "Abhishek Banerjee",
+        "role": "Trinamool Congress general secretary",
+        "party": "TMC",
+        "state": null,
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 5,
+        "auto_added": true,
+        "auto_added_on": "2026-05-31",
+        "gemma_confidence": "high",
+        "mentions_detected": 42,
+        "criminal_incidents": [
+          {
+            "incident_text": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu **Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect secu",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+            "scraped_at": "2026-05-26 04:51:03.882465",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
+            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
+            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
+            "scraped_at": "2026-05-31 09:37:55.181015",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
+            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
+            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
+            "scraped_at": "2026-05-31 06:30:16.763734",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 06:27:56.337796",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
+            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
+            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
+            "scraped_at": "2026-05-31 06:25:25.115843",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-05-31"
       }
     ],
     "opposition_leaders": [
@@ -519,7 +577,18 @@
         "criminal_cases": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
-        "image_placeholder": "arvind_kejriwal"
+        "image_placeholder": "arvind_kejriwal",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
+            "source_url": "https://odishabytes.com/kejriwals-claims-of-ib-threats-backfire-call-traced-back-to-aap-leader/",
+            "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
+            "scraped_at": "2026-05-30 21:40:47.248285",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-05-31"
       },
       {
         "name": "Mamata Banerjee",
@@ -536,7 +605,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
         "image_placeholder": "mamata_banerjee",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
@@ -558,6 +627,13 @@
             "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
             "scraped_at": "2026-04-19 16:11:04.103449",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 06:27:56.337796",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-05-31"
@@ -1508,7 +1584,7 @@
         "ruling_party": "BJP",
         "cm": "Mamata Banerjee",
         "region": "East",
-        "party_confidence": 0.89,
+        "party_confidence": 0.8,
         "party_last_updated": "2026-05-31"
       },
       {
@@ -2349,6 +2425,46 @@
       "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-dmk-candidate-list-includes-60-fresh-faces-and-4-mayors/article70796987.ece",
       "source_title": "T.N. Assembly election: DMK candidate list includes 60 fresh faces and 4 Mayors - The Hindu",
       "scraped_at": "2026-03-28 19:40:26.314196",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "citizens that there is no shortage of fuel in India and urged them not to hoard it",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/people-spreading-rumours-on-lockdown-will-be-booked-cm-fadnavis/article70793001.ece",
+      "source_title": "People spreading rumours on lockdown will be booked: CM Fadnavis - The Hindu",
+      "scraped_at": "2026-03-27 22:43:13.699842",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "the Lok Sabha on Friday that India has adequate fertilizer stocks to meet farmer needs despite disruptions caused by the ongoing Iran-Israel war",
+      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
+      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
+      "scraped_at": "2026-03-27 17:07:37.561493",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "that he spoke with State Agriculture Ministers about availability and reassured citizens there is no need for panic",
+      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
+      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
+      "scraped_at": "2026-03-27 17:07:37.561493",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "his full backing for the proposal",
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ0gzckxxYjlBV0VNRlU5Mk41NmYzZFpWUTlRVDRvUmVSZVlTeWNXN0N0VEZTc1p5NTJyaXZNN0ZPWjA2dW9uMXN6ZnJ3MG13ZTNYQlhMQk9ZOXFBVzN6NGZaZVoycWw5UGZfOTlNRm9VTy1qbmppeHVvNmJxb1dqZlBvcnNKNnN0Z1kzc3ZfX1dsbm5nbmNSZDY0QWg1YXRCSU1JR3JKV2JEc19HRFpFYndLQmwySGxQTi1nSmlDVG9RUFRPQlNmWWxLX2o4WkR3MEpKSXZDM0pmRzJuQmZqZTRRQ3MxdEF4ckFjTzJSa2V4QkZWZmZZMkVLZzZzSnYxemNja2V5dGs0VnJ4c2dpdE9sUUY?oc=5",
+      "source_title": "Say 'Jai Shri Ram' in classrooms instead of 'Yes sir' during attendance calls: Karnataka BJP MLA Janardhan Reddy",
+      "scraped_at": "2026-05-31 06:29:46.128120",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

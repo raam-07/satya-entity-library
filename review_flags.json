@@ -1,22 +1,31 @@
 {
-  "generated_at": "2026-05-31 00:03:56.133643",
+  "generated_at": "2026-05-31 22:49:40.672812",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 12,
-    "promises_extracted": 29,
-    "new_entities_auto_added": 0,
+    "criminal_updates_applied": 14,
+    "promises_extracted": 31,
+    "new_entities_auto_added": 1,
     "new_entities_needs_review": 0,
     "items_needing_review": 6
   },
-  "new_entities_auto_added": [],
+  "new_entities_auto_added": [
+    {
+      "name": "Abhishek Banerjee",
+      "category": "cabinet_minister",
+      "confidence": "high",
+      "mentions": 42,
+      "role": "Trinamool Congress general secretary",
+      "party": "TMC"
+    }
+  ],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.78,
+      "confidence": 0.83,
       "reason": "Gemma rejected",
       "context": "Bengali actors face heat after power shift to BJP; FIR filed over 2021 social media posts linked to post-poll violence - The Hindu **Parambrata Chatterjee**, a Bengali actor, announced he had to align"
     },
@@ -33,8 +42,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.58,
-      "mentions": 7,
+      "confidence": 0.62,
+      "mentions": 10,
       "reason": "Below auto-update threshold",
       "context": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**"
     },
@@ -42,8 +51,8 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.43,
-      "mentions": 3,
+      "confidence": 0.56,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "Pinarayi slams Rahul for drawing equivalence between LDF and Hindutva forces in Chhattisgarh - The Hindu **Chief Minister Pinarayi Vijayan** of Kerala criticized **Rahul Gandhi**, the Leader of the Op"
     },
