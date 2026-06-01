@@ -6,6 +6,10 @@ on:
     - cron: '0/5 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: satya-entity-updater
+  cancel-in-progress: false
+
 jobs:
   update_entities:
     runs-on: ubuntu-latest
@@ -69,13 +73,44 @@ jobs:
         run: |
           python entity_updater.py
 
-      - name: Commit updated entities.json back to repo
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "satya-bot@github.com"
           git config --local user.name "Satya Bot"
           git add entities.json review_flags.json
-          git diff --staged --quiet || git commit -m "Auto-update entities.json [$(date '+%Y-%m-%d')]"
-          git push
+
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            echo "Changes detected, committing..."
+            git commit -m "Auto-update entities.json [$(date '+%Y-%m-%d')]"
+
+            # Pull latest changes to avoid conflicts
+            echo "Pulling latest changes with rebase..."
+            git pull --rebase origin main
+
+            # Push with Retry Logic
+            echo "Pushing changes..."
+            MAX_RETRIES=3
+            RETRY_COUNT=0
+
+            until git push origin HEAD:main || [ $RETRY_COUNT -eq $MAX_RETRIES ]; do
+              RETRY_COUNT=$((RETRY_COUNT+1))
+              echo "Push failed, retry $RETRY_COUNT of $MAX_RETRIES..."
+              sleep 2
+              git pull --rebase origin main
+            done
+
+            if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+              echo "Failed to push after $MAX_RETRIES attempts"
+              exit 1
+            fi
+
+            echo "Successfully pushed changes"
+          else
+            echo "No changes to commit"
+          fi
 
       - name: Upload artifacts
         if: always()

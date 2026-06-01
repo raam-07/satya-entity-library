@@ -708,6 +708,13 @@ def extract_promises(articles, entities, nlp, llm):
     minister_lookup = build_minister_lookup(entities)
     canonical_set   = build_canonical_minister_set(entities)
 
+    # Load existing promise URLs to skip redundant Gemma calls
+    existing_promise_urls = set()
+    if 'extracted_promises' in entities:
+        for p in entities['extracted_promises']:
+            if p.get('source_url'):
+                existing_promise_urls.add(p['source_url'].strip())
+
     promise_keywords = [
         'promised', 'vowed', 'pledged', 'assured', 'committed',
         'announced', 'declared', 'stated', 'said he will', 'said she will',
@@ -723,6 +730,11 @@ def extract_promises(articles, entities, nlp, llm):
     extracted_promises = []
 
     for article in window_articles:
+        url = article.get('url', '').strip()
+        # Bypass articles whose promises have already been extracted and validated
+        if url and url in existing_promise_urls:
+            continue
+
         raw_text = (
             f"{article.get('title', '')} "
             f"{article.get('rephrased_article', '')} "
@@ -781,12 +793,21 @@ def detect_criminal_cases(articles, entities, nlp, llm):
     logging.info("--- Detecting criminal cases ---")
 
     known_entities = {}
-    for m in (entities['india']['cabinet_ministers'] +
-              entities['india']['opposition_leaders'] +
-              entities['india']['state_chief_ministers']):
+    all_ministers = (entities['india']['cabinet_ministers'] +
+                      entities['india']['opposition_leaders'] +
+                      entities['india']['state_chief_ministers'])
+    
+    for m in all_ministers:
         known_entities[m['name'].lower()] = m['name']
         for alias in m.get('aliases', []):
             known_entities[alias.lower()] = m['name']
+
+    # Load existing validated incident URLs to skip redundant Gemma runs
+    known_incident_urls = set()
+    for m in all_ministers:
+        for incident in m.get('criminal_incidents', []):
+            if incident.get('source_url'):
+                known_incident_urls.add(incident['source_url'].strip())
 
     SERIOUS_CRIMINAL_KEYWORDS = [
         'fir filed against', 'fir registered against',
@@ -826,7 +847,9 @@ def detect_criminal_cases(articles, entities, nlp, llm):
         for entity_lower, canonical_name in known_entities.items():
             if len(entity_lower) < 4:
                 continue
-            if entity_lower not in text_lower:
+            # Use strict word boundary regex match for high accuracy
+            pattern = r'\b' + re.escape(entity_lower) + r'\b'
+            if not re.search(pattern, text_lower):
                 continue
 
             already_logged = any(
@@ -836,21 +859,33 @@ def detect_criminal_cases(articles, entities, nlp, llm):
             if already_logged:
                 continue
 
+            url = article.get('url', '').strip()
+            incident_type = "serious" if has_serious else "broad"
+
+            # Bypass Gemma validation if this URL was already validated and saved
+            if url and url in known_incident_urls:
+                entity_incidents[canonical_name].append({
+                    "incident_text": text[:200],
+                    "source_url":    url,
+                    "source_title":  article.get('title', ''),
+                    "scraped_at":    article.get('scraped_at', ''),
+                    "incident_type": incident_type,
+                })
+                continue
+
             if has_serious:
                 confirmed     = True
-                incident_type = "serious"
             else:
                 confirmed, _ = gemma_validate(
                     llm,
                     f"Is this article specifically about a criminal case, FIR, arrest, or legal action directly involving '{canonical_name}'?",
                     text[:400]
                 )
-                incident_type = "broad"
 
             if confirmed:
                 entity_incidents[canonical_name].append({
                     "incident_text": text[:200],
-                    "source_url":    article.get('url', ''),
+                    "source_url":    url,
                     "source_title":  article.get('title', ''),
                     "scraped_at":    article.get('scraped_at', ''),
                     "incident_type": incident_type,
@@ -901,38 +936,96 @@ def discover_new_entities(articles, entities, nlp, llm):
         for alias in leader.get('aliases', []):
             known_names.add(alias.lower())
 
-    # Count mentions of unknown PERSON entities via spaCy NER
+    # Count mentions of unknown PERSON entities (and possible misclassified ORG/GPE names) via spaCy NER
     person_counter  = Counter()
     person_contexts = defaultdict(list)
+
+    def is_candidate_name(ent_text):
+        ent_text = ent_text.strip()
+        words = ent_text.split()
+        # Indian politician names generally consist of 2 or 3 capitalized words
+        if len(words) not in (2, 3):
+            return False
+        # Must be strictly title-cased words containing letters only
+        if not all(len(w) > 1 and w[0].isupper() and w.isalpha() for w in words):
+            return False
+        
+        # Suffix and category stop-words to exclude standard geographic or institutional names
+        stop_words = {
+            'district', 'state', 'commission', 'board', 'court', 'police', 
+            'government', 'ministry', 'department', 'party', 'union', 'front',
+            'pradesh', 'bengal', 'delhi', 'karnataka', 'kerala', 'bihar',
+            'punjab', 'gujarat', 'tamil', 'nadu', 'rajasthan', 'mumbai', 'kolkata',
+            'india', 'indian', 'national', 'central', 'assembly', 'elections',
+            'election', 'high', 'supreme', 'bjp', 'congress', 'tmc', 'aap'
+        }
+        if any(w.lower() in stop_words for w in words):
+            return False
+        return True
 
     for article in window_articles:
         text = f"{article.get('title', '')} {article.get('rephrased_article', '')}"
         doc  = nlp(text[:800])
         for ent in doc.ents:
-            if ent.label_ == 'PERSON' and len(ent.text.strip()) > 5:
-                name = ent.text.strip()
+            name = ent.text.strip()
+            
+            # Heuristic checks to expand recall (capturing spaCy GPE/ORG misclassifications of Indian names)
+            is_valid = False
+            if ent.label_ == 'PERSON' and len(name) > 5:
+                is_valid = True
+            elif ent.label_ in ('ORG', 'GPE') and is_candidate_name(name):
+                is_valid = True
+
+            if is_valid:
                 if name.lower() not in known_names:
                     person_counter[name] += 1
                     if len(person_contexts[name]) < 5:
                         person_contexts[name].append(text[:400])
+
+    # Algorithmic Name Consolidation: merge shorter name variations (e.g. "Suvendu" -> "Suvendu Adhikari")
+    # Sort candidate names by length descending
+    sorted_names = sorted(person_counter.keys(), key=len, reverse=True)
+    consolidated_counter = Counter()
+    consolidated_contexts = defaultdict(list)
+
+    for name in sorted_names:
+        count = person_counter[name]
+        contexts = person_contexts[name]
+        matched = False
+        
+        # Check if this name is a strict whole-word substring of any already consolidated longer name
+        for longer_name in list(consolidated_counter.keys()):
+            if re.search(r'\b' + re.escape(name) + r'\b', longer_name, re.IGNORECASE):
+                consolidated_counter[longer_name] += count
+                # Merge contexts up to a max of 5
+                for ctx in contexts:
+                    if ctx not in consolidated_contexts[longer_name]:
+                        consolidated_contexts[longer_name].append(ctx)
+                consolidated_contexts[longer_name] = consolidated_contexts[longer_name][:5]
+                matched = True
+                break
+        
+        if not matched:
+            consolidated_counter[name] = count
+            consolidated_contexts[name] = contexts[:5]
 
     auto_added = []
     flagged    = []
 
     valid_categories = {'cabinet_minister', 'state_chief_minister', 'opposition_leader'}
 
-    for name, count in person_counter.most_common(50):
+    for name, count in consolidated_counter.most_common(50):
         if count < NEW_ENTITY_MIN_MENTIONS:
             continue
 
-        context_sample = ' '.join(person_contexts[name][:3])
+        context_sample = ' '.join(consolidated_contexts[name][:3])
 
         if llm is None:
             flagged.append({
                 "name":            name,
                 "mentions":        count,
                 "reason":          "No LLM available for validation",
-                "sample_articles": person_contexts[name][:2],
+                "sample_articles": consolidated_contexts[name][:2],
             })
             continue
 
