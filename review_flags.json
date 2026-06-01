@@ -1,25 +1,47 @@
 {
-  "generated_at": "2026-05-31 22:49:40.672812",
+  "generated_at": "2026-06-01 09:49:22.326231",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 14,
-    "promises_extracted": 31,
-    "new_entities_auto_added": 1,
-    "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "promises_extracted": 2,
+    "new_entities_auto_added": 2,
+    "new_entities_needs_review": 1,
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [
     {
-      "name": "Abhishek Banerjee",
+      "name": "Thol. Thirumavalavan",
+      "category": "opposition_leader",
+      "confidence": "medium",
+      "mentions": 179,
+      "role": "leader of the VCK",
+      "party": "VCK"
+    },
+    {
+      "name": "Hubballi Dharwad Municipal Corporation",
       "category": "cabinet_minister",
-      "confidence": "high",
-      "mentions": 42,
-      "role": "Trinamool Congress general secretary",
-      "party": "TMC"
+      "confidence": "medium",
+      "mentions": 22,
+      "role": "Municipal Corporation",
+      "party": ""
     }
   ],
-  "new_entities_needs_review": [],
+  "new_entities_needs_review": [
+    {
+      "name": "Rajya Sabha Polls",
+      "raw_name": "Rajya Sabha Polls",
+      "mentions": 20,
+      "role": "",
+      "party": "",
+      "category": "cabinet_minister",
+      "confidence": "low",
+      "reason": "Gemma confidence too low for auto-add",
+      "sample_articles": [
+        "BJP Core Group Meet At PM Modi's Residence Today, Rajya Sabha Polls On Agenda **BJP** top leaders, including Union Ministers Amit Shah, Rajnath Singh, JP Nadda, and party president Nitin Nabin, will meet at **Prime Minister Narendra Modi's** residence this evening to discuss the upcoming Rajya Sabha and Legislative Council elections. The meeting will focus on finalizing candidates for these electi"
+      ]
+    }
+  ],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
@@ -42,8 +64,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.62,
-      "mentions": 10,
+      "confidence": 0.58,
+      "mentions": 11,
       "reason": "Below auto-update threshold",
       "context": "Bowring tragedy: CM orders suspension of official, Lokayukta takes up inquiry, police file only UDR - The Hindu Following the tragic collapse of a compound wall at **Bowring and Lady Curzon Hospital**"
     },
@@ -72,6 +94,14 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "Congress unveils ‘Bhu Guarantee’ in Karnataka - The Hindu **D.K. Shivakumar**, the **Deputy Chief Minister** of Karnataka, unveiled the \"sixth guarantee\" — Bhu Guarantee — which includes a 60% discoun"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Andhra Pradesh",
+      "candidate": "BJP",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "Congress alleges police inaction, shielding of accused in Ajmer Dalit rape case - The Hindu The **Congress** on Saturday accused the **BJP** government in Rajasthan of shielding the accused in an alle"
     }
   ]
 }
