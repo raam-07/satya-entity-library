@@ -126,9 +126,38 @@ def load_entities():
 
     raise FileNotFoundError("No entities.json found.")
 
-# ==============================================================================
-# --- SHARED HELPERS ---
-# ==============================================================================
+def is_candidate_name(ent_text):
+    ent_text = ent_text.strip()
+    words = ent_text.split()
+    # Indian politician names generally consist of 2 or 3 words
+    if len(words) not in (2, 3):
+        return False
+        
+    for w in words:
+        # Strip dots for checking alphabetic character constraint (e.g. M.K. -> MK)
+        w_clean = w.replace('.', '')
+        if len(w_clean) < 1:
+            return False
+        if not w[0].isupper() or not w_clean.isalpha():
+            return False
+    
+    # Suffix and category stop-words to exclude standard geographic or institutional names
+    stop_words = {
+        'district', 'state', 'commission', 'board', 'court', 'police', 
+        'government', 'ministry', 'department', 'party', 'union', 'front',
+        'pradesh', 'bengal', 'delhi', 'karnataka', 'kerala', 'bihar',
+        'punjab', 'gujarat', 'tamil', 'nadu', 'rajasthan', 'mumbai', 'kolkata',
+        'india', 'indian', 'national', 'central', 'assembly', 'elections',
+        'election', 'high', 'supreme', 'bjp', 'congress', 'tmc', 'aap',
+        'corporation', 'municipal', 'polls', 'poll', 'meet', 'meeting', 'alliance', 
+        'group', 'falls', 'committee', 'council', 'ltd', 'limited', 'pvt', 
+        'board', 'trust', 'academy', 'association', 'school', 'hospital', 
+        'university', 'society', 'foundation'
+    }
+    if any(w.lower().rstrip('.') in stop_words for w in words):
+        return False
+    return True
+
 
 def build_minister_lookup(entities):
     """
@@ -514,6 +543,35 @@ def detect_cms(articles, entities, nlp, llm):
                         if alias in person.lower() or person.lower() in alias:
                             canonical = name
                             break
+
+                # Dynamic CM Auto-Discovery if candidate is unknown but matched by a STRICT_CM_PATTERN
+                if not canonical and llm is not None:
+                    if is_candidate_name(person):
+                        for state in states_in_article:
+                            is_active_cm, gem_conf = gemma_validate(
+                                llm,
+                                f"Is '{person}' explicitly mentioned as taking office, taking oath, or actively serving as the Chief Minister of {state} in this text?",
+                                text[max(0, match_start-150):min(len(text), match_end+150)]
+                            )
+                            if is_active_cm:
+                                new_entry = {
+                                    "name":                   person,
+                                    "role":                   f"Chief Minister of {state}",
+                                    "party":                  "", 
+                                    "state":                  state,
+                                    "aliases":                [],
+                                    "criminal_cases":         0,
+                                    "criminal_cases_in_news": 0,
+                                    "auto_added":             True,
+                                    "auto_added_on":          str(datetime.now().date()),
+                                    "gemma_confidence":       "high",
+                                    "mentions_detected":      1,
+                                }
+                                entities['india']['state_chief_ministers'].append(new_entry)
+                                minister_lookup[person.lower()] = person
+                                canonical = person
+                                logging.info(f"DYNAMICAL AUTO-ADD: Sworn-in CM '{person}' discovered and added to database.")
+                                break
 
                 if not canonical:
                     continue
@@ -960,37 +1018,7 @@ def discover_new_entities(articles, entities, nlp, llm):
     person_counter  = Counter()
     person_contexts = defaultdict(list)
 
-    def is_candidate_name(ent_text):
-        ent_text = ent_text.strip()
-        words = ent_text.split()
-        # Indian politician names generally consist of 2 or 3 words
-        if len(words) not in (2, 3):
-            return False
-            
-        for w in words:
-            # Strip dots for checking alphabetic character constraint (e.g. M.K. -> MK)
-            w_clean = w.replace('.', '')
-            if len(w_clean) < 1:
-                return False
-            if not w[0].isupper() or not w_clean.isalpha():
-                return False
-        
-        # Suffix and category stop-words to exclude standard geographic or institutional names
-        stop_words = {
-            'district', 'state', 'commission', 'board', 'court', 'police', 
-            'government', 'ministry', 'department', 'party', 'union', 'front',
-            'pradesh', 'bengal', 'delhi', 'karnataka', 'kerala', 'bihar',
-            'punjab', 'gujarat', 'tamil', 'nadu', 'rajasthan', 'mumbai', 'kolkata',
-            'india', 'indian', 'national', 'central', 'assembly', 'elections',
-            'election', 'high', 'supreme', 'bjp', 'congress', 'tmc', 'aap',
-            'corporation', 'municipal', 'polls', 'poll', 'meet', 'meeting', 'alliance', 
-            'group', 'falls', 'committee', 'council', 'ltd', 'limited', 'pvt', 
-            'board', 'trust', 'academy', 'association', 'school', 'hospital', 
-            'university', 'society', 'foundation'
-        }
-        if any(w.lower().rstrip('.') in stop_words for w in words):
-            return False
-        return True
+    # Using global is_candidate_name helper
 
     for article in window_articles:
         text = f"{article.get('title', '')} {article.get('rephrased_article', '')}"
