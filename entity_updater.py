@@ -254,7 +254,7 @@ def canonicalize_ministers_in_sheet(sheet, entities, llm):
         article_text = ' '.join(filter(None, [
             article.get('title', ''),
             article.get('rephrased_article', ''),
-            (article.get('content') or '')[:400],
+            (article.get('content') or '')[:1000],
         ])).strip()
 
         canonicalized = []
@@ -297,7 +297,7 @@ def canonicalize_ministers_in_sheet(sheet, entities, llm):
             if llm is not None and article_text:
                 options_str = ', '.join(f'"{c}"' for c in candidates)
                 prompt = f"""<start_of_turn>user
-Article: {article_text[:500]}
+Article: {article_text[:1800]}
 
 The article mentions "{name}". Based only on the article text above, which of these people is being referred to?
 Options: {options_str}
@@ -447,7 +447,7 @@ def gemma_validate(llm, question, context):
     prompt = f"""<start_of_turn>user
 Read the text below and answer the question with ONLY a JSON object.
 
-Text: {context[:500]}
+Text: {context[:2000]}
 
 Question: {question}
 
@@ -509,7 +509,7 @@ def detect_cms(articles, entities, nlp, llm):
         if article.get('source') in NON_INDIAN_SOURCES:
             continue
 
-        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:600]}"
+        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1200]}"
         text_lower = text.lower()
 
         if 'chief minister' not in text_lower and ' cm ' not in text_lower:
@@ -683,7 +683,7 @@ def detect_ruling_parties(articles, entities, nlp, llm):
         if article.get('source') in NON_INDIAN_SOURCES:
             continue
 
-        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:500]}"
+        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1000]}"
         text_lower = text.lower()
 
         governance_keywords = [
@@ -824,7 +824,7 @@ def extract_promises(articles, entities, nlp, llm):
         raw_text = (
             f"{article.get('title', '')} "
             f"{article.get('rephrased_article', '')} "
-            f"{article.get('content', '')[:800]}"
+            f"{article.get('content', '')[:1500]}"
         )
         text = re.sub(r'\*\*(.*?)\*\*', r'\1', raw_text)
 
@@ -922,7 +922,7 @@ def detect_criminal_cases(articles, entities, nlp, llm):
         if article.get('source') in NON_INDIAN_SOURCES:
             continue
 
-        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:600]}"
+        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1000]}"
         text_lower = text.lower()
 
         has_serious = any(kw in text_lower for kw in SERIOUS_CRIMINAL_KEYWORDS)
@@ -963,7 +963,7 @@ def detect_criminal_cases(articles, entities, nlp, llm):
             confirmed, _ = gemma_validate(
                 llm,
                 f"Is this article specifically about a criminal case, FIR, arrest, or legal action directly involving '{canonical_name}'?",
-                text[:400]
+                text
             )
 
             if confirmed:
@@ -990,6 +990,140 @@ def detect_criminal_cases(articles, entities, nlp, llm):
             logging.info(f"CRIMINAL SUMMARY: {entity_name} — {len(incidents)} validated incidents")
 
     return criminal_updates
+
+
+def extract_controversy_statement(llm, canonical_name, context):
+    if llm is None:
+        return "Controversial statement reported in the news."
+
+    prompt = f"""<start_of_turn>user
+Analyze the news text below. Find the controversial statement, unscientific claim, or verbal gaffe directly made by "{canonical_name}".
+Extract and rephrase it into a single, highly concise, objective sentence (maximum 15 words) starting with their name.
+(Example: "Narendra Modi claimed cloud cover could help jets evade radar.")
+
+Text: {context[:1800]}
+
+Return ONLY a JSON object with this exact field:
+{{"statement": "the single concise sentence summary"}}
+No explanation. No extra text.
+<end_of_turn>
+<start_of_turn>model
+"""
+    try:
+        response = llm(
+            prompt,
+            max_tokens=100,
+            temperature=0.1,
+            stop=["<end_of_turn>", "<start_of_turn>"],
+            echo=False
+        )
+        raw    = response['choices'][0].get('text', '').strip()
+        raw    = re.sub(r'```json|```', '', raw).strip()
+        parsed = json.loads(raw)
+        return parsed.get('statement', '').strip()
+    except Exception as e:
+        logging.warning(f"Gemma gaffe extraction failed: {e}")
+        return "Controversial remark or gaffe reported in the news."
+
+
+# --- 5. Controversies and Gaffes Detection ---
+def detect_controversies_and_gaffes(articles, entities, nlp, llm):
+    logging.info("--- Detecting controversies and verbal gaffes ---")
+
+    known_entities = {}
+    all_ministers = (entities['india']['cabinet_ministers'] +
+                      entities['india']['opposition_leaders'] +
+                      entities['india']['state_chief_ministers'] +
+                      entities['india'].get('generic_politicians', []))
+    
+    for m in all_ministers:
+        known_entities[m['name'].lower()] = m['name']
+        for alias in m.get('aliases', []):
+            known_entities[alias.lower()] = m['name']
+
+    # Load existing validated controversy URLs to skip redundant Gemma runs
+    known_controversy_urls = set()
+    for m in all_ministers:
+        for controversy in m.get('controversies', []):
+            if controversy.get('source_url'):
+                known_controversy_urls.add(controversy['source_url'].strip())
+
+    entity_controversies = defaultdict(list)
+
+    for article in articles:
+        if article.get('category') == 'international':
+            continue
+        if article.get('source') in NON_INDIAN_SOURCES:
+            continue
+
+        # Rely 100% on the semantic AI classifier topic tags (from Repository 3)
+        if "political_gaffe" not in article.get('topic_tags', []):
+            continue
+
+        text       = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1000]}"
+        text_lower = text.lower()
+
+        for entity_lower, canonical_name in known_entities.items():
+            if len(entity_lower) < 4:
+                continue
+            pattern = r'\b' + re.escape(entity_lower) + r'\b'
+            if not re.search(pattern, text_lower):
+                continue
+
+            already_logged = any(
+                inc['source_url'] == article.get('url', '')
+                for inc in entity_controversies[canonical_name]
+            )
+            if already_logged:
+                continue
+
+            url = article.get('url', '').strip()
+
+            if url and url in known_controversy_urls:
+                # Find the existing controversy description from entities.json
+                existing_text = text[:200]
+                for m in all_ministers:
+                    for controversy in m.get('controversies', []):
+                        if controversy.get('source_url', '').strip() == url:
+                            existing_text = controversy.get('incident_text', text[:200])
+                            break
+                entity_controversies[canonical_name].append({
+                    "incident_text": existing_text,
+                    "source_url":    url,
+                    "source_title":  article.get('title', ''),
+                    "scraped_at":    article.get('scraped_at', ''),
+                })
+                continue
+
+            confirmed, _ = gemma_validate(
+                llm,
+                f"Does this article specifically report on a controversial statement, verbal gaffe, unscientific claim, or highly mocked/criticized remark directly made by '{canonical_name}'?",
+                text
+            )
+
+            if confirmed:
+                extracted_text = extract_controversy_statement(llm, canonical_name, text)
+                entity_controversies[canonical_name].append({
+                    "incident_text": extracted_text,
+                    "source_url":    url,
+                    "source_title":  article.get('title', ''),
+                    "scraped_at":    article.get('scraped_at', ''),
+                })
+                logging.info(
+                    f"GAFFE/CONTROVERSY DETECTED: {canonical_name} "
+                    f"— {extracted_text[:60]}"
+                )
+
+    gaffe_updates = []
+    for entity_name, controversies in entity_controversies.items():
+        if controversies:
+            gaffe_updates.append({
+                "entity":    entity_name,
+                "incidents": controversies[:10],
+            })
+            logging.info(f"GAFFE SUMMARY: {entity_name} — {len(controversies)} validated gaffes")
+
+    return gaffe_updates
 
 
 # --- 5. New Entity Discovery + Auto-Add ---
@@ -1042,7 +1176,7 @@ def discover_new_entities(articles, entities, nlp, llm):
                 if name.lower() not in known_names:
                     person_counter[name] += 1
                     if len(person_contexts[name]) < 5:
-                        person_contexts[name].append(text[:400])
+                        person_contexts[name].append(text)
 
     # Algorithmic Name Consolidation: merge shorter name variations (e.g. "Suvendu" -> "Suvendu Adhikari")
     # Sort candidate names by length descending
@@ -1094,7 +1228,7 @@ def discover_new_entities(articles, entities, nlp, llm):
         extraction_prompt = f"""<start_of_turn>user
 Based on the article excerpts below, answer about the person named "{name}".
 
-Articles: {context_sample[:800]}
+Articles: {context_sample[:1800]}
 
 Return ONLY a JSON object with these exact fields:
 {{
@@ -1212,7 +1346,7 @@ No explanation. No extra text.
 # --- APPLY UPDATES TO entities.json ---
 # ==============================================================================
 
-def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_promises):
+def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates=None):
     for update in cm_updates:
         for state in entities['india']['states']:
             if state['name'] == update['state']:
@@ -1254,6 +1388,20 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
                 minister['criminal_last_updated']  = str(datetime.now().date())
                 break
 
+    if gaffe_updates:
+        all_ministers = (
+            entities['india']['cabinet_ministers'] +
+            entities['india']['opposition_leaders'] +
+            entities['india']['state_chief_ministers'] +
+            entities['india'].get('generic_politicians', [])
+        )
+        for update in gaffe_updates:
+            entity_name = update['entity']
+            for minister in all_ministers:
+                if minister['name'] == entity_name:
+                    minister['controversies'] = update['incidents']
+                    break
+
     if new_promises:
         if 'extracted_promises' not in entities:
             entities['extracted_promises'] = []
@@ -1268,6 +1416,7 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
         "party_updates":   len(party_updates),
         "criminal_updates": len(criminal_updates),
         "new_promises":    len(new_promises),
+        "gaffe_updates":   len(gaffe_updates) if gaffe_updates else 0,
     }
 
     return entities
@@ -1321,9 +1470,10 @@ def main():
 
     new_promises     = extract_promises(articles, entities, nlp, llm)
     criminal_updates = detect_criminal_cases(articles, entities, nlp, llm)
+    gaffe_updates    = detect_controversies_and_gaffes(articles, entities, nlp, llm)
 
     updated_entities = apply_updates(
-        entities, cm_updates, party_updates, criminal_updates, new_promises
+        entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates
     )
 
     with open(ENTITIES_OUTPUT_PATH, 'w', encoding='utf-8') as f:
@@ -1336,6 +1486,7 @@ def main():
             "cm_updates_applied":        len(cm_updates),
             "party_updates_applied":     len(party_updates),
             "criminal_updates_applied":  len(criminal_updates),
+            "gaffe_updates_applied":     len(gaffe_updates),
             "promises_extracted":        len(new_promises),
             "new_entities_auto_added":   len(new_entities_added),
             "new_entities_needs_review": len(new_entities_flagged),
