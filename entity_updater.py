@@ -495,6 +495,15 @@ def detect_cms(articles, entities, nlp, llm):
 
         for pattern in STRICT_CM_PATTERNS:
             for match in re.finditer(pattern, text, re.IGNORECASE):
+                # Exclude if 'former', 'ex', 'late', etc. appear in the matched string or immediately preceding it
+                match_start = match.start()
+                match_end = match.end()
+                full_match_lower = match.group(0).lower()
+                pre_text = text[max(0, match_start-30):match_start].lower()
+                if any(w in full_match_lower or w in pre_text for w in ['former', 'ex-', ' ex ', 'late', 'previous', 'past']):
+                    logging.info(f"Skipping CM match due to 'former/ex/late' context: {match.group(0)}")
+                    continue
+
                 person = match.group(1).strip() if match.lastindex >= 1 else None
                 if not person or len(person) < 5:
                     continue
@@ -509,9 +518,14 @@ def detect_cms(articles, entities, nlp, llm):
                 if not canonical:
                     continue
 
+                # Center a 400-character window around the match
+                start_idx = max(0, match_start - 200)
+                end_idx = min(len(text), match_end + 200)
+                context_window = text[start_idx:end_idx].strip()
+
                 for state in states_in_article:
                     state_cm_candidates[state][canonical] += 1
-                    state_cm_contexts[state][canonical].append(text[:400])
+                    state_cm_contexts[state][canonical].append(context_window)
 
     cm_updates = []
     cm_flags   = []
@@ -631,15 +645,24 @@ def detect_ruling_parties(articles, entities, nlp, llm):
                 state_canonical = state_aliases.get(g1.lower()) or state_aliases.get(g2.lower())
                 if not state_canonical:
                     for alias_lower, canonical in state_aliases.items():
-                        if alias_lower in g1.lower() or alias_lower in g2.lower():
+                        # Use strict word boundary checks to avoid partial matches (e.g., 'ap' in 'rape')
+                        pattern_alias = r'\b' + re.escape(alias_lower) + r'\b'
+                        if re.search(pattern_alias, g1.lower()) or re.search(pattern_alias, g2.lower()):
                             state_canonical = canonical
                             break
 
                 if not state_canonical:
                     continue
 
+                # Center a 400-character window around the match
+                match_start = match.start()
+                match_end = match.end()
+                start_idx = max(0, match_start - 200)
+                end_idx = min(len(text), match_end + 200)
+                context_window = text[start_idx:end_idx].strip()
+
                 state_party_candidates[state_canonical][party_canonical] += 1
-                state_party_contexts[state_canonical][party_canonical].append(text[:400])
+                state_party_contexts[state_canonical][party_canonical].append(context_window)
 
     party_updates = []
     party_flags   = []
@@ -873,14 +896,11 @@ def detect_criminal_cases(articles, entities, nlp, llm):
                 })
                 continue
 
-            if has_serious:
-                confirmed     = True
-            else:
-                confirmed, _ = gemma_validate(
-                    llm,
-                    f"Is this article specifically about a criminal case, FIR, arrest, or legal action directly involving '{canonical_name}'?",
-                    text[:400]
-                )
+            confirmed, _ = gemma_validate(
+                llm,
+                f"Is this article specifically about a criminal case, FIR, arrest, or legal action directly involving '{canonical_name}'?",
+                text[:400]
+            )
 
             if confirmed:
                 entity_incidents[canonical_name].append({
@@ -943,12 +963,17 @@ def discover_new_entities(articles, entities, nlp, llm):
     def is_candidate_name(ent_text):
         ent_text = ent_text.strip()
         words = ent_text.split()
-        # Indian politician names generally consist of 2 or 3 capitalized words
+        # Indian politician names generally consist of 2 or 3 words
         if len(words) not in (2, 3):
             return False
-        # Must be strictly title-cased words containing letters only
-        if not all(len(w) > 1 and w[0].isupper() and w.isalpha() for w in words):
-            return False
+            
+        for w in words:
+            # Strip dots for checking alphabetic character constraint (e.g. M.K. -> MK)
+            w_clean = w.replace('.', '')
+            if len(w_clean) < 1:
+                return False
+            if not w[0].isupper() or not w_clean.isalpha():
+                return False
         
         # Suffix and category stop-words to exclude standard geographic or institutional names
         stop_words = {
@@ -957,9 +982,13 @@ def discover_new_entities(articles, entities, nlp, llm):
             'pradesh', 'bengal', 'delhi', 'karnataka', 'kerala', 'bihar',
             'punjab', 'gujarat', 'tamil', 'nadu', 'rajasthan', 'mumbai', 'kolkata',
             'india', 'indian', 'national', 'central', 'assembly', 'elections',
-            'election', 'high', 'supreme', 'bjp', 'congress', 'tmc', 'aap'
+            'election', 'high', 'supreme', 'bjp', 'congress', 'tmc', 'aap',
+            'corporation', 'municipal', 'polls', 'poll', 'meet', 'meeting', 'alliance', 
+            'group', 'falls', 'committee', 'council', 'ltd', 'limited', 'pvt', 
+            'board', 'trust', 'academy', 'association', 'school', 'hospital', 
+            'university', 'society', 'foundation'
         }
-        if any(w.lower() in stop_words for w in words):
+        if any(w.lower().rstrip('.') in stop_words for w in words):
             return False
         return True
 
@@ -969,11 +998,9 @@ def discover_new_entities(articles, entities, nlp, llm):
         for ent in doc.ents:
             name = ent.text.strip()
             
-            # Heuristic checks to expand recall (capturing spaCy GPE/ORG misclassifications of Indian names)
+            # Apply strict candidate checks across all PERSON, ORG, and GPE tags
             is_valid = False
-            if ent.label_ == 'PERSON' and len(name) > 5:
-                is_valid = True
-            elif ent.label_ in ('ORG', 'GPE') and is_candidate_name(name):
+            if ent.label_ in ('PERSON', 'ORG', 'GPE') and is_candidate_name(name):
                 is_valid = True
 
             if is_valid:
