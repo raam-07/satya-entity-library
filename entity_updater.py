@@ -168,7 +168,8 @@ def build_minister_lookup(entities):
     all_ministers = (
         entities['india']['cabinet_ministers'] +
         entities['india']['state_chief_ministers'] +
-        entities['india']['opposition_leaders']
+        entities['india']['opposition_leaders'] +
+        entities['india'].get('generic_politicians', [])
     )
     for m in all_ministers:
         lookup[m['name'].lower()] = m['name']
@@ -188,7 +189,8 @@ def build_canonical_minister_set(entities):
         for m in (
             entities['india']['cabinet_ministers'] +
             entities['india']['state_chief_ministers'] +
-            entities['india']['opposition_leaders']
+            entities['india']['opposition_leaders'] +
+            entities['india'].get('generic_politicians', [])
         )
     )
 
@@ -879,7 +881,8 @@ def detect_criminal_cases(articles, entities, nlp, llm):
     known_entities = {}
     all_ministers = (entities['india']['cabinet_ministers'] +
                       entities['india']['opposition_leaders'] +
-                      entities['india']['state_chief_ministers'])
+                      entities['india']['state_chief_ministers'] +
+                      entities['india'].get('generic_politicians', []))
     
     for m in all_ministers:
         known_entities[m['name'].lower()] = m['name']
@@ -1008,7 +1011,8 @@ def discover_new_entities(articles, entities, nlp, llm):
     known_names = set()
     for m in (entities['india']['cabinet_ministers'] +
               entities['india']['opposition_leaders'] +
-              entities['india']['state_chief_ministers']):
+              entities['india']['state_chief_ministers'] +
+              entities['india'].get('generic_politicians', [])):
         known_names.add(m['name'].lower())
         for alias in m.get('aliases', []):
             known_names.add(alias.lower())
@@ -1070,7 +1074,7 @@ def discover_new_entities(articles, entities, nlp, llm):
     auto_added = []
     flagged    = []
 
-    valid_categories = {'cabinet_minister', 'state_chief_minister', 'opposition_leader'}
+    valid_categories = {'cabinet_minister', 'state_chief_minister', 'opposition_leader', 'generic_politician'}
 
     for name, count in consolidated_counter.most_common(50):
         if count < NEW_ENTITY_MIN_MENTIONS:
@@ -1096,10 +1100,10 @@ Return ONLY a JSON object with these exact fields:
 {{
   "is_indian_politician": true or false,
   "full_name": "their full official name",
-  "role": "their exact role e.g. Chief Minister of Karnataka, Union Minister of Finance",
+  "role": "their exact role e.g. Chief Minister of Karnataka, Union Minister of Finance, Member of Parliament, MLA, Regional Spokesperson",
   "party": "their political party abbreviation e.g. BJP, INC, AAP, TMC, DMK",
   "state": "their home state or null if national-level",
-  "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader",
+  "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader" or "generic_politician",
   "confidence": "high" or "medium" or "low"
 }}
 No explanation. No extra text.
@@ -1131,7 +1135,7 @@ No explanation. No extra text.
 
             # Validate category
             if category not in valid_categories:
-                category = 'cabinet_minister'
+                category = 'generic_politician'
 
             # Skip if Gemma resolved to an already-known name
             if full_name.lower() in known_names:
@@ -1158,6 +1162,8 @@ No explanation. No extra text.
             if confidence in ('high', 'medium'):
                 # Auto-add directly into the live entities dict
                 entities['india'][f'{category}s'].append(new_entry)
+                dest_str = f"entities['india']['{category}s']"
+
                 # Update known_names so we don't double-add this run
                 known_names.add(full_name.lower())
                 known_names.add(name.lower())
@@ -1172,7 +1178,7 @@ No explanation. No extra text.
                 })
                 logging.info(
                     f"AUTO-ADDED [{confidence}]: {full_name} ({role}, {party}) "
-                    f"→ entities['india']['{category}s']"
+                    f"→ {dest_str}"
                 )
             else:
                 flagged.append({
@@ -1238,7 +1244,8 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
         all_ministers = (
             entities['india']['cabinet_ministers'] +
             entities['india']['opposition_leaders'] +
-            entities['india']['state_chief_ministers']
+            entities['india']['state_chief_ministers'] +
+            entities['india'].get('generic_politicians', [])
         )
         for minister in all_ministers:
             if minister['name'] == entity_name:
