@@ -810,9 +810,9 @@
         "name": "Nitish Kumar",
         "aliases": [
           "Nitish",
-          "Bihar CM"
+          "Former Bihar CM"
         ],
-        "role": "Chief Minister",
+        "role": "Former Chief Minister / JDU President",
         "state": "Bihar",
         "party": "JDU",
         "ruling_since": "2005",
@@ -831,6 +831,22 @@
           }
         ],
         "criminal_last_updated": "2026-06-01"
+      },
+      {
+        "name": "Samrat Choudhary",
+        "aliases": [
+          "Samrat",
+          "Choudhary",
+          "Bihar Chief Minister"
+        ],
+        "role": "Chief Minister",
+        "state": "Bihar",
+        "party": "BJP",
+        "ruling_since": "2026",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+        "image_placeholder": "samrat_choudhary"
       },
       {
         "name": "Mamata Banerjee",
@@ -1422,10 +1438,10 @@
         "name": "Bihar",
         "aliases": [],
         "capital": "Patna",
-        "ruling_party": "JDU",
-        "cm": "Nitish Kumar",
+        "ruling_party": "BJP",
+        "cm": "Samrat Choudhary",
         "region": "East",
-        "cm_confidence": 0.8,
+        "cm_confidence": 1.0,
         "cm_last_updated": "2026-06-01"
       },
       {
