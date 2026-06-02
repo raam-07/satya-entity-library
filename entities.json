@@ -729,9 +729,18 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
         "image_placeholder": "revanth_reddy",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu **Chief Minister Revanth Reddy** and **Irrigation Minister N. Uttam Kumar Reddy** plan to meet the **CBI Director** to u",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanthuttamto-meetcbidirectorfor-expeditingkaleshwaramprobe/article70898797.ece",
+            "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+            "scraped_at": "2026-04-23 23:56:55.724370",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-02"
       },
       {
         "name": "M.K. Stalin",
@@ -2293,6 +2302,16 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-have-second-largest-international-cricket-stadium-in-india/article71014440.ece",
       "source_title": "Karnataka to soon get India’s second largest international cricket stadium - The Hindu",
       "scraped_at": "2026-05-23 21:33:40.778202",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that Tamil Nadu has voted and will win on May 4th",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-commends-people-of-tn-for-record-voter-turnout/article70898779.ece",
+      "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
+      "scraped_at": "2026-04-24 23:45:42.804584",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
