@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 1,
       "gaffe_updates": 0
     }
@@ -341,13 +341,21 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_incidents": [
+          {
+            "incident_text": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu **Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect secu",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+            "scraped_at": "2026-05-26 04:51:03.882465",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       }
     ],
@@ -2370,6 +2378,16 @@
       "source_url": "https://www.thehindu.com/news/national/developed-india-can-only-be-built-on-foundation-of-its-native-languages-says-president/article70868913.ece",
       "source_title": "No State, be it north or south will be discriminated against in delimitation exercise: PM in LS - The Hindu",
       "scraped_at": "2026-04-16 12:49:19.100707",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the party had supported Jeevan Reddy's election campaigns and accommodated his requests for tickets",
+      "source_url": "https://www.thehindu.com/news/national/telangana/revanth-meets-jagtial-leaders-slams-jeevan-reddys-exit-from-congress/article70862405.ece",
+      "source_title": "Revanth meets Jagtial leaders, slams Jeevan Reddy’s exit from Congress - The Hindu",
+      "scraped_at": "2026-04-15 00:12:39.533728",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
