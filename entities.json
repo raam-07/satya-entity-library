@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 2,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 4,
       "gaffe_updates": 0
     }
   },
@@ -368,20 +368,13 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
-            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
-            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
-            "scraped_at": "2026-04-19 18:09:30.425946",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
-            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-04-18 18:10:52.761906",
+            "incident_text": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu The **Lucknow Bench of the Allahabad High Court** ordered the registration of an FIR and further investigation",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-fir-against-rahul-gandhi-in-alleged-dual-citizenship-case/article70873912.ece",
+            "source_title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
+            "scraped_at": "2026-04-17 19:46:37.812241",
             "incident_type": "broad"
           }
         ],
@@ -2328,6 +2321,46 @@
       "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
       "scraped_at": "2026-04-24 23:45:42.804584",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "that the appointment of Rathan U",
+      "source_url": "https://www.thehindu.com/news/national/kerala/needless-fuss-kerala-cm-vd-satheesan-defends-posting-former-state-poll-chief-rathan-kelkar-as-his-secretary/article71020418.ece",
+      "source_title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
+      "scraped_at": "2026-05-25 09:17:28.180790",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "that his party is mobilizing a massive people's movement across Tamil Nadu",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-not-relying-merely-on-road-campaigns-massive-peoples-movement-under-way-vijay/article70877074.ece",
+      "source_title": "TVK not relying merely on road campaigns; massive people’s movement under way: Vijay - The Hindu",
+      "scraped_at": "2026-04-18 12:02:55.029154",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "plans to support women self-help groups (SHGs) in setting up logistics parks",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-exhorts-shg-women-to-establish-super-markets-logistic-parks-and-godowns/article71021051.ece",
+      "source_title": "Telangana CM exhorts SHG women to establish super markets, logistic parks and godowns - The Hindu",
+      "scraped_at": "2026-05-25 12:51:57.730396",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the South stood united",
+      "source_url": "https://www.thehindu.com/news/national/south-stood-united-made-its-voice-heard-and-democracy-prevailed-tn-cm-stalin/article70874980.ece",
+      "source_title": "South stood united, made its voice heard and democracy prevailed: T.N. CM Stalin - The Hindu",
+      "scraped_at": "2026-04-17 17:31:34.297283",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
