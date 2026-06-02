@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 1,
       "criminal_updates": 1,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     }
   },
@@ -482,10 +482,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu **Mamata Banerjee**, leader of the **Trinamool Congress**, appeared before the Supreme",
-            "source_url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
-            "source_title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
-            "scraped_at": "2026-05-11 22:40:30.666506",
+            "incident_text": "SC asks if ED is arguing 'failure of constitutional machinery' in WB by claiming rule of law breach - The Hindu The **Supreme Court** paused the **ED's** rejoinder in a case involving alleged rule-bre",
+            "source_url": "https://www.thehindu.com/news/national/sc-asks-if-ed-is-arguing-failure-of-constitutional-machinery-in-wb-by-claiming-rule-of-law-breach/article70897109.ece",
+            "source_title": "SC asks if ED is arguing 'failure of constitutional machinery' in WB by claiming rule of law breach - The Hindu",
+            "scraped_at": "2026-04-23 11:42:46.993819",
             "incident_type": "broad"
           }
         ],

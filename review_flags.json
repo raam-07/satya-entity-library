@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-02 13:50:01.647071",
+  "generated_at": "2026-06-02 14:15:27.177382",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 1,
     "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 2
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -21,15 +21,6 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
-    },
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.42,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
     },
     {
       "type": "ruling_party",
