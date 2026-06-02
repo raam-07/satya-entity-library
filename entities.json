@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 3,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     }
   },
@@ -379,10 +379,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu The **Lucknow Bench of the Allahabad High Court** ordered the registration of an FIR and further investigation",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-fir-against-rahul-gandhi-in-alleged-dual-citizenship-case/article70873912.ece",
-            "source_title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
-            "scraped_at": "2026-04-17 19:46:37.812241",
+            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
+            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
+            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
+            "scraped_at": "2026-04-09 09:55:44.844181",
             "incident_type": "broad"
           }
         ],
@@ -1615,7 +1615,7 @@
         "ruling_party": "BJP",
         "cm": null,
         "region": "East",
-        "party_confidence": 0.9,
+        "party_confidence": 0.92,
         "party_last_updated": "2026-06-02"
       },
       {
