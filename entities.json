@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 0,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "cm_updates": 1,
+      "party_updates": 1,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -989,14 +989,47 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
         "auto_added": true,
         "auto_added_on": "2026-06-02",
         "gemma_confidence": "high",
-        "mentions_detected": 5
+        "mentions_detected": 5,
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02"
+      },
+      {
+        "name": "Bhagwant Mann",
+        "role": "Chief Minister of Punjab",
+        "party": "",
+        "state": "Punjab",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
+        "image_placeholder": "bhagwant_mann",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
       }
     ],
     "generic_politicians": [
@@ -1512,7 +1545,9 @@
         "capital": "Lucknow",
         "ruling_party": "BJP",
         "cm": "Yogi Adityanath",
-        "region": "North"
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-06-02"
       },
       {
         "name": "Uttarakhand",
@@ -1531,8 +1566,8 @@
         "ruling_party": "BJP",
         "cm": null,
         "region": "East",
-        "party_confidence": 0.82,
-        "party_last_updated": "2026-06-01"
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-06-02"
       },
       {
         "name": "Delhi",
@@ -2153,6 +2188,16 @@
       "source_title": "Education Budget will grow every year, says Telangana CM Revanth Reddy - The Hindu",
       "scraped_at": "2026-05-11 19:58:17.483919",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhajanlal Sharma",
+      "promise_text": "this decision, citing consumer convenience and grievances following growing protests over alleged billing irregularities",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-scraps-smart-prepaid-meter-system-shifts-all-consumers-to-postpaid-mode/article70954813.ece",
+      "source_title": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu",
+      "scraped_at": "2026-05-08 11:57:19.685965",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
