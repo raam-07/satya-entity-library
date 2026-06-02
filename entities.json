@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 2,
+      "criminal_updates": 0,
+      "new_promises": 4,
       "gaffe_updates": 0
     }
   },
@@ -2564,6 +2564,46 @@
       "source_url": "https://www.thehindu.com/elections/modi-targets-ldf-udf-over-decades-of-corruption-calls-bjp-keralas-real-a-team/article70799220.ece",
       "source_title": "BJP is the ‘A team’ of Kerala, says Modi at campaign meet - The Hindu",
       "scraped_at": "2026-03-29 21:41:49.368396",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Thol. Thirumavalavan",
+      "promise_text": "that this would be his final election as a candidate",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-thirumavalavan-to-enter-the-fray-in-kattumannarkovil/article70800315.ece",
+      "source_title": "T.N. Assembly election: Thirumavalavan to enter the fray in Kattumannarkovil - The Hindu",
+      "scraped_at": "2026-03-29 19:40:06.646837",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "the Illatharasi Scheme under which all non-income tax assessee housewives will be given a coupon valued at ₹8",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
+      "source_title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
+      "scraped_at": "2026-03-29 14:10:10.469164",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "the party's candidates for the upcoming Tamil Nadu Assembly elections",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+      "source_title": "TVK chief Vijay to contest from Perambur, Tiruchi East constituencies making electoral debut in T.N. Assembly election - The Hindu",
+      "scraped_at": "2026-03-29 08:50:52.753527",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the Minister will once again enter the fray from the Katpadi constituency",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-dmk-candidate-list-includes-60-fresh-faces-and-4-mayors/article70796987.ece",
+      "source_title": "T.N. Assembly election: DMK candidate list includes 60 fresh faces and 4 Mayors - The Hindu",
+      "scraped_at": "2026-03-28 19:40:26.314196",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
