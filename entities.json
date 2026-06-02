@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 2,
       "gaffe_updates": 0
     }
   },
@@ -669,9 +669,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
         "image_placeholder": "nitish_kumar",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/hamirpur-bridge-collapse-case-lodged-against-executing-agency-contractor/article71040445.ece",
+            "source_title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
+            "scraped_at": "2026-05-30 06:55:31.675098",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       },
       {
@@ -2536,6 +2544,26 @@
       "source_url": "https://www.thehindu.com/news/national/need-to-continuously-update-public-services-to-achieve-goal-of-viksit-bharat-pm-modi/article70814539.ece",
       "source_title": "Need to continuously update public services to achieve goal of 'Viksit Bharat': PM Modi - The Hindu",
       "scraped_at": "2026-04-02 06:56:40.273691",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nirmala Sitharaman",
+      "promise_text": "that all the committee's recommendations have been accepted",
+      "source_url": "https://www.thehindu.com/news/national/lok-sabha-passes-insolvency-law-amendments-sitharaman-says-bill-will-help-maximise-value-for-stakeholders/article70802419.ece",
+      "source_title": "Lok Sabha passes insolvency law amendments; Sitharaman says Bill will help maximise value for stakeholders - The Hindu",
+      "scraped_at": "2026-03-30 10:27:00.195699",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "an NDA government would advance a \"Viksit Kerala\" vision with faster development and measures to curb outward youth migration",
+      "source_url": "https://www.thehindu.com/elections/modi-targets-ldf-udf-over-decades-of-corruption-calls-bjp-keralas-real-a-team/article70799220.ece",
+      "source_title": "BJP is the ‘A team’ of Kerala, says Modi at campaign meet - The Hindu",
+      "scraped_at": "2026-03-29 21:41:49.368396",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
