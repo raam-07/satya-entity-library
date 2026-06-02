@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 1,
+      "criminal_updates": 0,
+      "new_promises": 3,
       "gaffe_updates": 0
     }
   },
@@ -2406,6 +2406,36 @@
       "source_url": "https://www.thehindu.com/elections/assembly-elections-2026-west-bengal-assam-kerala-tamil-nadu-puducherry-april-13-2026-live-updates/article70856148.ece",
       "source_title": "Assembly Elections 2026 LIVE: 19 States, Centre have come together to counter me; I am fighting alone for common people, says Mamata - The Hindu",
       "scraped_at": "2026-04-13 10:21:09.092367",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "to implement the UCC within six months if his party won",
+      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-polls-2026-modi-mamata-spar-over-ucc-implementation/article70851739.ece",
+      "source_title": "Bengal polls 2026: Modi, Mamata spar over UCC implementation - The Hindu",
+      "scraped_at": "2026-04-11 17:42:10.589164",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhajanlal Sharma",
+      "promise_text": "that the three-day meeting would bring together farmers",
+      "source_url": "https://www.thehindu.com/news/national/rajasthan/focus-on-innovation-and-entrepreneurship-in-farm-sector-through-agritech-meet-in-rajasthan/article70848059.ece",
+      "source_title": "Focus on innovation and entrepreneurship in farm sector through agritech meet in Rajasthan - The Hindu",
+      "scraped_at": "2026-04-11 02:42:04.136140",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhajanlal Sharma",
+      "promise_text": "the deployment of ‘raths’ (chariots) at all village panchayats from April 15 to disseminate information about GRAM-2026 and publicise the schemes for farmers’ welfare",
+      "source_url": "https://www.thehindu.com/news/national/rajasthan/focus-on-innovation-and-entrepreneurship-in-farm-sector-through-agritech-meet-in-rajasthan/article70848059.ece",
+      "source_title": "Focus on innovation and entrepreneurship in farm sector through agritech meet in Rajasthan - The Hindu",
+      "scraped_at": "2026-04-11 02:42:04.136140",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

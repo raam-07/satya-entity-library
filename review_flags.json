@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-02 17:43:11.708956",
+  "generated_at": "2026-06-02 18:04:46.593476",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 3,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -30,6 +30,15 @@
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
     {
       "type": "cm_detection",
