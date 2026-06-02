@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -1635,7 +1635,7 @@
         "ruling_party": "BJP",
         "cm": null,
         "region": "East",
-        "party_confidence": 0.92,
+        "party_confidence": 0.85,
         "party_last_updated": "2026-06-02"
       },
       {
@@ -2526,6 +2526,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-the-amaravati-bill-come-into-place/article70824596.ece",
       "source_title": "How did the ‘Amaravati Bill’ come into place? - The Hindu",
       "scraped_at": "2026-04-04 21:39:59.142644",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that the principle of governance in the country is based on the mantra \"Nagrik Devo Bhavah\" (citizens are like gods)",
+      "source_url": "https://www.thehindu.com/news/national/need-to-continuously-update-public-services-to-achieve-goal-of-viksit-bharat-pm-modi/article70814539.ece",
+      "source_title": "Need to continuously update public services to achieve goal of 'Viksit Bharat': PM Modi - The Hindu",
+      "scraped_at": "2026-04-02 06:56:40.273691",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
