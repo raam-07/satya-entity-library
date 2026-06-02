@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 2,
       "gaffe_updates": 0
     }
@@ -368,9 +368,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of ",
+            "source_url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+            "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-02 00:03:57.391908",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       },
       {
@@ -2228,6 +2236,26 @@
       "source_title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy - The Hindu",
       "scraped_at": "2026-05-02 14:38:11.450962",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to establish \"labour addas\" across the state",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-will-set-up-labour-addas-to-upskill-workers-says-cm-naidu/article70928673.ece",
+      "source_title": "A.P. govt. will set up ‘Labour Addas’ to upskill workers, says CM Naidu - The Hindu",
+      "scraped_at": "2026-05-01 23:04:40.886310",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "the establishment of new ESI hospitals in key industrial locations",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-will-set-up-labour-addas-to-upskill-workers-says-cm-naidu/article70928673.ece",
+      "source_title": "A.P. govt. will set up ‘Labour Addas’ to upskill workers, says CM Naidu - The Hindu",
+      "scraped_at": "2026-05-01 23:04:40.886310",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
