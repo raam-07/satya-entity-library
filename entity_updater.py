@@ -48,6 +48,7 @@ WINDOW_NEW_ENTITIES_DAYS = 30
 AUTO_UPDATE_THRESHOLD   = 0.75
 REVIEW_THRESHOLD        = 0.40
 NEW_ENTITY_MIN_MENTIONS = 5
+MAX_ARTICLES_PER_RUN    = 100
 
 MODEL_PATH = "./models/gemma-2-9b-it-Q6_K.gguf"
 
@@ -83,11 +84,12 @@ def fetch_articles(sheet):
     logging.info("Fetching all classified articles...")
     raw_data = sheet.col_values(1)
     articles = []
-    for cell in raw_data:
+    for row_idx, cell in enumerate(raw_data, start=1):
         if not cell:
             continue
         try:
             article = json.loads(cell)
+            article['row_idx'] = row_idx
             scraped_raw = article.get('scraped_at', '')
             try:
                 article['scraped_dt'] = datetime.strptime(
@@ -210,7 +212,7 @@ def find_canonical_candidates(name, canonical_set):
 # --- CANONICALISE ministers_mentioned IN SHEET ---
 # ==============================================================================
 
-def canonicalize_ministers_in_sheet(sheet, entities, llm):
+def canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm):
     """
     Normalise ministers_mentioned in every article row to canonical full names.
 
@@ -232,20 +234,12 @@ def canonicalize_ministers_in_sheet(sheet, entities, llm):
     logging.info("--- Canonicalising ministers_mentioned in sheet ---")
 
     canonical_set = build_canonical_minister_set(entities)
-    raw_data      = sheet.col_values(1)
     batch_updates = []
     audit_log     = []
 
-    for row_idx, cell in enumerate(raw_data, start=1):
-        if not cell:
-            continue
-        try:
-            article = json.loads(cell)
-        except json.JSONDecodeError:
-            continue
-
-        # Skip articles already processed in a previous weekly run
-        if article.get('ministers_canonicalized'):
+    for article in unprocessed_chunk:
+        row_idx = article.get('row_idx')
+        if not row_idx:
             continue
 
         original = article.get('ministers_mentioned') or []
@@ -352,7 +346,7 @@ Reply with ONLY the exact name from the options. No explanation.
         # Always mark processed and write back (even if no name changes)
         article['ministers_mentioned']    = canonicalized
         article['ministers_canonicalized'] = True
-        article_to_write = {k: v for k, v in article.items() if k != 'scraped_dt'}
+        article_to_write = {k: v for k, v in article.items() if k not in ('scraped_dt', 'row_idx')}
         batch_updates.append({
             'range':  f'A{row_idx}',
             'values': [[json.dumps(article_to_write, ensure_ascii=False)]],
@@ -1447,30 +1441,49 @@ def main():
     # Gemma loaded first — needed by both entity discovery and canonicalization
     llm = load_gemma()
 
-    # Step 1: Discover and auto-add new entities into the live entities dict.
-    # Must run BEFORE canonicalize so newly added ministers are available
-    # for name resolution in the same weekly run.
-    new_entities_added, new_entities_flagged = discover_new_entities(
-        articles, entities, nlp, llm
+    # Step 1: Separate all fetched articles into unprocessed and processed
+    unprocessed_articles = [a for a in articles if not a.get('ministers_canonicalized')]
+    processed_articles   = [a for a in articles if a.get('ministers_canonicalized')]
+    
+    unprocessed_chunk = unprocessed_articles[:MAX_ARTICLES_PER_RUN]
+    logging.info(
+        f"Partitioned articles: {len(processed_articles)} already processed, "
+        f"{len(unprocessed_articles)} unprocessed. Selected a chunk of "
+        f"{len(unprocessed_chunk)} unprocessed articles to run."
     )
 
-    # Step 2: Canonicalise ministers_mentioned across all articles.
-    # Uses canonical set derived from entities.json (including just-added entities).
-    # Gemma resolves ambiguous bare surnames. Audit log written before sheet write.
-    # Articles marked ministers_canonicalized=True are skipped on future runs.
-    canonicalize_ministers_in_sheet(sheet, entities, llm)
+    new_entities_added   = []
+    new_entities_flagged = []
+    new_promises         = []
+    criminal_updates     = []
+    gaffe_updates        = []
+    all_flags            = []
 
-    all_flags = []
+    if unprocessed_chunk:
+        # Step 1.1: Discover and auto-add new entities into the live entities dict.
+        # Must run BEFORE canonicalize so newly added ministers are available
+        # for name resolution in the same weekly run.
+        new_entities_added, new_entities_flagged = discover_new_entities(
+            unprocessed_chunk, entities, nlp, llm
+        )
 
-    cm_updates, cm_flags = detect_cms(articles, entities, nlp, llm)
+        # Step 2: Canonicalise ministers_mentioned across the unprocessed chunk.
+        # Uses canonical set derived from entities.json (including just-added entities).
+        canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm)
+
+        # Step 3: Run extraction/validation pipelines on newly canonicalized chunk
+        new_promises     = extract_promises(unprocessed_chunk, entities, nlp, llm)
+        criminal_updates = detect_criminal_cases(unprocessed_chunk, entities, nlp, llm)
+        gaffe_updates    = detect_controversies_and_gaffes(unprocessed_chunk, entities, nlp, llm)
+
+    # Step 4: Run CM and ruling party aggregations using both historical and chunk articles
+    # Combine processed articles with the newly processed chunk for correct aggregate confidence calculation
+    cm_party_articles = processed_articles + unprocessed_chunk
+    cm_updates, cm_flags = detect_cms(cm_party_articles, entities, nlp, llm)
     all_flags.extend(cm_flags)
 
-    party_updates, party_flags = detect_ruling_parties(articles, entities, nlp, llm)
+    party_updates, party_flags = detect_ruling_parties(cm_party_articles, entities, nlp, llm)
     all_flags.extend(party_flags)
-
-    new_promises     = extract_promises(articles, entities, nlp, llm)
-    criminal_updates = detect_criminal_cases(articles, entities, nlp, llm)
-    gaffe_updates    = detect_controversies_and_gaffes(articles, entities, nlp, llm)
 
     updated_entities = apply_updates(
         entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates
