@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 3,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -470,10 +470,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu **Swati Maliwal**, a former **AAP** MP, accused her former party of changing its principles and becoming cor",
-            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
-            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
-            "scraped_at": "2026-04-25 09:36:11.298235",
+            "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
+            "source_url": "https://odishabytes.com/kejriwals-claims-of-ib-threats-backfire-call-traced-back-to-aap-leader/",
+            "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
+            "scraped_at": "2026-05-30 21:40:47.248285",
             "incident_type": "broad"
           }
         ],
@@ -2634,6 +2634,16 @@
       "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
       "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
       "scraped_at": "2026-03-27 17:07:37.561493",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that it might be his final official government engagement as an MLA",
+      "source_url": "https://www.thehindu.com/news/national/bihar/bihar-will-remain-indebted-to-nitish-kumar-for-building-a-new-bihar-nitin-nabin/article70788368.ece",
+      "source_title": "Bihar will remain indebted to Nitish Kumar for building a ‘New Bihar’: Nitin Nabin - The Hindu",
+      "scraped_at": "2026-03-26 21:05:36.077035",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false

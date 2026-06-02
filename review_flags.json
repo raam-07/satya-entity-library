@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-06-02 22:51:09.885904",
+  "generated_at": "2026-06-02 23:56:52.075608",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 3,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Delhi",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.45,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
+    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -35,7 +44,7 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.57,
+      "confidence": 0.5,
       "mentions": 12,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
@@ -44,8 +53,8 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.4,
-      "mentions": 6,
+      "confidence": 0.44,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
     },
@@ -53,8 +62,8 @@
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
-      "confidence": 0.5,
-      "mentions": 4,
+      "confidence": 0.56,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
     },
