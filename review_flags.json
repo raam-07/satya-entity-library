@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-02 16:30:21.669602",
+  "generated_at": "2026-06-02 17:14:40.489274",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 1,
     "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -17,8 +17,8 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.44,
-      "mentions": 4,
+      "confidence": 0.5,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
     },
@@ -26,10 +26,19 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.47,
-      "mentions": 7,
+      "confidence": 0.5,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
     },
     {
       "type": "ruling_party",
