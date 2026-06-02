@@ -68,12 +68,12 @@ jobs:
           echo "Downloaded entities.json"
           wc -l ./entities.json
 
-      - name: Run Entity Updater
+      - name: Run Entity Updater (Process)
         env:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
         run: |
-          python entity_updater.py
+          python entity_updater.py --process
 
       - name: Commit and Push Changes
         env:
@@ -113,6 +113,13 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+      - name: Commit Google Sheet Updates
+        env:
+          GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
+          ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+        run: |
+          python entity_updater.py --commit-sheet
 
       - name: Upload artifacts
         if: always()

@@ -38,45 +38,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 5,
-        "criminal_incidents": [
-          {
-            "incident_text": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu **Kalvakuntla Kavitha**, president of the **Telangana Rakshana Sena**, urged **Prime Minister Narendra Modi** to remove **Union M",
-            "source_url": "https://www.thehindu.com/news/national/telangana/remove-bandi-sanjay-from-union-cabinet-kavitha-tells-modi/article70987855.ece",
-            "source_title": "Remove Bandi Sanjay from Union Cabinet, Kavitha tells Modi - The Hindu",
-            "scraped_at": "2026-05-16 15:39:59.887875",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
-            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
-            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-05-08 21:38:27.389329",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu **Union Minister of State (MoS) for Finance Pankaj Chaudhary** stated that the **Enforce",
-            "source_url": "https://www.thehindu.com/news/national/modi-empowered-ed-to-cleanse-cancer-of-financial-crimes-not-to-target-anyone-mos-pankaj-chaudhary/article70928211.ece",
-            "source_title": "ED empowered under Modi govt. to fight ‘cancer’ of financial crimes, not target anyone: MoS Finance - The Hindu",
-            "scraped_at": "2026-05-01 14:04:53.149265",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu **Amal Kumar Tiwari**, a man from Simri locality in Bihar's Buxar district, was arrested for",
-            "source_url": "https://www.thehindu.com/news/national/bihar-man-sought-money-from-foreign-agency-for-threatening-pm-modis-security-arrested-police/article70850081.ece",
-            "source_title": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu",
-            "scraped_at": "2026-04-11 05:06:00.938906",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News **Satyabrata Kumar**, a former special director of the **Enforcement Directorate (ED)**, has opt",
-            "source_url": "https://www.livemint.com/news/india/former-ed-special-director-satyabrata-kumar-who-probed-nirav-modi-vijay-mallya-takes-vrs-11780240687864.html",
-            "source_title": "Former ED special director Satyabrata Kumar who probed Nirav Modi, Vijay Mallya, takes VRS | Today News",
-            "scraped_at": "2026-05-31 16:45:25.581130",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Amit Shah",
@@ -95,24 +60,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 2,
-        "criminal_incidents": [
-          {
-            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
-            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
-            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-05-08 21:38:27.389329",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express **Amit Shah**, **Union Home and Cooperation Minister**, directed district magistra",
-            "source_url": "https://indianexpress.com/article/india/strictly-monitor-report-demographic-changes-in-border-districts-amit-shah-to-dms-10716332/",
-            "source_title": "Strictly monitor & report demographic changes in border districts: Amit Shah to DMs | India News - The Indian Express",
-            "scraped_at": "2026-05-31 01:41:16.381253",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Rajnath Singh",
@@ -129,7 +80,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rajnath_Singh",
         "known_promises": [],
-        "image_placeholder": "rajnath_singh"
+        "image_placeholder": "rajnath_singh",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Nirmala Sitharaman",
@@ -147,7 +101,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nirmala_Sitharaman",
         "known_promises": [],
-        "image_placeholder": "nirmala_sitharaman"
+        "image_placeholder": "nirmala_sitharaman",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "S. Jaishankar",
@@ -166,7 +123,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/S._Jaishankar",
         "known_promises": [],
-        "image_placeholder": "s_jaishankar"
+        "image_placeholder": "s_jaishankar",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Nitin Gadkari",
@@ -183,7 +143,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Gadkari",
         "known_promises": [],
-        "image_placeholder": "nitin_gadkari"
+        "image_placeholder": "nitin_gadkari",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "JP Nadda",
@@ -201,7 +164,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/J._P._Nadda",
         "known_promises": [],
-        "image_placeholder": "jp_nadda"
+        "image_placeholder": "jp_nadda",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Smriti Irani",
@@ -218,7 +184,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
         "known_promises": [],
-        "image_placeholder": "smriti_irani"
+        "image_placeholder": "smriti_irani",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Piyush Goyal",
@@ -235,7 +204,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Piyush_Goyal",
         "known_promises": [],
-        "image_placeholder": "piyush_goyal"
+        "image_placeholder": "piyush_goyal",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Dharmendra Pradhan",
@@ -253,17 +225,10 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
         "known_promises": [],
         "image_placeholder": "dharmendra_pradhan",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case - The Hindu **Jawad Ahmed Siddiqui**, chairman of the **Al Falah University** group, had his regular bail plea de",
-            "source_url": "https://www.thehindu.com/news/national/delhi-court-rejects-bail-plea-of-al-falah-university-chairman-in-money-laundering-case/article70933115.ece",
-            "source_title": "Delhi court rejects bail plea of Al Falah University chairman in money laundering case - The Hindu",
-            "scraped_at": "2026-05-02 22:51:53.167038",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -281,7 +246,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Ashwini_Vaishnaw",
         "known_promises": [],
-        "image_placeholder": "ashwini_vaishnaw"
+        "image_placeholder": "ashwini_vaishnaw",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Mansukh Mandaviya",
@@ -298,7 +266,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mansukh_Mandaviya",
         "known_promises": [],
-        "image_placeholder": "mansukh_mandaviya"
+        "image_placeholder": "mansukh_mandaviya",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Giriraj Singh",
@@ -311,22 +282,15 @@
         "party": "BJP",
         "state": "Bihar",
         "constituency": "Begusarai",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Giriraj_Singh",
         "known_promises": [],
         "image_placeholder": "giriraj_singh",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
-            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
-            "scraped_at": "2026-04-20 20:05:45.187031",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-05-31"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-05-31",
+        "controversies": []
       },
       {
         "name": "Hardeep Singh Puri",
@@ -344,7 +308,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Hardeep_Singh_Puri",
         "known_promises": [],
-        "image_placeholder": "hardeep_singh_puri"
+        "image_placeholder": "hardeep_singh_puri",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Kiren Rijiju",
@@ -361,7 +328,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Kiren_Rijiju",
         "known_promises": [],
-        "image_placeholder": "kiren_rijiju"
+        "image_placeholder": "kiren_rijiju",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Abhishek Banerjee",
@@ -370,84 +340,14 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 0,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
-        "criminal_incidents": [
-          {
-            "incident_text": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu **Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect secu",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
-            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
-            "scraped_at": "2026-05-26 04:51:03.882465",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
-            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
-            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
-            "scraped_at": "2026-05-31 09:37:55.181015",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
-            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
-            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
-            "scraped_at": "2026-05-31 06:30:16.763734",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
-            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
-            "scraped_at": "2026-05-31 06:27:56.337796",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
-            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
-            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
-            "scraped_at": "2026-05-31 06:25:25.115843",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today Following an attack on **Abhishek Banerjee**, the MP for Diamond Harbour, during a vis",
-            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
-            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
-            "scraped_at": "2026-05-31 11:44:00.328937",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes **Mamata Banerjee**, former West Bengal Chief Minister and leader of the **Trinamool Congress (TMC)**, will lea",
-            "source_url": "https://odishabytes.com/alleged-attacks-on-trinamool-mps-mamata-banerjee-to-hit-streets-on-june-2/",
-            "source_title": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes",
-            "scraped_at": "2026-05-31 15:20:32.895210",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today **Tribeny Rai**, director of the film \"Shape of Momo,\" discussed her experience growing up without seeing people from ",
-            "source_url": "https://www.indiatoday.in/newsmo/video/bakrid-invite-murder-accused-killed-in-encounter-i-ghaziabad-case-2919979-2026-05-31?utm_source=rss",
-            "source_title": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today",
-            "scraped_at": "2026-05-31 22:36:47.575888",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Rajat Patidar: From being unsold to back-to-back IPL titles with RCB - India Today **Rajat Patidar**, the man accused of being involved in the \"Bakrid Invite\" murder, was killed during an encounter wi",
-            "source_url": "https://www.indiatoday.in/newsmo/video/rajat-patidar-from-being-unsold-to-back-to-back-ipl-titles-with-rcb-2920021-2026-06-01?utm_source=rss",
-            "source_title": "Rajat Patidar: From being unsold to back-to-back IPL titles with RCB - India Today",
-            "scraped_at": "2026-05-31 22:36:45.545524",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu The **West Bengal police** arrested five individuals in connection with the attack on Tri",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/five-arrested-for-attack-on-abhishek-mamata-says-police-pressurised-hospitals-not-to-admit-him/article71044003.ece",
-            "source_title": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu",
-            "scraped_at": "2026-05-31 21:08:33.436413",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       }
     ],
     "opposition_leaders": [
@@ -463,70 +363,14 @@
         "party": "INC",
         "state": "Kerala",
         "constituency": "Wayanad",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 8,
-        "criminal_incidents": [
-          {
-            "incident_text": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu **Alamgir Alam**, a former Jharkhand minister, was released on bail from the Birsa Munda Central Jail in Ranc",
-            "source_url": "https://www.thehindu.com/news/national/jharkhand/congress-leader-and-former-jharkhand-minister-alamgir-alam-walks-out-of-jail/article70979362.ece",
-            "source_title": "Congress leader and former Jharkhand Minister, Alamgir Alam, walks out of jail - The Hindu",
-            "scraped_at": "2026-05-15 01:28:26.871494",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu **Rahul Gandhi**, leader of the **Congress**, asserted that only his party could defeat the **BJP**, chara",
-            "source_url": "https://www.thehindu.com/news/national/haryana/only-congress-party-can-defeat-bjp-in-the-battle-of-ideologies-says-rahul-gandhi/article70956411.ece",
-            "source_title": "Only Congress party can defeat BJP in the battle of ideologies, says Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-05-08 21:38:27.389329",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of ",
-            "source_url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
-            "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-05-02 00:03:57.391908",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
-            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
-            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
-            "scraped_at": "2026-04-19 18:09:30.425946",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
-            "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
-            "scraped_at": "2026-04-19 16:11:04.103449",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
-            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-04-18 18:10:52.761906",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu The **Lucknow Bench of the Allahabad High Court** ordered the registration of an FIR and further investigation",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-fir-against-rahul-gandhi-in-alleged-dual-citizenship-case/article70873912.ece",
-            "source_title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
-            "scraped_at": "2026-04-17 19:46:37.812241",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
-            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
-            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
-            "scraped_at": "2026-04-09 09:55:44.844181",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Sonia Gandhi",
@@ -538,21 +382,14 @@
         "party": "INC",
         "state": "Rajasthan",
         "constituency": "Rajya Sabha",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
-            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
-            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
-            "scraped_at": "2026-04-19 18:09:30.425946",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Priyanka Gandhi",
@@ -567,7 +404,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Priyanka_Gandhi_Vadra",
-        "image_placeholder": "priyanka_gandhi"
+        "image_placeholder": "priyanka_gandhi",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Mallikarjun Kharge",
@@ -582,7 +422,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
-        "image_placeholder": "mallikarjun_kharge"
+        "image_placeholder": "mallikarjun_kharge",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Arvind Kejriwal",
@@ -595,21 +438,14 @@
         "party": "AAP",
         "state": "Delhi",
         "constituency": "New Delhi",
-        "criminal_cases": 2,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
-            "source_url": "https://odishabytes.com/kejriwals-claims-of-ib-threats-backfire-call-traced-back-to-aap-leader/",
-            "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
-            "scraped_at": "2026-05-30 21:40:47.248285",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Mamata Banerjee",
@@ -626,59 +462,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
         "image_placeholder": "mamata_banerjee",
-        "criminal_cases_in_news": 7,
-        "criminal_incidents": [
-          {
-            "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
-            "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
-            "scraped_at": "2026-05-14 17:27:51.324299",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu **Mamata Banerjee**, leader of the **Trinamool Congress**, appeared before the Supreme",
-            "source_url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
-            "source_title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
-            "scraped_at": "2026-05-11 22:40:30.666506",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu **ED** conducted searches at the residence of **Kolkata Police Deputy Commissioner Shantanu S",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/ed-arrests-businessman-raids-kolkata-police-deputy-commissioner-in-pmla-case/article70881065.ece",
-            "source_title": "ED searches house of Kolkata Deputy Police Commissioner, arrests businessman; Mamata hits back - The Hindu",
-            "scraped_at": "2026-04-19 16:11:04.103449",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
-            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
-            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
-            "scraped_at": "2026-05-31 09:37:55.181015",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
-            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
-            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
-            "scraped_at": "2026-05-31 06:30:16.763734",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
-            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
-            "scraped_at": "2026-05-31 06:27:56.337796",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
-            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
-            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
-            "scraped_at": "2026-05-31 06:25:25.115843",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Akhilesh Yadav",
@@ -693,7 +480,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Akhilesh_Yadav",
-        "image_placeholder": "akhilesh_yadav"
+        "image_placeholder": "akhilesh_yadav",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Mayawati",
@@ -708,7 +498,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mayawati",
-        "image_placeholder": "mayawati"
+        "image_placeholder": "mayawati",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Asaduddin Owaisi",
@@ -723,7 +516,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Asaduddin_Owaisi",
-        "image_placeholder": "asaduddin_owaisi"
+        "image_placeholder": "asaduddin_owaisi",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Sharad Pawar",
@@ -741,7 +537,8 @@
         "image_placeholder": "sharad_pawar",
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Lalu Prasad Yadav",
@@ -753,10 +550,13 @@
         "party": "RJD",
         "state": "Bihar",
         "constituency": "Patna Sahib",
-        "criminal_cases": 6,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav",
-        "image_placeholder": "lalu_prasad_yadav"
+        "image_placeholder": "lalu_prasad_yadav",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Tejashwi Yadav",
@@ -768,10 +568,13 @@
         "party": "RJD",
         "state": "Bihar",
         "constituency": "Raghopur",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Tejashwi_Yadav",
-        "image_placeholder": "tejashwi_yadav"
+        "image_placeholder": "tejashwi_yadav",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Thol. Thirumavalavan",
@@ -786,7 +589,9 @@
         "auto_added": true,
         "auto_added_on": "2026-06-01",
         "gemma_confidence": "medium",
-        "mentions_detected": 179
+        "mentions_detected": 179,
+        "criminal_incidents": [],
+        "controversies": []
       }
     ],
     "state_chief_ministers": [
@@ -804,7 +609,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
-        "image_placeholder": "yogi_adityanath"
+        "image_placeholder": "yogi_adityanath",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Nitish Kumar",
@@ -820,17 +628,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
         "image_placeholder": "nitish_kumar",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/hamirpur-bridge-collapse-case-lodged-against-executing-agency-contractor/article71040445.ece",
-            "source_title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
-            "scraped_at": "2026-05-30 06:55:31.675098",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Samrat Choudhary",
@@ -846,7 +647,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
-        "image_placeholder": "samrat_choudhary"
+        "image_placeholder": "samrat_choudhary",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Mamata Banerjee",
@@ -862,7 +666,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
-        "image_placeholder": "mamata_banerjee"
+        "image_placeholder": "mamata_banerjee",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Siddaramaiah",
@@ -874,21 +681,14 @@
         "state": "Karnataka",
         "party": "INC",
         "ruling_since": "2023",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Siddaramaiah",
         "image_placeholder": "siddaramaiah",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu **The Enforcement Directorate (ED)** conducted searches at various locations in Bengaluru on Tuesday as part",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-a-political-vendetta-claims-nalapad-congress-leaders-question-timing/article70889235.ece",
-            "source_title": "ED raids a political vendetta, claims Nalapad; Congress leaders question timing - The Hindu",
-            "scraped_at": "2026-04-21 23:45:23.522573",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Revanth Reddy",
@@ -900,10 +700,13 @@
         "state": "Telangana",
         "party": "INC",
         "ruling_since": "2023",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
-        "image_placeholder": "revanth_reddy"
+        "image_placeholder": "revanth_reddy",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "M.K. Stalin",
@@ -919,7 +722,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/M._K._Stalin",
-        "image_placeholder": "mk_stalin"
+        "image_placeholder": "mk_stalin",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Pinarayi Vijayan",
@@ -935,38 +741,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 4,
-        "criminal_incidents": [
-          {
-            "incident_text": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu A Special Investigation Team (SIT) concluded that the assault on Indian Youth Congress activists in Alappuzha by",
-            "source_url": "https://www.thehindu.com/news/national/kerala/assault-on-youth-congress-workers-in-alappuzha-sit-says-assault-unlawful/article71022089.ece",
-            "source_title": "Assault on Youth Congress workers in Alappuzha: SIT says 'assault unlawful’ - The Hindu",
-            "scraped_at": "2026-05-25 16:00:28.488083",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan ",
-            "source_url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
-            "source_title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
-            "scraped_at": "2026-05-27 04:12:25.958544",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
-            "source_url": "https://www.thehindu.com/news/national/kerala/defiant-pinarayi-vijayan-raises-fist-after-ed-raid-vows-long-battle-against-bjp-and-congress/article71028749.ece",
-            "source_title": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu",
-            "scraped_at": "2026-05-27 11:57:37.524091",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his",
-            "source_url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
-            "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
-            "scraped_at": "2026-05-28 00:10:22.645050",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Hemant Soren",
@@ -978,10 +756,13 @@
         "state": "Jharkhand",
         "party": "JMM",
         "ruling_since": "2024",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
-        "image_placeholder": "hemant_soren"
+        "image_placeholder": "hemant_soren",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Chandrababu Naidu",
@@ -994,10 +775,13 @@
         "state": "Andhra Pradesh",
         "party": "TDP",
         "ruling_since": "2024",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
-        "image_placeholder": "chandrababu_naidu"
+        "image_placeholder": "chandrababu_naidu",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Devendra Fadnavis",
@@ -1012,7 +796,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
-        "image_placeholder": "devendra_fadnavis"
+        "image_placeholder": "devendra_fadnavis",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Bhajanlal Sharma",
@@ -1027,7 +814,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhajanlal_Sharma",
-        "image_placeholder": "bhajanlal_sharma"
+        "image_placeholder": "bhajanlal_sharma",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Mohan Yadav",
@@ -1042,7 +832,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
-        "image_placeholder": "mohan_yadav"
+        "image_placeholder": "mohan_yadav",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Omar Abdullah",
@@ -1058,17 +851,10 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
         "image_placeholder": "omar_abdullah",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the premises of two sons of Karnataka Congress MLA N.A. Ha",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/ed-raids-karnataka-congress-mla-sons-others-in-crypto-linked-pmla-case-haris/article70883362.ece",
-            "source_title": "ED raids Karnataka Congress MLA's sons, others in crypto-linked PMLA case - The Hindu",
-            "scraped_at": "2026-04-20 06:28:35.976841",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -1083,7 +869,10 @@
         "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sukhvinder_Singh_Sukhu",
-        "image_placeholder": "sukhvinder_sukhu"
+        "image_placeholder": "sukhvinder_sukhu",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "Bhupesh Baghel",
@@ -1095,10 +884,13 @@
         "state": "Chhattisgarh",
         "party": "INC",
         "ruling_since": "N/A",
-        "criminal_cases": 1,
+        "criminal_cases": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
-        "image_placeholder": "bhupesh_baghel"
+        "image_placeholder": "bhupesh_baghel",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
       },
       {
         "name": "C. Joseph Vijay",
@@ -1109,21 +901,14 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 0,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
         "mentions_detected": 52,
-        "criminal_incidents": [
-          {
-            "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
-            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
-            "scraped_at": "2026-05-30 03:52:17.421777",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-01"
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": []
       },
       {
         "name": "V.D. Satheesan",
@@ -1136,7 +921,9 @@
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
-        "mentions_detected": 29
+        "mentions_detected": 29,
+        "criminal_incidents": [],
+        "controversies": []
       }
     ],
     "generic_politicians": [],
@@ -2208,356 +1995,5 @@
       }
     ]
   },
-  "extracted_promises": [
-    {
-      "person": "health minister",
-      "promise_text": "that all close contacts of a hantavirus case linked to the MV Hondius cruise ship have tested negative",
-      "source_url": "https://www.dawn.com/news/2000246/france-netherlands-say-all-hantavirus-contact-cases-negative",
-      "source_title": "France, Netherlands say all hantavirus contact cases negative - World - DAWN.COM",
-      "scraped_at": "2026-05-14 17:27:00.975579",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "government employees that the State would clear retirement benefits worth ₹6",
-      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-government-to-clear-6000-crore-retirement-benefits-in-100-days-promises-revanth-reddy/article70932062.ece",
-      "source_title": "Telangana government to clear ₹6,000 crore retirement benefits in 100 days, promises Revanth Reddy - The Hindu",
-      "scraped_at": "2026-05-02 14:38:11.450962",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Priyanka",
-      "promise_text": "that village officers are conducting assessments and compensation will be provided to affected parties",
-      "source_url": "https://www.thehindu.com/news/national/kerala/summer-showers-strong-winds-damage-over-200-houses-in-ernakulam/article70994317.ece",
-      "source_title": "Summer showers, strong winds damage over 200 houses in Ernakulam - The Hindu",
-      "scraped_at": "2026-05-21 23:17:54.878551",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Priyanka",
-      "promise_text": "the activation of Taluk Emergency Operation Centres (TEOCs) by May 20th to prepare for the monsoon season",
-      "source_url": "https://www.thehindu.com/news/national/kerala/taluk-emergency-centres-for-disaster-management-to-be-activated-by-may-20/article70975249.ece",
-      "source_title": "24x7 control rooms for disaster management to be set up in Ernakulam - The Hindu",
-      "scraped_at": "2026-05-13 23:14:19.953079",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Priyanka",
-      "promise_text": "the final phase of the HPV vaccination campaign against cervical cancer in the district",
-      "source_url": "https://www.thehindu.com/news/national/kerala/free-vaccination-for-cervical-cancer-until-may-31/article70970998.ece",
-      "source_title": "Free vaccination for cervical cancer until May 31 - The Hindu",
-      "scraped_at": "2026-05-13 00:09:00.148550",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "that the Telangana government will prioritize education",
-      "source_url": "https://www.thehindu.com/news/national/telangana/education-budget-will-grow-every-year-says-telangana-cm-revanth-reddy/article70966847.ece",
-      "source_title": "Education Budget will grow every year, says Telangana CM Revanth Reddy - The Hindu",
-      "scraped_at": "2026-05-11 19:58:17.483919",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Chandrababu Naidu",
-      "promise_text": "plans to establish \"labour addas\" across the state",
-      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-will-set-up-labour-addas-to-upskill-workers-says-cm-naidu/article70928673.ece",
-      "source_title": "A.P. govt. will set up ‘Labour Addas’ to upskill workers, says CM Naidu - The Hindu",
-      "scraped_at": "2026-05-01 23:04:40.886310",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "plans to complete unfinished Indiramma houses and allocate funds for their completion",
-      "source_url": "https://www.thehindu.com/news/national/telangana/cabinet-clears-25-lakh-houses-587-crore-for-prlsi/article71015536.ece",
-      "source_title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
-      "scraped_at": "2026-05-23 17:09:52.164425",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Siddaramaiah",
-      "promise_text": "that farmers would receive fair compensation and land allocation for their surrendered properties",
-      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-have-second-largest-international-cricket-stadium-in-india/article71014440.ece",
-      "source_title": "Karnataka to soon get India’s second largest international cricket stadium - The Hindu",
-      "scraped_at": "2026-05-23 21:33:40.778202",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Stalin",
-      "promise_text": "that Tamil Nadu has voted and will win on May 4th",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-commends-people-of-tn-for-record-voter-turnout/article70898779.ece",
-      "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
-      "scraped_at": "2026-04-24 23:45:42.804584",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "plans to support women self-help groups (SHGs) in setting up logistics parks",
-      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-exhorts-shg-women-to-establish-super-markets-logistic-parks-and-godowns/article71021051.ece",
-      "source_title": "Telangana CM exhorts SHG women to establish super markets, logistic parks and godowns - The Hindu",
-      "scraped_at": "2026-05-25 12:51:57.730396",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Stalin",
-      "promise_text": "that the South stood united",
-      "source_url": "https://www.thehindu.com/news/national/south-stood-united-made-its-voice-heard-and-democracy-prevailed-tn-cm-stalin/article70874980.ece",
-      "source_title": "South stood united, made its voice heard and democracy prevailed: T.N. CM Stalin - The Hindu",
-      "scraped_at": "2026-04-17 17:31:34.297283",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Modi",
-      "promise_text": "that no one should underestimate the importance of this reform",
-      "source_url": "https://www.thehindu.com/news/national/developed-india-can-only-be-built-on-foundation-of-its-native-languages-says-president/article70868913.ece",
-      "source_title": "No State, be it north or south will be discriminated against in delimitation exercise: PM in LS - The Hindu",
-      "scraped_at": "2026-04-16 12:49:19.100707",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "that the party had supported Jeevan Reddy's election campaigns and accommodated his requests for tickets",
-      "source_url": "https://www.thehindu.com/news/national/telangana/revanth-meets-jagtial-leaders-slams-jeevan-reddys-exit-from-congress/article70862405.ece",
-      "source_title": "Revanth meets Jagtial leaders, slams Jeevan Reddy’s exit from Congress - The Hindu",
-      "scraped_at": "2026-04-15 00:12:39.533728",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "V.D. Satheesan",
-      "promise_text": "them that he would not forget his pre-election promise of resolving their grievances",
-      "source_url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
-      "source_title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
-      "scraped_at": "2026-05-16 11:11:28.750645",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Bhajanlal Sharma",
-      "promise_text": "this decision, citing consumer convenience and grievances following growing protests over alleged billing irregularities",
-      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-scraps-smart-prepaid-meter-system-shifts-all-consumers-to-postpaid-mode/article70954813.ece",
-      "source_title": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu",
-      "scraped_at": "2026-05-08 11:57:19.685965",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "V.D. Satheesan",
-      "promise_text": "a plan to transform Kochi into a model city with seamless transport and world-class infrastructure through a \"twin city\" expansion",
-      "source_url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
-      "source_title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan - The Hindu",
-      "scraped_at": "2026-05-24 20:15:17.286499",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Mamata Banerjee",
-      "promise_text": "that she would hire all I-PAC employees and absorb them into the party",
-      "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-dismisses-reports-of-i-pac-halting-wb-operations-mamata-says-party-to-give-jobs-to-staffers-if-needed/article70881278.ece",
-      "source_title": "Amid speculation of I-PAC suspending Bengal operations, Mamata says will engage its members in her party - The Hindu",
-      "scraped_at": "2026-04-19 16:10:39.383480",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "V.D. Satheesan",
-      "promise_text": "that the appointment of Rathan U",
-      "source_url": "https://www.thehindu.com/news/national/kerala/needless-fuss-kerala-cm-vd-satheesan-defends-posting-former-state-poll-chief-rathan-kelkar-as-his-secretary/article71020418.ece",
-      "source_title": "‘Needless fuss’: Kerala CM V.D. Satheesan defends posting former State poll chief Rathan Kelkar as his Secretary - The Hindu",
-      "scraped_at": "2026-05-25 09:17:28.180790",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "C. Joseph Vijay",
-      "promise_text": "that his party is mobilizing a massive people's movement across Tamil Nadu",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-not-relying-merely-on-road-campaigns-massive-peoples-movement-under-way-vijay/article70877074.ece",
-      "source_title": "TVK not relying merely on road campaigns; massive people’s movement under way: Vijay - The Hindu",
-      "scraped_at": "2026-04-18 12:02:55.029154",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Narendra Modi",
-      "promise_text": "to implement the UCC within six months if his party won",
-      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-polls-2026-modi-mamata-spar-over-ucc-implementation/article70851739.ece",
-      "source_title": "Bengal polls 2026: Modi, Mamata spar over UCC implementation - The Hindu",
-      "scraped_at": "2026-04-11 17:42:10.589164",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Siddaramaiah",
-      "promise_text": "to oppose any attempt to weaken Karnataka's voice in the matter",
-      "source_url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
-      "source_title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
-      "scraped_at": "2026-04-05 19:41:36.196712",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Devendra Fadnavis",
-      "promise_text": "that the government will conduct surveys and provide compensation as it has done in previous instances of unseasonal rain or hailstorms",
-      "source_url": "https://www.thehindu.com/news/national/maharashtra/unseasonal-rains-in-maharashtra-govt-will-provide-farmers-all-assistance-promises-cm/article70826670.ece",
-      "source_title": "Unseasonal rains in Maharashtra: Govt will provide farmers all assistance, promises CM - The Hindu",
-      "scraped_at": "2026-04-05 13:10:34.739347",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Narendra Modi",
-      "promise_text": "that the principle of governance in the country is based on the mantra \"Nagrik Devo Bhavah\" (citizens are like gods)",
-      "source_url": "https://www.thehindu.com/news/national/need-to-continuously-update-public-services-to-achieve-goal-of-viksit-bharat-pm-modi/article70814539.ece",
-      "source_title": "Need to continuously update public services to achieve goal of 'Viksit Bharat': PM Modi - The Hindu",
-      "scraped_at": "2026-04-02 06:56:40.273691",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Mamata Banerjee",
-      "promise_text": "to fight against these attempts",
-      "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-trying-to-add-illegal-voters-from-outside-in-bengal-electoral-rolls-mamata/article70806124.ece",
-      "source_title": "West Bengal election 2026: BJP trying to add illegal voters from outside in Bengal electoral rolls: Mamata Banerjee - The Hindu",
-      "scraped_at": "2026-03-31 08:15:27.352481",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Narendra Modi",
-      "promise_text": "an NDA government would advance a \"Viksit Kerala\" vision with faster development and measures to curb outward youth migration",
-      "source_url": "https://www.thehindu.com/elections/modi-targets-ldf-udf-over-decades-of-corruption-calls-bjp-keralas-real-a-team/article70799220.ece",
-      "source_title": "BJP is the ‘A team’ of Kerala, says Modi at campaign meet - The Hindu",
-      "scraped_at": "2026-03-29 21:41:49.368396",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "M.K. Stalin",
-      "promise_text": "the Illatharasi Scheme under which all non-income tax assessee housewives will be given a coupon valued at ₹8",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-dmk-election-manifesto/article70799667.ece",
-      "source_title": "Stalin promises ₹8,000 coupon to housewives to buy household appliances - The Hindu",
-      "scraped_at": "2026-03-29 14:10:10.469164",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "C. Joseph Vijay",
-      "promise_text": "the party's candidates for the upcoming Tamil Nadu Assembly elections",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
-      "source_title": "TVK chief Vijay to contest from Perambur, Tiruchi East constituencies making electoral debut in T.N. Assembly election - The Hindu",
-      "scraped_at": "2026-03-29 08:50:52.753527",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "M.K. Stalin",
-      "promise_text": "that the Minister will once again enter the fray from the Katpadi constituency",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-dmk-candidate-list-includes-60-fresh-faces-and-4-mayors/article70796987.ece",
-      "source_title": "T.N. Assembly election: DMK candidate list includes 60 fresh faces and 4 Mayors - The Hindu",
-      "scraped_at": "2026-03-28 19:40:26.314196",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Devendra Fadnavis",
-      "promise_text": "citizens that there is no shortage of fuel in India and urged them not to hoard it",
-      "source_url": "https://www.thehindu.com/news/national/maharashtra/people-spreading-rumours-on-lockdown-will-be-booked-cm-fadnavis/article70793001.ece",
-      "source_title": "People spreading rumours on lockdown will be booked: CM Fadnavis - The Hindu",
-      "scraped_at": "2026-03-27 22:43:13.699842",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "JP Nadda",
-      "promise_text": "the Lok Sabha on Friday that India has adequate fertilizer stocks to meet farmer needs despite disruptions caused by the ongoing Iran-Israel war",
-      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
-      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
-      "scraped_at": "2026-03-27 17:07:37.561493",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "JP Nadda",
-      "promise_text": "that he spoke with State Agriculture Ministers about availability and reassured citizens there is no need for panic",
-      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
-      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
-      "scraped_at": "2026-03-27 17:07:37.561493",
-      "gemma_confidence": "medium",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Revanth Reddy",
-      "promise_text": "his full backing for the proposal",
-      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ0gzckxxYjlBV0VNRlU5Mk41NmYzZFpWUTlRVDRvUmVSZVlTeWNXN0N0VEZTc1p5NTJyaXZNN0ZPWjA2dW9uMXN6ZnJ3MG13ZTNYQlhMQk9ZOXFBVzN6NGZaZVoycWw5UGZfOTlNRm9VTy1qbmppeHVvNmJxb1dqZlBvcnNKNnN0Z1kzc3ZfX1dsbm5nbmNSZDY0QWg1YXRCSU1JR3JKV2JEc19HRFpFYndLQmwySGxQTi1nSmlDVG9RUFRPQlNmWWxLX2o4WkR3MEpKSXZDM0pmRzJuQmZqZTRRQ3MxdEF4ckFjTzJSa2V4QkZWZmZZMkVLZzZzSnYxemNja2V5dGs0VnJ4c2dpdE9sUUY?oc=5",
-      "source_title": "Say 'Jai Shri Ram' in classrooms instead of 'Yes sir' during attendance calls: Karnataka BJP MLA Janardhan Reddy",
-      "scraped_at": "2026-05-31 06:29:46.128120",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "Thol. Thirumavalavan",
-      "promise_text": "that this would be his final election as a candidate",
-      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-thirumavalavan-to-enter-the-fray-in-kattumannarkovil/article70800315.ece",
-      "source_title": "T.N. Assembly election: Thirumavalavan to enter the fray in Kattumannarkovil - The Hindu",
-      "scraped_at": "2026-03-29 19:40:06.646837",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    },
-    {
-      "person": "C. Joseph Vijay",
-      "promise_text": "that his government would come out with a White Paper",
-      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/white-paper-on-state-govts-finances-is-being-finalised/article71045236.ece",
-      "source_title": "White Paper on State govt.’s finances is being finalised - The Hindu",
-      "scraped_at": "2026-05-31 21:08:05.235239",
-      "gemma_confidence": "high",
-      "status": "pending_review",
-      "verified": false
-    }
-  ]
+  "extracted_promises": []
 }

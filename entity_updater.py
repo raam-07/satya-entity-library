@@ -352,7 +352,7 @@ Reply with ONLY the exact name from the options. No explanation.
             'values': [[json.dumps(article_to_write, ensure_ascii=False)]],
         })
 
-    # Write audit log BEFORE touching the sheet — full rollback reference
+    # Write audit log BEFORE returning — keeps log on disk
     if audit_log:
         existing_audit = []
         if os.path.exists(CANONICALIZE_AUDIT_PATH):
@@ -366,30 +366,33 @@ Reply with ONLY the exact name from the options. No explanation.
             json.dump(existing_audit, f, indent=2, ensure_ascii=False)
         logging.info(f"Audit log: {len(audit_log)} name changes recorded.")
 
-    # ✅ FIXED: Chunk writes to prevent Sheets API 500 / Payload-Size crashes
-    if batch_updates:
-        chunk_size = 100
-        logging.info(f"Sending {len(batch_updates)} updates to Google Sheets in chunks of {chunk_size}...")
-        for i in range(0, len(batch_updates), chunk_size):
-            chunk = batch_updates[i : i + chunk_size]
-            try:
-                sheet.batch_update(chunk)
-                logging.info(f"Wrote batch of {len(chunk)} updates (progress: {i + len(chunk)}/{len(batch_updates)})")
-                time.sleep(1.0)  # Brief pause to respect API rate limits
-            except Exception as e:
-                logging.warning(f"Batch write failed at index {i} due to: {e}. Retrying after 5s...")
-                time.sleep(5.0)
-                sheet.batch_update(chunk)
-                logging.info("Batch retry successful.")
-        
-        logging.info(
-            f"Canonicalisation complete: {len(batch_updates)} rows processed, "
-            f"{len(audit_log)} actual name changes."
-        )
-    else:
-        logging.info("All articles already canonicalized — nothing to update.")
+    return batch_updates
 
-    return len(audit_log)
+
+def commit_sheet_updates(sheet, batch_updates):
+    """
+    Writes a list of batch updates back to the Google Sheet in safe chunks of 100
+    to prevent API payload crashes and respect rate limits.
+    """
+    if not batch_updates:
+        logging.info("No updates to commit to Google Sheets.")
+        return
+
+    chunk_size = 100
+    logging.info(f"Sending {len(batch_updates)} updates to Google Sheets in chunks of {chunk_size}...")
+    for i in range(0, len(batch_updates), chunk_size):
+        chunk = batch_updates[i : i + chunk_size]
+        try:
+            sheet.batch_update(chunk)
+            logging.info(f"Wrote batch of {len(chunk)} updates (progress: {i + len(chunk)}/{len(batch_updates)})")
+            time.sleep(1.0)  # Brief pause to respect API rate limits
+        except Exception as e:
+            logging.warning(f"Batch write failed at index {i} due to: {e}. Retrying after 5s...")
+            time.sleep(5.0)
+            sheet.batch_update(chunk)
+            logging.info("Batch retry successful.")
+    
+    logging.info("Successfully committed all updates to Google Sheets.")
 
 # ==============================================================================
 # --- spaCy NER SETUP ---
@@ -1420,10 +1423,40 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
 # ==============================================================================
 
 def main():
-    start_time = time.time()
-    logging.info("--- Satya Entity Updater Started ---")
+    import sys
+    args = sys.argv[1:]
+    
+    # Process mode options: "--process", "--commit-sheet", or default (both)
+    mode = "both"
+    if "--process" in args:
+        mode = "process"
+    elif "--commit-sheet" in args:
+        mode = "commit-sheet"
 
-    sheet    = connect_to_sheets()
+    start_time = time.time()
+    logging.info(f"--- Satya Entity Updater Started (Mode: {mode}) ---")
+
+    sheet = connect_to_sheets()
+
+    if mode == "commit-sheet":
+        pending_file = './pending_sheet_updates.json'
+        if not os.path.exists(pending_file):
+            logging.info("No pending Google Sheet updates found. Exiting.")
+            return
+        try:
+            with open(pending_file, 'r') as f:
+                batch_updates = json.load(f)
+            logging.info(f"Loaded {len(batch_updates)} pending updates from disk.")
+            commit_sheet_updates(sheet, batch_updates)
+            # Remove the file so we don't apply it again
+            os.remove(pending_file)
+            logging.info("Removed pending_sheet_updates.json")
+        except Exception as e:
+            logging.error(f"Failed to commit sheet updates: {e}")
+            sys.exit(1)
+        return
+
+    # Else: process or both
     articles = fetch_articles(sheet)
 
     if not articles:
@@ -1458,6 +1491,7 @@ def main():
     criminal_updates     = []
     gaffe_updates        = []
     all_flags            = []
+    batch_updates        = []
 
     if unprocessed_chunk:
         # Step 1.1: Discover and auto-add new entities into the live entities dict.
@@ -1467,9 +1501,9 @@ def main():
             unprocessed_chunk, entities, nlp, llm
         )
 
-        # Step 2: Canonicalise ministers_mentioned across the unprocessed chunk.
-        # Uses canonical set derived from entities.json (including just-added entities).
-        canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm)
+        # Step 2: Canonicalise ministers_mentioned across the unprocessed chunk in memory.
+        # Returns batch updates list.
+        batch_updates = canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm)
 
         # Step 3: Run extraction/validation pipelines on newly canonicalized chunk
         new_promises     = extract_promises(unprocessed_chunk, entities, nlp, llm)
@@ -1513,6 +1547,16 @@ def main():
     with open(REVIEW_FLAGS_PATH, 'w', encoding='utf-8') as f:
         json.dump(review_output, f, indent=2, ensure_ascii=False)
     logging.info(f"Saved review_flags.json ({len(all_flags)} need review)")
+
+    # Save pending sheet updates to a local disk file in 'process' mode
+    if mode == "process":
+        pending_file = './pending_sheet_updates.json'
+        with open(pending_file, 'w', encoding='utf-8') as f:
+            json.dump(batch_updates, f, indent=2, ensure_ascii=False)
+        logging.info(f"Saved {len(batch_updates)} pending Google Sheet updates to {pending_file}")
+    elif mode == "both":
+        # Commit immediately for manual/local testing
+        commit_sheet_updates(sheet, batch_updates)
 
     elapsed = round(time.time() - start_time, 2)
     logging.info(f"--- Entity Updater Finished in {elapsed}s ---")
