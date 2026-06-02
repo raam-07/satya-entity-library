@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 4,
+      "new_promises": 3,
       "gaffe_updates": 0
     }
   },
@@ -1643,7 +1643,7 @@
         "ruling_party": "BJP",
         "cm": null,
         "region": "East",
-        "party_confidence": 0.85,
+        "party_confidence": 0.79,
         "party_last_updated": "2026-06-02"
       },
       {
@@ -2605,6 +2605,36 @@
       "source_title": "T.N. Assembly election: DMK candidate list includes 60 fresh faces and 4 Mayors - The Hindu",
       "scraped_at": "2026-03-28 19:40:26.314196",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "citizens that there is no shortage of fuel in India and urged them not to hoard it",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/people-spreading-rumours-on-lockdown-will-be-booked-cm-fadnavis/article70793001.ece",
+      "source_title": "People spreading rumours on lockdown will be booked: CM Fadnavis - The Hindu",
+      "scraped_at": "2026-03-27 22:43:13.699842",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "the Lok Sabha on Friday that India has adequate fertilizer stocks to meet farmer needs despite disruptions caused by the ongoing Iran-Israel war",
+      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
+      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
+      "scraped_at": "2026-03-27 17:07:37.561493",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "that he spoke with State Agriculture Ministers about availability and reassured citizens there is no need for panic",
+      "source_url": "https://www.thehindu.com/news/national/no-need-to-panic-on-fertilizer-stocks-centre/article70792659.ece",
+      "source_title": "No need to panic on fertilizer stocks: Centre - The Hindu",
+      "scraped_at": "2026-03-27 17:07:37.561493",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }

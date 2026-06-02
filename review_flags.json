@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-02 22:08:33.431879",
+  "generated_at": "2026-06-02 22:51:09.885904",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 4,
+    "promises_extracted": 3,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -35,10 +35,19 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.6,
-      "mentions": 9,
+      "confidence": 0.57,
+      "mentions": 12,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "Pinarayi Vijayan",
+      "confidence": 0.4,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
     },
     {
       "type": "cm_detection",
