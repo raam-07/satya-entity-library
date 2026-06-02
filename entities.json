@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 1,
-      "new_promises": 4,
+      "criminal_updates": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -2360,6 +2360,16 @@
       "source_url": "https://www.thehindu.com/news/national/south-stood-united-made-its-voice-heard-and-democracy-prevailed-tn-cm-stalin/article70874980.ece",
       "source_title": "South stood united, made its voice heard and democracy prevailed: T.N. CM Stalin - The Hindu",
       "scraped_at": "2026-04-17 17:31:34.297283",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that no one should underestimate the importance of this reform",
+      "source_url": "https://www.thehindu.com/news/national/developed-india-can-only-be-built-on-foundation-of-its-native-languages-says-president/article70868913.ece",
+      "source_title": "No State, be it north or south will be discriminated against in delimitation exercise: PM in LS - The Hindu",
+      "scraped_at": "2026-04-16 12:49:19.100707",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
