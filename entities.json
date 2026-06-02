@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 1,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -1065,14 +1065,24 @@
         "state": "Tamil Nadu",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/S.P._Velumani",
         "image_placeholder": "sp_velumani",
         "auto_added": true,
         "auto_added_on": "2026-06-02",
         "gemma_confidence": "medium",
-        "mentions_detected": 7
+        "mentions_detected": 7,
+        "criminal_incidents": [
+          {
+            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
+            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
+            "scraped_at": "2026-04-20 20:05:45.187031",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02"
       }
     ],
     "parties": [
@@ -2312,6 +2322,16 @@
       "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/stalin-commends-people-of-tn-for-record-voter-turnout/article70898779.ece",
       "source_title": "Tamil Nadu election 2026: Chief Minister Stalin commends people of State for record voter turnout - The Hindu",
       "scraped_at": "2026-04-24 23:45:42.804584",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "a plan to transform Kochi into a model city with seamless transport and world-class infrastructure through a \"twin city\" expansion",
+      "source_url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
+      "source_title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan - The Hindu",
+      "scraped_at": "2026-05-24 20:15:17.286499",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
