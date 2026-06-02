@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 1,
-      "new_promises": 3,
+      "criminal_updates": 0,
+      "new_promises": 0,
       "gaffe_updates": 0
     }
   },
@@ -981,6 +981,22 @@
         "auto_added_on": "2026-06-02",
         "gemma_confidence": "high",
         "mentions_detected": 1
+      },
+      {
+        "name": "Suvendu Adhikari",
+        "role": "Chief Minister of West Bengal",
+        "party": "BJP",
+        "state": "West Bengal",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
+        "image_placeholder": "suvendu_adhikari",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 5
       }
     ],
     "generic_politicians": [
