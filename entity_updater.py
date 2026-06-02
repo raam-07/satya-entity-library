@@ -1554,6 +1554,20 @@ def main():
         with open(pending_file, 'w', encoding='utf-8') as f:
             json.dump(batch_updates, f, indent=2, ensure_ascii=False)
         logging.info(f"Saved {len(batch_updates)} pending Google Sheet updates to {pending_file}")
+
+        # Write GITHUB_OUTPUT for self-triggering recursive loops in GitHub Actions
+        github_output = os.environ.get('GITHUB_OUTPUT')
+        if github_output:
+            try:
+                with open(github_output, 'a') as f:
+                    if len(unprocessed_articles) > MAX_ARTICLES_PER_RUN:
+                        f.write("has_more=true\n")
+                        logging.info("Set GITHUB_OUTPUT: has_more=true")
+                    else:
+                        f.write("has_more=false\n")
+                        logging.info("Set GITHUB_OUTPUT: has_more=false")
+            except Exception as e:
+                logging.warning(f"Failed to write GITHUB_OUTPUT: {e}")
     elif mode == "both":
         # Commit immediately for manual/local testing
         commit_sheet_updates(sheet, batch_updates)

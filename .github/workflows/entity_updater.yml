@@ -14,6 +14,9 @@ jobs:
   update_entities:
     runs-on: ubuntu-latest
     timeout-minutes: 300
+    permissions:
+      contents: write
+      actions: write
 
     steps:
       - name: Checkout Repository
@@ -69,6 +72,7 @@ jobs:
           wc -l ./entities.json
 
       - name: Run Entity Updater (Process)
+        id: run-step
         env:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
@@ -120,6 +124,18 @@ jobs:
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
         run: |
           python entity_updater.py --commit-sheet
+
+      - name: Trigger Self Loop
+        if: steps.run-step.outputs.has_more == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "More unprocessed articles remain in the Google Sheet. Triggering next batch run..."
+          curl -X POST \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/entity_updater.yml/dispatches \
+            -d '{"ref":"main"}'
 
       - name: Upload artifacts
         if: always()
