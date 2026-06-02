@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-02 07:06:42.232918",
+  "generated_at": "2026-06-02 07:55:24.317488",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 0,
     "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 2,
-    "new_entities_auto_added": 0,
+    "promises_extracted": 3,
+    "new_entities_auto_added": 1,
     "new_entities_needs_review": 0,
     "items_needing_review": 0
   },
-  "new_entities_auto_added": [],
+  "new_entities_auto_added": [
+    {
+      "name": "S.P. Velumani",
+      "category": "generic_politician",
+      "confidence": "medium",
+      "mentions": 7,
+      "role": "MLA",
+      "party": "AIADMK"
+    }
+  ],
   "new_entities_needs_review": [],
   "items_needing_manual_review": []
 }
