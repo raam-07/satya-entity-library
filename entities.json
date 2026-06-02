@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 1,
       "gaffe_updates": 0
     }
@@ -2197,6 +2197,16 @@
       "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-scraps-smart-prepaid-meter-system-shifts-all-consumers-to-postpaid-mode/article70954813.ece",
       "source_title": "Uttar Pradesh government scraps smart prepaid meter system; shifts all consumers to postpaid mode - The Hindu",
       "scraped_at": "2026-05-08 11:57:19.685965",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Himanta Biswa Sarma",
+      "promise_text": "call on Governor Lakshman Prasad Acharya once the el",
+      "source_url": "https://www.thehindu.com/elections/assembly-election-2026-results-live-updates-west-bengal-tamil-nadu-kerala-puducherry-assam-may-6-2026/article70945463.ece",
+      "source_title": "Assembly elections 2026 results LIVE: CEC orders immediate arrest of those involved in post-poll violence in West Bengal - The Hindu",
+      "scraped_at": "2026-05-06 06:35:45.492784",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
