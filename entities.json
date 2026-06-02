@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 2,
       "gaffe_updates": 0
     }
   },
@@ -463,9 +463,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
         "image_placeholder": "mamata_banerjee",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
+            "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
+            "scraped_at": "2026-05-14 17:27:51.324299",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       },
       {
@@ -2013,6 +2021,26 @@
       "source_url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
       "source_title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
       "scraped_at": "2026-05-16 11:11:28.750645",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that he would get the Bill passed soon after he becomes Prime Minister",
+      "source_url": "https://www.thehindu.com/news/cities/bangalore/womens-coalition-urges-speedy-implementation-of-33-reservation/article70975106.ece",
+      "source_title": "Women’s coalition urges speedy implementation of 33% reservation - The Hindu",
+      "scraped_at": "2026-05-14 01:30:16.611452",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Priyanka Gandhi",
+      "promise_text": "the activation of Taluk Emergency Operation Centres (TEOCs) by May 20th to prepare for the monsoon season",
+      "source_url": "https://www.thehindu.com/news/national/kerala/taluk-emergency-centres-for-disaster-management-to-be-activated-by-may-20/article70975249.ece",
+      "source_title": "24x7 control rooms for disaster management to be set up in Ernakulam - The Hindu",
+      "scraped_at": "2026-05-13 23:14:19.953079",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
