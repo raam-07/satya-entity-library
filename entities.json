@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "criminal_updates": 2,
+      "new_promises": 7,
       "gaffe_updates": 0
     }
   },
@@ -959,13 +959,21 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
         "mentions_detected": 52,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_incidents": [
+          {
+            "incident_text": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu **C. Joseph Vijay**, the actor-politician making his electoral debut, has filed revised ",
+            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
+            "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
+            "scraped_at": "2026-04-05 05:18:19.309562",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       },
       {
@@ -1016,10 +1024,10 @@
         "mentions_detected": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu **Assam** Chief Minister **Himanta Biswa Sarma** accused the **Congress** party of a “foreign-",
-            "source_url": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
-            "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
-            "scraped_at": "2026-04-07 08:22:43.536400",
+            "incident_text": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu **Himanta Biswa Sarma**, Assam Chief Minister, accused the **Congress** of fabricating",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
+            "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
+            "scraped_at": "2026-04-06 05:31:18.786927",
             "incident_type": "broad"
           }
         ],
@@ -1607,7 +1615,7 @@
         "ruling_party": "BJP",
         "cm": "Yogi Adityanath",
         "region": "North",
-        "cm_confidence": 0.75,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-02"
       },
       {
@@ -2448,6 +2456,76 @@
       "source_url": "https://www.thehindu.com/news/national/rajasthan/focus-on-innovation-and-entrepreneurship-in-farm-sector-through-agritech-meet-in-rajasthan/article70848059.ece",
       "source_title": "Focus on innovation and entrepreneurship in farm sector through agritech meet in Rajasthan - The Hindu",
       "scraped_at": "2026-04-11 02:42:04.136140",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "to oppose any attempt to weaken Karnataka's voice in the matter",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/delimitation-modis-remark-is-more-like-election-driven-says-siddaramaiah/article70826654.ece",
+      "source_title": "Delimitation: Modi’s remark is more like election-driven, says Siddaramaiah - The Hindu",
+      "scraped_at": "2026-04-05 19:41:36.196712",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sheikh Abdullah",
+      "promise_text": "that the PTI had called for “peaceful” protests today across Sindh",
+      "source_url": "https://www.dawn.com/news/1988843/bangladesh-says-suspected-measles-outbreak-kills-about-100-children",
+      "source_title": "Several PTI supporters detained as police scuttle protest near Karachi Press Club - Pakistan - DAWN.COM",
+      "scraped_at": "2026-04-05 14:12:47.846714",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sheikh Abdullah",
+      "promise_text": "that the PTI had called for “peaceful” protests today across Sindh",
+      "source_url": "https://www.dawn.com/news/1988819/several-pti-supporters-detained-as-police-scuttle-protest-near-karachi-press-club",
+      "source_title": "Several PTI supporters detained as police scuttle protest near Karachi Press Club - Pakistan - DAWN.COM",
+      "scraped_at": "2026-04-05 14:11:19.841099",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that the government will conduct surveys and provide compensation as it has done in previous instances of unseasonal rain or hailstorms",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/unseasonal-rains-in-maharashtra-govt-will-provide-farmers-all-assistance-promises-cm/article70826670.ece",
+      "source_title": "Unseasonal rains in Maharashtra: Govt will provide farmers all assistance, promises CM - The Hindu",
+      "scraped_at": "2026-04-05 13:10:34.739347",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sheikh Abdullah",
+      "promise_text": "that the PTI had called for “peac",
+      "source_url": "https://www.dawn.com/news/1988824/middle-east-war-hits-britains-fish-and-chip-shops",
+      "source_title": "Roads near Karachi Press Club closed ahead of planned PTI protest against rising fuel prices - Pakistan - DAWN.COM",
+      "scraped_at": "2026-04-05 10:44:16.041960",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sheikh Abdullah",
+      "promise_text": "that the PTI had called for “peac",
+      "source_url": "https://www.dawn.com/news/1988819/roads-near-karachi-press-club-closed-ahead-of-planned-pti-protest-against-rising-fuel-prices",
+      "source_title": "Roads near Karachi Press Club closed ahead of planned PTI protest against rising fuel prices - Pakistan - DAWN.COM",
+      "scraped_at": "2026-04-05 10:43:09.213712",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that Amaravati would be the new capital of the State and moved his administration out of Hyderabad",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-the-amaravati-bill-come-into-place/article70824596.ece",
+      "source_title": "How did the ‘Amaravati Bill’ come into place? - The Hindu",
+      "scraped_at": "2026-04-04 21:39:59.142644",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
