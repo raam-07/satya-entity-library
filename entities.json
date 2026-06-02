@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 1,
-      "new_promises": 2,
+      "criminal_updates": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -2256,6 +2256,16 @@
       "source_title": "A.P. govt. will set up ‘Labour Addas’ to upskill workers, says CM Naidu - The Hindu",
       "scraped_at": "2026-05-01 23:04:40.886310",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "plans to complete unfinished Indiramma houses and allocate funds for their completion",
+      "source_url": "https://www.thehindu.com/news/national/telangana/cabinet-clears-25-lakh-houses-587-crore-for-prlsi/article71015536.ece",
+      "source_title": "Cabinet clears 2.5 lakh houses, ₹587 crore for PRLSI - The Hindu",
+      "scraped_at": "2026-05-23 17:09:52.164425",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
