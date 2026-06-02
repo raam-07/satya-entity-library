@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 1,
       "gaffe_updates": 0
     }
@@ -451,9 +451,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu **Swati Maliwal**, a former **AAP** MP, accused her former party of changing its principles and becoming cor",
+            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
+            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
+            "scraped_at": "2026-04-25 09:36:11.298235",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-02",
         "controversies": []
       },
       {
@@ -2276,6 +2284,16 @@
       "source_title": "Govt. to soon bring in an AI policy to transform Bihar: CM - The Hindu",
       "scraped_at": "2026-05-23 20:12:43.909576",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "that farmers would receive fair compensation and land allocation for their surrendered properties",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-have-second-largest-international-cricket-stadium-in-india/article71014440.ece",
+      "source_title": "Karnataka to soon get India’s second largest international cricket stadium - The Hindu",
+      "scraped_at": "2026-05-23 21:33:40.778202",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }

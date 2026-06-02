@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-02 13:06:36.480476",
+  "generated_at": "2026-06-02 13:33:03.865161",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
     "promises_extracted": 1,
     "new_entities_auto_added": 0,
