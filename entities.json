@@ -8,7 +8,7 @@
       "cm_updates": 0,
       "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -2003,6 +2003,16 @@
       "source_url": "https://www.thehindu.com/news/national/kerala/summer-showers-strong-winds-damage-over-200-houses-in-ernakulam/article70994317.ece",
       "source_title": "Summer showers, strong winds damage over 200 houses in Ernakulam - The Hindu",
       "scraped_at": "2026-05-21 23:17:54.878551",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "them that he would not forget his pre-election promise of resolving their grievances",
+      "source_url": "https://www.thehindu.com/news/national/kerala/ashas-meet-kerala-cm-designate-vd-satheesan-urge-him-to-honour-pre-poll-promises/article70986603.ece",
+      "source_title": "ASHAs meet Kerala CM-designate V.D. Satheesan, urge him to honour pre-poll promises - The Hindu",
+      "scraped_at": "2026-05-16 11:11:28.750645",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
