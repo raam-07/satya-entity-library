@@ -6,9 +6,9 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
-      "party_updates": 1,
+      "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -791,20 +791,13 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan ",
-            "source_url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
-            "source_title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
-            "scraped_at": "2026-05-27 04:12:25.958544",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
-            "source_url": "https://www.thehindu.com/news/national/kerala/defiant-pinarayi-vijayan-raises-fist-after-ed-raid-vows-long-battle-against-bjp-and-congress/article71028749.ece",
-            "source_title": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu",
-            "scraped_at": "2026-05-27 11:57:37.524091",
+            "incident_text": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
+            "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
+            "scraped_at": "2026-05-28 00:10:22.645050",
             "incident_type": "broad"
           }
         ],
@@ -1575,7 +1568,7 @@
         "cm": "M.K. Stalin",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-01"
+        "party_last_updated": "2026-06-02"
       },
       {
         "name": "Telangana",
@@ -2404,6 +2397,16 @@
       "source_title": "Revanth meets Jagtial leaders, slams Jeevan Reddy’s exit from Congress - The Hindu",
       "scraped_at": "2026-04-15 00:12:39.533728",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "that every family in the State would be p",
+      "source_url": "https://www.thehindu.com/elections/assembly-elections-2026-west-bengal-assam-kerala-tamil-nadu-puducherry-april-13-2026-live-updates/article70856148.ece",
+      "source_title": "Assembly Elections 2026 LIVE: 19 States, Centre have come together to counter me; I am fighting alone for common people, says Mamata - The Hindu",
+      "scraped_at": "2026-04-13 10:21:09.092367",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
