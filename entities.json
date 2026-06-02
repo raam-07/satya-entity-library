@@ -2268,6 +2268,16 @@
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
+    },
+    {
+      "person": "Samrat Choudhary",
+      "promise_text": "that the 125-km-long Ganga Expressway",
+      "source_url": "https://www.thehindu.com/news/national/bihar/govt-to-soon-bring-in-an-ai-policy-to-transform-bihar-cm/article71014658.ece",
+      "source_title": "Govt. to soon bring in an AI policy to transform Bihar: CM - The Hindu",
+      "scraped_at": "2026-05-23 20:12:43.909576",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
     }
   ]
 }
