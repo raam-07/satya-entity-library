@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-06-03 17:32:36.423629",
+  "generated_at": "2026-06-03 17:53:43.273909",
   "summary": {
-    "cm_updates_applied": 1,
+    "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 5,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 7
+    "items_needing_review": 8
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
+    },
     {
       "type": "cm_detection",
       "state": "Delhi",
@@ -44,8 +53,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
-      "mentions": 16,
+      "confidence": 0.52,
+      "mentions": 17,
       "reason": "Below auto-update threshold",
       "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
@@ -53,7 +62,7 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.42,
+      "confidence": 0.4,
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
