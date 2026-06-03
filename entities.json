@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 3,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 2,
       "gaffe_updates": 0
     }
   },
@@ -341,38 +341,17 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes **Mamata Banerjee**, former West Bengal Chief Minister and leader of the **Trinamool Congress (TMC)**, will lea",
-            "source_url": "https://odishabytes.com/alleged-attacks-on-trinamool-mps-mamata-banerjee-to-hit-streets-on-june-2/",
-            "source_title": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes",
-            "scraped_at": "2026-05-31 15:20:32.895210",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu A scheduled meeting of newly elected **Trinamool Congress** legislators was called off after nearly three-fourths o",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
-            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
-            "scraped_at": "2026-05-31 22:37:04.430259",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today **Tribeny Rai**, director of the film \"Shape of Momo,\" discussed her experience growing up without seeing people from ",
-            "source_url": "https://www.indiatoday.in/newsmo/video/bakrid-invite-murder-accused-killed-in-encounter-i-ghaziabad-case-2919979-2026-05-31?utm_source=rss",
-            "source_title": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today",
-            "scraped_at": "2026-05-31 22:36:47.575888",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu The **West Bengal police** arrested five individuals in connection with the attack on Tri",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/five-arrested-for-attack-on-abhishek-mamata-says-police-pressurised-hospitals-not-to-admit-him/article71044003.ece",
-            "source_title": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu",
-            "scraped_at": "2026-05-31 21:08:33.436413",
+            "incident_text": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express **TMC** postponed a meeting with newly elected MLAs after most failed to attend due",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/mamata-banerjee-meeting-deferred-tmc-mlas-skip-gathering-10717883/",
+            "source_title": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-01 05:34:35.378681",
             "incident_type": "broad"
           }
         ],
@@ -2733,6 +2712,26 @@
       "source_url": "https://www.thehindu.com/news/national/pms-prepared-text-full-of-self-praise-says-congress-on-his-rs-statement-about-west-asia-war/article70779256.ece",
       "source_title": "PM’s prepared text ‘full of self-praise’, says Congress on his RS statement about West Asia war - The Hindu",
       "scraped_at": "2026-03-24 11:28:52.367799",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "the formation of a Cabinet Sub-Committee to oversee the Musi Rejuvenation Project",
+      "source_url": "https://www.thehindu.com/news/national/telangana/cm-announces-cabinet-sub-committee-on-musi-rejuvenation-rehabilitation-for-all-displaced/article70776829.ece",
+      "source_title": "CM announces Cabinet Sub-Committee on Musi rejuvenation; rehabilitation for all displaced - The Hindu",
+      "scraped_at": "2026-03-23 22:47:19.577221",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "the constitution of a Cabinet Sub-Committee to oversee the ambitious Musi Rejuvenation Project",
+      "source_url": "https://www.thehindu.com/news/national/telangana/cm-announces-cabinet-sub-committee-on-musi-rejuvenation-rehabilitation-for-all-displaced/article70776829.ece",
+      "source_title": "CM announces Cabinet Sub-Committee on Musi rejuvenation; rehabilitation for all displaced - The Hindu",
+      "scraped_at": "2026-03-23 22:47:19.577221",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

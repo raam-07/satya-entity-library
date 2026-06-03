@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-06-03 02:05:23.038140",
+  "generated_at": "2026-06-03 02:41:21.824570",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 3,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 7
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Delhi",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.42,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -35,8 +26,8 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.55,
-      "mentions": 12,
+      "confidence": 0.54,
+      "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
     },
@@ -44,8 +35,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.46,
-      "mentions": 13,
+      "confidence": 0.48,
+      "mentions": 14,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
