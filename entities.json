@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 2,
       "gaffe_updates": 0
     }
@@ -2732,6 +2732,26 @@
       "source_url": "https://www.thehindu.com/news/national/telangana/cm-announces-cabinet-sub-committee-on-musi-rejuvenation-rehabilitation-for-all-displaced/article70776829.ece",
       "source_title": "CM announces Cabinet Sub-Committee on Musi rejuvenation; rehabilitation for all displaced - The Hindu",
       "scraped_at": "2026-03-23 22:47:19.577221",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "V. Saminathan will contest from Lawspet",
+      "source_url": "https://www.thehindu.com/elections/puducherry-assembly/vijay-announces-tvk-candidates-for-all-30-assembly-segments-in-puducherry/article70773250.ece",
+      "source_title": "Vijay announces TVK candidates for all 30 Assembly segments in Puducherry - The Hindu",
+      "scraped_at": "2026-03-22 17:56:12.868798",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "an expansion of scholarships for Myanmar students",
+      "source_url": "https://www.ndtv.com/world-news/india-myanmar-vow-deeper-ties-on-security-trade-and-connectivity-11576904#publisher=newsstand",
+      "source_title": "India, Myanmar Vow Deeper Ties On Security, Trade And Connectivity",
+      "scraped_at": "2026-06-01 16:42:09.407088",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
