@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 5
     }
   },
   "india": {
@@ -394,7 +394,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-02",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Rahul Gandhi allegedly endorsed a USCIRF report recommending sanctions against India's R&AW and RSS.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
+            "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
+            "scraped_at": "2026-03-18 22:46:37.753207"
+          }
+        ]
       },
       {
         "name": "Sonia Gandhi",
@@ -438,7 +445,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Priyanka_Gandhi_Vadra",
         "image_placeholder": "priyanka_gandhi",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
+            "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
+            "scraped_at": "2026-03-18 23:38:55.839838"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -515,10 +529,10 @@
         "criminal_last_updated": "2026-06-03",
         "controversies": [
           {
-            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
-            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
-            "scraped_at": "2026-03-20 18:07:10.230192"
+            "incident_text": "Mamata Banerjee claimed the Election Commission's officer transfers were politically motivated and a constitutional assault.",
+            "source_url": "https://www.thehindu.com/news/national/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
+            "source_title": "EC’s ‘arbitrary’ transfer of officials is political interference of highest order: Mamata - The Hindu",
+            "scraped_at": "2026-03-19 11:44:24.576349"
           }
         ]
       },
@@ -798,7 +812,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
+            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
+            "scraped_at": "2026-03-18 23:36:53.293151"
+          }
+        ],
         "criminal_cases_in_news": 1,
         "criminal_last_updated": "2026-06-02"
       },
@@ -900,7 +921,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
         "image_placeholder": "devendra_fadnavis",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Devendra Fadnavis stated the existing legal framework was inadequate to address forced conversion-related law and order issues.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
+            "source_title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it - The Hindu",
+            "scraped_at": "2026-03-18 22:05:38.484915"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -1191,11 +1219,11 @@
         "mentions_detected": 7,
         "criminal_incidents": [
           {
-            "incident_text": "Madras HC dismisses dismisses S.P. Velumani’s petition against I-T assessment order on 2016 Assembly poll expenses - The Hindu The **Madras High Court** dismissed a writ petition filed by former AIADM",
-            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/madras-hc-dismisses-dismisses-sp-velumanis-petition-against-i-t-assessment-order-on-2016-assembly-poll-expenses/article70780426.ece",
-            "source_title": "Madras HC dismisses dismisses S.P. Velumani’s petition against I-T assessment order on 2016 Assembly poll expenses - The Hindu",
-            "scraped_at": "2026-03-24 19:23:23.450322",
-            "incident_type": "broad"
+            "incident_text": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu **R. Girirajan**, a **DMK Rajya Sabha member**, filed nine writ petitions in the Madras High",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-moves-madras-high-court-seeking-direction-to-ed-to-register-cases-against-aiadmk-leaders/article70757360.ece",
+            "source_title": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu",
+            "scraped_at": "2026-03-18 12:14:00.786686",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-06-03"
@@ -2850,6 +2878,16 @@
       "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-govt-intends-to-invest-3000-crore-in-tourism-chief-minister-woos-industry/article70765233.ece",
       "source_title": "Himachal govt. intends to invest ₹3,000 crore in tourism; Chief Minister woos industry - The Hindu",
       "scraped_at": "2026-03-20 18:05:46.198028",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mamata Banerjee",
+      "promise_text": "that she will not abandon her party workers despite the rebellion",
+      "source_url": "https://www.ndtv.com/india-news/trinamool-in-existential-crisis-mamata-banerjee-calls-it-do-or-die-fight-11580960#publisher=newsstand",
+      "source_title": "Trinamool In Existential Crisis, Mamata Banerjee Calls It \"Do Or Die\" Fight",
+      "scraped_at": "2026-06-02 15:44:35.787067",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
