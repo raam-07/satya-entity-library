@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 2,
+      "gaffe_updates": 2
     }
   },
   "india": {
@@ -44,10 +44,10 @@
         "criminal_last_updated": "2026-06-01",
         "controversies": [
           {
-            "incident_text": "Jairam Ramesh claimed the Model Code of Conduct would be 'Modi's Code of Campaigning'.",
-            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
-            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
-            "scraped_at": "2026-03-15 16:43:04.912044"
+            "incident_text": "Narendra Modi failed to secure oil and gas imports from Russia due to US pressure, according to Jagga Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
           }
         ]
       },
@@ -355,17 +355,24 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express **TMC** postponed a meeting with newly elected MLAs after most failed to attend due",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/mamata-banerjee-meeting-deferred-tmc-mlas-skip-gathering-10717883/",
-            "source_title": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-01 05:34:35.378681",
+            "incident_text": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party The Trinamool Congress is facing a deepening crisis following its defeat in the West Bengal state election. *",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-live-updates-back-to-back-setbacks-to-mamata-banerjee-led-party-11586536#publisher=newsstand",
+            "source_title": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party",
+            "scraped_at": "2026-06-03 15:21:28.649362",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
+            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
+            "scraped_at": "2026-06-03 22:16:48.162279",
             "incident_type": "broad"
           }
         ],
@@ -403,22 +410,10 @@
         "criminal_last_updated": "2026-06-02",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi claimed Jawaharlal Nehru would have made Kanshi Ram Chief Minister from the Congress.",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/as-rahul-gandhi-eyes-dalit-consolidation-through-kanshi-ram-in-up-bsp-gets-unsettled-political-slugfest-intensified/article70746998.ece",
-            "source_title": "As Rahul Gandhi eyes Dalit consolidation through Kanshi Ram in U.P., BSP gets unsettled, political slugfest intensified - The Hindu",
-            "scraped_at": "2026-03-15 16:43:30.719965"
-          },
-          {
-            "incident_text": "Rahul Gandhi and other opposition leaders raised doubts about SIR for political reasons.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
-            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
-            "scraped_at": "2026-03-15 15:43:22.355331"
-          },
-          {
-            "incident_text": "Rahul Gandhi believes Kanshi Ram's legacy warrants the Bharat Ratna.",
-            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
-            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
-            "scraped_at": "2026-03-15 10:37:28.561089"
+            "incident_text": "Rahul Gandhi staging a dharna against the cooking gas shortage is not a fault.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
           }
         ]
       },
@@ -2992,6 +2987,26 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/narcotics-case-naidu-asks-mp-putta-mahesh-to-stay-away-from-party-activities/article70746749.ece",
       "source_title": "Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu",
       "scraped_at": "2026-03-15 15:01:25.792724",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "to continue development efforts in Bihar",
+      "source_url": "https://www.thehindu.com/news/national/bihar/as-samriddhi-yatra-ends-in-bihar-nitish-promises-more-development/article70743663.ece",
+      "source_title": "As Samriddhi Yatra ends in Bihar, Nitish promises more development - The Hindu",
+      "scraped_at": "2026-03-14 16:40:56.218263",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "during the 2024 elections to reopen the factory and clear their dues if elected",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/sugarcane-farmers-stage-protest-at-nindra-factory/article70743578.ece",
+      "source_title": "Sugarcane farmers stage protest at Nindra factory - The Hindu",
+      "scraped_at": "2026-03-14 14:58:14.935910",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

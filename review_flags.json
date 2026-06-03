@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03 17:53:43.273909",
+  "generated_at": "2026-06-03 23:55:47.525017",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
-    "promises_extracted": 0,
+    "criminal_updates_applied": 1,
+    "gaffe_updates_applied": 2,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 8
@@ -26,8 +26,8 @@
       "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.47,
-      "mentions": 7,
+      "confidence": 0.5,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
     },
@@ -53,8 +53,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.52,
-      "mentions": 17,
+      "confidence": 0.5,
+      "mentions": 18,
       "reason": "Below auto-update threshold",
       "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
