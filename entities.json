@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 0
+      "new_promises": 5,
+      "gaffe_updates": 4
     }
   },
   "india": {
@@ -42,7 +42,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Narendra Modi's government favors corporations, giving them licenses, assets, and even Parliament access in exchange for donations, according to Brinda Karat.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/communists-fight-elections-to-reflect-rights-of-people-says-brinda-karat/article70766788.ece",
+            "source_title": "Communists fight elections to reflect rights of people, says Brinda Karat - The Hindu",
+            "scraped_at": "2026-03-20 20:46:38.659490"
+          }
+        ]
       },
       {
         "name": "Amit Shah",
@@ -506,7 +513,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-03",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 18:07:10.230192"
+          }
+        ]
       },
       {
         "name": "Akhilesh Yadav",
@@ -946,7 +960,20 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Sukhvinder_Singh_Sukhu",
         "image_placeholder": "sukhvinder_sukhu",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Sukhvinder Singh Sukhu attributed the local body poll results to 'local factors'.",
+            "source_url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
+            "source_title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-02 02:01:02.628872"
+          },
+          {
+            "incident_text": "Sukhvinder Singh Sukhu accused the BJP of not supporting Himachal Pradesh's interests and neglecting the state during difficult times.",
+            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+            "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
+            "scraped_at": "2026-03-21 08:00:59.766390"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -1106,7 +1133,15 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-02"
+        "criminal_last_updated": "2026-06-02",
+        "controversies": [
+          {
+            "incident_text": "Suvendu Adhikari claimed using the Chief Minister's letterhead for political correspondence violates the Model Code of Conduct.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 18:07:10.230192"
+          }
+        ]
       },
       {
         "name": "Bhagwant Mann",
@@ -2752,6 +2787,56 @@
       "source_url": "https://www.ndtv.com/world-news/india-myanmar-vow-deeper-ties-on-security-trade-and-connectivity-11576904#publisher=newsstand",
       "source_title": "India, Myanmar Vow Deeper Ties On Security, Trade And Connectivity",
       "scraped_at": "2026-06-01 16:42:09.407088",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "the seat was handed over to Congress for this term only",
+      "source_url": "https://www.thehindu.com/elections/kerala-assembly-polls-2026-udf-rift-erupts-in-idukki-as-kerala-congress-rebels-over-seat-takeover/article70769473.ece",
+      "source_title": "Kerala Assembly polls 2026: UDF rift erupts in Idukki as Kerala Congress rebels over seat takeover - The Hindu",
+      "scraped_at": "2026-03-21 15:57:41.743944",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "the people of Tamil Nadu that he would provide corruption-free governance",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+      "source_title": "Chief Minister Vijay promises an inclusive and corruption-free government - The Hindu",
+      "scraped_at": "2026-06-01 23:09:01.924958",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "him that necessary measures would be taken to secure their release and bring the perpetrators to justice",
+      "source_url": "https://www.thehindu.com/news/national/release-20-civilians-held-hostage-two-northeast-cms-appeal-to-manipur-captors/article71047478.ece",
+      "source_title": "Meghalaya and Nagaland CMs call for release of 20 hostages - The Hindu",
+      "scraped_at": "2026-06-01 23:08:47.818813",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sukhvinder Singh Sukhu",
+      "promise_text": "a ₹500-crore allocation for completing pending works and increased milk procurement prices",
+      "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+      "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
+      "scraped_at": "2026-03-21 08:00:59.766390",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sukhvinder Singh Sukhu",
+      "promise_text": "that harassment of industrialists would not be tolerated and their grievances could be brought directly to his notice",
+      "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-govt-intends-to-invest-3000-crore-in-tourism-chief-minister-woos-industry/article70765233.ece",
+      "source_title": "Himachal govt. intends to invest ₹3,000 crore in tourism; Chief Minister woos industry - The Hindu",
+      "scraped_at": "2026-03-20 18:05:46.198028",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
