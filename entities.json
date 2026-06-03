@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 2,
-      "gaffe_updates": 4
+      "gaffe_updates": 5
     }
   },
   "india": {
@@ -44,10 +44,10 @@
         "criminal_last_updated": "2026-06-01",
         "controversies": [
           {
-            "incident_text": "Digvijaya Singh warned that Prime Minister Narendra Modi’s personal accountability was now on the line.",
-            "source_url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
-            "source_title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
-            "scraped_at": "2026-06-02 06:55:41.178977"
+            "incident_text": "Jairam Ramesh claimed the Model Code of Conduct would be 'Modi's Code of Campaigning'.",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
+            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
+            "scraped_at": "2026-03-15 16:43:04.912044"
           }
         ]
       },
@@ -403,10 +403,22 @@
         "criminal_last_updated": "2026-06-02",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi was publicly confronted by the CEC.",
-            "source_url": "https://www.thehindu.com/news/national/opposition-notice-seeking-cecs-removal-cites-his-public-remarks-against-rahul-gandhi/article70750590.ece",
-            "source_title": "Opposition notice seeking CEC’s removal cites his public remarks against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-03-16 21:13:36.431855"
+            "incident_text": "Rahul Gandhi claimed Jawaharlal Nehru would have made Kanshi Ram Chief Minister from the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/as-rahul-gandhi-eyes-dalit-consolidation-through-kanshi-ram-in-up-bsp-gets-unsettled-political-slugfest-intensified/article70746998.ece",
+            "source_title": "As Rahul Gandhi eyes Dalit consolidation through Kanshi Ram in U.P., BSP gets unsettled, political slugfest intensified - The Hindu",
+            "scraped_at": "2026-03-15 16:43:30.719965"
+          },
+          {
+            "incident_text": "Rahul Gandhi and other opposition leaders raised doubts about SIR for political reasons.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
+            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
+            "scraped_at": "2026-03-15 15:43:22.355331"
+          },
+          {
+            "incident_text": "Rahul Gandhi believes Kanshi Ram's legacy warrants the Bharat Ratna.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
           }
         ]
       },
@@ -549,10 +561,10 @@
         "criminal_last_updated": "2026-06-03",
         "controversies": [
           {
-            "incident_text": "Mamata Banerjee claimed the Election Commission's officer transfers were politically motivated and a constitutional assault.",
-            "source_url": "https://www.thehindu.com/news/national/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
-            "source_title": "EC’s ‘arbitrary’ transfer of officials is political interference of highest order: Mamata - The Hindu",
-            "scraped_at": "2026-03-19 11:44:24.576349"
+            "incident_text": "Mamata Banerjee contested the deletion of alleged infiltrators from voter lists in West Bengal.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
+            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
+            "scraped_at": "2026-03-15 15:43:22.355331"
           }
         ]
       },
@@ -589,7 +601,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mayawati",
         "image_placeholder": "mayawati",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -711,16 +730,16 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Yogi Adityanath stated that cows are revered as mothers in Indian tradition and Muslim clerics should caution followers against disrespecting them.",
-            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
-            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
-            "scraped_at": "2026-06-02 02:03:27.367304"
+            "incident_text": "Yogi Adityanath directed that paper setters be blacklisted for using disrespectful language towards any community.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-outfits-invoke-brahmin-angle-to-pandit-reference-in-up-police-recruitment-exam/article70746751.ece",
+            "source_title": "Parties, outfits invoke ‘Brahmin’ angle to ‘pandit’ reference in U.P. police recruitment exam - The Hindu",
+            "scraped_at": "2026-03-15 17:36:15.314829"
           },
           {
-            "incident_text": "Yogi Adityanath criticized opposition parties for disrespecting Lord Ram's faith.",
-            "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
-            "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
-            "scraped_at": "2026-03-19 17:59:45.291579"
+            "incident_text": "Yogi Adityanath directed recruitment boards to avoid remarks disrespectful to caste, creed, or community.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/cm-adityanath-tells-recruitment-boards-to-avoid-making-undignified-remarks-on-any-community/article70745847.ece",
+            "source_title": "CM Adityanath tells recruitment boards to avoid making undignified remarks on any community - The Hindu",
+            "scraped_at": "2026-03-15 06:35:36.759141"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1224,6 +1243,22 @@
         "image_placeholder": "bhagwant_mann",
         "auto_added": true,
         "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
+      },
+      {
+        "name": "Nayab Singh Saini",
+        "role": "Chief Minister of Haryana",
+        "party": "",
+        "state": "Haryana",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nayab_Singh_Saini",
+        "image_placeholder": "nayab_singh_saini",
+        "auto_added": true,
+        "auto_added_on": "2026-06-03",
         "gemma_confidence": "high",
         "mentions_detected": 1
       }
@@ -2935,6 +2970,26 @@
       "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cabinet-berth-only-for-those-who-ensure-victory-in-maximum-number-of-constituencies-says-stalin/article70750801.ece",
       "source_title": "Cabinet berth only for those who ensure victory in maximum number of constituencies, says Stalin - The Hindu",
       "scraped_at": "2026-03-16 19:10:43.310900",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "attendees that the institute is equipped to diagnose",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/screening-key-to-preventing-spread-of-cancer-experts/article70746596.ece",
+      "source_title": "Screening key to preventing spread of cancer: Experts - The Hindu",
+      "scraped_at": "2026-03-15 15:01:49.300597",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that appropriate action would be taken based on the investigation's findings",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/narcotics-case-naidu-asks-mp-putta-mahesh-to-stay-away-from-party-activities/article70746749.ece",
+      "source_title": "Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities - The Hindu",
+      "scraped_at": "2026-03-15 15:01:25.792724",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
