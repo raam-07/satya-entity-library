@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-02 23:56:52.075608",
+  "generated_at": "2026-06-03 00:43:51.662921",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 2,
     "gaffe_updates_applied": 0,
     "promises_extracted": 1,
     "new_entities_auto_added": 0,
@@ -17,7 +17,7 @@
       "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.45,
+      "confidence": 0.42,
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
@@ -26,8 +26,8 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.44,
-      "mentions": 7,
+      "confidence": 0.47,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
     },
