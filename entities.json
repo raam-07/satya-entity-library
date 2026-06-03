@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 2,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 2,
       "gaffe_updates": 0
     }
   },
@@ -341,45 +341,38 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 4,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
-            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
-            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
-            "scraped_at": "2026-05-31 09:37:55.181015",
+            "incident_text": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes **Mamata Banerjee**, former West Bengal Chief Minister and leader of the **Trinamool Congress (TMC)**, will lea",
+            "source_url": "https://odishabytes.com/alleged-attacks-on-trinamool-mps-mamata-banerjee-to-hit-streets-on-june-2/",
+            "source_title": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes",
+            "scraped_at": "2026-05-31 15:20:32.895210",
             "incident_type": "broad"
           },
           {
-            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
-            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
-            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
-            "scraped_at": "2026-05-31 06:30:16.763734",
+            "incident_text": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu A scheduled meeting of newly elected **Trinamool Congress** legislators was called off after nearly three-fourths o",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
+            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
+            "scraped_at": "2026-05-31 22:37:04.430259",
             "incident_type": "broad"
           },
           {
-            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
-            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
-            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
-            "scraped_at": "2026-05-31 06:25:25.115843",
-            "incident_type": "broad"
+            "incident_text": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today **Tribeny Rai**, director of the film \"Shape of Momo,\" discussed her experience growing up without seeing people from ",
+            "source_url": "https://www.indiatoday.in/newsmo/video/bakrid-invite-murder-accused-killed-in-encounter-i-ghaziabad-case-2919979-2026-05-31?utm_source=rss",
+            "source_title": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today",
+            "scraped_at": "2026-05-31 22:36:47.575888",
+            "incident_type": "serious"
           },
           {
-            "incident_text": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today **Mamata Banerjee**, **TMC** leader, announced a sit-in protest in Kolkata on June 2nd against alleged a",
-            "source_url": "https://www.indiatoday.in/india/story/mamata-banerjee-june-2-kolkata-protest-against-attacks-on-abhishek-banerjee-tmc-leaders-workers-2919930-2026-05-31?utm_source=rss",
-            "source_title": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today",
-            "scraped_at": "2026-05-31 13:54:47.955176",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today Following an attack on **Abhishek Banerjee**, the MP for Diamond Harbour, during a vis",
-            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
-            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
-            "scraped_at": "2026-05-31 11:44:00.328937",
+            "incident_text": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu The **West Bengal police** arrested five individuals in connection with the attack on Tri",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/five-arrested-for-attack-on-abhishek-mamata-says-police-pressurised-hospitals-not-to-admit-him/article71044003.ece",
+            "source_title": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu",
+            "scraped_at": "2026-05-31 21:08:33.436413",
             "incident_type": "broad"
           }
         ],
@@ -2682,6 +2675,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOQ0gzckxxYjlBV0VNRlU5Mk41NmYzZFpWUTlRVDRvUmVSZVlTeWNXN0N0VEZTc1p5NTJyaXZNN0ZPWjA2dW9uMXN6ZnJ3MG13ZTNYQlhMQk9ZOXFBVzN6NGZaZVoycWw5UGZfOTlNRm9VTy1qbmppeHVvNmJxb1dqZlBvcnNKNnN0Z1kzc3ZfX1dsbm5nbmNSZDY0QWg1YXRCSU1JR3JKV2JEc19HRFpFYndLQmwySGxQTi1nSmlDVG9RUFRPQlNmWWxLX2o4WkR3MEpKSXZDM0pmRzJuQmZqZTRRQ3MxdEF4ckFjTzJSa2V4QkZWZmZZMkVLZzZzSnYxemNja2V5dGs0VnJ4c2dpdE9sUUY?oc=5",
       "source_title": "Say 'Jai Shri Ram' in classrooms instead of 'Yes sir' during attendance calls: Karnataka BJP MLA Janardhan Reddy",
       "scraped_at": "2026-05-31 06:29:46.128120",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mallikarjun Kharge",
+      "promise_text": "that a clarity will emerge by Wednesday",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/ministry-formation-to-be-done-in-phases-while-discussions-will-shift-to-delhi/article71044835.ece",
+      "source_title": "Ministry formation to be done in phases while discussions will shift to Delhi - The Hindu",
+      "scraped_at": "2026-05-31 15:23:34.531898",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "that his government would come out with a White Paper",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/white-paper-on-state-govts-finances-is-being-finalised/article71045236.ece",
+      "source_title": "White Paper on State govt.’s finances is being finalised - The Hindu",
+      "scraped_at": "2026-05-31 21:08:05.235239",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

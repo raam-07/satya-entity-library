@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03 00:43:51.662921",
+  "generated_at": "2026-06-03 01:33:05.201889",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 2,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 7
@@ -45,7 +45,7 @@
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
       "confidence": 0.5,
-      "mentions": 12,
+      "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
@@ -62,7 +62,7 @@
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
-      "confidence": 0.56,
+      "confidence": 0.5,
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
