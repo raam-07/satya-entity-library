@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 5,
-      "gaffe_updates": 4
+      "new_promises": 0,
+      "gaffe_updates": 2
     }
   },
   "india": {
@@ -44,10 +44,10 @@
         "criminal_last_updated": "2026-06-01",
         "controversies": [
           {
-            "incident_text": "Narendra Modi's government favors corporations, giving them licenses, assets, and even Parliament access in exchange for donations, according to Brinda Karat.",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/communists-fight-elections-to-reflect-rights-of-people-says-brinda-karat/article70766788.ece",
-            "source_title": "Communists fight elections to reflect rights of people, says Brinda Karat - The Hindu",
-            "scraped_at": "2026-03-20 20:46:38.659490"
+            "incident_text": "Digvijaya Singh warned that Prime Minister Narendra Modi’s personal accountability was now on the line.",
+            "source_url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
+            "source_title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
+            "scraped_at": "2026-06-02 06:55:41.178977"
           }
         ]
       },
@@ -675,7 +675,20 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
         "image_placeholder": "yogi_adityanath",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Yogi Adityanath stated that cows are revered as mothers in Indian tradition and Muslim clerics should caution followers against disrespecting them.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-02 02:03:27.367304"
+          },
+          {
+            "incident_text": "Yogi Adityanath criticized opposition parties for disrespecting Lord Ram's faith.",
+            "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
+            "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
+            "scraped_at": "2026-03-19 17:59:45.291579"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {

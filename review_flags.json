@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03 04:24:56.655213",
+  "generated_at": "2026-06-03 05:03:01.823831",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 4,
-    "promises_extracted": 5,
+    "gaffe_updates_applied": 2,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 6
@@ -18,7 +18,7 @@
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
       "confidence": 0.47,
-      "mentions": 8,
+      "mentions": 9,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
     },
@@ -44,8 +44,8 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.44,
-      "mentions": 7,
+      "confidence": 0.47,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
     },
