@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 2,
       "gaffe_updates": 4
     }
   },
@@ -71,7 +71,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
+          }
+        ]
       },
       {
         "name": "Rajnath Singh",
@@ -396,10 +403,10 @@
         "criminal_last_updated": "2026-06-02",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi stated the transfers were a 'cover-up' not accountability.",
-            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
-            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
-            "scraped_at": "2026-06-02 19:47:05.989322"
+            "incident_text": "Rahul Gandhi was publicly confronted by the CEC.",
+            "source_url": "https://www.thehindu.com/news/national/opposition-notice-seeking-cecs-removal-cites-his-public-remarks-against-rahul-gandhi/article70750590.ece",
+            "source_title": "Opposition notice seeking CEC’s removal cites his public remarks against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-16 21:13:36.431855"
           }
         ]
       },
@@ -472,10 +479,16 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
-            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
-            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
-            "scraped_at": "2026-06-02 19:47:05.989322"
+            "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
+            "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
+            "scraped_at": "2026-03-16 21:12:03.647200"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 18:57:35.364172"
           }
         ],
         "criminal_cases_in_news": 0
@@ -821,10 +834,10 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
-            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
-            "scraped_at": "2026-03-18 23:36:53.293151"
+            "incident_text": "Revanth Reddy mandated attendance and focused debates in the Assembly to counter opposition criticism.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/be-disciplined-and-leave-casual-approach-revanth-reddy-tells-cong-mlas/article70751284.ece",
+            "source_title": "Be disciplined and leave casual approach: Revanth Reddy tells Cong MLAs - The Hindu",
+            "scraped_at": "2026-03-16 19:11:16.839375"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2902,6 +2915,26 @@
       "source_url": "https://www.ndtv.com/india-news/trinamool-in-existential-crisis-mamata-banerjee-calls-it-do-or-die-fight-11580960#publisher=newsstand",
       "source_title": "Trinamool In Existential Crisis, Mamata Banerjee Calls It \"Do Or Die\" Fight",
       "scraped_at": "2026-06-02 15:44:35.787067",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "his retirement from acting to focus on politics",
+      "source_url": "https://indianexpress.com/article/entertainment/tamil/rj-balaji-meets-cm-vijay-after-saying-he-was-the-first-choice-for-suriyas-karuppu-10720963/",
+      "source_title": "RJ Balaji meets Vijay after saying he was the first choice for Suriya’s Karuppu: ‘Unreal’ | Tamil News - The Indian Express",
+      "scraped_at": "2026-06-02 22:28:09.813491",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "his team that he is aware of every constituency's situation and will personally assess their performance",
+      "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cabinet-berth-only-for-those-who-ensure-victory-in-maximum-number-of-constituencies-says-stalin/article70750801.ece",
+      "source_title": "Cabinet berth only for those who ensure victory in maximum number of constituencies, says Stalin - The Hindu",
+      "scraped_at": "2026-03-16 19:10:43.310900",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

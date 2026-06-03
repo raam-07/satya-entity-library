@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03 06:38:10.035759",
+  "generated_at": "2026-06-03 07:38:50.843715",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 4,
-    "promises_extracted": 0,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 7
@@ -43,11 +43,11 @@
     {
       "type": "cm_detection",
       "state": "Karnataka",
-      "candidate": "Siddaramaiah",
-      "confidence": 0.47,
-      "mentions": 14,
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.48,
+      "mentions": 15,
       "reason": "Below auto-update threshold",
-      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
+      "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
     {
       "type": "cm_detection",
