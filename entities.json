@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 5
+      "criminal_updates": 0,
+      "new_promises": 0,
+      "gaffe_updates": 4
     }
   },
   "india": {
@@ -396,10 +396,10 @@
         "criminal_last_updated": "2026-06-02",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi allegedly endorsed a USCIRF report recommending sanctions against India's R&AW and RSS.",
-            "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
-            "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
-            "scraped_at": "2026-03-18 22:46:37.753207"
+            "incident_text": "Rahul Gandhi stated the transfers were a 'cover-up' not accountability.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
           }
         ]
       },
@@ -470,7 +470,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
         "image_placeholder": "mallikarjun_kharge",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -923,10 +930,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Devendra Fadnavis stated the existing legal framework was inadequate to address forced conversion-related law and order issues.",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
-            "source_title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it - The Hindu",
-            "scraped_at": "2026-03-18 22:05:38.484915"
+            "incident_text": "Devendra Fadnavis stated the anti-conversion law is not targeted at any specific religion.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
+            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
+            "scraped_at": "2026-03-16 23:40:11.368501"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1082,7 +1089,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "V.D. Satheesan hinted at potential defections from the Left.",
+            "source_url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
+            "source_title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
+            "scraped_at": "2026-03-16 23:01:00.277422"
+          }
+        ],
         "criminal_last_updated": "2026-06-03"
       },
       {
