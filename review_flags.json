@@ -1,41 +1,68 @@
 {
-  "generated_at": "2026-06-03 23:55:47.525017",
+  "generated_at": "2026-06-04 11:23:33.762940",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 2,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 1,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 8
+    "items_needing_review": 16
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "ement. As least four people each died in the districts of Barabanki, Bahraich, Kanpur Dehat, Basti, Sambhal, Hardoi, and Unnao. Livestock loss and crop damage is also being monitored. Aid for victims "
+    },
+    {
+      "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.67,
+      "confidence": 0.5,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
     },
     {
       "type": "cm_detection",
+      "state": "Rajasthan",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
+    },
+    {
+      "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
       "confidence": 0.5,
-      "mentions": 8,
+      "mentions": 10,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
     },
     {
       "type": "cm_detection",
+      "state": "Tamil Nadu",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.43,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Tamil Nadu Assembly. Immediately after assuming his position, Mr. Prabhakar conducted the election for the Deputy Speaker, in which Mr. Ravishankar was elected unopposed. As Mr. Prabhakar invited Mr. "
+    },
+    {
+      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.47,
+      "confidence": 0.43,
       "mentions": 9,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
@@ -53,28 +80,71 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
-      "mentions": 18,
+      "confidence": 0.54,
+      "mentions": 21,
       "reason": "Below auto-update threshold",
       "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
     {
       "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "Pinarayi Vijayan",
-      "confidence": 0.4,
-      "mentions": 8,
+      "state": "Puducherry",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.5,
+      "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
+      "context": ". Chief Minister M.K. Stalin and Deputy Chief Minister Udhayanidhi Stalin will once again contest from the Kolathur and Chepauk-Tiruvallikeni constituencies, respectively. The BJP is trying to “loot” "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Haryana",
+      "candidate": "Nayab Singh Saini",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "mittee of the assembly on women empowerment, even as the Congress boycotted the special session of the Assembly, accusing the ruling BJP of misusing the legislative platform for political propaganda. "
     },
     {
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
-      "confidence": 0.5,
+      "confidence": 0.43,
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Gujarat",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "The agreement seeks to expand and manage drinking water supply systems in rural areas of the State. It outlines measures for implementation, monitoring and transparency under Jal Jeevan Mission 2.0. S"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Chhattisgarh",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttarakhand",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "hami to convey the information. Mr. Dhami described it as a \"golden and glorious chapter\" in the State's history, and a living testament to pride, tradition, and an indomitable spirit of service. The "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Himachal Pradesh",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "Stage set for D.K. Shivakumar to over as new CM of Karnataka - The Hindu **D.K. Shivakumar**, the eight-time legislator and Karnataka Pradesh Congress Committee president, will be sworn in as the 34th"
     },
     {
       "type": "ruling_party",

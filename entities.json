@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-06-04",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 0,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 2,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -355,28 +355,21 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party The Trinamool Congress is facing a deepening crisis following its defeat in the West Bengal state election. *",
-            "source_url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-live-updates-back-to-back-setbacks-to-mamata-banerjee-led-party-11586536#publisher=newsstand",
-            "source_title": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party",
-            "scraped_at": "2026-06-03 15:21:28.649362",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
-            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
-            "scraped_at": "2026-06-03 22:16:48.162279",
+            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
+            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-03 22:16:01.999473",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-03",
+        "criminal_last_updated": "2026-06-04",
         "controversies": []
       }
     ],
@@ -821,7 +814,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
+          }
+        ]
       },
       {
         "name": "Revanth Reddy",
@@ -1759,7 +1759,7 @@
         "cm": "M.K. Stalin",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-03"
+        "party_last_updated": "2026-06-04"
       },
       {
         "name": "Telangana",
@@ -1807,7 +1807,7 @@
         "cm": null,
         "region": "East",
         "party_confidence": 0.8,
-        "party_last_updated": "2026-06-03"
+        "party_last_updated": "2026-06-04"
       },
       {
         "name": "Delhi",
@@ -3008,6 +3008,16 @@
       "source_title": "Sugarcane farmers stage protest at Nindra factory - The Hindu",
       "scraped_at": "2026-03-14 14:58:14.935910",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "a ₹2,044 crore waiver",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/if-maharashtra-can-waive-farm-loans-fully-why-cant-tamil-nadu-asks-anbumani/article71057935.ece",
+      "source_title": "If Maharashtra can waive farm loans fully, why can’t Tamil Nadu?, asks Anbumani - The Hindu",
+      "scraped_at": "2026-06-03 22:15:28.999175",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
