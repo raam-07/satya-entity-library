@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -403,10 +403,16 @@
         "criminal_last_updated": "2026-06-02",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi staging a dharna against the cooking gas shortage is not a fault.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
-            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
-            "scraped_at": "2026-03-14 15:37:01.802730"
+            "incident_text": "Rahul Gandhi claimed an 'economic tsunami' would hit India due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:28.253561"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an economic tsunami was imminent due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:16.288131"
           }
         ]
       },
@@ -1284,6 +1290,22 @@
           }
         ],
         "criminal_last_updated": "2026-06-03"
+      },
+      {
+        "name": "Rajya Sabha",
+        "role": "Upper House of Indian Parliament",
+        "party": "",
+        "state": null,
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rajya_Sabha",
+        "image_placeholder": "rajya_sabha",
+        "auto_added": true,
+        "auto_added_on": "2026-06-04",
+        "gemma_confidence": "high",
+        "mentions_detected": 5
       }
     ],
     "parties": [
