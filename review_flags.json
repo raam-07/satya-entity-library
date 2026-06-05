@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 19:53:16.029461",
+  "generated_at": "2026-06-05 20:23:34.994839",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 1,
@@ -25,11 +25,11 @@
     {
       "type": "cm_detection",
       "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.4,
-      "mentions": 4,
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.42,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
-      "context": "Puducherry marked a shift in the political footprint of the country. While the results in Assam and Puducherry saw the Bharatiya Janata Party-led National Democratic Alliance (NDA) retain governance, "
+      "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
     },
     {
       "type": "ruling_party",
