@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 2,
-      "new_promises": 0,
+      "criminal_updates": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -3410,6 +3410,16 @@
       "source_url": "https://www.thehindu.com/news/national/bihar/amid-sultan-palace-row-tourism-minister-says-such-heritage-structures-will-be-beautified/article70958684.ece",
       "source_title": "Amid Sultan Palace row, tourism minister says such heritage structures will be beautified - The Hindu",
       "scraped_at": "2026-05-09 21:13:07.340507",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "a plan to transform Kochi into a model city with seamless transport and world-class infrastructure through a \"twin city\" expansion",
+      "source_url": "https://www.thehindu.com/news/national/kerala/master-plan-to-transform-kochi-into-model-city-to-come-up-in-six-months-says-satheesan/article71017722.ece",
+      "source_title": "Master plan to transform Kochi into model city to come up in six months, says Satheesan - The Hindu",
+      "scraped_at": "2026-05-24 20:15:17.286499",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
