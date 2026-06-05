@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -521,14 +521,14 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
-            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
-            "scraped_at": "2026-05-31 06:27:56.337796",
+            "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
+            "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
+            "scraped_at": "2026-05-14 17:27:51.324299",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-03",
+        "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
             "incident_text": "Mamata Banerjee contested the deletion of alleged infiltrators from voter lists in West Bengal.",
