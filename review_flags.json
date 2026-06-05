@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 15:13:48.000076",
+  "generated_at": "2026-06-05 16:05:50.908124",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 0,
@@ -8,9 +8,27 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 2
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
+    }
+  ]
 }
