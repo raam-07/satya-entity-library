@@ -1343,6 +1343,146 @@ No explanation. No extra text.
 # --- APPLY UPDATES TO entities.json ---
 # ==============================================================================
 
+def enforce_database_consistency(entities):
+    logging.info("--- Enforcing Database Consistency & Referential Integrity ---")
+    
+    cms = entities['india']['state_chief_ministers']
+    party_list = entities['india']['parties']
+    states = entities['india']['states']
+    
+    # Build party lookup map (resolves aliases like "Congress" -> "INC")
+    party_lookup = {}
+    for p in party_list:
+        p_name = p['name']
+        party_lookup[p_name.upper()] = p_name
+        for alias in p.get('aliases', []):
+            party_lookup[alias.upper()] = p_name
+
+    def resolve_party_name(party_raw):
+        if not party_raw:
+            return ""
+        party_raw_upper = party_raw.strip().upper()
+        return party_lookup.get(party_raw_upper, party_raw.strip())
+
+    # Build CM profile resolver helper (checks name and aliases)
+    def find_cm_profile(cm_name):
+        if not cm_name or cm_name == "N/A":
+            return None
+        cm_name_lower = cm_name.strip().lower()
+        
+        # 1. Try exact name or alias match
+        for profile in cms:
+            if profile['name'].lower() == cm_name_lower:
+                return profile
+            for alias in profile.get('aliases', []):
+                if alias.lower() == cm_name_lower:
+                    return profile
+                    
+        # 2. Try substring matching as a fallback
+        for profile in cms:
+            p_name_lower = profile['name'].lower()
+            if cm_name_lower in p_name_lower or p_name_lower in cm_name_lower:
+                return profile
+                
+        return None
+
+    # 1. Synchronize State CMs with profiles and demote former CMs
+    for state in states:
+        state_name = state['name']
+        active_cm_name = state.get('cm')
+        ruling_party = resolve_party_name(state.get('ruling_party'))
+        
+        # Fallback: if active_cm_name is null/empty, check if there is an active CM profile for this state
+        if not active_cm_name or active_cm_name == "N/A":
+            for profile in cms:
+                if profile.get('state') == state_name and "Chief Minister" in profile.get('role', '') and "Former" not in profile.get('role', ''):
+                    logging.info(f"Fallback: Found active CM profile '{profile['name']}' for state {state_name}. Syncing state record.")
+                    state['cm'] = profile['name']
+                    active_cm_name = profile['name']
+                    if profile.get('party') and not ruling_party:
+                        state['ruling_party'] = profile['party']
+                        ruling_party = profile['party']
+                    break
+        
+        if active_cm_name and active_cm_name != "N/A":
+            profile = find_cm_profile(active_cm_name)
+            if profile:
+                profile['role'] = f"Chief Minister of {state_name}" if "Chief Minister" not in profile.get('role', '') else profile['role']
+                if "Former" in profile['role']:
+                    profile['role'] = profile['role'].replace("Former ", "").replace("Former Chief Minister", "Chief Minister")
+                
+                profile['state'] = state_name
+                cm_party = resolve_party_name(profile.get('party'))
+                if cm_party and cm_party != ruling_party:
+                    logging.info(f"Syncing state {state_name} ruling_party '{ruling_party}' to match CM's party '{cm_party}'")
+                    state['ruling_party'] = cm_party
+                    ruling_party = cm_party
+                elif ruling_party and not cm_party:
+                    profile['party'] = ruling_party
+            else:
+                logging.warning(f"Active CM '{active_cm_name}' for state {state_name} has no profile. Creating basic profile.")
+                new_profile = {
+                    "name": active_cm_name,
+                    "role": f"Chief Minister of {state_name}",
+                    "party": ruling_party or "",
+                    "state": state_name,
+                    "aliases": [],
+                    "criminal_cases": 0,
+                    "criminal_cases_in_news": 0,
+                    "affidavit_url": "https://affidavit.eci.gov.in",
+                    "wikipedia": f"https://en.wikipedia.org/wiki/{active_cm_name.replace(' ', '_')}",
+                    "image_placeholder": active_cm_name.lower().replace(' ', '_').replace('.', ''),
+                    "auto_added": True,
+                    "auto_added_on": str(datetime.now().date()),
+                    "gemma_confidence": "high",
+                    "criminal_incidents": [],
+                    "controversies": []
+                }
+                cms.append(new_profile)
+            
+            # Demote any other CM profiles for this state to "Former Chief Minister"
+            for c in cms:
+                if c.get('state') == state_name and c['name'].lower() != active_cm_name.lower():
+                    resolved_profile = find_cm_profile(c['name'])
+                    if resolved_profile and resolved_profile['name'].lower() != active_cm_name.lower():
+                        if "Chief Minister" in c.get('role', '') and "Former" not in c.get('role', ''):
+                            logging.info(f"Demoting {c['name']} to Former Chief Minister of {state_name}")
+                            c['role'] = c['role'].replace("Chief Minister", "Former Chief Minister")
+
+    # 2. Recompute Party ruling_states dynamically
+    party_map = {p['name'].upper(): p for p in party_list}
+    
+    # Initialize all party ruling states to empty
+    for party in party_list:
+        party['ruling_states'] = []
+        
+    for state in states:
+        state_name = state['name']
+        ruling_party = resolve_party_name(state.get('ruling_party'))
+        if ruling_party:
+            ruling_party_upper = ruling_party.upper()
+            if ruling_party_upper in party_map:
+                party_map[ruling_party_upper]['ruling_states'].append(state_name)
+            else:
+                logging.info(f"State {state_name} is ruled by party '{ruling_party}' which is not in parties list. Appending basic party entry.")
+                new_party = {
+                    "name": ruling_party,
+                    "full_name": ruling_party,
+                    "aliases": [],
+                    "ideology": "Regionalism",
+                    "founded": "Unknown",
+                    "president": "Unknown",
+                    "coalition": "Unknown",
+                    "ruling_states": [state_name],
+                    "wikipedia": f"https://en.wikipedia.org/wiki/{ruling_party}",
+                    "color": "#808080"
+                }
+                party_list.append(new_party)
+                party_map[ruling_party_upper] = new_party
+                
+    logging.info("--- Referential Integrity Enforced successfully ---")
+
+
 def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates=None):
     for update in cm_updates:
         for state in entities['india']['states']:
@@ -1415,6 +1555,9 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
         "new_promises":    len(new_promises),
         "gaffe_updates":   len(gaffe_updates) if gaffe_updates else 0,
     }
+
+    # Enforce referential consistency and dynamic fields
+    enforce_database_consistency(entities)
 
     return entities
 

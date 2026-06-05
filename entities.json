@@ -347,30 +347,6 @@
         "criminal_incidents": [],
         "controversies": [],
         "criminal_cases_in_news": 0
-      },
-      {
-        "name": "Abhishek Banerjee",
-        "role": "Trinamool Congress general secretary",
-        "party": "TMC",
-        "state": null,
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "auto_added": true,
-        "auto_added_on": "2026-05-31",
-        "gemma_confidence": "high",
-        "mentions_detected": 42,
-        "criminal_incidents": [
-          {
-            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
-            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-03 22:16:01.999473",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-04",
-        "controversies": []
       }
     ],
     "opposition_leaders": [
@@ -692,9 +668,7 @@
         "role": "leader of the VCK",
         "party": "VCK",
         "state": "Tamil Nadu",
-        "aliases": [
-          "Thirumavalavan Tamil Nadu’s CM"
-        ],
+        "aliases": [],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "auto_added": true,
@@ -702,6 +676,30 @@
         "gemma_confidence": "medium",
         "mentions_detected": 179,
         "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Abhishek Banerjee",
+        "role": "Trinamool Congress general secretary",
+        "party": "TMC",
+        "state": "West Bengal",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "auto_added": true,
+        "auto_added_on": "2026-05-31",
+        "gemma_confidence": "high",
+        "mentions_detected": 42,
+        "criminal_incidents": [
+          {
+            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
+            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-03 22:16:01.999473",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-04",
         "controversies": []
       }
     ],
@@ -870,7 +868,7 @@
           "Tamil Nadu CM",
           "DMK Chief"
         ],
-        "role": "Chief Minister",
+        "role": "Former Chief Minister",
         "state": "Tamil Nadu",
         "party": "DMK",
         "ruling_since": "2021",
@@ -888,7 +886,7 @@
           "Pinarayi",
           "Kerala CM"
         ],
-        "role": "Chief Minister",
+        "role": "Former Chief Minister",
         "state": "Kerala",
         "party": "CPM",
         "ruling_since": "2016",
@@ -1078,7 +1076,7 @@
       {
         "name": "C. Joseph Vijay",
         "role": "Chief Minister of Tamil Nadu",
-        "party": "DMK",
+        "party": "TVK",
         "state": "Tamil Nadu",
         "aliases": [
           "C. Joseph Vijay**"
@@ -1151,7 +1149,7 @@
       {
         "name": "Himanta Biswa Sarma",
         "role": "Chief Minister of Assam",
-        "party": "",
+        "party": "BJP",
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
@@ -1176,7 +1174,7 @@
       },
       {
         "name": "Pabitra Margherita",
-        "role": "Chief Minister of Assam",
+        "role": "Former Chief Minister of Assam",
         "party": "",
         "state": "Assam",
         "aliases": [],
@@ -1234,7 +1232,7 @@
       {
         "name": "Bhagwant Mann",
         "role": "Chief Minister of Punjab",
-        "party": "",
+        "party": "AAP",
         "state": "Punjab",
         "aliases": [],
         "criminal_cases": 0,
@@ -1250,7 +1248,7 @@
       {
         "name": "Nayab Singh Saini",
         "role": "Chief Minister of Haryana",
-        "party": "",
+        "party": "BJP",
         "state": "Haryana",
         "aliases": [],
         "criminal_cases": 0,
@@ -1262,6 +1260,244 @@
         "auto_added_on": "2026-06-03",
         "gemma_confidence": "high",
         "mentions_detected": 1
+      },
+      {
+        "name": "Pema Khandu",
+        "role": "Chief Minister of Arunachal Pradesh",
+        "party": "BJP",
+        "state": "Arunachal Pradesh",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pema_Khandu",
+        "image_placeholder": "pema_khandu",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Vishnu Deo Sai",
+        "role": "Chief Minister of Chhattisgarh",
+        "party": "BJP",
+        "state": "Chhattisgarh",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vishnu_Deo_Sai",
+        "image_placeholder": "vishnu_deo_sai",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Pramod Sawant",
+        "role": "Chief Minister of Goa",
+        "party": "BJP",
+        "state": "Goa",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pramod_Sawant",
+        "image_placeholder": "pramod_sawant",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Bhupendra Patel",
+        "role": "Chief Minister of Gujarat",
+        "party": "BJP",
+        "state": "Gujarat",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
+        "image_placeholder": "bhupendra_patel",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "N. Biren Singh",
+        "role": "Chief Minister of Manipur",
+        "party": "BJP",
+        "state": "Manipur",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Biren_Singh",
+        "image_placeholder": "n_biren_singh",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Conrad Sangma",
+        "role": "Chief Minister of Meghalaya",
+        "party": "NPP",
+        "state": "Meghalaya",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Sangma",
+        "image_placeholder": "conrad_sangma",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Lalduhoma",
+        "role": "Chief Minister of Mizoram",
+        "party": "ZPM",
+        "state": "Mizoram",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lalduhoma",
+        "image_placeholder": "lalduhoma",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Neiphiu Rio",
+        "role": "Chief Minister of Nagaland",
+        "party": "NDPP",
+        "state": "Nagaland",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neiphiu_Rio",
+        "image_placeholder": "neiphiu_rio",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Mohan Majhi",
+        "role": "Chief Minister of Odisha",
+        "party": "BJP",
+        "state": "Odisha",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Majhi",
+        "image_placeholder": "mohan_majhi",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Prem Singh Tamang",
+        "role": "Chief Minister of Sikkim",
+        "party": "SKM",
+        "state": "Sikkim",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Prem_Singh_Tamang",
+        "image_placeholder": "prem_singh_tamang",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Manik Saha",
+        "role": "Chief Minister of Tripura",
+        "party": "BJP",
+        "state": "Tripura",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Manik_Saha",
+        "image_placeholder": "manik_saha",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Pushkar Singh Dhami",
+        "role": "Chief Minister of Uttarakhand",
+        "party": "BJP",
+        "state": "Uttarakhand",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
+        "image_placeholder": "pushkar_singh_dhami",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Rekha Gupta",
+        "role": "Chief Minister of Delhi",
+        "party": "BJP",
+        "state": "Delhi",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rekha_Gupta",
+        "image_placeholder": "rekha_gupta",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "N. Rangasamy",
+        "role": "Chief Minister of Puducherry",
+        "party": "AINRC",
+        "state": "Puducherry",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Rangasamy",
+        "image_placeholder": "n_rangasamy",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
       }
     ],
     "generic_politicians": [
@@ -1321,22 +1557,23 @@
         "president": "JP Nadda",
         "coalition": "NDA",
         "ruling_states": [
-          "Uttar Pradesh",
-          "Gujarat",
-          "Madhya Pradesh",
-          "Rajasthan",
-          "Maharashtra",
-          "Haryana",
-          "Uttarakhand",
-          "Himachal Pradesh",
-          "Tripura",
-          "Assam",
-          "Manipur",
           "Arunachal Pradesh",
-          "Meghalaya",
-          "Nagaland",
-          "Sikkim",
-          "Goa"
+          "Assam",
+          "Bihar",
+          "Chhattisgarh",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Madhya Pradesh",
+          "Maharashtra",
+          "Manipur",
+          "Odisha",
+          "Rajasthan",
+          "Tripura",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal",
+          "Delhi"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
         "color": "#FF9933"
@@ -1354,9 +1591,10 @@
         "president": "Mallikarjun Kharge",
         "coalition": "INDIA Alliance",
         "ruling_states": [
+          "Himachal Pradesh",
           "Karnataka",
-          "Telangana",
-          "Himachal Pradesh"
+          "Kerala",
+          "Telangana"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Indian_National_Congress",
         "color": "#00BFFF"
@@ -1390,9 +1628,7 @@
         "founded": "1998",
         "president": "Mamata Banerjee",
         "coalition": "INDIA Alliance",
-        "ruling_states": [
-          "West Bengal"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/All_India_Trinamool_Congress",
         "color": "#00FF00"
       },
@@ -1437,9 +1673,7 @@
         "founded": "1949",
         "president": "M.K. Stalin",
         "coalition": "INDIA Alliance",
-        "ruling_states": [
-          "Tamil Nadu"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam",
         "color": "#FF0000"
       },
@@ -1455,9 +1689,7 @@
         "founded": "1964",
         "president": "Sitaram Yechury",
         "coalition": "INDIA Alliance",
-        "ruling_states": [
-          "Kerala"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
         "color": "#FF0000"
       },
@@ -1472,9 +1704,7 @@
         "founded": "1999",
         "president": "Nitish Kumar",
         "coalition": "NDA",
-        "ruling_states": [
-          "Bihar"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Janata_Dal_(United)",
         "color": "#00FF00"
       },
@@ -1569,11 +1799,124 @@
         "founded": "1966",
         "president": "Eknath Shinde",
         "coalition": "NDA",
-        "ruling_states": [
-          "Maharashtra"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Shiv_Sena",
         "color": "#FF8000"
+      },
+      {
+        "name": "NPP",
+        "full_name": "NPP",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Meghalaya"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/NPP",
+        "color": "#808080"
+      },
+      {
+        "name": "ZPM",
+        "full_name": "ZPM",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Mizoram"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/ZPM",
+        "color": "#808080"
+      },
+      {
+        "name": "NDPP",
+        "full_name": "NDPP",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Nagaland"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/NDPP",
+        "color": "#808080"
+      },
+      {
+        "name": "SKM",
+        "full_name": "SKM",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Sikkim"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/SKM",
+        "color": "#808080"
+      },
+      {
+        "name": "TVK",
+        "full_name": "TVK",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Tamil Nadu"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/TVK",
+        "color": "#808080"
+      },
+      {
+        "name": "National Conference",
+        "full_name": "National Conference",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Jammu and Kashmir"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/National Conference",
+        "color": "#808080"
+      },
+      {
+        "name": "Central Govt",
+        "full_name": "Central Govt",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Ladakh",
+          "Chandigarh",
+          "Andaman and Nicobar",
+          "Lakshadweep"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Central Govt",
+        "color": "#808080"
+      },
+      {
+        "name": "AINRC",
+        "full_name": "AINRC",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Puducherry"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/AINRC",
+        "color": "#808080"
       }
     ],
     "states": [
@@ -1620,7 +1963,7 @@
         ],
         "capital": "Raipur",
         "ruling_party": "BJP",
-        "cm": "Bhupesh Baghel",
+        "cm": "Vishnu Deo Sai",
         "region": "Central",
         "cm_confidence": 1.0,
         "cm_last_updated": "2026-05-23"
@@ -1685,8 +2028,8 @@
         "name": "Kerala",
         "aliases": [],
         "capital": "Thiruvananthapuram",
-        "ruling_party": "CPM",
-        "cm": "Pinarayi Vijayan",
+        "ruling_party": "INC",
+        "cm": "V.D. Satheesan",
         "region": "South"
       },
       {
@@ -1777,8 +2120,8 @@
           "TN"
         ],
         "capital": "Chennai",
-        "ruling_party": "DMK",
-        "cm": "M.K. Stalin",
+        "ruling_party": "TVK",
+        "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
         "party_last_updated": "2026-06-04"
@@ -1826,7 +2169,7 @@
         ],
         "capital": "Kolkata",
         "ruling_party": "BJP",
-        "cm": null,
+        "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.8,
         "party_last_updated": "2026-06-04"
@@ -1867,7 +2210,7 @@
           "Pondicherry"
         ],
         "capital": "Puducherry",
-        "ruling_party": "INC",
+        "ruling_party": "AINRC",
         "cm": "N. Rangasamy",
         "region": "South"
       },
