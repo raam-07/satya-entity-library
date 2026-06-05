@@ -708,14 +708,14 @@
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
-            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-03 22:16:01.999473",
+            "incident_text": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu **Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect secu",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+            "scraped_at": "2026-05-26 04:51:03.882465",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-04",
+        "criminal_last_updated": "2026-06-05",
         "controversies": []
       }
     ],
