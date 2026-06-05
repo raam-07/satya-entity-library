@@ -6,9 +6,9 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
-      "party_updates": 0,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "party_updates": 1,
+      "criminal_updates": 4,
+      "new_promises": 1,
       "gaffe_updates": 0
     }
   },
@@ -39,9 +39,17 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
             "incident_text": "Narendra Modi failed to secure oil and gas imports from Russia due to US pressure, according to Jagga Reddy.",
@@ -68,9 +76,17 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
@@ -521,10 +537,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu **Mamata Banerjee**, leader of the **Trinamool Congress**, appeared before the Supreme",
-            "source_url": "https://www.thehindu.com/news/national/will-hear-trinamool-pleas-on-victory-margins-being-less-than-deleted-votes-in-sir-says-supreme-court/article70965914.ece",
-            "source_title": "Will hear Trinamool pleas on victory margins being less than deleted votes in SIR, says Supreme Court - The Hindu",
-            "scraped_at": "2026-05-11 22:40:30.666506",
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
             "incident_type": "broad"
           }
         ],
@@ -1195,7 +1211,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -1210,16 +1226,9 @@
             "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
             "scraped_at": "2026-05-09 06:39:18.299777",
             "incident_type": "broad"
-          },
-          {
-            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
-            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
-            "scraped_at": "2026-05-08 06:58:00.243592",
-            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-02",
+        "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari claimed using the Chief Minister's letterhead for political correspondence violates the Model Code of Conduct.",
@@ -2171,8 +2180,8 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.8,
-        "party_last_updated": "2026-06-04"
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-06-05"
       },
       {
         "name": "Delhi",
@@ -3383,6 +3392,16 @@
       "source_title": "If Maharashtra can waive farm loans fully, why can’t Tamil Nadu?, asks Anbumani - The Hindu",
       "scraped_at": "2026-06-03 22:15:28.999175",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Rekha Gupta",
+      "promise_text": "citizens that the palace would be preserved and made part of the heritage hotel project",
+      "source_url": "https://www.thehindu.com/news/national/bihar/amid-sultan-palace-row-tourism-minister-says-such-heritage-structures-will-be-beautified/article70958684.ece",
+      "source_title": "Amid Sultan Palace row, tourism minister says such heritage structures will be beautified - The Hindu",
+      "scraped_at": "2026-05-09 21:13:07.340507",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }

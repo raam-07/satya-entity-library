@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-05 16:05:50.908124",
+  "generated_at": "2026-06-05 16:59:41.300570",
   "summary": {
     "cm_updates_applied": 0,
-    "party_updates_applied": 0,
-    "criminal_updates_applied": 1,
+    "party_updates_applied": 1,
+    "criminal_updates_applied": 4,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 2
+    "items_needing_review": 3
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -17,10 +17,19 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.6,
+      "confidence": 0.43,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "Puducherry marked a shift in the political footprint of the country. While the results in Assam and Puducherry saw the Bharatiya Janata Party-led National Democratic Alliance (NDA) retain governance, "
     },
     {
       "type": "ruling_party",
