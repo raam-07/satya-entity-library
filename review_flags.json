@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05 16:59:41.300570",
+  "generated_at": "2026-06-05 18:08:47.019621",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 1,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 4,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 3
@@ -26,7 +26,7 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Suvendu Adhikari",
-      "confidence": 0.57,
+      "confidence": 0.44,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "Puducherry marked a shift in the political footprint of the country. While the results in Assam and Puducherry saw the Bharatiya Janata Party-led National Democratic Alliance (NDA) retain governance, "
