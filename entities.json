@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -382,20 +382,13 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
-            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
-            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
-            "scraped_at": "2026-04-19 18:09:30.425946",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
-            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-04-18 18:10:52.761906",
+            "incident_text": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu The **Lucknow Bench of the Allahabad High Court** ordered the registration of an FIR and further investigation",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-orders-fir-against-rahul-gandhi-in-alleged-dual-citizenship-case/article70873912.ece",
+            "source_title": "Allahabad HC orders FIR against Rahul Gandhi in alleged dual citizenship case - The Hindu",
+            "scraped_at": "2026-04-17 19:46:37.812241",
             "incident_type": "broad"
           }
         ],
