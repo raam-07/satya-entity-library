@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 1,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -382,14 +382,21 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
-            "incident_text": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu The **Allahabad High Court** rejected a petition seeking to register a sedition case against **Rahul Gandhi**, the Leader of ",
-            "source_url": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
-            "source_title": "Allahabad HC junks plea for sedition case against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-05-02 00:03:57.391908",
+            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
+            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
+            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-04-19 18:09:30.425946",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
+            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-04-18 18:10:52.761906",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-06-05",
@@ -432,7 +439,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-02",
+        "criminal_last_updated": "2026-06-05",
         "controversies": []
       },
       {
