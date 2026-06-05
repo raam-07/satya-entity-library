@@ -913,14 +913,14 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the residences of former Kerala Chief Minister Pinarayi Vijayan and his",
-            "source_url": "https://www.thehindu.com/news/national/kerala/cpim-cadres-stage-protests-after-ed-raids-at-pinarayi-vijayans-residence-in-kannur/article71027721.ece",
-            "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
-            "scraped_at": "2026-05-28 00:10:22.645050",
+            "incident_text": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu **The Enforcement Directorate (ED)** conducted raids on the homes of former Kerala Chief Minister Pinarayi Vijayan ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ed-raids-former-kerala-cm-pinarayi-vijayans-house-in-cmrl-pay-off-case/article71027597.ece",
+            "source_title": "ED raids former Kerala CM Pinarayi Vijayan’s houses in CMRL pay-off case - The Hindu",
+            "scraped_at": "2026-05-27 04:12:25.958544",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-02",
+        "criminal_last_updated": "2026-06-05",
         "controversies": []
       },
       {
@@ -2189,7 +2189,7 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 1.0,
+        "party_confidence": 0.89,
         "party_last_updated": "2026-06-05"
       },
       {
