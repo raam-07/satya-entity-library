@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05 19:25:53.786263",
+  "generated_at": "2026-06-05 19:37:26.660209",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 1,
@@ -17,7 +17,7 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.5,
+      "confidence": 0.44,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"

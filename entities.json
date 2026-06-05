@@ -1345,15 +1345,24 @@
         "state": "Manipur",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/N._Biren_Singh",
         "image_placeholder": "n_biren_singh",
         "auto_added": true,
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
+        "criminal_incidents": [
+          {
+            "incident_text": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu The **Supreme Court of India** ordered the **Kuki Organisation for Human Rights** to ",
+            "source_url": "https://www.thehindu.com/news/national/manipur/supreme-court-asks-petitioner-to-turn-in-first-gen-copy-of-leaked-audio-to-forensic-lab/article70923991.ece",
+            "source_title": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu",
+            "scraped_at": "2026-04-30 22:33:08.403010",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [],
+        "criminal_last_updated": "2026-06-05"
       },
       {
         "name": "Conrad Sangma",
