@@ -1,40 +1,17 @@
 {
-  "generated_at": "2026-06-06 21:19:53.749779",
+  "generated_at": "2026-06-06 21:39:17.120244",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 5,
-    "promises_extracted": 6,
-    "new_entities_auto_added": 1,
-    "new_entities_needs_review": 1,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 0,
+    "new_entities_auto_added": 0,
+    "new_entities_needs_review": 0,
     "items_needing_review": 18
   },
-  "new_entities_auto_added": [
-    {
-      "name": "Mehbooba Mufti",
-      "category": "opposition_leader",
-      "confidence": "high",
-      "mentions": 6,
-      "role": "President of Peoples Democratic Party",
-      "party": "PDP"
-    }
-  ],
-  "new_entities_needs_review": [
-    {
-      "name": "Al Jazeera Hundreds",
-      "raw_name": "Al Jazeera Hundreds",
-      "mentions": 32,
-      "role": "",
-      "party": "CJP",
-      "category": "generic_politician",
-      "confidence": "low",
-      "reason": "Gemma confidence too low for auto-add",
-      "sample_articles": [
-        "Supporters of the Cockroach People’s Party hold protest in New Delhi | Politics News | Al Jazeera Hundreds of supporters of the **Cockroach Janta Party** (CJP), a satirical political movement in India, gathered in New Delhi to protest Education Minister Dharmendra Pradhan.  The CJP, inspired by comments made by India's Chief Justice Surya Kant, has gained widespread online support among young Indians frustrated with job opportunities and limited education access. Organisers of the march encouraged peaceful demonstrations and urged participants to bring national flags and books symbolizing the right to education. The group’s rise echoes similar trends in South Asia where youth movements have played a key role in anti-government protests."
-      ]
-    }
-  ],
+  "new_entities_auto_added": [],
+  "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
