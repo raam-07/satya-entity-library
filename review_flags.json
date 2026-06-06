@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 01:09:59.330997",
+  "generated_at": "2026-06-06 01:28:03.151575",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -35,8 +35,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.6,
-      "mentions": 3,
+      "confidence": 0.71,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
