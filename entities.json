@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -776,7 +776,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-02",
+        "criminal_last_updated": "2026-06-06",
         "controversies": []
       },
       {
@@ -1112,10 +1112,10 @@
         "mentions_detected": 52,
         "criminal_incidents": [
           {
-            "incident_text": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu **C. Joseph Vijay**, the actor-politician making his electoral debut, has filed revised ",
-            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
-            "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
-            "scraped_at": "2026-04-05 05:18:19.309562",
+            "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
+            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
+            "scraped_at": "2026-05-30 03:52:17.421777",
             "incident_type": "broad"
           }
         ],
