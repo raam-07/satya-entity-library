@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -701,31 +701,24 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 2,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
-            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
-            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
-            "scraped_at": "2026-05-31 09:37:55.181015",
+            "incident_text": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today **Mamata Banerjee**, **TMC** leader, announced a sit-in protest in Kolkata on June 2nd against alleged a",
+            "source_url": "https://www.indiatoday.in/india/story/mamata-banerjee-june-2-kolkata-protest-against-attacks-on-abhishek-banerjee-tmc-leaders-workers-2919930-2026-05-31?utm_source=rss",
+            "source_title": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today",
+            "scraped_at": "2026-05-31 13:54:47.955176",
             "incident_type": "broad"
           },
           {
-            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
-            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
-            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
-            "scraped_at": "2026-05-31 06:30:16.763734",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
-            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
-            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
-            "scraped_at": "2026-05-31 06:25:25.115843",
+            "incident_text": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today Following an attack on **Abhishek Banerjee**, the MP for Diamond Harbour, during a vis",
+            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
+            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
+            "scraped_at": "2026-05-31 11:44:00.328937",
             "incident_type": "broad"
           }
         ],
