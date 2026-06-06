@@ -1,26 +1,40 @@
 {
-  "generated_at": "2026-06-06 19:07:28.329508",
+  "generated_at": "2026-06-06 21:19:53.749779",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 4,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 5,
+    "promises_extracted": 6,
     "new_entities_auto_added": 1,
-    "new_entities_needs_review": 0,
-    "items_needing_review": 17
+    "new_entities_needs_review": 1,
+    "items_needing_review": 18
   },
   "new_entities_auto_added": [
     {
-      "name": "Krishna Byre Gowda",
-      "category": "cabinet_minister",
+      "name": "Mehbooba Mufti",
+      "category": "opposition_leader",
       "confidence": "high",
-      "mentions": 5,
-      "role": "Minister of Bengaluru Development",
-      "party": "INC"
+      "mentions": 6,
+      "role": "President of Peoples Democratic Party",
+      "party": "PDP"
     }
   ],
-  "new_entities_needs_review": [],
+  "new_entities_needs_review": [
+    {
+      "name": "Al Jazeera Hundreds",
+      "raw_name": "Al Jazeera Hundreds",
+      "mentions": 32,
+      "role": "",
+      "party": "CJP",
+      "category": "generic_politician",
+      "confidence": "low",
+      "reason": "Gemma confidence too low for auto-add",
+      "sample_articles": [
+        "Supporters of the Cockroach People’s Party hold protest in New Delhi | Politics News | Al Jazeera Hundreds of supporters of the **Cockroach Janta Party** (CJP), a satirical political movement in India, gathered in New Delhi to protest Education Minister Dharmendra Pradhan.  The CJP, inspired by comments made by India's Chief Justice Surya Kant, has gained widespread online support among young Indians frustrated with job opportunities and limited education access. Organisers of the march encouraged peaceful demonstrations and urged participants to bring national flags and books symbolizing the right to education. The group’s rise echoes similar trends in South Asia where youth movements have played a key role in anti-government protests."
+      ]
+    }
+  ],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
@@ -34,11 +48,11 @@
     {
       "type": "cm_detection",
       "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
+      "candidate": "Arvind Kejriwal",
       "confidence": 0.5,
-      "mentions": 4,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
-      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
     },
     {
       "type": "cm_detection",
@@ -106,11 +120,11 @@
     {
       "type": "cm_detection",
       "state": "Haryana",
-      "candidate": "Nayab Singh Saini",
-      "confidence": 0.5,
-      "mentions": 3,
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.6,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
-      "context": "mittee of the assembly on women empowerment, even as the Congress boycotted the special session of the Assembly, accusing the ruling BJP of misusing the legislative platform for political propaganda. "
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
     },
     {
       "type": "cm_detection",
@@ -155,6 +169,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "Stage set for D.K. Shivakumar to over as new CM of Karnataka - The Hindu **D.K. Shivakumar**, the eight-time legislator and Karnataka Pradesh Congress Committee president, will be sworn in as the 34th"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Chandigarh",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "ed passengers from a bus traveling to Trincomalee. Opinion 40 years ago, June 6, 1986: Haryana ministry sworn in A 13-member, two-tier ministry headed by Bansi Lal was sworn in at Haryana Raj Bhavan. "
     },
     {
       "type": "ruling_party",

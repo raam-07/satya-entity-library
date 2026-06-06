@@ -8,8 +8,8 @@
       "cm_updates": 0,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 4
+      "new_promises": 6,
+      "gaffe_updates": 5
     }
   },
   "india": {
@@ -52,10 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Narendra Modi failed to secure oil and gas imports from Russia due to US pressure, according to Jagga Reddy.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
-            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
-            "scraped_at": "2026-03-14 15:37:01.802730"
+            "incident_text": "Narendra Modi accused the Congress of spreading chaos and uncertainty.",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
+            "source_title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-06-06 01:31:52.004206"
           }
         ]
       },
@@ -176,7 +176,14 @@
         "known_promises": [],
         "image_placeholder": "nitin_gadkari",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Nitin Gadkari announced a 450-kilometer Coastal Highway from Gopalpur to Digha in 2015.",
+            "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
+            "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
+            "scraped_at": "2026-06-05 23:19:52.181643"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -556,10 +563,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
-            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
-            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
-            "scraped_at": "2026-03-25 05:03:23.619762",
+            "incident_text": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee **Mamata Banerjee**'s faction of the **Trinamool Congress** is challenging the Speaker's recognition of **Ritabrata Banerjee",
+            "source_url": "https://www.ndtv.com/india-news/in-who-is-real-trinamool-fight-pushback-planned-against-ritabrata-banerjee-11597672#publisher=newsstand",
+            "source_title": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee",
+            "scraped_at": "2026-06-05 20:07:10.049272",
             "incident_type": "broad"
           }
         ],
@@ -736,6 +743,36 @@
         ],
         "criminal_last_updated": "2026-06-06",
         "controversies": []
+      },
+      {
+        "name": "Mehbooba Mufti",
+        "role": "President of Peoples Democratic Party",
+        "party": "PDP",
+        "state": "Jammu and Kashmir",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mehbooba_Mufti",
+        "image_placeholder": "mehbooba_mufti",
+        "auto_added": true,
+        "auto_added_on": "2026-06-06",
+        "gemma_confidence": "high",
+        "mentions_detected": 6,
+        "controversies": [
+          {
+            "incident_text": "Mehbooba Mufti visited the AIIMS site, claiming credit for a project she delayed.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "Mehbooba Mufti framed her visit as a fulfillment of her father's dream for the AIIMS project.",
+            "source_url": "https://indianexpress.com/article/india/in-kashmir-a-stir-over-mehboobas-review-of-aiims-10727464/",
+            "source_title": "In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS | India News - The Indian Express",
+            "scraped_at": "2026-06-06 14:18:50.366653"
+          }
+        ]
       }
     ],
     "state_chief_ministers": [
@@ -890,10 +927,10 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy mandated attendance and focused debates in the Assembly to counter opposition criticism.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/be-disciplined-and-leave-casual-approach-revanth-reddy-tells-cong-mlas/article70751284.ece",
-            "source_title": "Be disciplined and leave casual approach: Revanth Reddy tells Cong MLAs - The Hindu",
-            "scraped_at": "2026-03-16 19:11:16.839375"
+            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 08:40:42.964767"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1006,10 +1043,16 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Devendra Fadnavis stated the bill aims to prevent forced, fraudulent, or induced religious conversions.",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
-            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
-            "scraped_at": "2026-03-16 23:40:11.368501"
+            "incident_text": "Devendra Fadnavis questioned the government's commitment to implementing recommendations from the 2015 Malwani liquor tragedy committee.",
+            "source_url": "https://indianexpress.com/article/cities/pune/pune-hooch-tragedy-congress-maharashtra-government-response-10726203/",
+            "source_title": "Hooch deaths: ‘Perfect case of government negligence; what was learned from 2015 Malwani liquor tragedy?’ asks Congress | Pune News - The Indian Express",
+            "scraped_at": "2026-06-05 15:41:13.820641"
+          },
+          {
+            "incident_text": "Devendra Fadnavis believes love, not money, influences voters.",
+            "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
+            "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
+            "scraped_at": "2026-06-06 12:10:36.336496"
           }
         ],
         "criminal_cases_in_news": 0
@@ -3501,6 +3544,66 @@
       "source_title": "Odisha raises quota for STs, SCs; introduces reservation for OBCs in medical and technical education - The Hindu",
       "scraped_at": "2026-04-05 02:56:49.295348",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Pema Khandu",
+      "promise_text": "that the state is focused on development and infrastructure growth",
+      "source_url": "https://www.ndtv.com/india-news/this-is-not-1962-arunachal-chief-minister-dismisses-chinas-claim-11595721#publisher=newsstand",
+      "source_title": "\"This Is Not 1962\": Arunachal Chief Minister Dismisses China's Claim",
+      "scraped_at": "2026-06-05 12:14:31.578364",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhagwant Mann",
+      "promise_text": "that around 97% of Punjab's women are expected to benefit from this initiative",
+      "source_url": "https://www.ndtv.com/india-news/women-in-punjab-to-get-rs-1-000-per-month-from-july-1-bhagwant-mann-11596603#publisher=newsstand",
+      "source_title": "97% Of Women In Punjab To Get Financial Aid From July 1: Bhagwant Mann",
+      "scraped_at": "2026-06-05 15:39:22.414556",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that India will continue its path of reform",
+      "source_url": "https://indianexpress.com/article/cities/ahmedabad/reform-perform-transform-will-go-on-pm-modi-hails-7-7-gdp-growth-10726392/",
+      "source_title": "Reform, perform, transform will go on: PM Modi hails 7.7% GDP growth | Ahmedabad News - The Indian Express",
+      "scraped_at": "2026-06-06 01:31:48.358726",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "her of the project's timely completion",
+      "source_url": "https://www.thehindu.com/news/national/rajasthan/anti-corruption-bureau-traps-rajasthan-revenue-official-in-bribery-case/article71069014.ece",
+      "source_title": "Mehbooba Mufti requests Health Minister Nadda to expedite work at AIIMS Awantipora - The Hindu",
+      "scraped_at": "2026-06-06 10:57:32.043332",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "her of its timely completion",
+      "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mehbooba-mufti-requests-health-minister-nadda-to-expedite-work-at-aiims-awantipora/article71069322.ece",
+      "source_title": "Mehbooba Mufti requests Health Minister Nadda to expedite work at AIIMS Awantipora - The Hindu",
+      "scraped_at": "2026-06-06 10:57:12.867645",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that he believes that people can be won over with love rather than money",
+      "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
+      "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
+      "scraped_at": "2026-06-06 12:10:36.336496",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
