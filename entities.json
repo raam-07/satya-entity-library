@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
@@ -1186,10 +1186,10 @@
         "mentions_detected": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu **Assam** Chief Minister **Himanta Biswa Sarma** accused the **Congress** party of a “foreign-",
-            "source_url": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
-            "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
-            "scraped_at": "2026-04-07 08:22:43.536400",
+            "incident_text": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu **Himanta Biswa Sarma**, Assam Chief Minister, accused the **Congress** of fabricating",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
+            "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
+            "scraped_at": "2026-04-06 05:31:18.786927",
             "incident_type": "broad"
           }
         ],
@@ -2047,7 +2047,7 @@
         "cm": "Siddaramaiah",
         "region": "South",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-02"
+        "cm_last_updated": "2026-06-06"
       },
       {
         "name": "Kerala",
