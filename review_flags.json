@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 10:32:46.695065",
+  "generated_at": "2026-06-06 10:54:05.080980",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -53,8 +53,8 @@
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
-      "confidence": 0.5,
-      "mentions": 5,
+      "confidence": 0.55,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
     },
