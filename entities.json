@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 8
+      "gaffe_updates": 7
     }
   },
   "india": {
@@ -52,10 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Digvijaya Singh warned that Prime Minister Narendra Modi’s personal accountability was now on the line.",
-            "source_url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
-            "source_title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
-            "scraped_at": "2026-06-02 06:55:41.178977"
+            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
           }
         ]
       },
@@ -402,16 +402,22 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi stated the transfers were a 'cover-up' and not 'accountability'.",
-            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
-            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
-            "scraped_at": "2026-06-02 19:47:05.989322"
+            "incident_text": "Rahul Gandhi claimed Jawaharlal Nehru would have made Kanshi Ram Chief Minister from the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/as-rahul-gandhi-eyes-dalit-consolidation-through-kanshi-ram-in-up-bsp-gets-unsettled-political-slugfest-intensified/article70746998.ece",
+            "source_title": "As Rahul Gandhi eyes Dalit consolidation through Kanshi Ram in U.P., BSP gets unsettled, political slugfest intensified - The Hindu",
+            "scraped_at": "2026-03-15 16:43:30.719965"
           },
           {
-            "incident_text": "Rahul Gandhi was publicly confronted by the CEC.",
-            "source_url": "https://www.thehindu.com/news/national/opposition-notice-seeking-cecs-removal-cites-his-public-remarks-against-rahul-gandhi/article70750590.ece",
-            "source_title": "Opposition notice seeking CEC’s removal cites his public remarks against Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-03-16 21:13:36.431855"
+            "incident_text": "Rahul Gandhi and other opposition leaders raised doubts about SIR for political reasons.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
+            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
+            "scraped_at": "2026-03-15 15:43:22.355331"
+          },
+          {
+            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
           }
         ]
       },
@@ -484,16 +490,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
-            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
-            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
-            "scraped_at": "2026-06-02 19:47:05.989322"
-          },
-          {
-            "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
-            "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
-            "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
-            "scraped_at": "2026-03-16 21:12:03.647200"
+            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 18:57:35.364172"
           }
         ],
         "criminal_cases_in_news": 0
@@ -554,10 +554,10 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Mamata Banerjee claimed the Election Commission's transfers were politically motivated and a constitutional assault.",
-            "source_url": "https://www.thehindu.com/news/national/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
-            "source_title": "EC’s ‘arbitrary’ transfer of officials is political interference of highest order: Mamata - The Hindu",
-            "scraped_at": "2026-03-19 11:44:24.576349"
+            "incident_text": "Mamata Banerjee contested the deletion of alleged infiltrators from voter lists in West Bengal.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
+            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
+            "scraped_at": "2026-03-15 15:43:22.355331"
           }
         ]
       },
@@ -745,10 +745,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Yogi Adityanath criticized opposition parties for disrespecting Lord Ram's faith.",
-            "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
-            "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
-            "scraped_at": "2026-03-19 17:59:45.291579"
+            "incident_text": "Yogi Adityanath directed that paper setters be blacklisted for using disrespectful language towards any community.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-outfits-invoke-brahmin-angle-to-pandit-reference-in-up-police-recruitment-exam/article70746751.ece",
+            "source_title": "Parties, outfits invoke ‘Brahmin’ angle to ‘pandit’ reference in U.P. police recruitment exam - The Hindu",
+            "scraped_at": "2026-03-15 17:36:15.314829"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1293,7 +1293,15 @@
         "auto_added": true,
         "auto_added_on": "2026-06-03",
         "gemma_confidence": "high",
-        "mentions_detected": 1
+        "mentions_detected": 1,
+        "controversies": [
+          {
+            "incident_text": "Nayab Singh Saini was called a 'CM on deputation' for visiting Punjab frequently.",
+            "source_url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-confident-of-congress-win-in-rajya-sabha-polls-in-haryana/article70746072.ece",
+            "source_title": "Bhupinder Hooda confident of Congress win in Rajya Sabha polls in Haryana - The Hindu",
+            "scraped_at": "2026-03-15 10:38:20.934261"
+          }
+        ]
       },
       {
         "name": "Pema Khandu",
@@ -2062,7 +2070,7 @@
         "cm": "Nayab Singh Saini",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-03"
+        "cm_last_updated": "2026-06-06"
       },
       {
         "name": "Himachal Pradesh",
