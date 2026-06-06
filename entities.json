@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -509,14 +509,14 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu **Swati Maliwal**, a former **AAP** MP, accused her former party of changing its principles and becoming cor",
-            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
-            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
-            "scraped_at": "2026-04-25 09:36:11.298235",
+            "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
+            "source_url": "https://odishabytes.com/kejriwals-claims-of-ib-threats-backfire-call-traced-back-to-aap-leader/",
+            "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
+            "scraped_at": "2026-05-30 21:40:47.248285",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-05",
+        "criminal_last_updated": "2026-06-06",
         "controversies": []
       },
       {
