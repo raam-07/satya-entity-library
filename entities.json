@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 4,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -537,10 +537,10 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
-            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
-            "scraped_at": "2026-05-31 06:27:56.337796",
+            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
+            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
+            "scraped_at": "2026-03-25 05:03:23.619762",
             "incident_type": "broad"
           }
         ],
@@ -701,24 +701,38 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 4,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today **Mamata Banerjee**, **TMC** leader, announced a sit-in protest in Kolkata on June 2nd against alleged a",
-            "source_url": "https://www.indiatoday.in/india/story/mamata-banerjee-june-2-kolkata-protest-against-attacks-on-abhishek-banerjee-tmc-leaders-workers-2919930-2026-05-31?utm_source=rss",
-            "source_title": "Mamata Banerjee to hit the streets on June 2 after attack on Abhishek, TMC leader - India Today",
-            "scraped_at": "2026-05-31 13:54:47.955176",
+            "incident_text": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes **Mamata Banerjee**, former West Bengal Chief Minister and leader of the **Trinamool Congress (TMC)**, will lea",
+            "source_url": "https://odishabytes.com/alleged-attacks-on-trinamool-mps-mamata-banerjee-to-hit-streets-on-june-2/",
+            "source_title": "Alleged Attacks On Trinamool MPs: Mamata Banerjee To Hit Streets On June 2 | OdishaBytes",
+            "scraped_at": "2026-05-31 15:20:32.895210",
             "incident_type": "broad"
           },
           {
-            "incident_text": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today Following an attack on **Abhishek Banerjee**, the MP for Diamond Harbour, during a vis",
-            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
-            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
-            "scraped_at": "2026-05-31 11:44:00.328937",
+            "incident_text": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu A scheduled meeting of newly elected **Trinamool Congress** legislators was called off after nearly three-fourths o",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
+            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
+            "scraped_at": "2026-05-31 22:37:04.430259",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today **Tribeny Rai**, director of the film \"Shape of Momo,\" discussed her experience growing up without seeing people from ",
+            "source_url": "https://www.indiatoday.in/newsmo/video/bakrid-invite-murder-accused-killed-in-encounter-i-ghaziabad-case-2919979-2026-05-31?utm_source=rss",
+            "source_title": "'Bakrid Invite' murder accused killed in encounter I Ghaziabad case - India Today",
+            "scraped_at": "2026-05-31 22:36:47.575888",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu The **West Bengal police** arrested five individuals in connection with the attack on Tri",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/five-arrested-for-attack-on-abhishek-mamata-says-police-pressurised-hospitals-not-to-admit-him/article71044003.ece",
+            "source_title": "Five arrested for attack on TMC MP Abhishek Banerjee; another MP Kalyan Banerjee mobbed at Hooghly - The Hindu",
+            "scraped_at": "2026-05-31 21:08:33.436413",
             "incident_type": "broad"
           }
         ],
@@ -1158,7 +1172,7 @@
             "scraped_at": "2026-03-16 23:01:00.277422"
           }
         ],
-        "criminal_last_updated": "2026-06-03"
+        "criminal_last_updated": "2026-06-06"
       },
       {
         "name": "Sheikh Abdullah",
@@ -1566,14 +1580,24 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rajya_Sabha",
         "image_placeholder": "rajya_sabha",
         "auto_added": true,
         "auto_added_on": "2026-06-04",
         "gemma_confidence": "high",
-        "mentions_detected": 5
+        "mentions_detected": 5,
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
+            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
+            "scraped_at": "2026-03-25 05:03:23.619762",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-06"
       }
     ],
     "parties": [
@@ -2203,7 +2227,7 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.79,
+        "party_confidence": 0.8,
         "party_last_updated": "2026-06-06"
       },
       {
