@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 6
+      "gaffe_updates": 8
     }
   },
   "india": {
@@ -402,10 +402,16 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi allegedly endorsed a USCIRF report recommending sanctions against India's R&AW and RSS.",
-            "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
-            "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
-            "scraped_at": "2026-03-18 22:46:37.753207"
+            "incident_text": "Rahul Gandhi stated the transfers were a 'cover-up' and not 'accountability'.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
+          },
+          {
+            "incident_text": "Rahul Gandhi was publicly confronted by the CEC.",
+            "source_url": "https://www.thehindu.com/news/national/opposition-notice-seeking-cecs-removal-cites-his-public-remarks-against-rahul-gandhi/article70750590.ece",
+            "source_title": "Opposition notice seeking CEC’s removal cites his public remarks against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-16 21:13:36.431855"
           }
         ]
       },
@@ -478,16 +484,16 @@
         "criminal_incidents": [],
         "controversies": [
           {
+            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
+          },
+          {
             "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
             "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
             "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
             "scraped_at": "2026-03-16 21:12:03.647200"
-          },
-          {
-            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
-            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
-            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
-            "scraped_at": "2026-03-16 18:57:35.364172"
           }
         ],
         "criminal_cases_in_news": 0
@@ -872,10 +878,10 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
-            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
-            "scraped_at": "2026-03-18 23:36:53.293151"
+            "incident_text": "Revanth Reddy mandated attendance and focused debates in the Assembly to counter opposition criticism.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/be-disciplined-and-leave-casual-approach-revanth-reddy-tells-cong-mlas/article70751284.ece",
+            "source_title": "Be disciplined and leave casual approach: Revanth Reddy tells Cong MLAs - The Hindu",
+            "scraped_at": "2026-03-16 19:11:16.839375"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -988,10 +994,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Devendra Fadnavis stated the existing legal framework was inadequate to address law and order issues related to forced conversions.",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
-            "source_title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it - The Hindu",
-            "scraped_at": "2026-03-18 22:05:38.484915"
+            "incident_text": "Devendra Fadnavis stated the bill aims to prevent forced, fraudulent, or induced religious conversions.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
+            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
+            "scraped_at": "2026-03-16 23:40:11.368501"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1517,7 +1523,14 @@
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
         "criminal_incidents": [],
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
+          }
+        ]
       },
       {
         "name": "N. Rangasamy",
@@ -1588,7 +1601,15 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06"
+        "criminal_last_updated": "2026-06-06",
+        "controversies": [
+          {
+            "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
+            "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
+            "scraped_at": "2026-03-16 21:12:03.647200"
+          }
+        ]
       }
     ],
     "parties": [

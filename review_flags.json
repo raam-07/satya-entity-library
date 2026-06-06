@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-06-06 13:16:03.993077",
+  "generated_at": "2026-06-06 14:39:54.295431",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 6,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 8,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
-    "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "new_entities_needs_review": 1,
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
-  "new_entities_needs_review": [],
+  "new_entities_needs_review": [
+    {
+      "name": "Lok Bhavan",
+      "raw_name": "Lok Bhavan",
+      "mentions": 5,
+      "role": "Location for Karnataka CM swearing-in ceremony",
+      "party": "",
+      "category": "generic_politician",
+      "confidence": "low",
+      "reason": "Gemma confidence too low for auto-add",
+      "sample_articles": [
+        "Shivakumar set to take oath as Karnataka CM in lowkey ceremony | Bangalore News - The Indian Express **D K Shivakumar**, the newly elected 34th Chief Minister of **Karnataka**, will take his oath on Wednesday alongside a first batch of around 10 ministers. The ceremony, held at the state Lok Bhavan with limited fanfare, is expected to include several senior ministers from the Siddaramaiah cabinet and two young ministers, including **Priyank Kharge** and **Krishna Byre Gowda**.  The Congress leadership has opted for a low-key swearing-in, prioritizing balancing caste equations in the new cabinet. **Rahul Gandhi**, **Mallikarjun Kharge**, and **V D Satheesan** are expected to attend the ceremony.",
+        "Karnataka CM swearing-in ceremony: Elaborate security in place at Lok Bhavan in Bengaluru - The Hindu **Bengaluru City Police** have implemented extensive security and traffic management arrangements for the swearing-in ceremony of the Chief Minister at **Lok Bhavan** on Wednesday.  The event will be restricted to invited guests only, with limited seating capacity and no roadshow. **City Police Commissioner Seemant Kumar Singh** has deployed additional police platoons and reserve force companies across the city, along with surveillance measures including CCTV cameras, LED screens, and drones. The **Bengaluru City Police** have also declared a temporary no-fly zone around the **KPCC office** and **Hotel Shangri-La**, prohibiting drone operations within a one-kilometer radius."
+      ]
+    }
+  ],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Delhi",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.4,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
+    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -34,17 +58,17 @@
     {
       "type": "cm_detection",
       "state": "Karnataka",
-      "candidate": "Siddaramaiah",
+      "candidate": "Arvind Kejriwal",
       "confidence": 0.48,
-      "mentions": 14,
+      "mentions": 15,
       "reason": "Below auto-update threshold",
-      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
+      "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
     {
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.47,
+      "confidence": 0.44,
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
