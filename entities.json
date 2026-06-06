@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 0,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 7
+      "gaffe_updates": 3
     }
   },
   "india": {
@@ -52,10 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
-            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
-            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
-            "scraped_at": "2026-03-15 10:37:28.561089"
+            "incident_text": "Narendra Modi failed to secure oil and gas imports from Russia due to US pressure, according to Jagga Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
           }
         ]
       },
@@ -402,22 +402,10 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi claimed Jawaharlal Nehru would have made Kanshi Ram Chief Minister from the Congress.",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/as-rahul-gandhi-eyes-dalit-consolidation-through-kanshi-ram-in-up-bsp-gets-unsettled-political-slugfest-intensified/article70746998.ece",
-            "source_title": "As Rahul Gandhi eyes Dalit consolidation through Kanshi Ram in U.P., BSP gets unsettled, political slugfest intensified - The Hindu",
-            "scraped_at": "2026-03-15 16:43:30.719965"
-          },
-          {
-            "incident_text": "Rahul Gandhi and other opposition leaders raised doubts about SIR for political reasons.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
-            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
-            "scraped_at": "2026-03-15 15:43:22.355331"
-          },
-          {
-            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
-            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
-            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
-            "scraped_at": "2026-03-15 10:37:28.561089"
+            "incident_text": "Rahul Gandhi staging a dharna against the cooking gas shortage is not a fault.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
           }
         ]
       },
@@ -708,17 +696,24 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express **TMC** postponed a meeting with newly elected MLAs after most failed to attend due",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/mamata-banerjee-meeting-deferred-tmc-mlas-skip-gathering-10717883/",
-            "source_title": "Nearly 60 out of 80 TMC MLAs skip Mamata meeting, party blames attack on its MPs | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-01 05:34:35.378681",
+            "incident_text": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party The Trinamool Congress is facing a deepening crisis following its defeat in the West Bengal state election. *",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-live-updates-back-to-back-setbacks-to-mamata-banerjee-led-party-11586536#publisher=newsstand",
+            "source_title": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party",
+            "scraped_at": "2026-06-03 15:21:28.649362",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
+            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
+            "scraped_at": "2026-06-03 22:16:48.162279",
             "incident_type": "broad"
           }
         ],
@@ -745,10 +740,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Yogi Adityanath directed that paper setters be blacklisted for using disrespectful language towards any community.",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/parties-outfits-invoke-brahmin-angle-to-pandit-reference-in-up-police-recruitment-exam/article70746751.ece",
-            "source_title": "Parties, outfits invoke ‘Brahmin’ angle to ‘pandit’ reference in U.P. police recruitment exam - The Hindu",
-            "scraped_at": "2026-03-15 17:36:15.314829"
+            "incident_text": "Yogi Adityanath directed recruitment boards to avoid remarks disrespectful to caste, creed, or community.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/cm-adityanath-tells-recruitment-boards-to-avoid-making-undignified-remarks-on-any-community/article70745847.ece",
+            "source_title": "CM Adityanath tells recruitment boards to avoid making undignified remarks on any community - The Hindu",
+            "scraped_at": "2026-03-15 06:35:36.759141"
           }
         ],
         "criminal_cases_in_news": 0
