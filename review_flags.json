@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-06 17:24:20.268541",
+  "generated_at": "2026-06-06 19:07:28.329508",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 3,
+    "gaffe_updates_applied": 4,
     "promises_extracted": 0,
-    "new_entities_auto_added": 0,
+    "new_entities_auto_added": 1,
     "new_entities_needs_review": 0,
-    "items_needing_review": 15
+    "items_needing_review": 17
   },
-  "new_entities_auto_added": [],
+  "new_entities_auto_added": [
+    {
+      "name": "Krishna Byre Gowda",
+      "category": "cabinet_minister",
+      "confidence": "high",
+      "mentions": 5,
+      "role": "Minister of Bengaluru Development",
+      "party": "INC"
+    }
+  ],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
@@ -33,9 +42,18 @@
     },
     {
       "type": "cm_detection",
+      "state": "Rajasthan",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
+    },
+    {
+      "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.48,
+      "confidence": 0.45,
       "mentions": 10,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
@@ -44,7 +62,7 @@
       "type": "cm_detection",
       "state": "Tamil Nadu",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.46,
+      "confidence": 0.43,
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Tamil Nadu Assembly. Immediately after assuming his position, Mr. Prabhakar conducted the election for the Deputy Speaker, in which Mr. Ravishankar was elected unopposed. As Mr. Prabhakar invited Mr. "
@@ -71,8 +89,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.53,
-      "mentions": 20,
+      "confidence": 0.56,
+      "mentions": 23,
       "reason": "Below auto-update threshold",
       "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
     },
@@ -96,15 +114,6 @@
     },
     {
       "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.43,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "sition for UKP and the Centre had written to Karnataka seeking clarification. “We are going on with the project as per the Tribunal order and we have already spent ₹26,000 crore,” he said. The Deputy "
-    },
-    {
-      "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
       "confidence": 0.4,
@@ -120,6 +129,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "The agreement seeks to expand and manage drinking water supply systems in rural areas of the State. It outlines measures for implementation, monitoring and transparency under Jal Jeevan Mission 2.0. S"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Chhattisgarh",
+      "candidate": "Arvind Kejriwal",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
     },
     {
       "type": "cm_detection",
@@ -145,6 +163,14 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Telangana",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "to move the nation forward together.  \n\nEarlier in his speech, **Rao** welcomed former BRS leaders into the BJP, highlighting the party's commitment to fighting against \"anti-people policies\" of the C"
     }
   ]
 }

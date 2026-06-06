@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 4
     }
   },
   "india": {
@@ -370,6 +370,24 @@
         "criminal_incidents": [],
         "controversies": [],
         "criminal_cases_in_news": 0
+      },
+      {
+        "name": "Krishna Byre Gowda",
+        "role": "Minister of Bengaluru Development",
+        "party": "INC",
+        "state": "Karnataka",
+        "aliases": [
+          "Bengaluru Development"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
+        "image_placeholder": "krishna_byre_gowda",
+        "auto_added": true,
+        "auto_added_on": "2026-06-06",
+        "gemma_confidence": "high",
+        "mentions_detected": 5
       }
     ],
     "opposition_leaders": [
@@ -402,10 +420,16 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi staging a dharna against the cooking gas shortage is not a fault.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
-            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
-            "scraped_at": "2026-03-14 15:37:01.802730"
+            "incident_text": "Rahul Gandhi claimed an 'economic tsunami' would hit India due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:28.253561"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an economic tsunami was imminent due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:16.288131"
           }
         ]
       },
@@ -478,10 +502,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
-            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
-            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
-            "scraped_at": "2026-03-16 18:57:35.364172"
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
           }
         ],
         "criminal_cases_in_news": 0
@@ -696,24 +720,17 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 1,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
         "mentions_detected": 42,
         "criminal_incidents": [
           {
-            "incident_text": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party The Trinamool Congress is facing a deepening crisis following its defeat in the West Bengal state election. *",
-            "source_url": "https://www.ndtv.com/india-news/trinamool-congress-crisis-live-updates-back-to-back-setbacks-to-mamata-banerjee-led-party-11586536#publisher=newsstand",
-            "source_title": "Trinamool Congress Crisis Live Updates: Back-To-Back Setbacks To Mamata Banerjee-led Party",
-            "scraped_at": "2026-06-03 15:21:28.649362",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
-            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
-            "scraped_at": "2026-06-03 22:16:48.162279",
+            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
+            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-03 22:16:01.999473",
             "incident_type": "broad"
           }
         ],
@@ -1607,10 +1624,10 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
-            "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
-            "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
-            "scraped_at": "2026-03-16 21:12:03.647200"
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
           }
         ]
       }
