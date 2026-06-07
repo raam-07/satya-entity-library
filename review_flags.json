@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07 08:57:37.398789",
+  "generated_at": "2026-06-07 15:27:49.233298",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
-    "promises_extracted": 2,
+    "criminal_updates_applied": 1,
+    "gaffe_updates_applied": 2,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 17
@@ -26,7 +26,7 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
+      "confidence": 0.46,
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"

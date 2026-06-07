@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 1
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 2
     }
   },
   "india": {
@@ -1010,7 +1010,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
         "image_placeholder": "hemant_soren",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Hemant Soren complained that Congress announced its candidate without consultation.",
+            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+            "scraped_at": "2026-06-07 11:52:49.380769"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -1164,7 +1171,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
         "image_placeholder": "bhupesh_baghel",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Bhupesh Baghel cited alliance principles when addressing Hemant Soren's complaint about the candidate announcement.",
+            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+            "scraped_at": "2026-06-07 11:52:49.380769"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -1231,14 +1245,24 @@
         "state": "Jammu",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sheikh_Abdullah",
         "image_placeholder": "sheikh_abdullah",
         "auto_added": true,
         "auto_added_on": "2026-06-02",
         "gemma_confidence": "high",
-        "mentions_detected": 1
+        "mentions_detected": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "GRP Arakkonam arrest head constable on sexual harassment charge - The Hindu **Sheikh Abdullah**, a 42-year-old head constable from Coimbatore, was arrested by **Government Railway Police (GRP)** in Ar",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/grp-arakkonam-police-arrest-head-constable-on-sexual-harassment-charge/article71073053.ece",
+            "source_title": "GRP Arakkonam arrest head constable on sexual harassment charge - The Hindu",
+            "scraped_at": "2026-06-07 14:05:19.841335",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-07"
       },
       {
         "name": "Himanta Biswa Sarma",
@@ -3630,6 +3654,16 @@
       "source_title": "‘Will introduce Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
       "scraped_at": "2026-06-06 21:40:24.086516",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Ashwini Vaishnaw",
+      "promise_text": "61 railway projects, including 538 new flyovers and underpasses",
+      "source_url": "https://www.ndtv.com/india-news/not-just-bullet-train-centre-has-big-railway-development-plans-for-bengal-11603049#publisher=newsstand",
+      "source_title": "Not Just Bullet Train, Centre Has Big Railway Development Plans For Bengal",
+      "scraped_at": "2026-06-07 11:53:18.506641",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
