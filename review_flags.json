@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-06 21:39:17.120244",
+  "generated_at": "2026-06-07 08:57:37.398789",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 1,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 18
+    "items_needing_review": 17
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -44,7 +44,7 @@
       "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.45,
+      "confidence": 0.42,
       "mentions": 10,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
@@ -111,15 +111,6 @@
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Gujarat",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "The agreement seeks to expand and manage drinking water supply systems in rural areas of the State. It outlines measures for implementation, monitoring and transparency under Jal Jeevan Mission 2.0. S"
     },
     {
       "type": "cm_detection",

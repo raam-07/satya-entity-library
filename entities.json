@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-06",
+    "last_updated": "2026-06-07",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 2,
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -927,10 +927,16 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
-            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
-            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
-            "scraped_at": "2026-06-06 08:40:42.964767"
+            "incident_text": "Revanth Reddy claimed HYDRAA's name was inspired by Adolf Hitler.",
+            "source_url": "https://www.ndtv.com/india-news/woman-raped-by-neighbour-6-years-ago-husband-helps-her-file-police-case-11602192#publisher=newsstand",
+            "source_title": "HYDRAA Inspired By Hitler: Telangana Chief Minister Revanth Reddy's Remark Sparks Row, BJP Reacts",
+            "scraped_at": "2026-06-07 06:31:27.284169"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed HYDRAA's name was inspired by Adolf Hitler.",
+            "source_url": "https://www.ndtv.com/india-news/hydraa-inspired-by-hitler-telangana-chief-minister-revanth-reddys-remark-sparks-row-bjp-reacts-11602257#publisher=newsstand",
+            "source_title": "HYDRAA Inspired By Hitler: Telangana Chief Minister Revanth Reddy's Remark Sparks Row, BJP Reacts",
+            "scraped_at": "2026-06-07 06:31:04.935896"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2255,7 +2261,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-06"
+        "party_last_updated": "2026-06-07"
       },
       {
         "name": "Telangana",
@@ -2303,7 +2309,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.8,
-        "party_last_updated": "2026-06-06"
+        "party_last_updated": "2026-06-07"
       },
       {
         "name": "Delhi",
@@ -3603,6 +3609,26 @@
       "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
       "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
       "scraped_at": "2026-06-06 12:10:36.336496",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Ashwini Vaishnaw",
+      "promise_text": "that there will be no shortage of funds",
+      "source_url": "https://indianexpress.com/article/cities/kolkata/rs-1-lakh-crore-rail-overhaul-for-bengal-vaishnaw-cm-adhikari-review-status-of-ongoing-projects-10727287/",
+      "source_title": "Rs 1 lakh crore rail overhaul for Bengal: Vaishnaw, CM Adhikari review status of ongoing projects | Kolkata News - The Indian Express",
+      "scraped_at": "2026-06-06 21:40:31.180858",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that he believes that people can be won over with love rather than money",
+      "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-voting-reform-10727306/",
+      "source_title": "‘Will introduce Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
+      "scraped_at": "2026-06-06 21:40:24.086516",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
