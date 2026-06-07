@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 0,
+      "new_promises": 0,
+      "gaffe_updates": 5
     }
   },
   "india": {
@@ -52,10 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Narendra Modi accused the Congress of spreading chaos and uncertainty.",
-            "source_url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
-            "source_title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
-            "scraped_at": "2026-06-06 01:31:52.004206"
+            "incident_text": "Narendra Modi wants the country's youth to make reels and fry pakoras.",
+            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-07 15:53:40.880614"
           }
         ]
       },
@@ -395,6 +395,30 @@
         "auto_added_on": "2026-06-06",
         "gemma_confidence": "high",
         "mentions_detected": 5
+      },
+      {
+        "name": "G. Kishan Reddy",
+        "role": "Union Minister for Coal & Mines",
+        "party": "BJP",
+        "state": null,
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/G._Kishan_Reddy",
+        "image_placeholder": "g_kishan_reddy",
+        "auto_added": true,
+        "auto_added_on": "2026-06-07",
+        "gemma_confidence": "high",
+        "mentions_detected": 5,
+        "controversies": [
+          {
+            "incident_text": "G. Kishan Reddy allegedly hobnobs with BRS leaders, hindering project approvals.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
+          }
+        ]
       }
     ],
     "opposition_leaders": [
@@ -427,16 +451,10 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi claimed an 'economic tsunami' would hit India due to the BJP government's policies.",
-            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
-            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
-            "scraped_at": "2026-06-04 21:00:28.253561"
-          },
-          {
-            "incident_text": "Rahul Gandhi claimed an economic tsunami was imminent due to the BJP government's policies.",
-            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
-            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
-            "scraped_at": "2026-06-04 21:00:16.288131"
+            "incident_text": "Rahul Gandhi stated that the Prime Minister wants youth to 'make reels and fry pakoras'.",
+            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-07 15:53:40.880614"
           }
         ]
       },
@@ -595,7 +613,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Akhilesh_Yadav",
         "image_placeholder": "akhilesh_yadav",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Akhilesh Yadav claimed crores of rupees have been stolen from donations to the Ayodhya temple.",
+            "source_url": "https://www.ndtv.com/india-news/ayodhya-ram-temple-trust-seeks-probe-slams-akhilesh-yadav-missing-temple-funds-comment-11604350#publisher=newsstand",
+            "source_title": "Ayodhya Ram Temple Trust Reacts After Akhilesh Yadav's \"Missing Funds\" Comment",
+            "scraped_at": "2026-06-07 18:50:56.112878"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -927,16 +952,16 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy claimed HYDRAA's name was inspired by Adolf Hitler.",
-            "source_url": "https://www.ndtv.com/india-news/woman-raped-by-neighbour-6-years-ago-husband-helps-her-file-police-case-11602192#publisher=newsstand",
-            "source_title": "HYDRAA Inspired By Hitler: Telangana Chief Minister Revanth Reddy's Remark Sparks Row, BJP Reacts",
-            "scraped_at": "2026-06-07 06:31:27.284169"
+            "incident_text": "Revanth Reddy linked HYDRAA's functioning to Adolf Hitler's actions.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
+            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
+            "scraped_at": "2026-06-07 14:02:56.909896"
           },
           {
-            "incident_text": "Revanth Reddy claimed HYDRAA's name was inspired by Adolf Hitler.",
-            "source_url": "https://www.ndtv.com/india-news/hydraa-inspired-by-hitler-telangana-chief-minister-revanth-reddys-remark-sparks-row-bjp-reacts-11602257#publisher=newsstand",
-            "source_title": "HYDRAA Inspired By Hitler: Telangana Chief Minister Revanth Reddy's Remark Sparks Row, BJP Reacts",
-            "scraped_at": "2026-06-07 06:31:04.935896"
+            "incident_text": "Revanth Reddy accused G. Kishan Reddy of hindering project approvals by associating with K.T. Rama Rao.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
           }
         ],
         "criminal_cases_in_news": 1,
