@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-06-07 20:49:47.728034",
+  "generated_at": "2026-06-07 21:16:03.539920",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 5,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
-    "new_entities_auto_added": 1,
+    "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 17
   },
-  "new_entities_auto_added": [
-    {
-      "name": "G. Kishan Reddy",
-      "category": "cabinet_minister",
-      "confidence": "high",
-      "mentions": 5,
-      "role": "Union Minister for Coal & Mines",
-      "party": "BJP"
-    }
-  ],
+  "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
