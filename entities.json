@@ -6,10 +6,10 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
-      "party_updates": 2,
+      "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 4
     }
   },
   "india": {
@@ -355,7 +355,20 @@
         "known_promises": [],
         "image_placeholder": "hardeep_singh_puri",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is plagued by internal contradictions and is unraveling.",
+            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:44.754918"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is unraveling due to internal contradictions and party conflicts.",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:22.533409"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -451,10 +464,16 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi stated that the Prime Minister wants youth to 'make reels and fry pakoras'.",
-            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
-            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-06-07 15:53:40.880614"
+            "incident_text": "Rahul Gandhi publicly criticized Mamata Banerjee.",
+            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:44.754918"
+          },
+          {
+            "incident_text": "Rahul Gandhi publicly criticized Mamata Banerjee before the elections.",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:22.533409"
           }
         ]
       },
@@ -591,10 +610,16 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Mamata Banerjee contested the deletion of alleged infiltrators from voter lists in West Bengal.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/opposition-parties-trying-to-derail-sir-to-meet-political-objectives-says-bjp-leader-madhav/article70746237.ece",
-            "source_title": "Opposition parties trying to derail SIR to meet political objectives, says BJP leader Madhav - The Hindu",
-            "scraped_at": "2026-03-15 15:43:22.355331"
+            "incident_text": "Mamata Banerjee has faced public criticism from Rahul Gandhi, according to Hardeep Singh Puri.",
+            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:44.754918"
+          },
+          {
+            "incident_text": "Mamata Banerjee's INDIA alliance was characterized by internal contradictions from the start.",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:22.533409"
           }
         ]
       },
@@ -952,16 +977,10 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy linked HYDRAA's functioning to Adolf Hitler's actions.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
-            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
-            "scraped_at": "2026-06-07 14:02:56.909896"
-          },
-          {
-            "incident_text": "Revanth Reddy accused G. Kishan Reddy of hindering project approvals by associating with K.T. Rama Rao.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
-            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
-            "scraped_at": "2026-06-07 18:52:22.571559"
+            "incident_text": "Revanth Reddy officially renamed the Congress party as “All India Nazi Party.”",
+            "source_url": "https://www.thehindu.com/news/national/telangana/name-congress-as-all-india-nazi-party-says-ktr/article71078009.ece",
+            "source_title": "Name Congress as “All India Nazi Party”, says KTR - The Hindu",
+            "scraped_at": "2026-06-08 16:36:17.323420"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2282,7 +2301,9 @@
         "capital": "Chandigarh",
         "ruling_party": "AAP",
         "cm": "Bhagwant Mann",
-        "region": "North"
+        "region": "North",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-06-08"
       },
       {
         "name": "Rajasthan",
