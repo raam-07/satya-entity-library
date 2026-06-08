@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-08",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     }
   },
   "india": {
@@ -52,10 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Narendra Modi wants the country's youth to make reels and fry pakoras.",
-            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
-            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
-            "scraped_at": "2026-06-07 15:53:40.880614"
+            "incident_text": "Narendra Modi claimed to have diversified fuel sources across 41 countries.",
+            "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+            "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
+            "scraped_at": "2026-06-07 23:12:01.064117"
           }
         ]
       },
@@ -527,10 +527,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
-            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
-            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
-            "scraped_at": "2026-06-03 22:16:12.589341"
+            "incident_text": "Mallikarjun Kharge questioned the government's fuel diversification claims given persistent LPG shortages.",
+            "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+            "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
+            "scraped_at": "2026-06-07 23:12:01.064117"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2310,7 +2310,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-07"
+        "party_last_updated": "2026-06-08"
       },
       {
         "name": "Telangana",
@@ -2358,7 +2358,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.8,
-        "party_last_updated": "2026-06-07"
+        "party_last_updated": "2026-06-08"
       },
       {
         "name": "Delhi",
@@ -3688,6 +3688,16 @@
       "source_url": "https://www.ndtv.com/india-news/not-just-bullet-train-centre-has-big-railway-development-plans-for-bengal-11603049#publisher=newsstand",
       "source_title": "Not Just Bullet Train, Centre Has Big Railway Development Plans For Bengal",
       "scraped_at": "2026-06-07 11:53:18.506641",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that this honor reflects India's longstanding commitment to UN peacekeeping efforts and serves as an inspiration for young Indians",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-congratulates-major-abhilasha-barak-on-being-conferred-un-military-gender-advocate-award/article71073168.ece",
+      "source_title": "PM Modi congratulates Major Abhilasha Barak on being conferred UN Military Gender Advocate Award - The Hindu",
+      "scraped_at": "2026-06-07 23:11:51.065829",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
