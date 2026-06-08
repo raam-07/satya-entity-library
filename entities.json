@@ -8,8 +8,8 @@
       "cm_updates": 0,
       "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 4
+      "new_promises": 2,
+      "gaffe_updates": 0
     }
   },
   "india": {
@@ -3720,6 +3720,26 @@
       "source_title": "PM Modi congratulates Major Abhilasha Barak on being conferred UN Military Gender Advocate Award - The Hindu",
       "scraped_at": "2026-06-07 23:11:51.065829",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mallikarjun Kharge",
+      "promise_text": "five key decisions at the close of the meeting",
+      "source_url": "https://www.thehindu.com/news/national/analysis-india-bloc-closes-ranks-around-congress-but-not-without-caveats/article71077850.ece",
+      "source_title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "scraped_at": "2026-06-08 19:24:36.087942",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Mallikarjun Kharge",
+      "promise_text": "five key decisions at the close of the meeting",
+      "source_url": "https://www.thehindu.com/opinion/editorial/unity-in-diversity-on-the-india-bloc-meeting/article71076818.ece",
+      "source_title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
+      "scraped_at": "2026-06-08 19:24:13.989866",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
