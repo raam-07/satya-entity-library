@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -1379,10 +1379,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Suvendu Adhikari claimed using the Chief Minister's letterhead for political correspondence violates the Model Code of Conduct.",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
-            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
-            "scraped_at": "2026-03-20 18:07:10.230192"
+            "incident_text": "Suvendu Adhikari's government has faced criticism for its 'bulldozer culture' approach to evictions.",
+            "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
+            "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-09 15:41:48.731058"
           }
         ]
       },
@@ -2372,7 +2372,7 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.81,
+        "party_confidence": 0.82,
         "party_last_updated": "2026-06-09"
       },
       {
