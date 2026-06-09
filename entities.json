@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     }
@@ -594,14 +594,14 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee **Mamata Banerjee**'s faction of the **Trinamool Congress** is challenging the Speaker's recognition of **Ritabrata Banerjee",
-            "source_url": "https://www.ndtv.com/india-news/in-who-is-real-trinamool-fight-pushback-planned-against-ritabrata-banerjee-11597672#publisher=newsstand",
-            "source_title": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee",
-            "scraped_at": "2026-06-05 20:07:10.049272",
+            "incident_text": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu **The Criminal Investigation Department (CID)** of **West Bengal Police** searched the residence of former Chi",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
+            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
+            "scraped_at": "2026-06-09 12:10:11.000460",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-09",
         "controversies": [
           {
             "incident_text": "Mamata Banerjee has faced public criticism from Rahul Gandhi, according to Hardeep Singh Puri.",
