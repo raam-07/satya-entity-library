@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09 00:12:16.545564",
+  "generated_at": "2026-06-09 02:45:08.232729",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -71,7 +71,7 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.58,
+      "confidence": 0.56,
       "mentions": 15,
       "reason": "Below auto-update threshold",
       "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "

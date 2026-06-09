@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     }
   },
   "india": {
@@ -2372,7 +2372,7 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.8,
+        "party_confidence": 0.81,
         "party_last_updated": "2026-06-09"
       },
       {
