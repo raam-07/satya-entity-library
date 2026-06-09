@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-08",
+    "last_updated": "2026-06-09",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -464,16 +464,10 @@
         "criminal_last_updated": "2026-06-06",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi publicly criticized Mamata Banerjee.",
-            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
-            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
-            "scraped_at": "2026-06-08 16:37:44.754918"
-          },
-          {
-            "incident_text": "Rahul Gandhi publicly criticized Mamata Banerjee before the elections.",
-            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
-            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
-            "scraped_at": "2026-06-08 16:37:22.533409"
+            "incident_text": "Rahul Gandhi faced criticism for his remarks against the Left parties during the Kerala Assembly election campaign.",
+            "source_url": "https://indianexpress.com/article/world/dubai-emirates-road-accident-indian-workers-killed-minibus-truck-10730262/",
+            "source_title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-08 22:59:11.437658"
           }
         ]
       },
@@ -2303,7 +2297,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-08"
+        "party_last_updated": "2026-06-09"
       },
       {
         "name": "Rajasthan",
@@ -2331,7 +2325,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-08"
+        "party_last_updated": "2026-06-09"
       },
       {
         "name": "Telangana",
@@ -2379,7 +2373,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.8,
-        "party_last_updated": "2026-06-08"
+        "party_last_updated": "2026-06-09"
       },
       {
         "name": "Delhi",
