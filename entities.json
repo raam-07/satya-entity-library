@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -971,10 +971,10 @@
         ],
         "controversies": [
           {
-            "incident_text": "Revanth Reddy officially renamed the Congress party as “All India Nazi Party.”",
-            "source_url": "https://www.thehindu.com/news/national/telangana/name-congress-as-all-india-nazi-party-says-ktr/article71078009.ece",
-            "source_title": "Name Congress as “All India Nazi Party”, says KTR - The Hindu",
-            "scraped_at": "2026-06-08 16:36:17.323420"
+            "incident_text": "Revanth Reddy's government is selectively targeting the poor and middle class through HYDRAA anti-encroachment drives.",
+            "source_url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
+            "source_title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
+            "scraped_at": "2026-06-09 04:48:15.959112"
           }
         ],
         "criminal_cases_in_news": 1,
