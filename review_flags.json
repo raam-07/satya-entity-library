@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 22:21:32.433392",
+  "generated_at": "2026-06-10 23:43:31.822842",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 3,
@@ -8,7 +8,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 15
+    "items_needing_review": 16
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -35,7 +35,7 @@
       "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.44,
+      "confidence": 0.42,
       "mentions": 11,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
@@ -84,6 +84,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": ". Chief Minister M.K. Stalin and Deputy Chief Minister Udhayanidhi Stalin will once again contest from the Kolathur and Chepauk-Tiruvallikeni constituencies, respectively. The BJP is trying to “loot” "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Madhya Pradesh",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
     },
     {
       "type": "cm_detection",

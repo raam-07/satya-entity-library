@@ -1135,7 +1135,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
         "image_placeholder": "mohan_yadav",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
