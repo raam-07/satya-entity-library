@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-09",
+    "last_updated": "2026-06-10",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -2297,7 +2297,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-09"
+        "party_last_updated": "2026-06-10"
       },
       {
         "name": "Rajasthan",
@@ -2325,7 +2325,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-09"
+        "party_last_updated": "2026-06-10"
       },
       {
         "name": "Telangana",
@@ -2373,7 +2373,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.82,
-        "party_last_updated": "2026-06-09"
+        "party_last_updated": "2026-06-10"
       },
       {
         "name": "Delhi",
