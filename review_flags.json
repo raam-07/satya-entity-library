@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 20:11:12.001739",
+  "generated_at": "2026-06-10 22:21:32.433392",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 3,
@@ -35,8 +35,8 @@
       "type": "cm_detection",
       "state": "Delhi",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.42,
-      "mentions": 10,
+      "confidence": 0.44,
+      "mentions": 11,
       "reason": "Below auto-update threshold",
       "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
     },
@@ -44,8 +44,8 @@
       "type": "cm_detection",
       "state": "Tamil Nadu",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.43,
-      "mentions": 6,
+      "confidence": 0.47,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "Tamil Nadu Assembly. Immediately after assuming his position, Mr. Prabhakar conducted the election for the Deputy Speaker, in which Mr. Ravishankar was elected unopposed. As Mr. Prabhakar invited Mr. "
     },
