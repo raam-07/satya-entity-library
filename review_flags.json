@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-06-10 15:30:08.806854",
+  "generated_at": "2026-06-10 17:58:16.578646",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 2,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
-    "new_entities_auto_added": 1,
+    "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 15
   },
-  "new_entities_auto_added": [
-    {
-      "name": "Meenakshi Natarajan",
-      "category": "generic_politician",
-      "confidence": "high",
-      "mentions": 5,
-      "role": "Rajya Sabha candidate",
-      "party": "INC"
-    }
-  ],
+  "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
