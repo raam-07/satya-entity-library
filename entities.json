@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     }
   },
   "india": {
@@ -52,16 +52,10 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Narendra Modi surpassed Jawaharlal Nehru's record of 4,399 days in office as an elected Prime Minister.",
-            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
-            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
-            "scraped_at": "2026-06-10 12:26:38.519138"
-          },
-          {
-            "incident_text": "Narendra Modi called on Indians to rid themselves of a 'colonial mindset'.",
-            "source_url": "https://www.ndtv.com/india-news/12-years-of-decolonisation-how-modi-government-shed-british-era-practices-11617406#publisher=newsstand",
-            "source_title": "12 Years Of 'Decolonisation': How Modi Government Shed British-Era Practices",
-            "scraped_at": "2026-06-10 12:26:30.098271"
+            "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
+            "source_url": "https://www.ndtv.com/india-news/at-nda-meet-on-completing-12-years-pm-narendra-modis-congress-growth-rate-jab-11618958#publisher=newsstand",
+            "source_title": "At NDA Meet On Completing 12 Years, PM Narendra Modi's 'Congress Growth Rate' Jab",
+            "scraped_at": "2026-06-10 16:24:10.772553"
           }
         ]
       },
