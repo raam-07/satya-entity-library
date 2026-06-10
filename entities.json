@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     }
   },
   "india": {
@@ -52,10 +52,16 @@
         "criminal_last_updated": "2026-06-05",
         "controversies": [
           {
-            "incident_text": "Narendra Modi claimed to have diversified fuel sources across 41 countries.",
-            "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
-            "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
-            "scraped_at": "2026-06-07 23:12:01.064117"
+            "incident_text": "Narendra Modi surpassed Jawaharlal Nehru's record of 4,399 days in office as an elected Prime Minister.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Narendra Modi called on Indians to rid themselves of a 'colonial mindset'.",
+            "source_url": "https://www.ndtv.com/india-news/12-years-of-decolonisation-how-modi-government-shed-british-era-practices-11617406#publisher=newsstand",
+            "source_title": "12 Years Of 'Decolonisation': How Modi Government Shed British-Era Practices",
+            "scraped_at": "2026-06-10 12:26:30.098271"
           }
         ]
       },
@@ -1656,10 +1662,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
-            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
-            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
-            "scraped_at": "2026-06-03 00:14:15.719327"
+            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
           }
         ]
       },
@@ -1741,6 +1747,39 @@
             "scraped_at": "2026-06-03 22:16:12.589341"
           }
         ]
+      },
+      {
+        "name": "Meenakshi Natarajan",
+        "role": "Rajya Sabha candidate",
+        "party": "INC",
+        "state": null,
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi_Natarajan",
+        "image_placeholder": "meenakshi_natarajan",
+        "auto_added": true,
+        "auto_added_on": "2026-06-10",
+        "gemma_confidence": "high",
+        "mentions_detected": 5,
+        "criminal_incidents": [
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission’s** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-10"
       }
     ],
     "parties": [

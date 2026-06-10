@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-10 12:10:43.049524",
+  "generated_at": "2026-06-10 15:30:08.806854",
   "summary": {
     "cm_updates_applied": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "criminal_updates_applied": 1,
+    "gaffe_updates_applied": 2,
     "promises_extracted": 0,
-    "new_entities_auto_added": 0,
+    "new_entities_auto_added": 1,
     "new_entities_needs_review": 0,
-    "items_needing_review": 16
+    "items_needing_review": 15
   },
-  "new_entities_auto_added": [],
+  "new_entities_auto_added": [
+    {
+      "name": "Meenakshi Natarajan",
+      "category": "generic_politician",
+      "confidence": "high",
+      "mentions": 5,
+      "role": "Rajya Sabha candidate",
+      "party": "INC"
+    }
+  ],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
@@ -28,15 +37,6 @@
       "candidate": "Arvind Kejriwal",
       "confidence": 0.43,
       "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Rajasthan",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
-      "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
     },
@@ -107,7 +107,7 @@
       "type": "cm_detection",
       "state": "Chhattisgarh",
       "candidate": "Arvind Kejriwal",
-      "confidence": 0.6,
+      "confidence": 0.43,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
