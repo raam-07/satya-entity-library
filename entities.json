@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-10",
+    "last_updated": "2026-06-11",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 4
     }
   },
   "india": {
@@ -454,20 +454,20 @@
         "criminal_cases_in_news": 1,
         "criminal_incidents": [
           {
-            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
-            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
-            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
-            "scraped_at": "2026-04-09 09:55:44.844181",
+            "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
+            "source_url": "https://www.thehindu.com/news/national/fresh-hearing-ordered-on-plea-seeking-fir-against-rahul-over-remarks-on-hindu-god-ram/article71085633.ece",
+            "source_title": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu",
+            "scraped_at": "2026-06-10 23:30:11.331772",
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": [
           {
-            "incident_text": "Rahul Gandhi faced criticism for his remarks against the Left parties during the Kerala Assembly election campaign.",
-            "source_url": "https://indianexpress.com/article/world/dubai-emirates-road-accident-indian-workers-killed-minibus-truck-10730262/",
-            "source_title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
-            "scraped_at": "2026-06-08 22:59:11.437658"
+            "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
+            "source_url": "https://www.thehindu.com/news/national/fresh-hearing-ordered-on-plea-seeking-fir-against-rahul-over-remarks-on-hindu-god-ram/article71085633.ece",
+            "source_title": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu",
+            "scraped_at": "2026-06-10 23:30:11.331772"
           }
         ]
       },
@@ -628,10 +628,10 @@
         "criminal_incidents": [],
         "controversies": [
           {
-            "incident_text": "Akhilesh Yadav claimed crores of rupees have been stolen from donations to the Ayodhya temple.",
-            "source_url": "https://www.ndtv.com/india-news/ayodhya-ram-temple-trust-seeks-probe-slams-akhilesh-yadav-missing-temple-funds-comment-11604350#publisher=newsstand",
-            "source_title": "Ayodhya Ram Temple Trust Reacts After Akhilesh Yadav's \"Missing Funds\" Comment",
-            "scraped_at": "2026-06-07 18:50:56.112878"
+            "incident_text": "Akhilesh Yadav claimed to know which Congress members were speaking against him.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/akhilesh-yadav-congress-india-bloc-remark-10733870/",
+            "source_title": "Delhi Confidential: Guess Who? | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-10 23:29:24.834004"
           }
         ],
         "criminal_cases_in_news": 0
@@ -696,7 +696,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Sharad Pawar stated there cannot be any comparison between Jawaharlal Nehru and Narendra Modi.",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
+            "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
+            "scraped_at": "2026-06-10 23:30:33.007053"
+          }
+        ]
       },
       {
         "name": "Lalu Prasad Yadav",
@@ -1162,7 +1169,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Omar Abdullah stated that the Congress party is the only party with a presence in all Indian states and thus can unify the INDIA alliance.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
+            "source_title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
+            "scraped_at": "2026-06-10 23:30:52.812424"
+          }
+        ]
       },
       {
         "name": "Sukhvinder Singh Sukhu",
@@ -2331,7 +2345,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-10"
+        "party_last_updated": "2026-06-11"
       },
       {
         "name": "Rajasthan",
@@ -2359,7 +2373,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-10"
+        "party_last_updated": "2026-06-11"
       },
       {
         "name": "Telangana",
@@ -2407,7 +2421,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.83,
-        "party_last_updated": "2026-06-10"
+        "party_last_updated": "2026-06-11"
       },
       {
         "name": "Delhi",
