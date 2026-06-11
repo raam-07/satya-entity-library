@@ -577,41 +577,6 @@
         "controversies": []
       },
       {
-        "name": "Mamata Banerjee",
-        "aliases": [
-          "Mamata",
-          "Didi",
-          "TMC Chief"
-        ],
-        "role": "West Bengal Chief Minister / TMC Chairperson",
-        "party": "TMC",
-        "state": "West Bengal",
-        "constituency": "Bhawanipur",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
-        "image_placeholder": "mamata_banerjee",
-        "criminal_cases_in_news": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu **The Criminal Investigation Department (CID)** of **West Bengal Police** searched the residence of former Chi",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
-            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
-            "scraped_at": "2026-06-09 12:10:11.000460",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-09",
-        "controversies": [
-          {
-            "incident_text": "Mamata Banerjee's refusal to address corruption alienated voters, according to Satabdi Roy.",
-            "source_url": "https://www.ndtv.com/india-news/morally-wrong-rebels-i-miss-you-didi-message-for-mamata-banerjee-11619098#publisher=newsstand",
-            "source_title": "\"Morally Wrong\": Rebel's \"I Miss You Didi\" Message For Mamata Banerjee",
-            "scraped_at": "2026-06-10 19:14:52.793855"
-          }
-        ]
-      },
-      {
         "name": "Akhilesh Yadav",
         "aliases": [
           "Akhilesh",
@@ -907,7 +872,8 @@
         "aliases": [
           "Mamata",
           "Didi",
-          "Bengal CM"
+          "Bengal CM",
+          "TMC Chief"
         ],
         "role": "Former Chief Minister / TMC Chairperson",
         "state": "West Bengal",
@@ -917,9 +883,25 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mamata_Banerjee",
         "image_placeholder": "mamata_banerjee",
-        "criminal_incidents": [],
-        "controversies": [],
-        "criminal_cases_in_news": 0
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu **The Criminal Investigation Department (CID)** of **West Bengal Police** searched the residence of former Chi",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
+            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
+            "scraped_at": "2026-06-09 12:10:11.000460",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "Mamata Banerjee's refusal to address corruption alienated voters, according to Satabdi Roy.",
+            "source_url": "https://www.ndtv.com/india-news/morally-wrong-rebels-i-miss-you-didi-message-for-mamata-banerjee-11619098#publisher=newsstand",
+            "source_title": "\"Morally Wrong\": Rebel's \"I Miss You Didi\" Message For Mamata Banerjee",
+            "scraped_at": "2026-06-10 19:14:52.793855"
+          }
+        ],
+        "criminal_cases_in_news": 1,
+        "constituency": "Bhawanipur"
       },
       {
         "name": "Siddaramaiah",
@@ -1722,40 +1704,6 @@
           }
         ],
         "criminal_last_updated": "2026-06-06"
-      },
-      {
-        "name": "Rajya Sabha",
-        "role": "Upper House of Indian Parliament",
-        "party": "",
-        "state": null,
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Rajya_Sabha",
-        "image_placeholder": "rajya_sabha",
-        "auto_added": true,
-        "auto_added_on": "2026-06-04",
-        "gemma_confidence": "high",
-        "mentions_detected": 5,
-        "criminal_incidents": [
-          {
-            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
-            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
-            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
-            "scraped_at": "2026-03-25 05:03:23.619762",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-06",
-        "controversies": [
-          {
-            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
-            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
-            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
-            "scraped_at": "2026-06-03 22:16:12.589341"
-          }
-        ]
       },
       {
         "name": "Meenakshi Natarajan",

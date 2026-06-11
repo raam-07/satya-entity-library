@@ -47,7 +47,7 @@ WINDOW_NEW_ENTITIES_DAYS = 30
 
 AUTO_UPDATE_THRESHOLD   = 0.75
 REVIEW_THRESHOLD        = 0.40
-NEW_ENTITY_MIN_MENTIONS = 5
+NEW_ENTITY_MIN_MENTIONS = 20
 MAX_ARTICLES_PER_RUN    = 500
 
 MODEL_PATH = "./models/gemma-2-9b-it-Q6_K.gguf"
@@ -154,11 +154,57 @@ def is_candidate_name(ent_text):
         'corporation', 'municipal', 'polls', 'poll', 'meet', 'meeting', 'alliance', 
         'group', 'falls', 'committee', 'council', 'ltd', 'limited', 'pvt', 
         'board', 'trust', 'academy', 'association', 'school', 'hospital', 
-        'university', 'society', 'foundation'
+        'university', 'society', 'foundation',
+        'sabha', 'lok', 'rajya', 'vidhan', 'bhavan', 'yojana', 'nigam',
+        'samiti', 'morcha', 'panchayat', 'zilla', 'mandal', 'aayog',
+        'sena', 'dal', 'parishad', 'sangh', 'seva'
     }
     if any(w.lower().rstrip('.') in stop_words for w in words):
         return False
     return True
+
+
+def dedupe_entities(entities):
+    """
+    Removes duplicate politician profiles (same name across or within groups).
+    Keeps the first-seen profile and merges aliases, criminal_incidents,
+    and controversies from duplicates into it.
+    """
+    groups = ['cabinet_ministers', 'state_chief_ministers',
+              'opposition_leaders', 'generic_politicians']
+    seen = {}
+    removed = 0
+    for g in groups:
+        kept = []
+        for m in entities['india'].get(g, []):
+            key = m.get('name', '').strip().lower()
+            if not key:
+                continue
+            if key not in seen:
+                seen[key] = m
+                kept.append(m)
+                continue
+            primary = seen[key]
+            for alias in m.get('aliases', []):
+                if alias and alias not in primary.setdefault('aliases', []):
+                    primary['aliases'].append(alias)
+            for field in ('criminal_incidents', 'controversies'):
+                urls = {i.get('source_url') for i in primary.get(field, [])}
+                for inc in m.get(field, []):
+                    if inc.get('source_url') not in urls:
+                        primary.setdefault(field, []).append(inc)
+                        urls.add(inc.get('source_url'))
+            for field in ('party', 'state', 'role', 'wikipedia', 'constituency'):
+                if not primary.get(field) and m.get(field):
+                    primary[field] = m[field]
+            if primary.get('criminal_incidents') is not None:
+                primary['criminal_cases_in_news'] = len(primary['criminal_incidents'])
+            removed += 1
+            logging.info(f"DEDUPE: merged duplicate profile '{m.get('name')}' (from {g})")
+        entities['india'][g] = kept
+    if removed:
+        logging.info(f"Deduplicated {removed} duplicate profiles.")
+    return entities
 
 
 def build_minister_lookup(entities):
@@ -1152,6 +1198,22 @@ def discover_new_entities(articles, entities, nlp, llm):
         for alias in leader.get('aliases', []):
             known_names.add(alias.lower())
 
+    # Blocklist: institutions and parties must never be auto-added as politicians
+    blocked_names = set()
+    for inst in entities['india'].get('institutions', []):
+        n = inst.get('name') if isinstance(inst, dict) else inst
+        if n:
+            blocked_names.add(str(n).lower())
+        if isinstance(inst, dict):
+            for alias in inst.get('aliases', []):
+                blocked_names.add(alias.lower())
+    for p in entities['india'].get('parties', []):
+        blocked_names.add(p['name'].lower())
+        if p.get('full_name'):
+            blocked_names.add(p['full_name'].lower())
+        for alias in p.get('aliases', []):
+            blocked_names.add(alias.lower())
+
     # Count mentions of unknown PERSON entities (and possible misclassified ORG/GPE names) via spaCy NER
     person_counter  = Counter()
     person_contexts = defaultdict(list)
@@ -1170,6 +1232,8 @@ def discover_new_entities(articles, entities, nlp, llm):
                 is_valid = True
 
             if is_valid:
+                if name.lower() in blocked_names:
+                    continue
                 if name.lower() not in known_names:
                     person_counter[name] += 1
                     if len(person_contexts[name]) < 5:
@@ -1267,6 +1331,10 @@ No explanation. No extra text.
             # Validate category
             if category not in valid_categories:
                 category = 'generic_politician'
+
+            if full_name.lower() in blocked_names or name.lower() in blocked_names:
+                logging.info(f"SKIP (institution/party, not a person): {full_name}")
+                continue
 
             # Skip if Gemma resolved to an already-known name
             if full_name.lower() in known_names:
@@ -1520,8 +1588,15 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
         )
         for minister in all_ministers:
             if minister['name'] == entity_name:
-                minister['criminal_cases_in_news'] = update['incident_count']
-                minister['criminal_incidents']     = update['incidents']
+                # MERGE by source_url — never wipe previously recorded history
+                existing = minister.get('criminal_incidents', []) or []
+                known_urls = {i.get('source_url') for i in existing}
+                for inc in update['incidents']:
+                    if inc.get('source_url') not in known_urls:
+                        existing.append(inc)
+                        known_urls.add(inc.get('source_url'))
+                minister['criminal_incidents']     = existing
+                minister['criminal_cases_in_news'] = len(existing)
                 minister['criminal_last_updated']  = str(datetime.now().date())
                 break
 
@@ -1536,7 +1611,14 @@ def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_pro
             entity_name = update['entity']
             for minister in all_ministers:
                 if minister['name'] == entity_name:
-                    minister['controversies'] = update['incidents']
+                    # MERGE by source_url — preserve controversy history
+                    existing = minister.get('controversies', []) or []
+                    known_urls = {i.get('source_url') for i in existing}
+                    for inc in update['incidents']:
+                        if inc.get('source_url') not in known_urls:
+                            existing.append(inc)
+                            known_urls.add(inc.get('source_url'))
+                    minister['controversies'] = existing
                     break
 
     if new_promises:
@@ -1607,6 +1689,7 @@ def main():
         return
 
     entities = load_entities()
+    entities = dedupe_entities(entities)
     logging.info(f"Loaded entities.json (version: {entities['metadata'].get('version', 'unknown')})")
 
     nlp = load_spacy()
@@ -1648,10 +1731,20 @@ def main():
         # Returns batch updates list.
         batch_updates = canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm)
 
-        # Step 3: Run extraction/validation pipelines on newly canonicalized chunk
-        new_promises     = extract_promises(unprocessed_chunk, entities, nlp, llm)
-        criminal_updates = detect_criminal_cases(unprocessed_chunk, entities, nlp, llm)
-        gaffe_updates    = detect_controversies_and_gaffes(unprocessed_chunk, entities, nlp, llm)
+        # Step 3: Run promise extraction on newly canonicalized chunk
+        new_promises = extract_promises(unprocessed_chunk, entities, nlp, llm)
+
+    # Step 3.5: Criminal/controversy detection.
+    # Normally scans only the new chunk (incidents now MERGE, so history persists).
+    # Set RESCAN_HISTORY=true for a one-off full-history rebuild over all articles
+    # (recovers incidents lost to the old replace-instead-of-merge bug).
+    rescan = os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
+    crime_scan_articles = articles if rescan else unprocessed_chunk
+    if rescan:
+        logging.info(f"RESCAN_HISTORY enabled — scanning all {len(crime_scan_articles)} articles for incidents.")
+    if crime_scan_articles:
+        criminal_updates = detect_criminal_cases(crime_scan_articles, entities, nlp, llm)
+        gaffe_updates    = detect_controversies_and_gaffes(crime_scan_articles, entities, nlp, llm)
 
     # Step 4: Run CM and ruling party aggregations using both historical and chunk articles
     # Combine processed articles with the newly processed chunk for correct aggregate confidence calculation
