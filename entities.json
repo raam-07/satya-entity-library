@@ -7,13 +7,13 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 4,
+      "criminal_updates": 3,
       "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 4000,
+      "next_index": 6000,
       "started_on": "2026-06-11"
     }
   },
@@ -930,6 +930,13 @@
             "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
             "scraped_at": "2026-05-08 06:58:00.243592",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu **Prime Minister Narendra Modi** campaigned in West Bengal, emphasizing the BJP's commitment to citi",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-narendra-modi-rally-matua-bangaon-april-26-2026/article70908340.ece",
+            "source_title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
+            "scraped_at": "2026-04-26 17:49:14.051961",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -940,7 +947,7 @@
             "scraped_at": "2026-06-10 19:14:52.793855"
           }
         ],
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-06-11"
       },
@@ -1347,7 +1354,7 @@
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
         "image_placeholder": "himanta_biswa_sarma",
@@ -1362,9 +1369,16 @@
             "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
             "scraped_at": "2026-04-06 05:31:18.786927",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu **Pawan Khera**, a Congress leader, was granted anticipatory bail by the **Supreme Court**",
+            "source_url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
+            "source_title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
+            "scraped_at": "2026-05-02 18:14:31.909107",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -1577,7 +1591,7 @@
           }
         ],
         "controversies": [],
-        "criminal_last_updated": "2026-06-05"
+        "criminal_last_updated": "2026-06-11"
       },
       {
         "name": "Conrad Sangma",
