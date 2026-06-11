@@ -1736,12 +1736,40 @@ def main():
 
     # Step 3.5: Criminal/controversy detection.
     # Normally scans only the new chunk (incidents now MERGE, so history persists).
-    # Set RESCAN_HISTORY=true for a one-off full-history rebuild over all articles
-    # (recovers incidents lost to the old replace-instead-of-merge bug).
-    rescan = os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
-    crime_scan_articles = articles if rescan else unprocessed_chunk
-    if rescan:
-        logging.info(f"RESCAN_HISTORY enabled — scanning all {len(crime_scan_articles)} articles for incidents.")
+    #
+    # Full-history rescan (recovers incidents lost to the old replace bug):
+    #   - Started by setting RESCAN_HISTORY=true on any run.
+    #   - Runs in chunks of RESCAN_CHUNK_SIZE articles to stay inside CI timeouts.
+    #   - Progress is checkpointed in entities.json metadata, so subsequent runs
+    #     (triggered by the workflow's existing has_more self-loop, or the next
+    #     scheduled run) resume automatically until complete — no manual babysitting.
+    RESCAN_CHUNK_SIZE = int(os.environ.get('RESCAN_CHUNK_SIZE', 2000))
+    rescan_requested = os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
+    rescan_state = entities['metadata'].get('rescan_history', {})
+
+    if rescan_requested and not rescan_state.get('in_progress'):
+        rescan_state = {'in_progress': True, 'next_index': 0, 'started_on': str(datetime.now().date())}
+        logging.info("RESCAN_HISTORY: starting full-history rescan from article 0.")
+
+    rescan_active = rescan_state.get('in_progress', False)
+    rescan_has_more = False
+
+    if rescan_active:
+        start = int(rescan_state.get('next_index', 0))
+        end = min(start + RESCAN_CHUNK_SIZE, len(articles))
+        crime_scan_articles = articles[start:end]
+        logging.info(f"RESCAN_HISTORY: scanning articles {start}..{end} of {len(articles)}.")
+        if end >= len(articles):
+            rescan_state = {'in_progress': False, 'completed_on': str(datetime.now().date()),
+                            'articles_scanned': len(articles)}
+            logging.info("RESCAN_HISTORY: final chunk — rescan complete after this run.")
+        else:
+            rescan_state['next_index'] = end
+            rescan_has_more = True
+        entities['metadata']['rescan_history'] = rescan_state
+    else:
+        crime_scan_articles = unprocessed_chunk
+
     if crime_scan_articles:
         criminal_updates = detect_criminal_cases(crime_scan_articles, entities, nlp, llm)
         gaffe_updates    = detect_controversies_and_gaffes(crime_scan_articles, entities, nlp, llm)
@@ -1796,7 +1824,7 @@ def main():
         if github_output:
             try:
                 with open(github_output, 'a') as f:
-                    if len(unprocessed_articles) > MAX_ARTICLES_PER_RUN:
+                    if len(unprocessed_articles) > MAX_ARTICLES_PER_RUN or rescan_has_more:
                         f.write("has_more=true\n")
                         logging.info("Set GITHUB_OUTPUT: has_more=true")
                     else:
