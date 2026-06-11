@@ -13,7 +13,7 @@
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 10000,
+      "next_index": 12000,
       "started_on": "2026-06-11"
     }
   },
@@ -44,13 +44,20 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
             "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
             "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
             "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu **Amal Kumar Tiwari**, a man from Simri locality in Bihar's Buxar district, was arrested for",
+            "source_url": "https://www.thehindu.com/news/national/bihar-man-sought-money-from-foreign-agency-for-threatening-pm-modis-security-arrested-police/article70850081.ece",
+            "source_title": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu",
+            "scraped_at": "2026-04-11 05:06:00.938906",
             "incident_type": "broad"
           }
         ],
@@ -463,7 +470,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -484,6 +491,13 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
             "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
             "scraped_at": "2026-04-18 18:10:52.761906",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
+            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
+            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
+            "scraped_at": "2026-04-09 09:55:44.844181",
             "incident_type": "broad"
           }
         ],
@@ -1096,7 +1110,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": []
       },
       {
