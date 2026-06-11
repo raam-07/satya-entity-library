@@ -202,6 +202,52 @@ def dedupe_entities(entities):
             removed += 1
             logging.info(f"DEDUPE: merged duplicate profile '{m.get('name')}' (from {g})")
         entities['india'][g] = kept
+    # Second pass: fuzzy duplicates (spelling variants like 'Mamta'/'Mamata')
+    import difflib
+    def _norm(name):
+        return re.sub(r'[^a-z ]', '', name.lower().replace('.', ' ')).strip()
+
+    all_profiles = [(g, m) for g in groups for m in entities['india'].get(g, [])]
+    to_remove = set()
+    for i, (g1, m1) in enumerate(all_profiles):
+        if id(m1) in to_remove:
+            continue
+        for g2, m2 in all_profiles[i + 1:]:
+            if id(m2) in to_remove:
+                continue
+            n1, n2 = _norm(m1.get('name', '')), _norm(m2.get('name', ''))
+            if not n1 or not n2:
+                continue
+            ratio = difflib.SequenceMatcher(None, n1, n2).ratio()
+            same_context = (
+                (m1.get('state') and m1.get('state') == m2.get('state')) or
+                (m1.get('party') and m1.get('party') == m2.get('party'))
+            )
+            if ratio >= 0.85 and same_context:
+                # Merge m2 into m1 (m1 = first/primary)
+                for alias in [m2.get('name', '')] + m2.get('aliases', []):
+                    if alias and alias not in m1.setdefault('aliases', []) and alias != m1.get('name'):
+                        m1['aliases'].append(alias)
+                for field in ('criminal_incidents', 'controversies'):
+                    urls = {x.get('source_url') for x in m1.get(field, [])}
+                    for inc in m2.get(field, []):
+                        if inc.get('source_url') not in urls:
+                            m1.setdefault(field, []).append(inc)
+                            urls.add(inc.get('source_url'))
+                for field in ('party', 'state', 'role', 'wikipedia', 'constituency'):
+                    if not m1.get(field) and m2.get(field):
+                        m1[field] = m2[field]
+                if m1.get('criminal_incidents') is not None:
+                    m1['criminal_cases_in_news'] = len(m1['criminal_incidents'])
+                to_remove.add(id(m2))
+                removed += 1
+                logging.info(f"FUZZY DEDUPE: merged '{m2.get('name')}' into '{m1.get('name')}' (ratio {ratio:.2f})")
+            elif 0.75 <= ratio < 0.85 and same_context:
+                logging.warning(f"POSSIBLE DUPLICATE (not merged): '{m1.get('name')}' vs '{m2.get('name')}' (ratio {ratio:.2f})")
+    if to_remove:
+        for g in groups:
+            entities['india'][g] = [m for m in entities['india'][g] if id(m) not in to_remove]
+
     if removed:
         logging.info(f"Deduplicated {removed} duplicate profiles.")
     return entities
@@ -494,7 +540,7 @@ Text: {context[:2000]}
 
 Question: {question}
 
-Return ONLY: {{"answer": "yes" or "no", "confidence": "high" or "medium" or "low"}}
+Return ONLY: {{"answer": "yes" or "no", "confidence": "high" or "medium" or "low", "evidence": "for yes answers, the EXACT phrase copied verbatim from the text that proves it; empty string for no"}}
 No explanation. No extra text.
 <end_of_turn>
 <start_of_turn>model
@@ -502,7 +548,7 @@ No explanation. No extra text.
     try:
         response = llm(
             prompt,
-            max_tokens=60,
+            max_tokens=140,
             temperature=0.1,
             stop=["<end_of_turn>", "<start_of_turn>"],
             echo=False
@@ -512,6 +558,15 @@ No explanation. No extra text.
         parsed = json.loads(raw)
         answer     = parsed.get('answer', 'no').lower() == 'yes'
         confidence = parsed.get('confidence', 'low')
+
+        # Anti-hallucination guard: a "yes" must cite a span actually present
+        # in the text. Reject yes-answers whose evidence cannot be located.
+        if answer:
+            evidence = str(parsed.get('evidence', '')).strip()
+            norm = lambda s: re.sub(r'\s+', ' ', s.lower()).strip()
+            if not evidence or norm(evidence) not in norm(context):
+                logging.info(f"Gemma 'yes' rejected — evidence span not found in text: {evidence[:80]!r}")
+                return False, 'low'
         return answer, confidence
     except Exception as e:
         logging.warning(f"Gemma validation failed: {e}")
@@ -535,12 +590,12 @@ def detect_cms(articles, entities, nlp, llm):
     minister_lookup = build_minister_lookup(entities)
 
     STRICT_CM_PATTERNS = [
-        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s*,?\s*(?:the\s+)?chief\s+minister\s+of\s+(\w[\w\s]+)',
-        r'chief\s+minister\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+of\s+(\w[\w\s]+)',
-        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+was\s+sworn\s+in\s+as\s+(?:the\s+)?chief\s+minister',
-        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+takes?\s+oath\s+as\s+(?:the\s+)?chief\s+minister',
-        r'([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s*,\s*(?:the\s+)?(?:\w+\s+)?chief\s+minister',
-        r'new\s+(?:chief\s+minister|cm)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)',
+        r'((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)\s*,?\s*(?:the\s+)?chief\s+minister\s+of\s+(\w[\w\s]+)',
+        r'chief\s+minister\s+((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)\s+of\s+(\w[\w\s]+)',
+        r'((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)\s+was\s+sworn\s+in\s+as\s+(?:the\s+)?chief\s+minister',
+        r'((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)\s+takes?\s+oath\s+as\s+(?:the\s+)?chief\s+minister',
+        r'((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)\s*,\s*(?:the\s+)?(?:\w+\s+)?chief\s+minister',
+        r'new\s+(?:chief\s+minister|cm)\s+((?:[A-Z]\.)+\s*[A-Z][a-z]+|[A-Z][a-z]+(?:\s+(?:(?:[A-Z]\.)+\s*)?[A-Z][a-z]+)+)',
     ]
 
     state_cm_candidates = defaultdict(lambda: defaultdict(int))
@@ -584,8 +639,11 @@ def detect_cms(articles, entities, nlp, llm):
 
                 canonical = minister_lookup.get(person.lower())
                 if not canonical:
+                    person_lower = person.lower()
                     for alias, name in minister_lookup.items():
-                        if alias in person.lower() or person.lower() in alias:
+                        # Whole-word match only — 'shah' must not match 'shahid khan'
+                        if re.search(r'\b' + re.escape(alias) + r'\b', person_lower) or \
+                           re.search(r'\b' + re.escape(person_lower) + r'\b', alias):
                             canonical = name
                             break
 
@@ -1446,10 +1504,11 @@ def enforce_database_consistency(entities):
                 if alias.lower() == cm_name_lower:
                     return profile
                     
-        # 2. Try substring matching as a fallback
+        # 2. Whole-word fallback (e.g. 'Stalin' resolves to 'M.K. Stalin')
         for profile in cms:
             p_name_lower = profile['name'].lower()
-            if cm_name_lower in p_name_lower or p_name_lower in cm_name_lower:
+            if re.search(r'\b' + re.escape(cm_name_lower) + r'\b', p_name_lower) or \
+               re.search(r'\b' + re.escape(p_name_lower) + r'\b', cm_name_lower):
                 return profile
                 
         return None
@@ -1700,9 +1759,22 @@ def main():
     # Gemma loaded first — needed by both entity discovery and canonicalization
     llm = load_gemma()
 
-    # Step 1: Separate all fetched articles into unprocessed and processed
-    unprocessed_articles = [a for a in articles if not a.get('ministers_canonicalized')]
-    processed_articles   = [a for a in articles if a.get('ministers_canonicalized')]
+    # Step 1: Separate all fetched articles into unprocessed and processed.
+    # An article is re-queued (even if previously canonicalized) when it still
+    # contains a non-canonical name that the now-grown entity library CAN resolve —
+    # so names unresolvable in the past get fixed as the library learns.
+    canonical_set_now = build_canonical_minister_set(entities)
+
+    def needs_canonicalization(a):
+        if not a.get('ministers_canonicalized'):
+            return True
+        for n in (a.get('ministers_mentioned') or []):
+            if n not in canonical_set_now and find_canonical_candidates(n, canonical_set_now):
+                return True
+        return False
+
+    unprocessed_articles = [a for a in articles if needs_canonicalization(a)]
+    processed_articles   = [a for a in articles if not needs_canonicalization(a)]
     
     unprocessed_chunk = unprocessed_articles[:MAX_ARTICLES_PER_RUN]
     logging.info(
