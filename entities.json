@@ -13,7 +13,7 @@
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 14000,
+      "next_index": 16000,
       "started_on": "2026-06-11"
     }
   },
@@ -890,7 +890,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": []
       },
       {
