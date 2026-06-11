@@ -5,11 +5,16 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 3,
+      "cm_updates": 3,
+      "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 0
+    },
+    "rescan_history": {
+      "in_progress": true,
+      "next_index": 2000,
+      "started_on": "2026-06-11"
     }
   },
   "india": {
@@ -890,6 +895,13 @@
             "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
             "scraped_at": "2026-06-09 12:10:11.000460",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu **Mamata Banerjee**, former West Bengal Chief Minister, appeared before the Calc",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-appears-before-calcutta-high-court-to-argue-post-poll-violence-case/article70977256.ece",
+            "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
+            "scraped_at": "2026-05-14 17:27:51.324299",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -900,8 +912,9 @@
             "scraped_at": "2026-06-10 19:14:52.793855"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "constituency": "Bhawanipur"
+        "criminal_cases_in_news": 2,
+        "constituency": "Bhawanipur",
+        "criminal_last_updated": "2026-06-11"
       },
       {
         "name": "Siddaramaiah",
@@ -1676,6 +1689,22 @@
         "gemma_confidence": "high",
         "criminal_incidents": [],
         "controversies": []
+      },
+      {
+        "name": "D.K. Shivakumar",
+        "role": "Former Chief Minister of Karnataka",
+        "party": "",
+        "state": "Karnataka",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
+        "image_placeholder": "dk_shivakumar",
+        "auto_added": true,
+        "auto_added_on": "2026-06-11",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
       }
     ],
     "generic_politicians": [
@@ -2189,7 +2218,7 @@
         "cm": "Nayab Singh Saini",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-06"
+        "cm_last_updated": "2026-06-11"
       },
       {
         "name": "Himachal Pradesh",
@@ -2216,8 +2245,8 @@
         "ruling_party": "INC",
         "cm": "Siddaramaiah",
         "region": "South",
-        "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-06"
+        "cm_confidence": 0.84,
+        "cm_last_updated": "2026-06-11"
       },
       {
         "name": "Kerala",
@@ -2349,7 +2378,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-06"
+        "cm_last_updated": "2026-06-11"
       },
       {
         "name": "Uttarakhand",

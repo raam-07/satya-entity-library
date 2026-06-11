@@ -1,59 +1,50 @@
 {
-  "generated_at": "2026-06-11 02:17:09.086246",
+  "generated_at": "2026-06-11 08:12:10.289026",
   "summary": {
-    "cm_updates_applied": 0,
-    "party_updates_applied": 3,
+    "cm_updates_applied": 3,
+    "party_updates_applied": 2,
     "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 4,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 16
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Uttar Pradesh",
-      "candidate": "Yogi Adityanath",
-      "confidence": 0.5,
+      "state": "Telangana",
+      "candidate": "Revanth Reddy",
+      "confidence": 0.4,
       "mentions": 4,
       "reason": "Below auto-update threshold",
-      "context": "ement. As least four people each died in the districts of Barabanki, Bahraich, Kanpur Dehat, Basti, Sambhal, Hardoi, and Unnao. Livestock loss and crop damage is also being monitored. Aid for victims "
+      "context": "P. C. Ghose Commission, finding no fault with its findings or legal validity.  The Ministers will consult senior advocate Abhishek Manu Singhvi before deciding whether to appeal to the Supreme Court. "
     },
     {
       "type": "cm_detection",
       "state": "Maharashtra",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.43,
-      "mentions": 6,
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.62,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
-      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
+      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
     },
     {
       "type": "cm_detection",
-      "state": "Delhi",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.42,
-      "mentions": 11,
+      "state": "Kerala",
+      "candidate": "Pinarayi Vijayan",
+      "confidence": 0.53,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
-      "context": "in the state at the meeting, as well as seek clearance for pending proposals from **Union Ministers**.  **Siddaramaiah** is expected to return to Bengaluru that evening. Hours after polling in the by-"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Tamil Nadu",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.47,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "Tamil Nadu Assembly. Immediately after assuming his position, Mr. Prabhakar conducted the election for the Deputy Speaker, in which Mr. Ravishankar was elected unopposed. As Mr. Prabhakar invited Mr. "
+      "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
     },
     {
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.43,
+      "confidence": 0.56,
       "mentions": 9,
       "reason": "Below auto-update threshold",
       "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
@@ -62,28 +53,10 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.56,
+      "confidence": 0.6,
       "mentions": 15,
       "reason": "Below auto-update threshold",
       "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.56,
-      "mentions": 23,
-      "reason": "Below auto-update threshold",
-      "context": "reedom, equality, and brotherhood, full equality remains elusive after 76 years.  **Siddaramaiah** acknowledged the power of education in breaking down societal barriers. Stating that education was a "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Puducherry",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": ". Chief Minister M.K. Stalin and Deputy Chief Minister Udhayanidhi Stalin will once again contest from the Kolathur and Chepauk-Tiruvallikeni constituencies, respectively. The BJP is trying to “loot” "
     },
     {
       "type": "cm_detection",
@@ -96,47 +69,21 @@
     },
     {
       "type": "cm_detection",
-      "state": "Haryana",
-      "candidate": "Arvind Kejriwal",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
       "confidence": 0.6,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Chhattisgarh",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.43,
       "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "Congress Rahul Gandhi Priyanka Gandhi: With Eye On Upcoming Polls, Congress Plans Major Organisational Reshuffle Following the appointment of DK Shivakumar as Chief Minister of Karnataka, **BK Haripra"
+      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
     },
     {
       "type": "cm_detection",
-      "state": "Uttarakhand",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.75,
-      "reason": "Gemma rejected",
-      "context": "hami to convey the information. Mr. Dhami described it as a \"golden and glorious chapter\" in the State's history, and a living testament to pride, tradition, and an indomitable spirit of service. The "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Himachal Pradesh",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.67,
-      "mentions": 4,
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.55,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
-      "context": "Stage set for D.K. Shivakumar to over as new CM of Karnataka - The Hindu **D.K. Shivakumar**, the eight-time legislator and Karnataka Pradesh Congress Committee president, will be sworn in as the 34th"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Chandigarh",
-      "candidate": "Arvind Kejriwal",
-      "confidence": 0.67,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "ed passengers from a bus traveling to Trincomalee. Opinion 40 years ago, June 6, 1986: Haryana ministry sworn in A 13-member, two-tier ministry headed by Bansi Lal was sworn in at Haryana Raj Bhavan. "
+      "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
     },
     {
       "type": "ruling_party",
@@ -145,6 +92,14 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "West Bengal",
+      "candidate": "BJP",
+      "confidence": 0.83,
+      "reason": "Gemma rejected",
+      "context": "Fresh overhaul in Suvendu Adhikari administration likely in near future, say officials - The Hindu The newly installed **Suvendu Adhikari**-led BJP government in West Bengal is undertaking a sweeping "
     },
     {
       "type": "ruling_party",
