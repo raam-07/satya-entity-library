@@ -7,13 +7,13 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 4,
       "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 6000,
+      "next_index": 8000,
       "started_on": "2026-06-11"
     }
   },
@@ -575,7 +575,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
@@ -583,9 +583,16 @@
             "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
             "scraped_at": "2026-05-30 21:40:47.248285",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu **Swati Maliwal**, a former **AAP** MP, accused her former party of changing its principles and becoming cor",
+            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
+            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
+            "scraped_at": "2026-04-25 09:36:11.298235",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": []
       },
       {
@@ -937,6 +944,13 @@
             "source_title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
             "scraped_at": "2026-04-26 17:49:14.051961",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "SC asks if ED is arguing 'failure of constitutional machinery' in WB by claiming rule of law breach - The Hindu The **Supreme Court** paused the **ED's** rejoinder in a case involving alleged rule-bre",
+            "source_url": "https://www.thehindu.com/news/national/sc-asks-if-ed-is-arguing-failure-of-constitutional-machinery-in-wb-by-claiming-rule-of-law-breach/article70897109.ece",
+            "source_title": "SC asks if ED is arguing 'failure of constitutional machinery' in WB by claiming rule of law breach - The Hindu",
+            "scraped_at": "2026-04-23 11:42:46.993819",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -947,7 +961,7 @@
             "scraped_at": "2026-06-10 19:14:52.793855"
           }
         ],
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-06-11"
       },
@@ -1009,7 +1023,7 @@
           }
         ],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-05"
+        "criminal_last_updated": "2026-06-11"
       },
       {
         "name": "M.K. Stalin",
@@ -1778,7 +1792,7 @@
         "state": "Tamil Nadu",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/S.P._Velumani",
         "image_placeholder": "sp_velumani",
@@ -1793,9 +1807,16 @@
             "source_title": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu",
             "scraped_at": "2026-03-18 12:14:00.786686",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
+            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
+            "scraped_at": "2026-04-20 20:05:45.187031",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-06"
+        "criminal_last_updated": "2026-06-11"
       },
       {
         "name": "Meenakshi Natarajan",
