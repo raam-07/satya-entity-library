@@ -2,9 +2,15 @@ name: Satya Entity Updater
 
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: '0/5 * * * *'
+    # Runs daily at 02:00 UTC (script header says weekly/periodic; every-5-min
+    # was burning Actions minutes — the self-loop below already handles backlog)
+    - cron: '0 2 * * *'
   workflow_dispatch:
+    inputs:
+      rescan_history:
+        description: 'One-off full-history rescan of all articles for criminal cases/controversies (slow)'
+        type: boolean
+        default: false
 
 concurrency:
   group: satya-entity-updater
@@ -76,6 +82,7 @@ jobs:
         env:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+          RESCAN_HISTORY: ${{ inputs.rescan_history && 'true' || 'false' }}
         run: |
           python entity_updater.py --process
 
