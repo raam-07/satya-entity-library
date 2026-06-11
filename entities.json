@@ -7,13 +7,13 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 4,
+      "criminal_updates": 3,
       "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 8000,
+      "next_index": 10000,
       "started_on": "2026-06-11"
     }
   },
@@ -463,13 +463,27 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
             "source_url": "https://www.thehindu.com/news/national/fresh-hearing-ordered-on-plea-seeking-fir-against-rahul-over-remarks-on-hindu-god-ram/article71085633.ece",
             "source_title": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu",
             "scraped_at": "2026-06-10 23:30:11.331772",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
+            "source_url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece",
+            "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-04-19 18:09:30.425946",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu The **Allahabad High Court** has postponed its order directing the registration of an FIR against **Rahul Gandhi*",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-defers-order-on-plea-seeking-fir-against-rahul-gandhi/article70878307.ece",
+            "source_title": "Allahabad High Court defers order on plea seeking FIR against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-04-18 18:10:52.761906",
             "incident_type": "broad"
           }
         ],
@@ -507,7 +521,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-05",
+        "criminal_last_updated": "2026-06-11",
         "controversies": []
       },
       {
@@ -756,7 +770,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -768,9 +782,16 @@
             "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
             "scraped_at": "2026-06-03 22:16:01.999473",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu **Kolkata Police** officials visited **Abhishek Banerjee's** residence on Monday to collect secu",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+            "scraped_at": "2026-05-26 04:51:03.882465",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-06",
+        "criminal_last_updated": "2026-06-11",
         "controversies": []
       },
       {
