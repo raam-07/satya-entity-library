@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11 08:12:10.289026",
+  "generated_at": "2026-06-11 09:55:24.429113",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 4,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -13,15 +13,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Telangana",
-      "candidate": "Revanth Reddy",
-      "confidence": 0.4,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "P. C. Ghose Commission, finding no fault with its findings or legal validity.  The Ministers will consult senior advocate Abhishek Manu Singhvi before deciding whether to appeal to the Supreme Court. "
-    },
     {
       "type": "cm_detection",
       "state": "Maharashtra",
@@ -60,6 +51,15 @@
     },
     {
       "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.73,
+      "mentions": 16,
+      "reason": "Below auto-update threshold",
+      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
+    },
+    {
+      "type": "cm_detection",
       "state": "Madhya Pradesh",
       "candidate": "Mohan Yadav",
       "confidence": 0.6,
@@ -71,7 +71,7 @@
       "type": "cm_detection",
       "state": "Andhra Pradesh",
       "candidate": "Chandrababu Naidu",
-      "confidence": 0.6,
+      "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "

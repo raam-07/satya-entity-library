@@ -5,15 +5,15 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 3,
+      "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 4,
       "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 2000,
+      "next_index": 4000,
       "started_on": "2026-06-11"
     }
   },
@@ -54,7 +54,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-05",
+        "criminal_last_updated": "2026-06-11",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -81,7 +81,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -89,9 +89,16 @@
             "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
             "scraped_at": "2026-05-09 06:39:18.299777",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-05",
+        "criminal_last_updated": "2026-06-11",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
@@ -902,6 +909,27 @@
             "source_title": "Mamata dons lawyer’s robe, Calcutta HC directs police to ensure safe return of victims affected by violence - The Hindu",
             "scraped_at": "2026-05-14 17:27:51.324299",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "​Take east: On the BJP government in West Bengal - The Hindu The **Bharatiya Janata Party (BJP)** secured a resounding victory in the West Bengal Assembly elections, winning 207 out of 294 seats.  **S",
+            "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
+            "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
+            "scraped_at": "2026-05-08 23:02:12.307311",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -912,7 +940,7 @@
             "scraped_at": "2026-06-10 19:14:52.793855"
           }
         ],
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 5,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-06-11"
       },
@@ -1369,7 +1397,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 4,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -1384,9 +1412,30 @@
             "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
             "scraped_at": "2026-05-08 06:58:00.243592",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu **Chief Election Commissioner Gyanesh Kumar** directed West Bengal authorities to ensure zero tolerance for post-poll vi",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/cec-orders-immediate-arrest-of-those-involved-in-post-poll-violence-in-bengal-official/article70945756.ece",
+            "source_title": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu",
+            "scraped_at": "2026-05-07 01:24:04.915716",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-05 03:44:09.432326",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-05",
+        "criminal_last_updated": "2026-06-11",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
