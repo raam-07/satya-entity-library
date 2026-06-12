@@ -7,14 +7,14 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 7,
       "new_promises": 0,
-      "gaffe_updates": 16
+      "gaffe_updates": 17
     },
     "rescan_history": {
-      "in_progress": true,
-      "next_index": 24000,
-      "started_on": "2026-06-11"
+      "in_progress": false,
+      "completed_on": "2026-06-12",
+      "articles_scanned": 25144
     }
   },
   "india": {
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -59,9 +59,23 @@
             "source_title": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu",
             "scraped_at": "2026-04-11 05:06:00.938906",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission’s** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-12",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -122,6 +136,30 @@
             "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
             "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
             "scraped_at": "2026-06-07 15:53:40.880614"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge questioned the government's fuel diversification claims given persistent LPG shortages.",
+            "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+            "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
+            "scraped_at": "2026-06-07 23:12:01.064117"
+          },
+          {
+            "incident_text": "Narendra Modi directed the Union government to organize IAS officer interactions at the Statue of Unity.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/narendra-modi-ias-officers-statue-of-unity-10728831/",
+            "source_title": "Delhi Confidential: Pep Talk | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-07 23:10:55.146196"
+          },
+          {
+            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Sharad Pawar stated there cannot be any comparison between Jawaharlal Nehru and Narendra Modi.",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
+            "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
+            "scraped_at": "2026-06-10 23:30:33.007053"
           }
         ]
       },
@@ -276,7 +314,22 @@
         "wikipedia": "https://en.wikipedia.org/wiki/J._P._Nadda",
         "known_promises": [],
         "image_placeholder": "jp_nadda",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission’s** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -289,9 +342,16 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
             "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
             "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Smriti Irani",
@@ -372,7 +432,14 @@
         "known_promises": [],
         "image_placeholder": "ashwini_vaishnaw",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -452,6 +519,12 @@
             "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
             "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
             "scraped_at": "2026-06-05 23:19:52.181643"
+          },
+          {
+            "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
+            "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
+            "scraped_at": "2026-06-09 18:10:55.701145"
           }
         ],
         "criminal_cases_in_news": 0
@@ -567,7 +640,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-12",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -622,6 +695,30 @@
             "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
             "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
             "scraped_at": "2026-06-07 15:53:40.880614"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is plagued by internal contradictions and is unraveling.",
+            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:44.754918"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is unraveling due to internal contradictions and party conflicts.",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:22.533409"
+          },
+          {
+            "incident_text": "Rahul Gandhi faced criticism for his remarks against the Left parties during the Kerala Assembly election campaign.",
+            "source_url": "https://indianexpress.com/article/world/dubai-emirates-road-accident-indian-workers-killed-minibus-truck-10730262/",
+            "source_title": "Delhi Confidential: Communication Loss On All Fronts | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-08 22:59:11.437658"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
           }
         ]
       },
@@ -931,7 +1028,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 10,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -998,6 +1095,13 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
             "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
             "scraped_at": "2026-06-03 22:16:48.162279",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu **The Criminal Investigation Department (CID)** of **West Bengal Police** searched the residence of former Chi",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
+            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
+            "scraped_at": "2026-06-09 12:10:11.000460",
             "incident_type": "broad"
           }
         ],
@@ -1255,6 +1359,18 @@
             "source_url": "https://www.thehindu.com/news/national/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
             "source_title": "EC’s ‘arbitrary’ transfer of officials is political interference of highest order: Mamata - The Hindu",
             "scraped_at": "2026-03-19 11:44:24.576349"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is plagued by internal contradictions and is unraveling.",
+            "source_url": "https://www.ndtv.com/india-news/india-wont-pay-toll-to-pass-through-strait-of-hormuz-hardeep-puri-to-ndtv-11608627#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:44.754918"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated the INDIA alliance is unraveling due to internal contradictions and party conflicts.",
+            "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
+            "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
+            "scraped_at": "2026-06-08 16:37:22.533409"
           }
         ],
         "criminal_cases_in_news": 12,
@@ -1284,6 +1400,12 @@
             "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
             "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
             "scraped_at": "2026-06-03 22:16:12.589341"
+          },
+          {
+            "incident_text": "Akhilesh Yadav claimed to know which Congress members were speaking against him.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/akhilesh-yadav-congress-india-bloc-remark-10733870/",
+            "source_title": "Delhi Confidential: Guess Who? | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-10 23:29:24.834004"
           }
         ]
       },
@@ -1463,7 +1585,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
         "image_placeholder": "devendra_fadnavis",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Devendra Fadnavis questioned the government's commitment to implementing recommendations from the 2015 Malwani liquor tragedy committee.",
@@ -1484,7 +1614,8 @@
             "scraped_at": "2026-03-16 23:40:11.368501"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Bhajanlal Sharma",
@@ -1832,6 +1963,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
             "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
             "scraped_at": "2026-06-09 18:10:55.701145"
+          },
+          {
+            "incident_text": "Suvendu Adhikari's government has faced criticism for its 'bulldozer culture' approach to evictions.",
+            "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
+            "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-09 15:41:48.731058"
           }
         ]
       },
@@ -1849,7 +1986,15 @@
         "auto_added": true,
         "auto_added_on": "2026-06-02",
         "gemma_confidence": "high",
-        "mentions_detected": 1
+        "mentions_detected": 1,
+        "controversies": [
+          {
+            "incident_text": "Bhagwant Mann stated that a potential SAD-BJP alliance would be opportunistic and harmful to Punjab.",
+            "source_url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
+            "source_title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-11 02:03:51.529239"
+          }
+        ]
       },
       {
         "name": "Nayab Singh Saini",
@@ -2247,7 +2392,7 @@
         "state": null,
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi_Natarajan",
         "image_placeholder": "meenakshi_natarajan",
@@ -2269,9 +2414,30 @@
             "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
             "scraped_at": "2026-06-10 12:26:35.086682",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express **The Congress** challenged the rejection of its candidate, **Meenakshi Natarajan**, f",
+            "source_url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
+            "source_title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
+            "scraped_at": "2026-06-10 21:39:20.999817",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-10"
+        "criminal_last_updated": "2026-06-12",
+        "controversies": [
+          {
+            "incident_text": "Meenakshi Natarajan stated the Returning Officer's decision was a subversion of democracy.",
+            "source_url": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
+            "source_title": "Congress calls Returning Officer’s order on Meenakshi Natarajan’s Rajya Sabha nomination ‘egregious’ - The Hindu",
+            "scraped_at": "2026-06-10 12:25:07.373246"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          }
+        ]
       }
     ],
     "parties": [
