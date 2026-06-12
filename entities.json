@@ -7,13 +7,13 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 4,
+      "criminal_updates": 3,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 16
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 20000,
+      "next_index": 22000,
       "started_on": "2026-06-11"
     }
   },
@@ -74,6 +74,30 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/communists-fight-elections-to-reflect-rights-of-people-says-brinda-karat/article70766788.ece",
             "source_title": "Communists fight elections to reflect rights of people, says Brinda Karat - The Hindu",
             "scraped_at": "2026-03-20 20:46:38.659490"
+          },
+          {
+            "incident_text": "Digvijaya Singh warned that Prime Minister Narendra Modi’s personal accountability was now on the line.",
+            "source_url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
+            "source_title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
+            "scraped_at": "2026-06-02 06:55:41.178977"
+          },
+          {
+            "incident_text": "Jairam Ramesh claimed the Model Code of Conduct would be used by the ruling party as 'Modi's Code of Campaigning'.",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
+            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
+            "scraped_at": "2026-03-15 16:43:04.912044"
+          },
+          {
+            "incident_text": "Narendra Modi criticized those with 'dynastic and feudal mindsets' who resist new leadership.",
+            "source_url": "https://www.thehindu.com/news/national/pm-lauds-speaker-for-conducting-lok-sabha-proceedings-with-dedication-patience-and-impartiality/article70747019.ece",
+            "source_title": "PM lauds Speaker for conducting Lok Sabha proceedings with ‘dedication, patience and impartiality’ - The Hindu",
+            "scraped_at": "2026-03-15 16:42:32.393511"
+          },
+          {
+            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
           }
         ]
       },
@@ -514,6 +538,30 @@
             "source_url": "https://www.thehindu.com/news/national/fresh-hearing-ordered-on-plea-seeking-fir-against-rahul-over-remarks-on-hindu-god-ram/article71085633.ece",
             "source_title": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu",
             "scraped_at": "2026-06-10 23:30:11.331772"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly endorsed a USCIRF report recommending sanctions against India's R&AW and RSS.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
+            "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
+            "scraped_at": "2026-03-18 22:46:37.753207"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated the transfers were a 'cover-up' not accountability.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
+          },
+          {
+            "incident_text": "Rahul Gandhi was publicly confronted by the CEC.",
+            "source_url": "https://www.thehindu.com/news/national/opposition-notice-seeking-cecs-removal-cites-his-public-remarks-against-rahul-gandhi/article70750590.ece",
+            "source_title": "Opposition notice seeking CEC’s removal cites his public remarks against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-16 21:13:36.431855"
+          },
+          {
+            "incident_text": "Mayawati accused the Congress of exploiting Kanshi Ram's name for political advantage.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
           }
         ]
       },
@@ -583,16 +631,43 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mallikarjun_Kharge",
         "image_placeholder": "mallikarjun_kharge",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu The **National Democratic Alliance** (NDA) secured all five Rajya Sabha seats in Bihar and three in Odisha, whi",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 18:57:35.364172",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Mallikarjun Kharge questioned the government's fuel diversification claims given persistent LPG shortages.",
             "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
             "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
             "scraped_at": "2026-06-07 23:12:01.064117"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 19:47:05.989322"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge alleged an attempt to interfere with the integrity of the Haryana Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
+            "source_title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’ - The Hindu",
+            "scraped_at": "2026-03-16 21:12:03.647200"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 18:57:35.364172"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Arvind Kejriwal",
@@ -916,6 +991,12 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
             "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
             "scraped_at": "2026-06-02 02:03:27.367304"
+          },
+          {
+            "incident_text": "Yogi Adityanath criticized opposition parties for disrespecting Lord Ram's faith.",
+            "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
+            "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
+            "scraped_at": "2026-03-19 17:59:45.291579"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1068,6 +1149,12 @@
             "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
             "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
             "scraped_at": "2026-03-20 18:07:10.230192"
+          },
+          {
+            "incident_text": "Mamata Banerjee claimed the Election Commission's officer transfers were politically motivated and a constitutional assault.",
+            "source_url": "https://www.thehindu.com/news/national/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
+            "source_title": "EC’s ‘arbitrary’ transfer of officials is political interference of highest order: Mamata - The Hindu",
+            "scraped_at": "2026-03-19 11:44:24.576349"
           }
         ],
         "criminal_cases_in_news": 9,
@@ -1129,6 +1216,12 @@
             "source_url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
             "source_title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
             "scraped_at": "2026-06-09 04:48:15.959112"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
+            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
+            "scraped_at": "2026-03-18 23:36:53.293151"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1265,6 +1358,12 @@
             "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
             "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
             "scraped_at": "2026-06-06 12:10:36.336496"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated the bill aims to prevent forced, fraudulent, or induced religious conversions.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
+            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
+            "scraped_at": "2026-03-16 23:40:11.368501"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1886,6 +1985,12 @@
             "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
             "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
             "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
           }
         ]
       },
@@ -1913,14 +2018,38 @@
         "state": "Karnataka",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
         "image_placeholder": "dk_shivakumar",
         "auto_added": true,
         "auto_added_on": "2026-06-11",
         "gemma_confidence": "high",
-        "mentions_detected": 1
+        "mentions_detected": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu ##  Congress Alleges BJP Poaching Bid in Odisha\n\nOdisha's Deputy Chief Minister D.K. Shivakumar has accused the Bharatiya Jan",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-12",
+        "controversies": [
+          {
+            "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
+            "source_title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
+            "scraped_at": "2026-06-03 05:29:14.896823"
+          },
+          {
+            "incident_text": "D.K. Shivakumar alleged that the BJP offered ₹5 crore bribes to each Odisha Congress legislator.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638"
+          }
+        ]
       }
     ],
     "generic_politicians": [
@@ -1955,7 +2084,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-11"
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Meenakshi Natarajan",
