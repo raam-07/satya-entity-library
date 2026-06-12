@@ -13,7 +13,7 @@
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 22000,
+      "next_index": 24000,
       "started_on": "2026-06-11"
     }
   },
@@ -98,6 +98,30 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
             "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
             "scraped_at": "2026-03-15 10:37:28.561089"
+          },
+          {
+            "incident_text": "Narendra Modi failed to secure oil and gas imports from Russia due to US pressure, according to Jagga Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
+          },
+          {
+            "incident_text": "Nitin Gadkari announced a 450-kilometer Coastal Highway from Gopalpur to Digha in 2015.",
+            "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
+            "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
+            "scraped_at": "2026-06-05 23:19:52.181643"
+          },
+          {
+            "incident_text": "Narendra Modi accused the Congress of spreading chaos and uncertainty.",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
+            "source_title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-06-06 01:31:52.004206"
+          },
+          {
+            "incident_text": "Narendra Modi wants the country’s youth to make reels and fry pakoras.",
+            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-07 15:53:40.880614"
           }
         ]
       },
@@ -259,6 +283,12 @@
             "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
             "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
             "scraped_at": "2026-03-18 23:38:55.839838"
+          },
+          {
+            "incident_text": "Mehbooba Mufti visited the AIIMS site, claiming credit for a project she delayed.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
           }
         ],
         "criminal_cases_in_news": 0
@@ -416,6 +446,12 @@
             "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
             "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
             "scraped_at": "2026-06-08 16:37:22.533409"
+          },
+          {
+            "incident_text": "Nitin Gadkari announced a 450-kilometer Coastal Highway from Gopalpur to Digha in 2015.",
+            "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
+            "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
+            "scraped_at": "2026-06-05 23:19:52.181643"
           }
         ],
         "criminal_cases_in_news": 0
@@ -562,6 +598,30 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
             "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
             "scraped_at": "2026-03-15 10:37:28.561089"
+          },
+          {
+            "incident_text": "Rahul Gandhi staging a dharna against the cooking gas shortage is not a fault.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an 'economic tsunami' would hit India due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:28.253561"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an economic tsunami was imminent due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 21:00:16.288131"
+          },
+          {
+            "incident_text": "Rahul Gandhi said Prime Minister Modi wants youth to 'make reels and fry pakoras'.",
+            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-07 15:53:40.880614"
           }
         ]
       },
@@ -664,6 +724,12 @@
             "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
             "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
             "scraped_at": "2026-03-16 18:57:35.364172"
+          },
+          {
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -865,7 +931,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -926,9 +992,16 @@
             "source_title": "I never saw my representation on screen: Tribeny Rai on why she made 'Shape of Momo' - India Today",
             "scraped_at": "2026-05-31 22:36:49.506679",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
+            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
+            "scraped_at": "2026-06-03 22:16:48.162279",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-12",
         "controversies": []
       },
       {
@@ -997,6 +1070,12 @@
             "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
             "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
             "scraped_at": "2026-03-19 17:59:45.291579"
+          },
+          {
+            "incident_text": "Yogi Adityanath was urged to investigate a police exam question that included 'Pandit' as a possible answer for 'who changes according to opportunity'",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/pandit-option-for-question-on-opportunists-trips-up-bjp-in-up-days-after-anti-brahmin-claim-by-opposition/article70744437.ece",
+            "source_title": "‘Pandit’ option for question on opportunists trips up BJP in U.P. days after ‘anti-Brahmin’ claim by opposition - The Hindu",
+            "scraped_at": "2026-03-14 23:34:29.826596"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1135,6 +1214,27 @@
             "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
             "scraped_at": "2026-03-25 05:03:23.619762",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 19:10:08.463040",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express **Abhishek Banerjee**, nephew of former Chief Minister **Mam",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
+            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-03 22:16:01.999473",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee **Mamata Banerjee**'s faction of the **Trinamool Congress** is challenging the Speaker's recognition of **Ritabrata Banerjee",
+            "source_url": "https://www.ndtv.com/india-news/in-who-is-real-trinamool-fight-pushback-planned-against-ritabrata-banerjee-11597672#publisher=newsstand",
+            "source_title": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee",
+            "scraped_at": "2026-06-05 20:07:10.049272",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -1157,9 +1257,9 @@
             "scraped_at": "2026-03-19 11:44:24.576349"
           }
         ],
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 12,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-11"
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Siddaramaiah",
@@ -1222,6 +1322,24 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
             "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
             "scraped_at": "2026-03-18 23:36:53.293151"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 08:40:42.964767"
+          },
+          {
+            "incident_text": "Revanth Reddy linked HYDRAA's functioning to Adolf Hitler's actions.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
+            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
+            "scraped_at": "2026-06-07 14:02:56.909896"
+          },
+          {
+            "incident_text": "G. Kishan Reddy allegedly hobnobs with BRS leaders, hindering project approvals.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1434,6 +1552,12 @@
             "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
             "source_title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
             "scraped_at": "2026-06-10 23:30:52.812424"
+          },
+          {
+            "incident_text": "Mehbooba Mufti visited the AIIMS site, claiming credit for a project she delayed.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
           }
         ]
       },
@@ -1590,7 +1714,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-07"
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Himanta Biswa Sarma",
@@ -2048,6 +2172,36 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
             "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
             "scraped_at": "2026-03-15 15:02:18.550638"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 15:24:24.218444"
+          },
+          {
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:34.835256"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:23.494826"
+          },
+          {
+            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 15:54:09.127238"
           }
         ]
       }
