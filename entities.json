@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-11",
+    "last_updated": "2026-06-12",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,11 +9,11 @@
       "party_updates": 2,
       "criminal_updates": 4,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": true,
-      "next_index": 18000,
+      "next_index": 20000,
       "started_on": "2026-06-11"
     }
   },
@@ -68,6 +68,12 @@
             "source_url": "https://www.ndtv.com/india-news/at-nda-meet-on-completing-12-years-pm-narendra-modis-congress-growth-rate-jab-11618958#publisher=newsstand",
             "source_title": "At NDA Meet On Completing 12 Years, PM Narendra Modi's 'Congress Growth Rate' Jab",
             "scraped_at": "2026-06-10 16:24:10.772553"
+          },
+          {
+            "incident_text": "Narendra Modi's government favors corporations, granting them licenses, assets, and even Parliament access in exchange for donations, according to Brinda Karat.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/communists-fight-elections-to-reflect-rights-of-people-says-brinda-karat/article70766788.ece",
+            "source_title": "Communists fight elections to reflect rights of people, says Brinda Karat - The Hindu",
+            "scraped_at": "2026-03-20 20:46:38.659490"
           }
         ]
       },
@@ -742,7 +748,7 @@
         ],
         "controversies": [],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-06"
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Tejashwi Yadav",
@@ -904,6 +910,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/cm-adityanath-tells-recruitment-boards-to-avoid-making-undignified-remarks-on-any-community/article70745847.ece",
             "source_title": "CM Adityanath tells recruitment boards to avoid making undignified remarks on any community - The Hindu",
             "scraped_at": "2026-03-15 06:35:36.759141"
+          },
+          {
+            "incident_text": "Yogi Adityanath stated that cows are revered as mothers in Indian tradition and Muslim clerics should caution followers against disrespecting them.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-02 02:03:27.367304"
           }
         ],
         "criminal_cases_in_news": 0
@@ -961,7 +973,7 @@
         ],
         "controversies": [],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-06"
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "Mamata Banerjee",
@@ -1050,6 +1062,12 @@
             "source_url": "https://www.ndtv.com/india-news/morally-wrong-rebels-i-miss-you-didi-message-for-mamata-banerjee-11619098#publisher=newsstand",
             "source_title": "\"Morally Wrong\": Rebel's \"I Miss You Didi\" Message For Mamata Banerjee",
             "scraped_at": "2026-06-10 19:14:52.793855"
+          },
+          {
+            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 18:07:10.230192"
           }
         ],
         "criminal_cases_in_news": 9,
@@ -1149,7 +1167,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -1164,9 +1182,16 @@
             "source_title": "ED raids Pinarayi Vijayan's residences in CMRL-Exalogic case - The Hindu",
             "scraped_at": "2026-05-28 00:10:22.645050",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu The **Kerala High Court** has ordered the **Enforcement Directorate (ED)** to maintain the status quo in the pay-off case in",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-case-hc-directs-status-quo-till-friday/article71048544.ece",
+            "source_title": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu",
+            "scraped_at": "2026-06-01 16:44:42.459812",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-12",
         "controversies": []
       },
       {
@@ -1358,7 +1383,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
         "image_placeholder": "bhupesh_baghel",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu The **Supreme Court of India** agreed to hear a case regarding the ability of investigating a",
+            "source_url": "https://www.thehindu.com/news/national/chaitanya-baghel-case-supreme-court-to-hear-question-of-law-ed-maintains-case-is-infructuous/article70774544.ece",
+            "source_title": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu",
+            "scraped_at": "2026-03-23 06:50:48.893317",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Bhupesh Baghel cited alliance principles when addressing Hemant Soren's complaint about the candidate announcement.",
@@ -1367,7 +1400,8 @@
             "scraped_at": "2026-06-07 11:52:49.380769"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-12"
       },
       {
         "name": "C. Joseph Vijay",
@@ -2407,7 +2441,7 @@
         "cm": "Nayab Singh Saini",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-11"
+        "cm_last_updated": "2026-06-12"
       },
       {
         "name": "Himachal Pradesh",
@@ -2511,7 +2545,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-11"
+        "party_last_updated": "2026-06-12"
       },
       {
         "name": "Rajasthan",
@@ -2539,7 +2573,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-11"
+        "party_last_updated": "2026-06-12"
       },
       {
         "name": "Telangana",
@@ -2567,7 +2601,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-11"
+        "cm_last_updated": "2026-06-12"
       },
       {
         "name": "Uttarakhand",
