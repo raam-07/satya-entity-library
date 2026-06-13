@@ -44,7 +44,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install gspread oauth2client spacy requests huggingface_hub
+          pip install gspread oauth2client spacy requests huggingface_hub libsql
           # Compile llama-cpp-python with native AVX2 vector acceleration (slashes Gemma runtimes by 20x)
           CMAKE_ARGS="-DGGML_AVX=ON -DGGML_AVX2=ON -DGGML_FMA=ON" pip install llama-cpp-python==0.2.90
           python -m spacy download en_core_web_sm
@@ -82,6 +82,8 @@ jobs:
         env:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+          SATYA_DB_URL: ${{ secrets.SATYA_DB_URL }}
+          SATYA_DB_TOKEN: ${{ secrets.SATYA_DB_TOKEN }}
           RESCAN_HISTORY: ${{ inputs.rescan_history && 'true' || 'false' }}
         run: |
           python entity_updater.py --process
@@ -125,10 +127,12 @@ jobs:
             echo "No changes to commit"
           fi
 
-      - name: Commit Google Sheet Updates
+      - name: Commit Database Updates
         env:
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
           ENTITIES_JSON_URL: ${{ secrets.ENTITIES_JSON_URL }}
+          SATYA_DB_URL: ${{ secrets.SATYA_DB_URL }}
+          SATYA_DB_TOKEN: ${{ secrets.SATYA_DB_TOKEN }}
         run: |
           python entity_updater.py --commit-sheet
 
@@ -137,7 +141,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "More unprocessed articles remain in the Google Sheet. Triggering next batch run..."
+          echo "More unprocessed articles remain in the Database. Triggering next batch run..."
           curl -X POST \
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \

@@ -25,15 +25,12 @@ import re
 import requests
 from datetime import datetime, timedelta
 from collections import defaultdict, Counter
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+import sqlite3
+import zlib
 
 # ==============================================================================
 # --- CONFIGURATION ---
 # ==============================================================================
-CLASSIFIED_SHEET_NAME    = 'Satya Classified'
-CLASSIFIED_WORKSHEET_NAME = 'Sheet1'
-
 ENTITIES_JSON_URL = os.environ.get('ENTITIES_JSON_URL', '')
 
 ENTITIES_OUTPUT_PATH    = './entities.json'
@@ -60,47 +57,141 @@ logging.basicConfig(
 )
 
 # ==============================================================================
-# --- GOOGLE SHEETS SETUP ---
+# --- DATABASE CONFIGURATION ---
 # ==============================================================================
-
-def connect_to_sheets():
-    logging.info("Connecting to Google Sheets...")
-    scope = [
-        "https://spreadsheets.google.com/feeds",
-        "https://www.googleapis.com/auth/drive"
+def load_env():
+    env_paths = [
+        os.path.join(os.path.dirname(__file__), '.env'),
+        os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
     ]
-    gcp_json = os.environ.get("GCP_SERVICE_ACCOUNT_JSON")
-    if not gcp_json:
-        raise ValueError("GCP_SERVICE_ACCOUNT_JSON missing!")
-    creds_dict = json.loads(gcp_json)
-    creds  = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
-    client = gspread.authorize(creds)
-    sheet  = client.open(CLASSIFIED_SHEET_NAME).worksheet(CLASSIFIED_WORKSHEET_NAME)
-    logging.info("Connected to Classified Sheet.")
-    return sheet
+    for env_path in env_paths:
+        if os.path.exists(env_path):
+            with open(env_path, 'r') as f:
+                for line in f:
+                    line = line.strip()
+                    if line and not line.startswith('#') and '=' in line:
+                        key, val = line.split('=', 1)
+                        os.environ[key.strip()] = val.strip()
 
+load_env()
 
-def fetch_articles(sheet):
-    logging.info("Fetching all classified articles...")
-    raw_data = sheet.col_values(1)
-    articles = []
-    for row_idx, cell in enumerate(raw_data, start=1):
-        if not cell:
-            continue
+default_db_path = '/Users/mac/Downloads/Code/Satya/satya.db'
+if not os.path.exists(os.path.dirname(default_db_path)):
+    default_db_path = os.path.join(os.path.dirname(__file__), 'satya.db')
+
+DB_PATH = os.environ.get('SATYA_DB_PATH', default_db_path)
+
+def get_db_connection():
+    db_url = os.environ.get('SATYA_DB_URL')
+    db_token = os.environ.get('SATYA_DB_TOKEN')
+    
+    if db_url and (db_url.startswith('libsql://') or db_url.startswith('https://')):
         try:
-            article = json.loads(cell)
-            article['row_idx'] = row_idx
-            scraped_raw = article.get('scraped_at', '')
+            import libsql
+            return libsql.connect(database=db_url, auth_token=db_token)
+        except ImportError:
+            logging.error("libsql package not installed. Falling back to local sqlite3.")
+            
+    return sqlite3.connect(DB_PATH)
+
+def fetch_articles(conn):
+    logging.info("Fetching classified articles from SQLite database...")
+    articles = []
+    try:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
+                   category, sentiment, sentiment_target, rephrased_article, 
+                   party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
+                   topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
+                   classified_at, status 
+            FROM articles 
+            WHERE status IN ('classified', 'entity_processed', 'processed')
+        """)
+        rows = cursor.fetchall()
+    except Exception as e:
+        logging.error(f"Failed to query articles from database: {e}")
+        return []
+
+    for r in rows:
+        article_id = r[0]
+        cluster_id = r[1]
+        source_id = r[2]
+        title = r[3]
+        url = r[4]
+        compressed_content = r[5]
+        image_url = r[6]
+        scraped_timestamp = r[7]
+        category = r[8]
+        sentiment = r[9]
+        sentiment_target = r[10]
+        compressed_rephrased = r[11]
+        party_mentioned_str = r[12]
+        ministers_mentioned_str = r[13]
+        states_mentioned_str = r[14]
+        cities_mentioned_str = r[15]
+        topic_tags_str = r[16]
+        civic_flag_val = r[17]
+        civic_flag_score_val = r[18]
+        civic_flag_category_val = r[19]
+        civic_flag_reason_val = r[20]
+        classified_at_val = r[21]
+        status_val = r[22]
+
+        try:
+            content = zlib.decompress(compressed_content).decode('utf-8') if compressed_content else ""
+        except Exception:
+            content = ""
+
+        try:
+            rephrased = zlib.decompress(compressed_rephrased).decode('utf-8') if compressed_rephrased else content
+        except Exception:
+            rephrased = content
+
+        scraped_at_str = ""
+        if scraped_timestamp:
             try:
-                article['scraped_dt'] = datetime.strptime(
-                    str(scraped_raw).split('.')[0], "%Y-%m-%d %H:%M:%S"
-                )
+                scraped_at_str = datetime.fromtimestamp(scraped_timestamp).strftime("%Y-%m-%d %H:%M:%S")
             except Exception:
-                article['scraped_dt'] = datetime.now() - timedelta(days=365)
-            articles.append(article)
-        except json.JSONDecodeError:
-            continue
-    logging.info(f"Fetched {len(articles)} classified articles.")
+                pass
+
+        # Maintain exact backward compatibility keys
+        article = {
+            'id': article_id,
+            'row_idx': article_id,  # Map row_idx to id for database write-backs
+            'cluster_id': cluster_id,
+            'source_id': source_id,
+            'title': title,
+            'url': url,
+            'content': content,
+            'image_url': image_url,
+            'scraped_at': scraped_at_str,
+            'category': category,
+            'sentiment': sentiment,
+            'sentiment_target': sentiment_target,
+            'rephrased_article': rephrased if rephrased else content,
+            'party_mentioned': json.loads(party_mentioned_str) if party_mentioned_str else [],
+            'ministers_mentioned': json.loads(ministers_mentioned_str) if ministers_mentioned_str else [],
+            'states_mentioned': json.loads(states_mentioned_str) if states_mentioned_str else [],
+            'cities_mentioned': json.loads(cities_mentioned_str) if cities_mentioned_str else [],
+            'topic_tags': json.loads(topic_tags_str) if topic_tags_str else [],
+            'civic_flag': civic_flag_val == 1,
+            'civic_flag_score': civic_flag_score_val or 0,
+            'civic_flag_category': civic_flag_category_val,
+            'civic_flag_reason': civic_flag_reason_val,
+            'classified_at': classified_at_val,
+            'status': status_val,
+            'ministers_canonicalized': (status_val in ('entity_processed', 'processed'))
+        }
+
+        try:
+            article['scraped_dt'] = datetime.fromtimestamp(scraped_timestamp) if scraped_timestamp else datetime.now()
+        except Exception:
+            article['scraped_dt'] = datetime.now() - timedelta(days=365)
+
+        articles.append(article)
+
+    logging.info(f"Fetched {len(articles)} classified/processed articles from database.")
     return articles
 
 
@@ -438,10 +529,9 @@ Reply with ONLY the exact name from the options. No explanation.
         # Always mark processed and write back (even if no name changes)
         article['ministers_mentioned']    = canonicalized
         article['ministers_canonicalized'] = True
-        article_to_write = {k: v for k, v in article.items() if k not in ('scraped_dt', 'row_idx')}
         batch_updates.append({
-            'range':  f'A{row_idx}',
-            'values': [[json.dumps(article_to_write, ensure_ascii=False)]],
+            'id': article['id'],
+            'ministers_mentioned': canonicalized
         })
 
     # Write audit log BEFORE returning — keeps log on disk
@@ -461,30 +551,31 @@ Reply with ONLY the exact name from the options. No explanation.
     return batch_updates
 
 
-def commit_sheet_updates(sheet, batch_updates):
+def commit_sheet_updates(conn, batch_updates):
     """
-    Writes a list of batch updates back to the Google Sheet in safe chunks of 100
-    to prevent API payload crashes and respect rate limits.
+    Writes a list of batch updates back to the SQLite/Turso database.
     """
     if not batch_updates:
-        logging.info("No updates to commit to Google Sheets.")
+        logging.info("No updates to commit to Database.")
         return
 
-    chunk_size = 100
-    logging.info(f"Sending {len(batch_updates)} updates to Google Sheets in chunks of {chunk_size}...")
-    for i in range(0, len(batch_updates), chunk_size):
-        chunk = batch_updates[i : i + chunk_size]
-        try:
-            sheet.batch_update(chunk)
-            logging.info(f"Wrote batch of {len(chunk)} updates (progress: {i + len(chunk)}/{len(batch_updates)})")
-            time.sleep(1.0)  # Brief pause to respect API rate limits
-        except Exception as e:
-            logging.warning(f"Batch write failed at index {i} due to: {e}. Retrying after 5s...")
-            time.sleep(5.0)
-            sheet.batch_update(chunk)
-            logging.info("Batch retry successful.")
+    logging.info(f"Committing {len(batch_updates)} updates to Database...")
+    try:
+        cursor = conn.cursor()
+        for update in batch_updates:
+            article_id = update['id']
+            ministers = json.dumps(update['ministers_mentioned'])
+            cursor.execute("""
+                UPDATE articles 
+                SET ministers_mentioned = ?, status = 'entity_processed' 
+                WHERE id = ?
+            """, (ministers, article_id))
+        conn.commit()
+    except Exception as e:
+        logging.error(f"Failed to commit database updates: {e}")
+        raise e
     
-    logging.info("Successfully committed all updates to Google Sheets.")
+    logging.info("Successfully committed all updates to Database.")
 
 # ==============================================================================
 # --- spaCy NER SETUP ---
@@ -1720,31 +1811,39 @@ def main():
     start_time = time.time()
     logging.info(f"--- Satya Entity Updater Started (Mode: {mode}) ---")
 
-    sheet = connect_to_sheets()
+    try:
+        conn = get_db_connection()
+    except Exception as e:
+        logging.critical(f"Failed to connect to database: {e}")
+        sys.exit(1)
 
     if mode == "commit-sheet":
         pending_file = './pending_sheet_updates.json'
         if not os.path.exists(pending_file):
-            logging.info("No pending Google Sheet updates found. Exiting.")
+            logging.info("No pending Database updates found. Exiting.")
+            conn.close()
             return
         try:
             with open(pending_file, 'r') as f:
                 batch_updates = json.load(f)
             logging.info(f"Loaded {len(batch_updates)} pending updates from disk.")
-            commit_sheet_updates(sheet, batch_updates)
+            commit_sheet_updates(conn, batch_updates)
             # Remove the file so we don't apply it again
             os.remove(pending_file)
             logging.info("Removed pending_sheet_updates.json")
         except Exception as e:
-            logging.error(f"Failed to commit sheet updates: {e}")
+            logging.error(f"Failed to commit database updates: {e}")
+            conn.close()
             sys.exit(1)
+        conn.close()
         return
 
     # Else: process or both
-    articles = fetch_articles(sheet)
+    articles = fetch_articles(conn)
 
     if not articles:
         logging.error("No articles found. Exiting.")
+        conn.close()
         return
 
     entities = load_entities()
@@ -1754,6 +1853,7 @@ def main():
     nlp = load_spacy()
     if nlp is None:
         logging.error("spaCy failed to load. Exiting.")
+        conn.close()
         return
 
     # Gemma loaded first — needed by both entity discovery and canonicalization
@@ -1801,7 +1901,7 @@ def main():
 
         # Step 2: Canonicalise ministers_mentioned across the unprocessed chunk in memory.
         # Returns batch updates list.
-        batch_updates = canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm)
+        batch_updates = canonicalize_ministers_in_sheet(conn, unprocessed_chunk, entities, llm)
 
         # Step 3: Run promise extraction on newly canonicalized chunk
         new_promises = extract_promises(unprocessed_chunk, entities, nlp, llm)
@@ -1889,7 +1989,7 @@ def main():
         pending_file = './pending_sheet_updates.json'
         with open(pending_file, 'w', encoding='utf-8') as f:
             json.dump(batch_updates, f, indent=2, ensure_ascii=False)
-        logging.info(f"Saved {len(batch_updates)} pending Google Sheet updates to {pending_file}")
+        logging.info(f"Saved {len(batch_updates)} pending Database updates to {pending_file}")
 
         # Write GITHUB_OUTPUT for self-triggering recursive loops in GitHub Actions
         github_output = os.environ.get('GITHUB_OUTPUT')
@@ -1906,8 +2006,9 @@ def main():
                 logging.warning(f"Failed to write GITHUB_OUTPUT: {e}")
     elif mode == "both":
         # Commit immediately for manual/local testing
-        commit_sheet_updates(sheet, batch_updates)
+        commit_sheet_updates(conn, batch_updates)
 
+    conn.close()
     elapsed = round(time.time() - start_time, 2)
     logging.info(f"--- Entity Updater Finished in {elapsed}s ---")
     logging.info(f"Summary: {review_output['summary']}")
