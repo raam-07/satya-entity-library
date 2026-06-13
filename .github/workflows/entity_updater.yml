@@ -1,16 +1,16 @@
 name: Satya Entity Updater
 
 on:
-  schedule:
-    # Runs daily at 02:00 UTC (script header says weekly/periodic; every-5-min
-    # was burning Actions minutes — the self-loop below already handles backlog)
-    - cron: '0 2 * * *'
-  workflow_dispatch:
-    inputs:
-      rescan_history:
-        description: 'One-off full-history rescan of all articles for criminal cases/controversies (slow)'
-        type: boolean
-        default: false
+  # schedule:
+  #   # Runs daily at 02:00 UTC (script header says weekly/periodic; every-5-min
+  #   # was burning Actions minutes — the self-loop below already handles backlog)
+  #   - cron: '0 2 * * *'
+  # workflow_dispatch:
+  #   inputs:
+  #     rescan_history:
+  #       description: 'One-off full-history rescan of all articles for criminal cases/controversies (slow)'
+  #       type: boolean
+  #       default: false
 
 concurrency:
   group: satya-entity-updater
