@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-12 12:28:54.959851",
+  "generated_at": "2026-06-13 06:15:21.791764",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 7,
-    "gaffe_updates_applied": 17,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -17,8 +17,8 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.62,
-      "mentions": 5,
+      "confidence": 0.5,
+      "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
     },
@@ -53,8 +53,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.73,
-      "mentions": 16,
+      "confidence": 0.7,
+      "mentions": 14,
       "reason": "Below auto-update threshold",
       "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
