@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -1506,7 +1506,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-12",
+        "criminal_last_updated": "2026-06-14",
         "controversies": []
       },
       {
