@@ -1,113 +1,16 @@
 {
-  "generated_at": "2026-06-13 06:15:21.791764",
+  "generated_at": "2026-06-14 06:53:24.234216",
   "summary": {
-    "cm_updates_applied": 2,
-    "party_updates_applied": 2,
+    "cm_updates_applied": 0,
+    "party_updates_applied": 0,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 11
+    "items_needing_review": 0
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "Pinarayi Vijayan",
-      "confidence": 0.53,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "oll campaign in Kerala, calling the people of Gujarat \"illiterate\" and claiming they were being \"fooled\" by Prime Minister Narendra Modi. At the same time, Mr. Kharge said neither Mr. Modi nor Kerala "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.56,
-      "mentions": 9,
-      "reason": "Below auto-update threshold",
-      "context": "took a dig at the Trinamool Congress regime and said parliamentary processes were not followed during the Mamata Banerjee rule. On Tuesday morning (May 12, 2026), Mr Adhikari was present at the oath-t"
-    },
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.6,
-      "mentions": 15,
-      "reason": "Below auto-update threshold",
-      "context": "e party’s first Chief Minister in West Bengal. Also read | How BJP won West Bengal The BJP registered a historic victory in the just-held Assembly elections, ending the TMC’s 15-year rule and dealing "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "Siddaramaiah",
-      "confidence": 0.7,
-      "mentions": 14,
-      "reason": "Below auto-update threshold",
-      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Madhya Pradesh",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.55,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "heir legislature party. The decision was made unanimously during a meeting held at 1, Anne Marg, with **Neeraj Kumar**, JD(U) chief spokesperson, confirming the authorization. The Janata Dal (United) "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Karnataka",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.83,
-      "reason": "Gemma rejected",
-      "context": "Fresh overhaul in Suvendu Adhikari administration likely in near future, say officials - The Hindu The newly installed **Suvendu Adhikari**-led BJP government in West Bengal is undertaking a sweeping "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Telangana",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "to move the nation forward together.  \n\nEarlier in his speech, **Rao** welcomed former BRS leaders into the BJP, highlighting the party's commitment to fighting against \"anti-people policies\" of the C"
-    }
-  ]
+  "items_needing_manual_review": []
 }
