@@ -1447,7 +1447,7 @@ Return ONLY a JSON object with these exact fields:
   "role": "their exact role e.g. Chief Minister of Karnataka, Union Minister of Finance, Member of Parliament, MLA, Regional Spokesperson",
   "party": "their political party abbreviation e.g. BJP, INC, AAP, TMC, DMK",
   "state": "their home state or null if national-level",
-  "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader" or "generic_politician",
+  "category": "cabinet_minister" (Union/National Cabinet Ministers of India ONLY) or "state_chief_minister" or "opposition_leader" or "generic_politician" (including State-level Cabinet Ministers, MLAs, MPs, regional leaders),
   "confidence": "high" or "medium" or "low"
 }}
 No explanation. No extra text.
@@ -1480,6 +1480,17 @@ No explanation. No extra text.
             # Validate category
             if category not in valid_categories:
                 category = 'generic_politician'
+
+            # Guardrail: Union cabinet ministers must belong to the ruling national coalition (BJP/NDA).
+            # If categorized as cabinet_minister but party is not in the coalition, or role is state-level,
+            # downgrade to generic_politician.
+            if category == 'cabinet_minister':
+                union_coalition = {'bjp', 'nda', 'ljp', 'jdu', 'tdp'}
+                role_lower = role.lower()
+                is_union_party = party.lower() in union_coalition
+                if not is_union_party or any(x in role_lower for x in ('bengaluru', 'mumbai', 'delhi', 'karnataka', 'maharashtra', 'state-level', 'state cabinet')):
+                    logging.info(f"Guardrail: Downgrading {full_name} ({role}) from cabinet_minister to generic_politician")
+                    category = 'generic_politician'
 
             if full_name.lower() in blocked_names or name.lower() in blocked_names:
                 logging.info(f"SKIP (institution/party, not a person): {full_name}")

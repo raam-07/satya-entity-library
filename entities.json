@@ -550,24 +550,6 @@
         "criminal_cases_in_news": 0
       },
       {
-        "name": "Krishna Byre Gowda",
-        "role": "Minister of Bengaluru Development",
-        "party": "INC",
-        "state": "Karnataka",
-        "aliases": [
-          "Bengaluru Development"
-        ],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
-        "image_placeholder": "krishna_byre_gowda",
-        "auto_added": true,
-        "auto_added_on": "2026-06-06",
-        "gemma_confidence": "high",
-        "mentions_detected": 5
-      },
-      {
         "name": "G. Kishan Reddy",
         "role": "Union Minister for Coal & Mines",
         "party": "BJP",
@@ -2352,6 +2334,24 @@
       }
     ],
     "generic_politicians": [
+      {
+        "name": "Krishna Byre Gowda",
+        "role": "Minister of Bengaluru Development",
+        "party": "INC",
+        "state": "Karnataka",
+        "aliases": [
+          "Bengaluru Development"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
+        "image_placeholder": "krishna_byre_gowda",
+        "auto_added": true,
+        "auto_added_on": "2026-06-06",
+        "gemma_confidence": "high",
+        "mentions_detected": 5
+      },
       {
         "name": "S.P. Velumani",
         "role": "MLA",
