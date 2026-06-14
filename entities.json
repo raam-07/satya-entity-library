@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "criminal_updates": 2,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -1827,7 +1827,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-14"
       },
       {
         "name": "Himanta Biswa Sarma",
@@ -1900,7 +1900,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -1936,9 +1936,16 @@
             "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
             "scraped_at": "2026-05-05 03:44:09.432326",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu The **West Bengal** government has initiated a crackdown on alleged post-poll violence and f",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-reopens-59-cases-linked-to-2021-post-poll-violence-181-fresh-firs-registered/article70993198.ece",
+            "source_title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu",
+            "scraped_at": "2026-05-18 17:37:48",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-14",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
@@ -4430,6 +4437,16 @@
       "source_url": "https://www.thehindu.com/opinion/editorial/unity-in-diversity-on-the-india-bloc-meeting/article71076818.ece",
       "source_title": "Unity in diversity: On the INDIA bloc meeting - The Hindu",
       "scraped_at": "2026-06-08 19:24:13.989866",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Krishna Byre Gowda",
+      "promise_text": "severe punishment for the perpetrators",
+      "source_url": "https://www.thehindu.com/news/national/kerala/strict-action-in-nedumangad-child-murder-case-minister/article71044549.ece",
+      "source_title": "Strict action in Nedumangad child murder case: Minister - The Hindu",
+      "scraped_at": "2026-05-31 09:53:52",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
