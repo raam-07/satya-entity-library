@@ -8,7 +8,7 @@
       "cm_updates": 0,
       "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4448,6 +4448,16 @@
       "source_title": "Strict action in Nedumangad child murder case: Minister - The Hindu",
       "scraped_at": "2026-05-31 09:53:52",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "to transform Thummalapenta into a model village",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-emerging-as-industrial-hub-with-10000-crore-investment-chandrababu-naidu/article70998786.ece",
+      "source_title": "Nellore emerging as industrial hub with ₹10,000 crore investment: Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-05-20 00:50:04",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
