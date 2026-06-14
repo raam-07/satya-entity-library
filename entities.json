@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 1,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -3056,8 +3056,8 @@
         "ruling_party": "BJP",
         "cm": "Yogi Adityanath",
         "region": "North",
-        "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-13"
+        "cm_confidence": 1.0,
+        "cm_last_updated": "2026-06-14"
       },
       {
         "name": "Uttarakhand",
