@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 3,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 13
     },
     "rescan_history": {
       "in_progress": false,
@@ -204,6 +204,12 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
             "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-06-03 00:14:15.719327"
+          },
+          {
+            "incident_text": "Jairam Ramesh claimed the Model Code of Conduct would be used by the ruling party as 'Modi's Code of Campaigning'.",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
+            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
+            "scraped_at": "2026-03-15 11:13:04"
           }
         ]
       },
@@ -328,6 +334,13 @@
             "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
             "scraped_at": "2026-06-10 12:26:35.086682",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu The **National Democratic Alliance** (NDA) secured all five Rajya Sabha seats in Bihar and three in Odisha, whi",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 13:27:35",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -348,10 +361,16 @@
             "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
             "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
             "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge alleged attempts to interfere with the integrity of the Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 13:27:35"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Smriti Irani",
@@ -701,6 +720,18 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
             "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
             "scraped_at": "2026-06-10 21:37:18.591976"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed India's energy security was compromised due to flawed foreign policy.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-spreading-misinformation-on-energy-issue-says-giriraj-singh/article70738734.ece",
+            "source_title": "Rahul Gandhi spreading misinformation on energy issue, says Giriraj Singh - The Hindu",
+            "scraped_at": "2026-03-13 05:15:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi's party's actions contradict its promises to uphold the Constitution and the anti-defection framework.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/is-an-mla-contesting-mp-poll-on-another-partys-b-form-not-defection-asks-harish-rao/article70738615.ece",
+            "source_title": "Is an MLA contesting MP poll on another party’s B-Form not defection? asks Harish Rao - The Hindu",
+            "scraped_at": "2026-03-13 05:15:18"
           }
         ]
       },
@@ -812,7 +843,7 @@
           }
         ],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Arvind Kejriwal",
@@ -895,6 +926,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
             "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
             "scraped_at": "2026-03-15 10:37:28.561089"
+          },
+          {
+            "incident_text": "Mayawati claimed the Congress never honored Ambedkar and therefore cannot honor Kanshi Ram.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-accuses-congress-of-misusing-kanshi-rams-name-for-political-gains/article70743312.ece",
+            "source_title": "Mayawati accuses Congress of misusing Kanshi Ram's name for political gains - The Hindu",
+            "scraped_at": "2026-03-14 07:33:14"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1388,6 +1425,12 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/akhilesh-yadav-congress-india-bloc-remark-10733870/",
             "source_title": "Delhi Confidential: Guess Who? | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-06-10 23:29:24.834004"
+          },
+          {
+            "incident_text": "Siddaramaiah is accused of yielding to pressure against internal reservation for Scheduled Castes.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bommai-accuses-cm-of-yielding-to-those-opposing-internal-reservation/article70740228.ece",
+            "source_title": "Bommai accuses CM of yielding to those opposing internal reservation - The Hindu",
+            "scraped_at": "2026-03-13 10:39:01"
           }
         ]
       },
@@ -1444,6 +1487,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
             "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
             "scraped_at": "2026-06-07 18:52:22.571559"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed the Asian Development Bank sanctioned ₹4,100 crore for the Musi Riverfront Development project.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/brs-alleges-cm-misled-assembly-on-adb-loan-for-musi-project/article70739720.ece",
+            "source_title": "BRS alleges CM misled Assembly on ADB loan for Musi project - The Hindu",
+            "scraped_at": "2026-03-13 12:37:49"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1799,6 +1848,12 @@
             "source_url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
             "source_title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
             "scraped_at": "2026-03-16 23:01:00.277422"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated the Congress high command will decide if MPs contest the Assembly election.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-high-command-will-decide-on-mps-contesting-says-satheesan/article70742605.ece",
+            "source_title": "Kerala Assembly elections: High command will decide on MPs contesting, says Satheesan - The Hindu",
+            "scraped_at": "2026-03-14 05:07:22"
           }
         ],
         "criminal_last_updated": "2026-06-11"
@@ -2293,7 +2348,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-12",
+        "criminal_last_updated": "2026-06-15",
         "controversies": [
           {
             "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
