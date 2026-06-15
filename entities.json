@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4458,6 +4458,16 @@
       "source_title": "Nellore emerging as industrial hub with ₹10,000 crore investment: Chandrababu Naidu - The Hindu",
       "scraped_at": "2026-05-20 00:50:04",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Lalu Prasad Yadav",
+      "promise_text": "expatriates that their concerns would be addressed",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/over-1000-telugu-expats-participate-in-mahanadu-by-nri-tdp-saudi-arabia-chapter-in-dammam/article70989752.ece",
+      "source_title": "Over 1,000 Telugu expats participate in Mahanadu event in Saudi Arabia - The Hindu",
+      "scraped_at": "2026-05-17 08:38:55",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
