@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 3,
+      "cm_updates": 5,
       "party_updates": 0,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "criminal_updates": 2,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -641,7 +641,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-12",
+        "criminal_last_updated": "2026-06-15",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -974,9 +974,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sharad_Pawar",
         "image_placeholder": "sharad_pawar",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu **Satyaki Savarkar**, the grandnephew of Vinayak Savarkar, testified in a defamation case against **",
+            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
+            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
+            "scraped_at": "2026-04-09 04:25:44",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-15",
         "controversies": [
           {
             "incident_text": "Sharad Pawar stated there cannot be any comparison between Jawaharlal Nehru and Narendra Modi.",
@@ -1215,7 +1223,7 @@
           "Nitish",
           "Former Bihar CM"
         ],
-        "role": "Former Chief Minister / JDU President",
+        "role": "Chief Minister / JDU President",
         "state": "Bihar",
         "party": "JDU",
         "ruling_since": "2005",
@@ -1243,7 +1251,7 @@
           "Choudhary",
           "Bihar Chief Minister"
         ],
-        "role": "Chief Minister",
+        "role": "Former Chief Minister",
         "state": "Bihar",
         "party": "BJP",
         "ruling_since": "2026",
@@ -2529,7 +2537,6 @@
         "ruling_states": [
           "Arunachal Pradesh",
           "Assam",
-          "Bihar",
           "Chhattisgarh",
           "Goa",
           "Gujarat",
@@ -2676,7 +2683,9 @@
         "founded": "1999",
         "president": "Nitish Kumar",
         "coalition": "NDA",
-        "ruling_states": [],
+        "ruling_states": [
+          "Bihar"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Janata_Dal_(United)",
         "color": "#00FF00"
       },
@@ -2924,11 +2933,11 @@
         "name": "Bihar",
         "aliases": [],
         "capital": "Patna",
-        "ruling_party": "BJP",
-        "cm": "Samrat Choudhary",
+        "ruling_party": "JDU",
+        "cm": "Nitish Kumar",
         "region": "East",
-        "cm_confidence": 1.0,
-        "cm_last_updated": "2026-06-01"
+        "cm_confidence": 0.83,
+        "cm_last_updated": "2026-06-15"
       },
       {
         "name": "Chhattisgarh",
@@ -2995,8 +3004,8 @@
         "ruling_party": "INC",
         "cm": "Siddaramaiah",
         "region": "South",
-        "cm_confidence": 0.84,
-        "cm_last_updated": "2026-06-11"
+        "cm_confidence": 0.78,
+        "cm_last_updated": "2026-06-15"
       },
       {
         "name": "Kerala",
@@ -3005,7 +3014,7 @@
         "ruling_party": "CPM",
         "cm": "Pinarayi Vijayan",
         "region": "South",
-        "cm_confidence": 0.78,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-15"
       },
       {
@@ -3151,7 +3160,7 @@
         "region": "East",
         "party_confidence": 0.83,
         "party_last_updated": "2026-06-11",
-        "cm_confidence": 0.86,
+        "cm_confidence": 0.88,
         "cm_last_updated": "2026-06-15"
       },
       {
@@ -4602,6 +4611,16 @@
       "source_url": "https://www.thehindu.com/news/national/kerala/kerala-cm-condemns-assassination-attempt-on-former-jk-cm-farooq-abdullah/article70734337.ece",
       "source_title": "Kerala CM condemns assassination attempt on former J&K CM Farooq Abdullah - The Hindu",
       "scraped_at": "2026-03-12 06:24:58",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nirmala Sitharaman",
+      "promise_text": "appropriate action on the request",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/mp-urges-inclusion-of-mysuru-in-urban-economic-zone-scheme/article70732110.ece",
+      "source_title": "MP urges inclusion of Mysuru in ‘urban economic zone’ scheme - The Hindu",
+      "scraped_at": "2026-03-12 04:41:17",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
