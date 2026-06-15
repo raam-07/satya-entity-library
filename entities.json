@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4478,6 +4478,16 @@
       "source_title": "PM Narendra Modi, Donald Trump Will Meet In France, Confirms White House",
       "scraped_at": "2026-06-13 16:00:48",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Himanta Biswa Sarma",
+      "promise_text": "this action was part of the ongoing \"Mission Clean Up\" initiative and emphasized his commitment to expelling all illegal migrants from Assam",
+      "source_url": "https://www.thehindu.com/news/national/assam/12-illegal-immigrants-from-bangladesh-pushed-back-assam-cm/article70738065.ece",
+      "source_title": "12 illegal immigrants from Bangladesh 'pushed back': Assam CM - The Hindu",
+      "scraped_at": "2026-03-13 00:06:35",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
