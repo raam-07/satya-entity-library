@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 3,
       "party_updates": 0,
-      "criminal_updates": 4,
-      "new_promises": 2,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -1928,7 +1928,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-15",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -3005,7 +3005,7 @@
         "ruling_party": "CPM",
         "cm": "Pinarayi Vijayan",
         "region": "South",
-        "cm_confidence": 0.83,
+        "cm_confidence": 0.78,
         "cm_last_updated": "2026-06-15"
       },
       {
@@ -3151,7 +3151,7 @@
         "region": "East",
         "party_confidence": 0.83,
         "party_last_updated": "2026-06-11",
-        "cm_confidence": 0.8,
+        "cm_confidence": 0.86,
         "cm_last_updated": "2026-06-15"
       },
       {
