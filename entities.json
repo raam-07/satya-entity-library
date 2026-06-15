@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 4,
       "party_updates": 0,
-      "criminal_updates": 2,
+      "criminal_updates": 4,
       "new_promises": 2,
-      "gaffe_updates": 11
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -1011,7 +1011,7 @@
         ],
         "controversies": [],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Tejashwi Yadav",
@@ -1262,7 +1262,7 @@
         ],
         "controversies": [],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Mamata Banerjee",
@@ -1272,7 +1272,7 @@
           "Bengal CM",
           "TMC Chief"
         ],
-        "role": "Former Chief Minister / TMC Chairperson",
+        "role": "Chief Minister / TMC Chairperson",
         "state": "West Bengal",
         "party": "TMC",
         "ruling_since": "2011",
@@ -1400,7 +1400,7 @@
         ],
         "criminal_cases_in_news": 12,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Siddaramaiah",
@@ -1529,7 +1529,7 @@
           "Pinarayi",
           "Kerala CM"
         ],
-        "role": "Former Chief Minister",
+        "role": "Chief Minister",
         "state": "Kerala",
         "party": "CPM",
         "ruling_since": "2016",
@@ -1829,7 +1829,7 @@
       },
       {
         "name": "V.D. Satheesan",
-        "role": "Chief Minister of Kerala",
+        "role": "Former Chief Minister of Kerala",
         "party": "INC",
         "state": "Kerala",
         "aliases": [],
@@ -1862,7 +1862,7 @@
             "scraped_at": "2026-03-14 05:07:22"
           }
         ],
-        "criminal_last_updated": "2026-06-11"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Sheikh Abdullah",
@@ -1956,7 +1956,7 @@
       },
       {
         "name": "Suvendu Adhikari",
-        "role": "Chief Minister of West Bengal",
+        "role": "Former Chief Minister of West Bengal",
         "party": "BJP",
         "state": "West Bengal",
         "aliases": [],
@@ -2542,7 +2542,6 @@
           "Tripura",
           "Uttar Pradesh",
           "Uttarakhand",
-          "West Bengal",
           "Delhi"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
@@ -2563,7 +2562,6 @@
         "ruling_states": [
           "Himachal Pradesh",
           "Karnataka",
-          "Kerala",
           "Telangana"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Indian_National_Congress",
@@ -2598,7 +2596,9 @@
         "founded": "1998",
         "president": "Mamata Banerjee",
         "coalition": "INDIA Alliance",
-        "ruling_states": [],
+        "ruling_states": [
+          "West Bengal"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/All_India_Trinamool_Congress",
         "color": "#00FF00"
       },
@@ -2659,7 +2659,9 @@
         "founded": "1964",
         "president": "Sitaram Yechury",
         "coalition": "INDIA Alliance",
-        "ruling_states": [],
+        "ruling_states": [
+          "Kerala"
+        ],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
         "color": "#FF0000"
       },
@@ -2914,7 +2916,9 @@
         "capital": "Dispur",
         "ruling_party": "BJP",
         "cm": "Himanta Biswa Sarma",
-        "region": "Northeast"
+        "region": "Northeast",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-06-15"
       },
       {
         "name": "Bihar",
@@ -2998,9 +3002,11 @@
         "name": "Kerala",
         "aliases": [],
         "capital": "Thiruvananthapuram",
-        "ruling_party": "INC",
-        "cm": "V.D. Satheesan",
-        "region": "South"
+        "ruling_party": "CPM",
+        "cm": "Pinarayi Vijayan",
+        "region": "South",
+        "cm_confidence": 0.83,
+        "cm_last_updated": "2026-06-15"
       },
       {
         "name": "Madhya Pradesh",
@@ -3140,11 +3146,13 @@
           "WB"
         ],
         "capital": "Kolkata",
-        "ruling_party": "BJP",
-        "cm": "Suvendu Adhikari",
+        "ruling_party": "TMC",
+        "cm": "Mamata Banerjee",
         "region": "East",
         "party_confidence": 0.83,
-        "party_last_updated": "2026-06-11"
+        "party_last_updated": "2026-06-11",
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-06-15"
       },
       {
         "name": "Delhi",
@@ -4575,6 +4583,26 @@
       "source_title": "Kharge blames Centre for ‘security collapse’ after attack on Farooq Abdullah - The Hindu",
       "scraped_at": "2026-03-12 11:37:20",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "plans to enhance medical tourism in the state",
+      "source_url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-plans-reforms-to-boost-medical-tourism-improve-patient-access-says-cm-revanth-reddy/article70736010.ece",
+      "source_title": "Telangana plans reforms to boost medical tourism, improve patient access, says CM Revanth Reddy - The Hindu",
+      "scraped_at": "2026-03-12 10:04:54",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Pinarayi Vijayan",
+      "promise_text": "that such acts of violence are unacceptable in a democracy and offered his support to Dr",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-cm-condemns-assassination-attempt-on-former-jk-cm-farooq-abdullah/article70734337.ece",
+      "source_title": "Kerala CM condemns assassination attempt on former J&K CM Farooq Abdullah - The Hindu",
+      "scraped_at": "2026-03-12 06:24:58",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
