@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 0,
-      "criminal_updates": 2,
-      "new_promises": 1,
+      "criminal_updates": 7,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -73,9 +73,23 @@
             "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
             "scraped_at": "2026-06-10 12:26:35.086682",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu **Swati Maliwal**, a former **AAP** MP, accused her former party of changing its principles and becoming cor",
+            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
+            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
+            "scraped_at": "2026-04-25 04:06:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu **Prime Minister Narendra Modi** campaigned in West Bengal, emphasizing the BJP's commitment to citi",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-narendra-modi-rally-matua-bangaon-april-26-2026/article70908340.ece",
+            "source_title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
+            "scraped_at": "2026-04-26 12:19:14",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-14",
+        "criminal_last_updated": "2026-06-15",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -759,7 +773,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-15",
         "controversies": []
       },
       {
@@ -883,7 +897,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-15",
         "controversies": []
       },
       {
@@ -1510,7 +1524,7 @@
           }
         ],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-11"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "M.K. Stalin",
@@ -2936,7 +2950,7 @@
         "ruling_party": "JDU",
         "cm": "Nitish Kumar",
         "region": "East",
-        "cm_confidence": 0.83,
+        "cm_confidence": 0.86,
         "cm_last_updated": "2026-06-15"
       },
       {
@@ -3160,7 +3174,7 @@
         "region": "East",
         "party_confidence": 0.83,
         "party_last_updated": "2026-06-11",
-        "cm_confidence": 0.88,
+        "cm_confidence": 0.9,
         "cm_last_updated": "2026-06-15"
       },
       {
