@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 0,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4467,6 +4467,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/over-1000-telugu-expats-participate-in-mahanadu-by-nri-tdp-saudi-arabia-chapter-in-dammam/article70989752.ece",
       "source_title": "Over 1,000 Telugu expats participate in Mahanadu event in Saudi Arabia - The Hindu",
       "scraped_at": "2026-05-17 08:38:55",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that France holds a special place in India's strategic vision Prime Minister Narendra Modi will meet US President Donald Trump in France where the G7 summit is scheduled next week",
+      "source_url": "https://www.ndtv.com/world-news/pm-modi-trump-will-meet-in-france-confirms-white-house-11632469#publisher=newsstand",
+      "source_title": "PM Narendra Modi, Donald Trump Will Meet In France, Confirms White House",
+      "scraped_at": "2026-06-13 16:00:48",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
