@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 0,
-      "criminal_updates": 3,
-      "new_promises": 0,
-      "gaffe_updates": 13
+      "criminal_updates": 2,
+      "new_promises": 2,
+      "gaffe_updates": 11
     },
     "rescan_history": {
       "in_progress": false,
@@ -840,6 +840,12 @@
             "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
             "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
             "scraped_at": "2026-06-03 22:16:12.589341"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly endorsed a USCIRF report recommending sanctions against India's R&AW and RSS.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
+            "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
+            "scraped_at": "2026-03-18 17:16:37"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1786,7 +1792,7 @@
           }
         ],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "C. Joseph Vijay",
@@ -2013,6 +2019,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
             "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-09 15:41:48.731058"
+          },
+          {
+            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 12:37:10"
           }
         ]
       },
@@ -2445,7 +2457,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-15"
       },
       {
         "name": "Meenakshi Natarajan",
@@ -4542,6 +4554,26 @@
       "source_url": "https://www.thehindu.com/news/national/assam/12-illegal-immigrants-from-bangladesh-pushed-back-assam-cm/article70738065.ece",
       "source_title": "12 illegal immigrants from Bangladesh 'pushed back': Assam CM - The Hindu",
       "scraped_at": "2026-03-13 00:06:35",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that while the government had previously offered compensation of ₹30 lakh-₹40 lakh per acre",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/govt-considering-cash-compensation-instead-of-rehabilitation-for-ukp-iii-oustees-dk-shivakumar/article70734841.ece",
+      "source_title": "Govt. considering cash compensation instead of rehabilitation for UKP-III oustees: D.K. Shivakumar - The Hindu",
+      "scraped_at": "2026-03-12 10:07:14",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "JP Nadda",
+      "promise_text": "a comprehensive probe into the “murderous attack”",
+      "source_url": "https://www.thehindu.com/news/national/kharge-blames-centre-for-security-collapse-after-attack-on-farooq-abdullah/article70735010.ece",
+      "source_title": "Kharge blames Centre for ‘security collapse’ after attack on Farooq Abdullah - The Hindu",
+      "scraped_at": "2026-03-12 11:37:20",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
