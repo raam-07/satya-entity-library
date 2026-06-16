@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 7,
-      "new_promises": 3,
-      "gaffe_updates": 18
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -228,6 +228,12 @@
             "source_url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
             "source_title": "Modi is using a cannon to kill a cockroach | Narendra Modi | Al Jazeera",
             "scraped_at": "2026-06-09 10:11:05"
+          },
+          {
+            "incident_text": "Narendra Modi should first demand the resignation of his Education Minister Dharmendra Pradhan.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
+            "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
+            "scraped_at": "2026-06-16 13:21:21"
           }
         ]
       },
@@ -538,6 +544,12 @@
             "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
             "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
             "scraped_at": "2026-06-02 14:17:05"
+          },
+          {
+            "incident_text": "Dharmendra Pradhan has blocked the futures of millions of youth, according to Kharge.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
+            "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
+            "scraped_at": "2026-06-16 13:21:21"
           }
         ]
       },
@@ -1054,6 +1066,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
             "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
             "scraped_at": "2026-06-04 18:45:34"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that Prime Minister Modi should demand Education Minister Pradhan's resignation due to exam irregularities.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
+            "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
+            "scraped_at": "2026-06-16 13:21:21"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1232,7 +1250,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Lalu Prasad Yadav's poor health was cited as the reason for delaying the eviction of Rabri Devi from her official residence.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/rabri-devi-seeks-more-time-to-vacate-official-residence-cites-lalus-health/article71109099.ece",
+            "source_title": "Rabri Devi seeks more time to vacate official residence, cites Lalu’s health - The Hindu",
+            "scraped_at": "2026-06-16 13:20:23"
+          }
+        ],
         "criminal_cases_in_news": 1,
         "criminal_last_updated": "2026-06-15"
       },
