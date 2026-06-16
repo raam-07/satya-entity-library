@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 2,
-      "new_promises": 4,
+      "criminal_updates": 7,
+      "new_promises": 3,
       "gaffe_updates": 18
     },
     "rescan_history": {
@@ -465,7 +465,7 @@
           }
         ],
         "criminal_cases_in_news": 3,
-        "criminal_last_updated": "2026-06-15"
+        "criminal_last_updated": "2026-06-16"
       },
       {
         "name": "Smriti Irani",
@@ -658,6 +658,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
             "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
             "scraped_at": "2026-06-09 18:10:55.701145"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated that the BJP is the world's largest party and would never be a junior partner.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-wont-be-junior-partner-hardeep-puri-on-alliance-speculation-in-punjab-11633062#publisher=newsstand",
+            "source_title": "BJP Won't Be Junior Partner: Hardeep Puri On Alliance Speculation In Punjab",
+            "scraped_at": "2026-06-13 19:47:12"
           }
         ],
         "criminal_cases_in_news": 0
@@ -724,7 +730,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 8,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -766,6 +772,20 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
             "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
             "scraped_at": "2026-06-03 16:46:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express **The Congress** challenged the rejection of its candidate, **Meenakshi Natarajan**, f",
+            "source_url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
+            "source_title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
+            "scraped_at": "2026-06-10 16:09:20",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Hug row flares in INDIA bloc as Rahul Gandhi draws fire from Vijayan over remarks | Political Pulse News - The Indian Express **Rahul Gandhi**'s remarks at the INDIA bloc meeting that he wouldn't hug ",
+            "source_url": "https://indianexpress.com/article/political-pulse/india-bloc-rift-cpim-pinarayi-vijayan-rahul-gandhi-shiva-speech-congress-bjp-10738238/",
+            "source_title": "Hug row flares in INDIA bloc as Rahul Gandhi draws fire from Vijayan over remarks | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-13 17:45:17",
             "incident_type": "broad"
           }
         ],
@@ -896,6 +916,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-modis-kerala-visit-kochi-corporation-removes-publicity-materials-welcoming-pm-citing-hc-directions/article70729851.ece",
             "source_title": "PM Modi Kerala visit: Kochi Corporation removes publicity materials welcoming PM citing ‘HC directions’ - The Hindu",
             "scraped_at": "2026-03-11 01:33:10"
+          },
+          {
+            "incident_text": "Rahul Gandhi claims India is facing imminent crises despite its achievements.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-undermining-achievements-of-india-its-people-fm-nirmala-sitharaman/article71100616.ece",
+            "source_title": "Rahul Gandhi 'undermining' achievements of India, its people: FM Nirmala Sitharaman - The Hindu",
+            "scraped_at": "2026-06-14 08:58:57"
           }
         ]
       },
@@ -1250,7 +1276,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 12,
+        "criminal_cases_in_news": 14,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -1339,10 +1365,37 @@
             "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
             "scraped_at": "2026-06-03 13:40:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"Like Son\": Kalyan Banerjee On Abhishek Banerjee After \"Him Or Me\" Ultimatum **Kalyan Banerjee**, a **Trinamool Congress** MP, softened his tone towards his nephew, **Abhishek Banerjee**, and urged un",
+            "source_url": "https://www.ndtv.com/india-news/like-son-kalyan-banerjee-on-abhishek-banerjee-after-him-or-me-ultimatum-11632112#publisher=newsstand",
+            "source_title": "\"Like Son\": Kalyan Banerjee On Abhishek Banerjee After \"Him Or Me\" Ultimatum",
+            "scraped_at": "2026-06-13 14:10:43",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal MLAs signature forgery case: Abhishek Banerjee appears before CID - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, appeared before the **West Bengal poli",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/signature-forgery-case-calcutta-high-court-directs-abhishek-banerjee-to-appear-before-cid/article71088353.ece",
+            "source_title": "West Bengal MLAs signature forgery case: Abhishek Banerjee appears before CID - The Hindu",
+            "scraped_at": "2026-06-14 08:59:20",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-06-16",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/police-search-abhishek-banerjees-kolkata-residence-for-over-four-hours/article71096590.ece",
+            "source_title": "West Bengal police search Abhishek Banerjee’s Kolkata residence - The Hindu",
+            "scraped_at": "2026-06-13 14:13:49"
+          },
+          {
+            "incident_text": "Abhishek Banerjee stated the TMC is a 'single, indivisible political party' and breakaway groups cannot claim recognition.",
+            "source_url": "https://www.thehindu.com/news/national/lok-sabha-speaker-mamata-faction-to-present-case-amid-tmc-split/article71108164.ece",
+            "source_title": "Speaker Om Birla invites Mamata Banerjee faction to ‘present case’ amid TMC split - The Hindu",
+            "scraped_at": "2026-06-16 08:30:10"
+          }
+        ]
       },
       {
         "name": "Mehbooba Mufti",
@@ -1416,6 +1469,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/pandit-option-for-question-on-opportunists-trips-up-bjp-in-up-days-after-anti-brahmin-claim-by-opposition/article70744437.ece",
             "source_title": "‘Pandit’ option for question on opportunists trips up BJP in U.P. days after ‘anti-Brahmin’ claim by opposition - The Hindu",
             "scraped_at": "2026-03-14 23:34:29.826596"
+          },
+          {
+            "incident_text": "Yogi Adityanath urged Akhilesh Yadav to ensure his party workers respect women and daughters.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/yogi-adityanath-fir-akhilesh-yadav-daughter-remarks-up-politics-10738000/",
+            "source_title": "Yogi Adityanath orders FIR over remarks on Akhilesh Yadav’s daughter",
+            "scraped_at": "2026-06-13 12:54:18"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1642,6 +1701,18 @@
             "source_url": "https://www.ndtv.com/india-news/trinamool-split-cracks-in-india-bloc-hardeep-puri-says-next-target-punjab-11608651#publisher=newsstand",
             "source_title": "Trinamool Split, Cracks In INDIA Bloc: Hardeep Puri Says Next Target Punjab",
             "scraped_at": "2026-06-08 16:37:22.533409"
+          },
+          {
+            "incident_text": "Mamata Banerjee's former aide stated that leaving with two-thirds of the party doesn't allow immediate claim to the party name.",
+            "source_url": "https://www.ndtv.com/india-news/merger-interim-measure-trinamool-mp-reveals-rebels-july-plan-11635968#publisher=newsstand",
+            "source_title": "Bengal MPs Think Long Term, Next Big Move In July, Hints Newest Rebel",
+            "scraped_at": "2026-06-14 18:00:27"
+          },
+          {
+            "incident_text": "Mamata Banerjee urged the Lok Sabha Speaker not to recognize a purported TMC faction.",
+            "source_url": "https://indianexpress.com/article/political-pulse/amid-tmc-split-a-maharashtra-parallel-how-shiv-sena-ncp-revolts-played-out-10741337/",
+            "source_title": "Amid TMC split, a Maharashtra parallel: How Shiv Sena, NCP revolts played out | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-16 02:12:08"
           }
         ],
         "criminal_cases_in_news": 17,
@@ -1816,7 +1887,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -1844,6 +1915,13 @@
             "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
             "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
             "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "You can hug Modi, but not Pinarayi? CPI(M) general secretary M.A. Baby asks Rahul Gandhi - The Hindu **M.A. Baby**, general secretary of the **Communist Party of India (Marxist)**, criticized **Rahul ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/you-can-hug-modi-but-not-pinarayi-cpim-general-secretary-ma-baby-asks-rahul-gandhi/article71097926.ece",
+            "source_title": "You can hug Modi, but not Pinarayi? CPI(M) general secretary M.A. Baby asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-13 16:05:32",
             "incident_type": "broad"
           }
         ],
@@ -1938,7 +2016,7 @@
           }
         ],
         "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-12"
+        "criminal_last_updated": "2026-06-16"
       },
       {
         "name": "Bhajanlal Sharma",
@@ -2117,7 +2195,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-16",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "C. Joseph Vijay described the new TVK-led administration as a 'Vijay-model government'.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-inaugurates-two-day-training-programme-for-mlas/article71108198.ece",
+            "source_title": "Tamil Nadu CM Vijay inaugurates two-day training programme for MLAs - The Hindu",
+            "scraped_at": "2026-06-16 08:33:40"
+          }
+        ]
       },
       {
         "name": "V.D. Satheesan",
@@ -2368,6 +2453,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
             "source_title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-11 02:03:51.529239"
+          },
+          {
+            "incident_text": "Bhagwant Mann claimed a video showing him sprinkling alcohol on Sikh guru images was AI-generated.",
+            "source_url": "https://www.ndtv.com/india-news/bhagwant-mann-declared-anti-guru-by-akal-takht-ahead-of-punjab-polls-11639198#publisher=newsstand",
+            "source_title": "Bhagwant Mann Declared 'Anti-Guru' By Akal Takht Ahead Of Punjab Polls",
+            "scraped_at": "2026-06-15 12:24:22"
           }
         ]
       },
@@ -2427,7 +2518,14 @@
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
         "criminal_incidents": [],
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Vishnu Deo Sai stated the need for a new anti-conversion law.",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-cabinet-approves-new-anti-conversion-law-draft/article70728272.ece",
+            "source_title": "Chhattisgarh Cabinet approves new anti-conversion law draft - The Hindu",
+            "scraped_at": "2026-03-10 14:13:00"
+          }
+        ]
       },
       {
         "name": "Pramod Sawant",
@@ -2848,7 +2946,7 @@
             "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-12",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Meenakshi Natarajan stated the Returning Officer's decision was a subversion of democracy.",
@@ -3428,7 +3526,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-16"
+        "party_last_updated": "2026-06-16",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Rajasthan",
@@ -3483,7 +3583,7 @@
         "ruling_party": "BJP",
         "cm": "Yogi Adityanath",
         "region": "North",
-        "cm_confidence": 0.8,
+        "cm_confidence": 0.83,
         "cm_last_updated": "2026-06-16"
       },
       {
@@ -5016,6 +5116,36 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/minister-ramalinga-reddys-resignation-issue-resolved-says-chief-minister-shivakumar/article71068537.ece",
       "source_title": "Minister Ramalinga Reddy’s resignation issue resolved, says Chief Minister Shivakumar - The Hindu",
       "scraped_at": "2026-06-06 00:08:28",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that beneficiaries of the Gruha Lakshmi and Gruha Jyothi schemes",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/gruha-lakshmi-and-gruha-jyothi-beneficiaries-have-to-reapply-says-karnataka-chief-minister/article71098860.ece",
+      "source_title": "Gruha Lakshmi and Gruha Jyothi beneficiaries have to reapply, says Karnataka Chief Minister - The Hindu",
+      "scraped_at": "2026-06-13 19:47:05",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that the new government will be transparent in its operations",
+      "source_url": "https://www.thehindu.com/news/cities/Madurai/state-govt-will-soon-present-white-paper-on-tangedco-says-energy-minister/article71102024.ece",
+      "source_title": "State govt. will soon present white paper on TANGEDCO, says Energy Minister - The Hindu",
+      "scraped_at": "2026-06-14 22:45:36",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Asaduddin Owaisi",
+      "promise_text": "that AIMIM is willing to partner with others to challenge the BJP but emphasized the need for respect and meaningful participation in any alliance",
+      "source_url": "https://indianexpress.com/article/cities/lucknow/strengthen-aimim-than-relying-on-bigger-parties-asaduddin-owaisi-sounds-up-poll-bugle-from-bahraich-10739628/",
+      "source_title": "Strengthen AIMIM than relying on bigger parties: Asaduddin Owaisi sounds UP poll bugle from Bahraich | Lucknow News - The Indian Express",
+      "scraped_at": "2026-06-15 00:18:08",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

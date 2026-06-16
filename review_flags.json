@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-16 12:07:40.279286",
+  "generated_at": "2026-06-16 15:36:21.012747",
   "summary": {
-    "cm_updates_applied": 1,
+    "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 2,
+    "criminal_updates_applied": 7,
     "gaffe_updates_applied": 18,
-    "promises_extracted": 4,
+    "promises_extracted": 3,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 9
+    "items_needing_review": 10
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -44,7 +44,7 @@
       "type": "cm_detection",
       "state": "Telangana",
       "candidate": "Revanth Reddy",
-      "confidence": 0.44,
+      "confidence": 0.4,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ordination committee was formed to bridge the gap between the government and the party, **Revanth Reddy**’s recent actions suggest he is determined to maintain control within the party structure. The "
@@ -77,6 +77,15 @@
       "context": "M.V. Govindan, from Taliparamba, asserting that she was a senior leader in her own right. Breaking his silence after three CPI(M) leaders decided to contest as Independents backed by Congress, Kerala "
     },
     {
+      "type": "cm_detection",
+      "state": "Madhya Pradesh",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
+    },
+    {
       "type": "ruling_party",
       "state": "Karnataka",
       "candidate": "INC",
@@ -88,7 +97,7 @@
       "type": "ruling_party",
       "state": "West Bengal",
       "candidate": "BJP",
-      "confidence": 0.84,
+      "confidence": 0.85,
       "reason": "Gemma rejected",
       "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     }
