@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-16 08:35:36.320822",
+  "generated_at": "2026-06-16 12:07:40.279286",
   "summary": {
-    "cm_updates_applied": 2,
-    "party_updates_applied": 1,
-    "criminal_updates_applied": 6,
-    "gaffe_updates_applied": 11,
-    "promises_extracted": 0,
+    "cm_updates_applied": 1,
+    "party_updates_applied": 2,
+    "criminal_updates_applied": 2,
+    "gaffe_updates_applied": 18,
+    "promises_extracted": 4,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 7
+    "items_needing_review": 9
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -30,6 +30,24 @@
       "mentions": 9,
       "reason": "Below auto-update threshold",
       "context": "while swimming off an island in Singapore on September 19, 2025. He had travelled to Singapore to attend a festival organised by Shyamkanu Mahanta, who is one of the accused. In December 2025, Assam C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Telangana",
+      "candidate": "Revanth Reddy",
+      "confidence": 0.44,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "ordination committee was formed to bridge the gap between the government and the party, **Revanth Reddy**’s recent actions suggest he is determined to maintain control within the party structure. The "
     },
     {
       "type": "cm_detection",
@@ -70,7 +88,7 @@
       "type": "ruling_party",
       "state": "West Bengal",
       "candidate": "BJP",
-      "confidence": 0.82,
+      "confidence": 0.84,
       "reason": "Gemma rejected",
       "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     }

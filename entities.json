@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
-      "party_updates": 1,
-      "criminal_updates": 6,
-      "new_promises": 0,
-      "gaffe_updates": 11
+      "cm_updates": 1,
+      "party_updates": 2,
+      "criminal_updates": 2,
+      "new_promises": 4,
+      "gaffe_updates": 18
     },
     "rescan_history": {
       "in_progress": false,
@@ -222,6 +222,12 @@
             "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
             "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
             "scraped_at": "2026-06-04 15:30:28"
+          },
+          {
+            "incident_text": "Narendra Modi's government is silencing student satire with accusations of foreign influence.",
+            "source_url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
+            "source_title": "Modi is using a cannon to kill a cockroach | Narendra Modi | Al Jazeera",
+            "scraped_at": "2026-06-09 10:11:05"
           }
         ]
       },
@@ -450,6 +456,12 @@
             "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
             "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
             "scraped_at": "2026-03-16 13:27:35"
+          },
+          {
+            "incident_text": "Narendra Modi directed the Union government to organize IAS officer interactions at the Statue of Unity.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/narendra-modi-ias-officers-statue-of-unity-10728831/",
+            "source_title": "Delhi Confidential: Pep Talk | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-07 17:40:55"
           }
         ],
         "criminal_cases_in_news": 3,
@@ -878,6 +890,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
             "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
             "scraped_at": "2026-06-03 09:54:24"
+          },
+          {
+            "incident_text": "Rahul Gandhi's visit earlier this year saw similar removal of publicity materials.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-modis-kerala-visit-kochi-corporation-removes-publicity-materials-welcoming-pm-citing-hc-directions/article70729851.ece",
+            "source_title": "PM Modi Kerala visit: Kochi Corporation removes publicity materials welcoming PM citing ‘HC directions’ - The Hindu",
+            "scraped_at": "2026-03-11 01:33:10"
           }
         ]
       },
@@ -2710,6 +2728,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/cong-aap-oppose-simultaneous-polls-while-bjp-welcomes/article70988060.ece",
             "source_title": "Cong., AAP oppose simultaneous polls, while BJP welcomes - The Hindu",
             "scraped_at": "2026-05-16 16:01:33"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 03:10:42"
           }
         ]
       }
@@ -2744,6 +2768,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
             "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
             "scraped_at": "2026-06-04 18:45:34"
+          },
+          {
+            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 10:24:09"
           }
         ]
       },
@@ -3398,7 +3428,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-13"
+        "party_last_updated": "2026-06-16"
       },
       {
         "name": "Rajasthan",
@@ -4946,6 +4976,46 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/sringeri-seat-recount-raje-gowdas-vote-tally-reduced-by-255-bjp-supporters-celebrate/article70934261.ece",
       "source_title": "Sringeri Assembly seat recount: Congress MLA slips to second position as his vote tally reduces by 255 - The Hindu",
       "scraped_at": "2026-05-03 10:46:19",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "the groundbreaking for the ArcelorMittal/Nippon Steel (AM/NS) integrated steel plant in Anakapalli district is scheduled for March 23",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ground-breaking-for-amns-steel-plant-on-march-23-andhra-cm-chandrababu-naidu/article70729899.ece",
+      "source_title": "Ground-breaking for AM/NS steel plant on March 23: Andhra CM Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-03-11 04:22:43",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that the ground-breaking for the construction of ArcelorMittal/Nippon Steel (AM/NS)’s integrated steel plant in Anakapalli district would be done on March 23",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ground-breaking-for-amns-steel-plant-on-march-23-andhra-cm-chandrababu-naidu/article70729899.ece",
+      "source_title": "Ground-breaking for AM/NS steel plant on March 23: Andhra CM Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-03-11 04:22:43",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "him the Bengaluru Development portfolio",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/kharge-files-nomination-papers-for-rajya-sabha-polls-from-karnataka/article71064660.ece",
+      "source_title": "Kharge files nomination papers for Rajya Sabha polls from Karnataka - The Hindu",
+      "scraped_at": "2026-06-05 17:50:53",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that the issue was a case of miscommunication and assured that everything would be sorted out",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/minister-ramalinga-reddys-resignation-issue-resolved-says-chief-minister-shivakumar/article71068537.ece",
+      "source_title": "Minister Ramalinga Reddy’s resignation issue resolved, says Chief Minister Shivakumar - The Hindu",
+      "scraped_at": "2026-06-06 00:08:28",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
