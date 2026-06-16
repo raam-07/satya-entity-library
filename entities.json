@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-15",
+    "last_updated": "2026-06-16",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 5,
-      "party_updates": 0,
-      "criminal_updates": 7,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "party_updates": 1,
+      "criminal_updates": 6,
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -211,7 +211,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
@@ -224,6 +224,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
             "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
             "scraped_at": "2026-03-15 11:13:04"
+          },
+          {
+            "incident_text": "Amit Shah's remarks about Leader of Opposition Rahul Gandhi sparked Opposition protests.",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
+            "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
+            "scraped_at": "2026-03-11 22:59:08"
           }
         ]
       },
@@ -746,6 +752,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/is-an-mla-contesting-mp-poll-on-another-partys-b-form-not-defection-asks-harish-rao/article70738615.ece",
             "source_title": "Is an MLA contesting MP poll on another party’s B-Form not defection? asks Harish Rao - The Hindu",
             "scraped_at": "2026-03-13 05:15:18"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that the Lok Sabha represents the whole country, not just one party.",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
+            "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
+            "scraped_at": "2026-03-11 22:59:08"
           }
         ]
       },
@@ -1386,6 +1398,13 @@
             "source_title": "In Who-Is-Real-Trinamool Fight, Pushback Planned Against Ritabrata Banerjee",
             "scraped_at": "2026-06-05 20:07:10.049272",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -1420,9 +1439,9 @@
             "scraped_at": "2026-06-08 16:37:22.533409"
           }
         ],
-        "criminal_cases_in_news": 12,
+        "criminal_cases_in_news": 13,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-15"
+        "criminal_last_updated": "2026-06-16"
       },
       {
         "name": "Siddaramaiah",
@@ -1541,9 +1560,18 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/M._K._Stalin",
         "image_placeholder": "mk_stalin",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-16"
       },
       {
         "name": "Pinarayi Vijayan",
@@ -1559,7 +1587,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -1581,9 +1609,16 @@
             "source_title": "CMRL appeal against ED probe: HC directs status quo till June 5 - The Hindu",
             "scraped_at": "2026-06-01 16:44:42.459812",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-14",
+        "criminal_last_updated": "2026-06-16",
         "controversies": []
       },
       {
@@ -1950,7 +1985,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -1983,7 +2018,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -2026,9 +2061,16 @@
             "source_title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu",
             "scraped_at": "2026-05-18 17:37:48",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian Following the BJP's victory in the West Bengal elections, **Tensions** have escalated with violence e",
+            "source_url": "https://www.theguardian.com/world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
+            "source_title": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian",
+            "scraped_at": "2026-05-07 15:22:26",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-14",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
@@ -2951,7 +2993,7 @@
         "cm": "Nitish Kumar",
         "region": "East",
         "cm_confidence": 0.86,
-        "cm_last_updated": "2026-06-15"
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Chhattisgarh",
@@ -3019,7 +3061,7 @@
         "cm": "Siddaramaiah",
         "region": "South",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-06-15"
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Kerala",
@@ -3029,7 +3071,7 @@
         "cm": "Pinarayi Vijayan",
         "region": "South",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-15"
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Madhya Pradesh",
@@ -3125,7 +3167,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-13"
+        "party_last_updated": "2026-06-16"
       },
       {
         "name": "Telangana",
@@ -3153,7 +3195,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-06-15"
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Uttarakhand",
@@ -3174,8 +3216,8 @@
         "region": "East",
         "party_confidence": 0.83,
         "party_last_updated": "2026-06-11",
-        "cm_confidence": 0.9,
-        "cm_last_updated": "2026-06-15"
+        "cm_confidence": 0.93,
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Delhi",
@@ -4636,6 +4678,16 @@
       "source_title": "MP urges inclusion of Mysuru in ‘urban economic zone’ scheme - The Hindu",
       "scraped_at": "2026-03-12 04:41:17",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that they would fight in court and called it a conspiracy against democracy",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/sringeri-seat-recount-raje-gowdas-vote-tally-reduced-by-255-bjp-supporters-celebrate/article70934261.ece",
+      "source_title": "Sringeri Assembly seat recount: Congress MLA slips to second position as his vote tally reduces by 255 - The Hindu",
+      "scraped_at": "2026-05-03 10:46:19",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
