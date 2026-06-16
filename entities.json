@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1301,7 +1301,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 15,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -1404,6 +1404,13 @@
             "source_title": "West Bengal MLAs signature forgery case: Abhishek Banerjee appears before CID - The Hindu",
             "scraped_at": "2026-06-14 08:59:20",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu **Abhishek Banerjee**, national general secretary of the **Trinamool Congress**, was questioned by the **West Bengal Poli",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
+            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
+            "scraped_at": "2026-06-16 18:22:39",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-06-16",
@@ -1419,6 +1426,12 @@
             "source_url": "https://www.thehindu.com/news/national/lok-sabha-speaker-mamata-faction-to-present-case-amid-tmc-split/article71108164.ece",
             "source_title": "Speaker Om Birla invites Mamata Banerjee faction to ‘present case’ amid TMC split - The Hindu",
             "scraped_at": "2026-06-16 08:30:10"
+          },
+          {
+            "incident_text": "Abhishek Banerjee was questioned for alleged inflammatory statements made during the election campaign.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
+            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
+            "scraped_at": "2026-06-16 18:22:39"
           }
         ]
       },
@@ -2262,6 +2275,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-high-command-will-decide-on-mps-contesting-says-satheesan/article70742605.ece",
             "source_title": "Kerala Assembly elections: High command will decide on MPs contesting, says Satheesan - The Hindu",
             "scraped_at": "2026-03-14 05:07:22"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated that the Munambam holding was not Waqf property.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/munambam-is-waqf-property-says-chairperson/article71110466.ece",
+            "source_title": "Munambam is Waqf property, says board chairperson - The Hindu",
+            "scraped_at": "2026-06-16 18:24:04"
           }
         ],
         "criminal_last_updated": "2026-06-15"
