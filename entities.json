@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -3470,7 +3470,7 @@
         "ruling_party": "INC",
         "cm": "Siddaramaiah",
         "region": "South",
-        "cm_confidence": 0.78,
+        "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16"
       },
       {
