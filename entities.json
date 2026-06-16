@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 5,
+      "cm_updates": 2,
       "party_updates": 1,
-      "criminal_updates": 6,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 4,
+      "new_promises": 0,
+      "gaffe_updates": 7
     },
     "rescan_history": {
       "in_progress": false,
@@ -89,7 +89,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -174,6 +174,12 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
             "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
             "scraped_at": "2026-06-10 23:30:33.007053"
+          },
+          {
+            "incident_text": "Narendra Modi has remained silent on repeated paper leaks during Dharmendra Pradhan's tenure as Education Minister.",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
           }
         ]
       },
@@ -451,7 +457,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-06-01",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Dharmendra Pradhan announced the NEET-UG exam will be computer-based next year.",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
+          }
+        ]
       },
       {
         "name": "Ashwini Vaishnaw",
@@ -477,6 +490,12 @@
             "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
             "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
             "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Ashwini Vaishnaw stated that railway ticket fares are not considered a trade secret and are publicly available.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-questions-transparency-in-indian-railways-ticket-pricing-policies/article70732038.ece",
+            "source_title": "Owaisi questions transparency in Indian Railways ticket-pricing policies - The Hindu",
+            "scraped_at": "2026-03-11 14:33:50"
           }
         ],
         "criminal_cases_in_news": 0
@@ -758,6 +777,12 @@
             "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
             "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
             "scraped_at": "2026-03-11 22:59:08"
+          },
+          {
+            "incident_text": "Rahul Gandhi alleged a 'BJP-RSS nexus' has damaged India's education system.",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
           }
         ]
       },
@@ -983,7 +1008,14 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Asaduddin_Owaisi",
         "image_placeholder": "asaduddin_owaisi",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Asaduddin Owaisi questioned if Indian Railways categorized ticket fares as a 'trade secret'",
+            "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-questions-transparency-in-indian-railways-ticket-pricing-policies/article70732038.ece",
+            "source_title": "Owaisi questions transparency in Indian Railways ticket-pricing policies - The Hindu",
+            "scraped_at": "2026-03-11 14:33:50"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -2018,7 +2050,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -2068,6 +2100,13 @@
             "source_title": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian",
             "scraped_at": "2026-05-07 15:22:26",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "​Take east: On the BJP government in West Bengal - The Hindu The **Bharatiya Janata Party (BJP)** secured a resounding victory in the West Bengal Assembly elections, winning 207 out of 294 seats.  **S",
+            "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
+            "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
+            "scraped_at": "2026-05-08 17:32:12",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-06-16",
@@ -2089,6 +2128,12 @@
             "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
             "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
             "scraped_at": "2026-03-20 12:37:10"
+          },
+          {
+            "incident_text": "Suvendu Adhikari claimed Abhishek Banerjee owns 24 properties in Kolkata.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
+            "source_title": "Suvendu targets Abhishek, says all his properties will be accounted for - The Hindu",
+            "scraped_at": "2026-05-16 20:00:22"
           }
         ]
       },
@@ -2467,6 +2512,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
             "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
             "scraped_at": "2026-06-07 15:54:09.127238"
+          },
+          {
+            "incident_text": "D.K. Shivakumar strongly opposed the Union government’s proposed “One Nation One Election” initiative.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/cong-aap-oppose-simultaneous-polls-while-bjp-welcomes/article70988060.ece",
+            "source_title": "Cong., AAP oppose simultaneous polls, while BJP welcomes - The Hindu",
+            "scraped_at": "2026-05-16 16:01:33"
           }
         ]
       }
@@ -3194,7 +3245,7 @@
         "ruling_party": "BJP",
         "cm": "Yogi Adityanath",
         "region": "North",
-        "cm_confidence": 1.0,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-16"
       },
       {

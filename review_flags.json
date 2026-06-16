@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-06-16 00:23:54.636270",
+  "generated_at": "2026-06-16 02:46:05.676756",
   "summary": {
-    "cm_updates_applied": 5,
+    "cm_updates_applied": 2,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 6,
-    "gaffe_updates_applied": 2,
-    "promises_extracted": 1,
+    "criminal_updates_applied": 4,
+    "gaffe_updates_applied": 7,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 2
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.64,
+      "mentions": 14,
+      "reason": "Below auto-update threshold",
+      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
+    },
+    {
+      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.62,
-      "mentions": 5,
+      "confidence": 0.53,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "while swimming off an island in Singapore on September 19, 2025. He had travelled to Singapore to attend a festival organised by Shyamkanu Mahanta, who is one of the accused. In December 2025, Assam C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.7,
+      "mentions": 7,
+      "reason": "Below auto-update threshold",
+      "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "Pinarayi Vijayan",
+      "confidence": 0.57,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "M.V. Govindan, from Taliparamba, asserting that she was a senior leader in her own right. Breaking his silence after three CPI(M) leaders decided to contest as Independents backed by Congress, Kerala "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
     },
     {
       "type": "ruling_party",
       "state": "West Bengal",
       "candidate": "BJP",
-      "confidence": 0.62,
-      "reason": "Below auto-update threshold"
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     }
   ]
 }
