@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2031,6 +2031,13 @@
             "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
             "scraped_at": "2026-06-10 12:26:50.498411",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express **Ankita Deshkar**, a Deputy Copy Editor and fact-checker at **The Indian Expr",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2051,9 +2058,15 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
             "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
             "scraped_at": "2026-03-16 23:40:11.368501"
+          },
+          {
+            "incident_text": "Devendra Fadnavis did not reach out to the kin of a NEET aspirant who died during a CJP protest in Nagpur.",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08"
           }
         ],
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_last_updated": "2026-06-16"
       },
       {
