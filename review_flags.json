@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-16 17:46:42.607135",
+  "generated_at": "2026-06-16 18:52:13.359336",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 2,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 9
+    "items_needing_review": 10
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -35,25 +35,34 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.5,
-      "mentions": 3,
+      "confidence": 0.67,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
     },
     {
       "type": "cm_detection",
-      "state": "Telangana",
-      "candidate": "Revanth Reddy",
-      "confidence": 0.4,
-      "mentions": 4,
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.71,
+      "mentions": 15,
       "reason": "Below auto-update threshold",
-      "context": "ordination committee was formed to bridge the gap between the government and the party, **Revanth Reddy**’s recent actions suggest he is determined to maintain control within the party structure. The "
+      "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
     },
     {
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Nitish Kumar",
-      "confidence": 0.55,
+      "confidence": 0.5,
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "

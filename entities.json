@@ -5,10 +5,10 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 3,
+      "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 2,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -1528,7 +1528,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-16",
         "controversies": []
       },
       {
@@ -5172,6 +5172,16 @@
       "source_title": "Strengthen AIMIM than relying on bigger parties: Asaduddin Owaisi sounds UP poll bugle from Bahraich | Lucknow News - The Indian Express",
       "scraped_at": "2026-06-15 00:18:08",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "a series of new programs aimed at addressing unemployment",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/will-usher-in-yuva-yuga-promises-new-karnataka-chief-minister/article71058422.ece",
+      "source_title": "Will usher in ‘Yuva Yuga’, promises new Karnataka Chief Minister - The Hindu",
+      "scraped_at": "2026-06-04 17:12:05",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
