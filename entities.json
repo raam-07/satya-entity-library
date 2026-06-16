@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 1,
-      "criminal_updates": 2,
+      "criminal_updates": 6,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 11
     },
     "rescan_history": {
       "in_progress": false,
@@ -192,6 +192,36 @@
             "source_url": "https://www.dawn.com/news/2001637/why-dont-you-take-questions-mr-modi",
             "source_title": "‘Why don’t you take questions, Mr Modi?’ - Newspaper - DAWN.COM",
             "scraped_at": "2026-05-20 00:48:11"
+          },
+          {
+            "incident_text": "Narendra Modi alleged that the Congress was allied with the 'Muslim League Maoist Congress'.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/prime-minister-modi-launches-ndas-poll-campaign-in-kerala/article70731866.ece",
+            "source_title": "Prime Minister Modi launches NDA’s poll campaign in Kerala - The Hindu",
+            "scraped_at": "2026-03-11 10:48:35"
+          },
+          {
+            "incident_text": "Yogi Adityanath stated that cows are revered as mothers in Indian tradition and Muslim clerics should caution followers against disrespecting them.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-01 20:33:27"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 14:17:05"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an economic tsunami was imminent due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 15:30:16"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed an 'economic tsunami' would hit India due to the BJP government's policies.",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 15:30:28"
           }
         ]
       },
@@ -248,6 +278,12 @@
             "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
             "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
             "scraped_at": "2026-03-11 22:59:08"
+          },
+          {
+            "incident_text": "Yogi Adityanath stated that cows are revered as mothers in Indian tradition and Muslim clerics should caution followers against disrespecting them.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-01 20:33:27"
           }
         ]
       },
@@ -288,9 +324,18 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Nirmala_Sitharaman",
         "known_promises": [],
         "image_placeholder": "nirmala_sitharaman",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 00:57:56",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-16"
       },
       {
         "name": "S. Jaishankar",
@@ -475,6 +520,12 @@
             "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
             "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
             "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated the transfers were a cover-up to deflect attention from alleged corruption.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 14:17:05"
           }
         ]
       },
@@ -661,7 +712,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -690,9 +741,23 @@
             "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
             "scraped_at": "2026-04-09 09:55:44.844181",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu **Abhishek Banerjee**, general secretary of the **Trinamool Congress**, was granted permission by the Calcutta High Court to ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
+            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
+            "scraped_at": "2026-06-03 16:46:48",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-06-16",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -807,6 +872,12 @@
             "source_url": "https://www.thehindu.com/news/national/constitution-voice-of-gandhi-ambedkar-under-attack-rahul-in-raebareli/article71001386.ece",
             "source_title": "Constitution, voice of Gandhi, Ambedkar, under attack: Rahul in Raebareli - The Hindu",
             "scraped_at": "2026-05-20 04:35:19"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
           }
         ]
       },
@@ -921,6 +992,24 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-demands-rahul-gandhis-resignation-over-uscirf-report-endorsement/article70758870.ece",
             "source_title": "BJP demands Rahul Gandhi’s resignation over USCIRF report “endorsement” - The Hindu",
             "scraped_at": "2026-03-18 17:16:37"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge condemned the removal of Mahatma Gandhi's name from the scheme.",
+            "source_url": "https://www.onmanorama.com/news/india/2025/12/18/vg-ram-g-rural-employment-bill-passed.html",
+            "source_title": "Lok Sabha passes VB-G RAM G Bill amid Opposition protests | India News | Onmanorama",
+            "scraped_at": "2026-05-30 16:23:28"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:23"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:34"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -958,7 +1047,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-06-16",
         "controversies": []
       },
       {
@@ -1143,7 +1232,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 12,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -1218,9 +1307,23 @@
             "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
             "scraped_at": "2026-06-09 12:10:11.000460",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express **Mamata Banerjee**, West Bengal Chief Minister, was attacked by a mob while vis",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 00:57:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-12",
+        "criminal_last_updated": "2026-06-16",
         "controversies": []
       },
       {
@@ -1461,6 +1564,34 @@
             "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
             "scraped_at": "2026-05-04 22:14:09",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes **Five** individuals have been arrested in connection with the mob assault on **Abhishek Banerj",
+            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
+            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
+            "scraped_at": "2026-05-31 00:55:25",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News **Abhishek Banerjee**, **TMC** national general secretary, was attacked by a mob in Sonarpu",
+            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
+            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
+            "scraped_at": "2026-05-31 01:00:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal **Abhishek Banerjee**, **Trinamool Congress** leader, was attacked with stones and eggs while visiting post-poll",
+            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
+            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
+            "scraped_at": "2026-05-31 04:07:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu A scheduled meeting of newly elected **Trinamool Congress** legislators was called off after nearly three-fourths o",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
+            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
+            "scraped_at": "2026-05-31 17:07:04",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -1495,7 +1626,7 @@
             "scraped_at": "2026-06-08 16:37:22.533409"
           }
         ],
-        "criminal_cases_in_news": 13,
+        "criminal_cases_in_news": 17,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-06-16"
       },
@@ -1534,6 +1665,30 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bommai-accuses-cm-of-yielding-to-those-opposing-internal-reservation/article70740228.ece",
             "source_title": "Bommai accuses CM of yielding to those opposing internal reservation - The Hindu",
             "scraped_at": "2026-03-13 10:39:01"
+          },
+          {
+            "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
+            "source_title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
+            "scraped_at": "2026-06-02 23:59:14"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:23"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:34"
           }
         ]
       },
@@ -1869,6 +2024,12 @@
             "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
             "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
             "scraped_at": "2026-03-21 08:00:59.766390"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2074,7 +2235,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 7,
+        "criminal_cases_in_news": 8,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -2130,6 +2291,13 @@
             "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
             "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
             "scraped_at": "2026-05-08 17:32:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
             "incident_type": "broad"
           }
         ],
@@ -2563,7 +2731,21 @@
         "auto_added": true,
         "auto_added_on": "2026-06-06",
         "gemma_confidence": "high",
-        "mentions_detected": 5
+        "mentions_detected": 5,
+        "controversies": [
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:23"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:34"
+          }
+        ]
       },
       {
         "name": "S.P. Velumani",
@@ -3164,7 +3346,9 @@
         "capital": "Mumbai",
         "ruling_party": "BJP",
         "cm": "Devendra Fadnavis",
-        "region": "West"
+        "region": "West",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-06-16"
       },
       {
         "name": "Manipur",
