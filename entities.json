@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 4,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 7
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -180,6 +180,18 @@
             "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
             "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
             "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "Narendra Modi avoided taking questions from the media during his visit to Norway.",
+            "source_url": "https://www.thehindu.com/news/national/modi-broke-democratic-tradition-of-asking-answering-questions-congress/article70999610.ece",
+            "source_title": "Modi broke democratic tradition of asking, answering questions: Congress - The Hindu",
+            "scraped_at": "2026-05-19 12:59:15"
+          },
+          {
+            "incident_text": "Narendra Modi declined to answer questions from journalists during a press conference.",
+            "source_url": "https://www.dawn.com/news/2001637/why-dont-you-take-questions-mr-modi",
+            "source_title": "‘Why don’t you take questions, Mr Modi?’ - Newspaper - DAWN.COM",
+            "scraped_at": "2026-05-20 00:48:11"
           }
         ]
       },
@@ -783,6 +795,18 @@
             "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
             "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
             "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that the Lok Sabha represents the whole country, not just one party.",
+            "source_url": "https://www.thehindu.com/news/national/lok-sabha-represents-the-whole-country-not-just-one-party-says-lop-rahul-gandhi/article70731376.ece",
+            "source_title": "Lok Sabha represents the whole country, not just one party, says LoP Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-11 12:03:17"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed the Constitution is under attack and its ideals are not being protected.",
+            "source_url": "https://www.thehindu.com/news/national/constitution-voice-of-gandhi-ambedkar-under-attack-rahul-in-raebareli/article71001386.ece",
+            "source_title": "Constitution, voice of Gandhi, Ambedkar, under attack: Rahul in Raebareli - The Hindu",
+            "scraped_at": "2026-05-20 04:35:19"
           }
         ]
       },
@@ -1913,7 +1937,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-11",
+        "criminal_last_updated": "2026-06-16",
         "controversies": []
       },
       {
