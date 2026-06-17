@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 3,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -742,7 +742,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -799,9 +799,16 @@
             "source_title": "Hug row flares in INDIA bloc as Rahul Gandhi draws fire from Vijayan over remarks | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-13 17:45:17",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Left MPs slam Rahul Gandhi for his ‘inappropriate remarks’ against Pinarayi government - The Hindu **John Brittas** and **P. Sandosh Kumar**, two **CPI-M** MPs, expressed disagreement with **Rahul Gan",
+            "source_url": "https://www.thehindu.com/news/national/left-mps-slam-rahul-gandhi-for-his-inappropriate-remarks-against-pinarayi-government/article70722761.ece",
+            "source_title": "Left MPs slam Rahul Gandhi for his ‘inappropriate remarks’ against Pinarayi government - The Hindu",
+            "scraped_at": "2026-03-09 12:42:25",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-17",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -1092,7 +1099,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
@@ -1107,10 +1114,24 @@
             "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
             "scraped_at": "2026-04-25 09:36:11.298235",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu **Arvind Kejriwal**, leader of the **Aam Aadmi Party (AAP)**, and 22 others have been discharged in the Delhi ex",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/with-discharge-in-excise-case-kejriwal-is-back-to-win-lost-turf-and-hearts/article70725104.ece",
+            "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
+            "scraped_at": "2026-03-10 00:05:49",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
-        "controversies": []
+        "criminal_last_updated": "2026-06-17",
+        "controversies": [
+          {
+            "incident_text": "Arvind Kejriwal plans to continue attacking Prime Minister Modi and Home Minister Shah.",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/with-discharge-in-excise-case-kejriwal-is-back-to-win-lost-turf-and-hearts/article70725104.ece",
+            "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
+            "scraped_at": "2026-03-10 00:05:49"
+          }
+        ]
       },
       {
         "name": "Akhilesh Yadav",
@@ -1907,7 +1928,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "M.K. Stalin claimed the BJP would destroy the AIADMK.",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-will-meet-its-downfall-for-inducting-traitors-ousted-from-aiadmk-palaniswami/article70719687.ece",
+            "source_title": "DMK will meet its downfall for inducting ‘traitors’ ousted from AIADMK: Palaniswami - The Hindu",
+            "scraped_at": "2026-03-09 03:25:54"
+          }
+        ],
         "criminal_cases_in_news": 1,
         "criminal_last_updated": "2026-06-16"
       },
@@ -2006,9 +2034,18 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
         "image_placeholder": "chandrababu_naidu",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu The **High Court** of India admitted a Writ Petition filed by former MLA Alla Ramakrishna Reddy, seeking ",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-to-hear-writ-petition-seeking-transfer-of-amaravati-irr-case-to-cbi-on-march-16/article70723036.ece",
+            "source_title": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu",
+            "scraped_at": "2026-03-09 10:36:12",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-17"
       },
       {
         "name": "Devendra Fadnavis",
@@ -2064,6 +2101,12 @@
             "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
             "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
             "scraped_at": "2026-06-16 18:22:08"
+          },
+          {
+            "incident_text": "Devendra Fadnavis was tagged in a statement alleging attempts to bribe MPs with ₹15 crore.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/15-crore-will-be-paid-to-mps-tonight-says-shiv-sena-ubt-leader/article71110702.ece",
+            "source_title": "₹15 crore will be paid to MPs tonight, says Shiv Sena (UBT) leader - The Hindu",
+            "scraped_at": "2026-06-16 21:33:16"
           }
         ],
         "criminal_cases_in_news": 2,
