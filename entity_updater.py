@@ -1668,11 +1668,16 @@ def enforce_database_consistency(entities):
                 
         return False
 
-    # Build CM profile resolver helper (checks name and aliases)
+    # Build CM profile resolver helper (checks name and aliases in both lists)
     def find_cm_profile(cm_name):
         if not cm_name or cm_name == "N/A":
             return None
+        # Check in state_chief_ministers first
         for profile in cms:
+            if matches_cm(profile, cm_name):
+                return profile
+        # Check in generic_politicians next
+        for profile in entities['india'].get('generic_politicians', []):
             if matches_cm(profile, cm_name):
                 return profile
         return None
@@ -1688,71 +1693,67 @@ def enforce_database_consistency(entities):
     cms_to_keep = []
     cms_to_demote = []
     matched_states = set()
+    promoted_profiles = set()
 
-    for profile in cms:
-        name = profile.get('name', '')
-        role = profile.get('role', '') or ''
-        role_lower = role.lower()
-        state_name = profile.get('state')
-        state_lower = state_name.lower() if state_name else ""
-
-        # Demote immediately if role contains 'former' or 'ex-'
-        if "former" in role_lower or "ex-" in role_lower:
-            logging.info(f"Demoting {name} because role '{role}' contains 'former' or 'ex-'")
-            cms_to_demote.append(profile)
-            continue
-
-        # Check if this state has an authoritative active CM set
-        if state_lower in active_cms_by_state:
-            auth_cm = active_cms_by_state[state_lower]
-            if matches_cm(profile, auth_cm):
-                # Canonicalize role and state
-                profile['role'] = f"Chief Minister of {state_name}"
-                profile['state'] = state_name
-                
-                # Check for duplicates (only allow 1 CM per state)
-                if state_lower in matched_states:
-                    logging.info(f"Demoting duplicate CM profile {name} for state {state_name}")
-                    cms_to_demote.append(profile)
-                else:
-                    cms_to_keep.append(profile)
-                    matched_states.add(state_lower)
-            else:
-                # Does not match the authoritative CM -> Demote!
-                logging.info(f"Demoting {name} because it does not match active CM '{auth_cm}' for state {state_name}")
-                cms_to_demote.append(profile)
-        else:
-            # Guard: If states[].cm is empty/missing, leave the existing entry intact and warn/flag
-            logging.warning(f"Guard triggered: state '{state_name}' has no CM in states[].cm. Leaving existing CM entry '{name}' intact.")
-            cms_to_keep.append(profile)
-
-    # For any state with an authoritative CM not found in cms, create a profile
+    # Resolve active CM profiles for states that have them
     for state in states:
         state_name = state['name']
         state_lower = state_name.lower()
-        if state_lower in active_cms_by_state and state_lower not in matched_states:
+        if state_lower in active_cms_by_state:
             auth_cm = active_cms_by_state[state_lower]
-            logging.warning(f"Active CM '{auth_cm}' for state {state_name} has no active profile. Creating basic profile.")
-            ruling_party = resolve_party_name(state.get('ruling_party'))
-            new_profile = {
-                "name": auth_cm,
-                "role": f"Chief Minister of {state_name}",
-                "party": ruling_party or "",
-                "state": state_name,
-                "aliases": [],
-                "criminal_cases": 0,
-                "criminal_cases_in_news": 0,
-                "affidavit_url": "https://affidavit.eci.gov.in",
-                "wikipedia": f"https://en.wikipedia.org/wiki/{auth_cm.replace(' ', '_')}",
-                "image_placeholder": auth_cm.lower().replace(' ', '_').replace('.', ''),
-                "auto_added": True,
-                "auto_added_on": str(datetime.now().date()),
-                "gemma_confidence": "high",
-                "criminal_incidents": [],
-                "controversies": []
-            }
-            cms_to_keep.append(new_profile)
-            matched_states.add(state_lower)
+            profile = find_cm_profile(auth_cm)
+            if profile:
+                profile['role'] = f"Chief Minister of {state_name}"
+                profile['state'] = state_name
+                # Remove "Former" or "Former Chief Minister" from role if it was there
+                if "Former" in profile['role']:
+                    profile['role'] = profile['role'].replace("Former Chief Minister", "Chief Minister").replace("Former ", "")
+                
+                cms_to_keep.append(profile)
+                matched_states.add(state_lower)
+                promoted_profiles.add(id(profile))
+                
+                # If it was in generic_politicians, remove it
+                if 'generic_politicians' in entities['india']:
+                    entities['india']['generic_politicians'] = [gp for gp in entities['india']['generic_politicians'] if id(gp) != id(profile)]
+            else:
+                logging.warning(f"Active CM '{auth_cm}' for state {state_name} has no profile. Creating basic profile.")
+                ruling_party = resolve_party_name(state.get('ruling_party'))
+                new_profile = {
+                    "name": auth_cm,
+                    "role": f"Chief Minister of {state_name}",
+                    "party": ruling_party or "",
+                    "state": state_name,
+                    "aliases": [],
+                    "criminal_cases": 0,
+                    "criminal_cases_in_news": 0,
+                    "affidavit_url": "https://affidavit.eci.gov.in",
+                    "wikipedia": f"https://en.wikipedia.org/wiki/{auth_cm.replace(' ', '_')}",
+                    "image_placeholder": auth_cm.lower().replace(' ', '_').replace('.', ''),
+                    "auto_added": True,
+                    "auto_added_on": str(datetime.now().date()),
+                    "gemma_confidence": "high",
+                    "criminal_incidents": [],
+                    "controversies": []
+                }
+                cms_to_keep.append(new_profile)
+                matched_states.add(state_lower)
+
+    # For states with empty states[].cm, keep their existing CM profiles intact
+    for state in states:
+        state_name = state['name']
+        state_lower = state_name.lower()
+        if state_lower not in active_cms_by_state:
+            for profile in cms:
+                if profile.get('state') == state_name:
+                    logging.warning(f"Guard triggered: state '{state_name}' has no CM in states[].cm. Leaving existing CM entry '{profile.get('name')}' intact.")
+                    cms_to_keep.append(profile)
+                    promoted_profiles.add(id(profile))
+
+    # Demote all remaining CM profiles that were not matched/promoted
+    for profile in cms:
+        if id(profile) not in promoted_profiles:
+            cms_to_demote.append(profile)
 
     # Sync state fields (cm, ruling_party) for keeping profiles
     for state in states:
@@ -1762,7 +1763,6 @@ def enforce_database_consistency(entities):
             auth_cm = active_cms_by_state[state_lower]
             profile = next((p for p in cms_to_keep if p.get('state') == state_name and matches_cm(p, auth_cm)), None)
             if profile:
-                # Sync state record with canonical name
                 state['cm'] = profile['name']
                 ruling_party = resolve_party_name(state.get('ruling_party'))
                 cm_party = resolve_party_name(profile.get('party'))
@@ -1777,14 +1777,12 @@ def enforce_database_consistency(entities):
         entities['india']['generic_politicians'] = []
 
     for profile in cms_to_demote:
-        # Prepend/update role
         role = profile.get('role', '')
         if "Chief Minister" in role and "Former" not in role:
             profile['role'] = role.replace("Chief Minister", "Former Chief Minister")
         elif not role.lower().startswith("former"):
             profile['role'] = f"Former {role}"
             
-        # Avoid duplicating in generic_politicians if already exists (check name case-insensitively)
         if not any(g['name'].lower() == profile['name'].lower() for g in entities['india']['generic_politicians']):
             entities['india']['generic_politicians'].append(profile)
 

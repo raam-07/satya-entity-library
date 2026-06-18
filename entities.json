@@ -1545,6 +1545,795 @@
     ],
     "state_chief_ministers": [
       {
+        "name": "Chandrababu Naidu",
+        "aliases": [
+          "Naidu",
+          "CBN",
+          "Andhra CM"
+        ],
+        "role": "Chief Minister of Andhra Pradesh",
+        "state": "Andhra Pradesh",
+        "party": "TDP",
+        "ruling_since": "2024",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
+        "image_placeholder": "chandrababu_naidu",
+        "criminal_incidents": [
+          {
+            "incident_text": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu The **High Court** of India admitted a Writ Petition filed by former MLA Alla Ramakrishna Reddy, seeking ",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-to-hear-writ-petition-seeking-transfer-of-amaravati-irr-case-to-cbi-on-march-16/article70723036.ece",
+            "source_title": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu",
+            "scraped_at": "2026-03-09 10:36:12",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "Chandrababu Naidu stated that boycotting legislative sessions is shirking the responsibility to raise public issues.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-shirking-responsibility-of-raising-public-issues-in-assembly-says-ap-cm/article70711940.ece",
+            "source_title": "YSRCP shirking responsibility of raising public issues in Assembly, says A.P. CM - The Hindu",
+            "scraped_at": "2026-03-06 13:42:46"
+          }
+        ],
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-17"
+      },
+      {
+        "name": "Pema Khandu",
+        "role": "Chief Minister of Arunachal Pradesh",
+        "party": "BJP",
+        "state": "Arunachal Pradesh",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pema_Khandu",
+        "image_placeholder": "pema_khandu",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Himanta Biswa Sarma",
+        "role": "Chief Minister of Assam",
+        "party": "BJP",
+        "state": "Assam",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
+        "image_placeholder": "himanta_biswa_sarma",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu **Himanta Biswa Sarma**, Assam Chief Minister, accused the **Congress** of fabricating",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
+            "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
+            "scraped_at": "2026-04-06 05:31:18.786927",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu **Pawan Khera**, a Congress leader, was granted anticipatory bail by the **Supreme Court**",
+            "source_url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
+            "source_title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
+            "scraped_at": "2026-05-02 18:14:31.909107",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu **Assam** Chief Minister **Himanta Biswa Sarma** accused the **Congress** party of a “foreign-",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
+            "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
+            "scraped_at": "2026-04-07 08:22:43.536400",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-16",
+        "controversies": [
+          {
+            "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
+            "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
+            "scraped_at": "2026-03-18 23:38:55.839838"
+          }
+        ]
+      },
+      {
+        "name": "Samrat Choudhary",
+        "aliases": [
+          "Samrat",
+          "Choudhary",
+          "Bihar Chief Minister"
+        ],
+        "role": "Chief Minister of Bihar",
+        "state": "Bihar",
+        "party": "BJP",
+        "ruling_since": "2026",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+        "image_placeholder": "samrat_choudhary",
+        "criminal_incidents": [
+          {
+            "incident_text": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu The **Delhi High Court** dismissed a petition by former Bihar Chief Minister and RJD supremo **Lalu Prasad Yadav",
+            "source_url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
+            "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
+            "scraped_at": "2026-03-24 10:05:36.975630",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [],
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-15"
+      },
+      {
+        "name": "Vishnu Deo Sai",
+        "role": "Chief Minister of Chhattisgarh",
+        "party": "BJP",
+        "state": "Chhattisgarh",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vishnu_Deo_Sai",
+        "image_placeholder": "vishnu_deo_sai",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": [
+          {
+            "incident_text": "Vishnu Deo Sai stated the need for a new anti-conversion law.",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-cabinet-approves-new-anti-conversion-law-draft/article70728272.ece",
+            "source_title": "Chhattisgarh Cabinet approves new anti-conversion law draft - The Hindu",
+            "scraped_at": "2026-03-10 14:13:00"
+          }
+        ]
+      },
+      {
+        "name": "Pramod Sawant",
+        "role": "Chief Minister of Goa",
+        "party": "BJP",
+        "state": "Goa",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pramod_Sawant",
+        "image_placeholder": "pramod_sawant",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Bhupendra Patel",
+        "role": "Chief Minister of Gujarat",
+        "party": "BJP",
+        "state": "Gujarat",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
+        "image_placeholder": "bhupendra_patel",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Nayab Singh Saini",
+        "role": "Chief Minister of Haryana",
+        "party": "BJP",
+        "state": "Haryana",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nayab_Singh_Saini",
+        "image_placeholder": "nayab_singh_saini",
+        "auto_added": true,
+        "auto_added_on": "2026-06-03",
+        "gemma_confidence": "high",
+        "mentions_detected": 1,
+        "controversies": [
+          {
+            "incident_text": "Nayab Singh Saini was called a 'CM on deputation' for visiting Punjab frequently.",
+            "source_url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-confident-of-congress-win-in-rajya-sabha-polls-in-haryana/article70746072.ece",
+            "source_title": "Bhupinder Hooda confident of Congress win in Rajya Sabha polls in Haryana - The Hindu",
+            "scraped_at": "2026-03-15 10:38:20.934261"
+          }
+        ]
+      },
+      {
+        "name": "Sukhvinder Singh Sukhu",
+        "aliases": [
+          "Sukhu",
+          "Himachal CM"
+        ],
+        "role": "Chief Minister of Himachal Pradesh",
+        "state": "Himachal Pradesh",
+        "party": "INC",
+        "ruling_since": "2022",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sukhvinder_Singh_Sukhu",
+        "image_placeholder": "sukhvinder_sukhu",
+        "criminal_incidents": [],
+        "controversies": [
+          {
+            "incident_text": "Sukhvinder Singh Sukhu attributed the local body poll results to 'local factors'.",
+            "source_url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
+            "source_title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-02 02:01:02.628872"
+          },
+          {
+            "incident_text": "Sukhvinder Singh Sukhu accused the BJP of not supporting Himachal Pradesh's interests and neglecting the state during difficult times.",
+            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+            "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
+            "scraped_at": "2026-03-21 08:00:59.766390"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
+          }
+        ],
+        "criminal_cases_in_news": 0
+      },
+      {
+        "name": "Hemant Soren",
+        "aliases": [
+          "Hemant",
+          "Jharkhand CM"
+        ],
+        "role": "Chief Minister of Jharkhand",
+        "state": "Jharkhand",
+        "party": "JMM",
+        "ruling_since": "2024",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
+        "image_placeholder": "hemant_soren",
+        "criminal_incidents": [],
+        "controversies": [
+          {
+            "incident_text": "Hemant Soren complained that Congress announced its candidate without consultation.",
+            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+            "scraped_at": "2026-06-07 11:52:49.380769"
+          }
+        ],
+        "criminal_cases_in_news": 0
+      },
+      {
+        "name": "D.K. Shivakumar",
+        "role": "Chief Minister of Karnataka",
+        "party": "INC",
+        "state": "Karnataka",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
+        "image_placeholder": "dk_shivakumar",
+        "auto_added": true,
+        "auto_added_on": "2026-06-11",
+        "gemma_confidence": "high",
+        "mentions_detected": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu ##  Congress Alleges BJP Poaching Bid in Odisha\n\nOdisha's Deputy Chief Minister D.K. Shivakumar has accused the Bharatiya Jan",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-15",
+        "controversies": [
+          {
+            "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
+            "source_title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
+            "scraped_at": "2026-06-03 05:29:14.896823"
+          },
+          {
+            "incident_text": "D.K. Shivakumar alleged that the BJP offered ₹5 crore bribes to each Odisha Congress legislator.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 15:24:24.218444"
+          },
+          {
+            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:34.835256"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:23.494826"
+          },
+          {
+            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 15:54:09.127238"
+          },
+          {
+            "incident_text": "D.K. Shivakumar strongly opposed the Union government’s proposed “One Nation One Election” initiative.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/cong-aap-oppose-simultaneous-polls-while-bjp-welcomes/article70988060.ece",
+            "source_title": "Cong., AAP oppose simultaneous polls, while BJP welcomes - The Hindu",
+            "scraped_at": "2026-05-16 16:01:33"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 03:10:42"
+          }
+        ]
+      },
+      {
+        "name": "V.D. Satheesan",
+        "role": "Chief Minister of Kerala",
+        "party": "INC",
+        "state": "Kerala",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "auto_added": true,
+        "auto_added_on": "2026-05-28",
+        "gemma_confidence": "high",
+        "mentions_detected": 29,
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
+            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
+            "scraped_at": "2026-03-25 05:03:23.619762",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "V.D. Satheesan hinted at potential defections from the Left.",
+            "source_url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
+            "source_title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
+            "scraped_at": "2026-03-16 23:01:00.277422"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated the Congress high command will decide if MPs contest the Assembly election.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-high-command-will-decide-on-mps-contesting-says-satheesan/article70742605.ece",
+            "source_title": "Kerala Assembly elections: High command will decide on MPs contesting, says Satheesan - The Hindu",
+            "scraped_at": "2026-03-14 05:07:22"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated that the Munambam holding was not Waqf property.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/munambam-is-waqf-property-says-chairperson/article71110466.ece",
+            "source_title": "Munambam is Waqf property, says board chairperson - The Hindu",
+            "scraped_at": "2026-06-16 18:24:04"
+          }
+        ],
+        "criminal_last_updated": "2026-06-15"
+      },
+      {
+        "name": "Mohan Yadav",
+        "aliases": [
+          "Mohan Yadav",
+          "MP CM"
+        ],
+        "role": "Chief Minister of Madhya Pradesh",
+        "state": "Madhya Pradesh",
+        "party": "BJP",
+        "ruling_since": "2023",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
+        "image_placeholder": "mohan_yadav",
+        "criminal_incidents": [],
+        "controversies": [
+          {
+            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          }
+        ],
+        "criminal_cases_in_news": 0
+      },
+      {
+        "name": "Devendra Fadnavis",
+        "aliases": [
+          "Fadnavis",
+          "Maharashtra CM"
+        ],
+        "role": "Chief Minister of Maharashtra",
+        "state": "Maharashtra",
+        "party": "BJP",
+        "ruling_since": "2024",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
+        "image_placeholder": "devendra_fadnavis",
+        "criminal_incidents": [
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express **Ankita Deshkar**, a Deputy Copy Editor and fact-checker at **The Indian Expr",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "Devendra Fadnavis questioned the government's commitment to implementing recommendations from the 2015 Malwani liquor tragedy committee.",
+            "source_url": "https://indianexpress.com/article/cities/pune/pune-hooch-tragedy-congress-maharashtra-government-response-10726203/",
+            "source_title": "Hooch deaths: ‘Perfect case of government negligence; what was learned from 2015 Malwani liquor tragedy?’ asks Congress | Pune News - The Indian Express",
+            "scraped_at": "2026-06-05 15:41:13.820641"
+          },
+          {
+            "incident_text": "Devendra Fadnavis believes love, not money, influences voters.",
+            "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
+            "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
+            "scraped_at": "2026-06-06 12:10:36.336496"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated the bill aims to prevent forced, fraudulent, or induced religious conversions.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
+            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
+            "scraped_at": "2026-03-16 23:40:11.368501"
+          },
+          {
+            "incident_text": "Devendra Fadnavis did not reach out to the kin of a NEET aspirant who died during a CJP protest in Nagpur.",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08"
+          },
+          {
+            "incident_text": "Devendra Fadnavis was tagged in a statement alleging attempts to bribe MPs with ₹15 crore.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/15-crore-will-be-paid-to-mps-tonight-says-shiv-sena-ubt-leader/article71110702.ece",
+            "source_title": "₹15 crore will be paid to MPs tonight, says Shiv Sena (UBT) leader - The Hindu",
+            "scraped_at": "2026-06-16 21:33:16"
+          }
+        ],
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-16"
+      },
+      {
+        "name": "N. Biren Singh",
+        "role": "Chief Minister of Manipur",
+        "party": "BJP",
+        "state": "Manipur",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Biren_Singh",
+        "image_placeholder": "n_biren_singh",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [
+          {
+            "incident_text": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu The **Supreme Court of India** ordered the **Kuki Organisation for Human Rights** to ",
+            "source_url": "https://www.thehindu.com/news/national/manipur/supreme-court-asks-petitioner-to-turn-in-first-gen-copy-of-leaked-audio-to-forensic-lab/article70923991.ece",
+            "source_title": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu",
+            "scraped_at": "2026-04-30 22:33:08.403010",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [],
+        "criminal_last_updated": "2026-06-14"
+      },
+      {
+        "name": "Conrad Sangma",
+        "role": "Chief Minister of Meghalaya",
+        "party": "NPP",
+        "state": "Meghalaya",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Sangma",
+        "image_placeholder": "conrad_sangma",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Lalduhoma",
+        "role": "Chief Minister of Mizoram",
+        "party": "ZPM",
+        "state": "Mizoram",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lalduhoma",
+        "image_placeholder": "lalduhoma",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Neiphiu Rio",
+        "role": "Chief Minister of Nagaland",
+        "party": "NDPP",
+        "state": "Nagaland",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neiphiu_Rio",
+        "image_placeholder": "neiphiu_rio",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Mohan Majhi",
+        "role": "Chief Minister of Odisha",
+        "party": "BJP",
+        "state": "Odisha",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Majhi",
+        "image_placeholder": "mohan_majhi",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Bhagwant Mann",
+        "role": "Chief Minister of Punjab",
+        "party": "AAP",
+        "state": "Punjab",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
+        "image_placeholder": "bhagwant_mann",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 1,
+        "controversies": [
+          {
+            "incident_text": "Bhagwant Mann stated that a potential SAD-BJP alliance would be opportunistic and harmful to Punjab.",
+            "source_url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
+            "source_title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-11 02:03:51.529239"
+          },
+          {
+            "incident_text": "Bhagwant Mann claimed a video showing him sprinkling alcohol on Sikh guru images was AI-generated.",
+            "source_url": "https://www.ndtv.com/india-news/bhagwant-mann-declared-anti-guru-by-akal-takht-ahead-of-punjab-polls-11639198#publisher=newsstand",
+            "source_title": "Bhagwant Mann Declared 'Anti-Guru' By Akal Takht Ahead Of Punjab Polls",
+            "scraped_at": "2026-06-15 12:24:22"
+          },
+          {
+            "incident_text": "Bhagwant Mann accused certain religious authorities of spreading false propaganda at the behest of their political bosses.",
+            "source_url": "https://indianexpress.com/article/political-pulse/amid-akal-takht-vs-cm-bhagwant-mann-a-look-at-jathedar-role-in-turbulent-panthic-politics-10743175/",
+            "source_title": "Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-17 02:05:54"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe **Sukhbir Singh Badal**, leader of the **Shiromani Akali Dal**, has accused **Chief Minister Bhagwant Mann** of disrespecting ",
+            "source_url": "https://www.ndtv.com/india-news/akal-takht-row-escalates-sukhbir-badal-attacks-mann-bjp-seeks-cbi-probe-11651411#publisher=newsstand",
+            "source_title": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe",
+            "scraped_at": "2026-06-17 18:45:18",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-18"
+      },
+      {
+        "name": "Bhajanlal Sharma",
+        "aliases": [
+          "Bhajanlal",
+          "Rajasthan CM"
+        ],
+        "role": "Chief Minister of Rajasthan",
+        "state": "Rajasthan",
+        "party": "BJP",
+        "ruling_since": "2023",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhajanlal_Sharma",
+        "image_placeholder": "bhajanlal_sharma",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
+      },
+      {
+        "name": "Prem Singh Tamang",
+        "role": "Chief Minister of Sikkim",
+        "party": "SKM",
+        "state": "Sikkim",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Prem_Singh_Tamang",
+        "image_placeholder": "prem_singh_tamang",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "C. Joseph Vijay",
+        "role": "Chief Minister of Tamil Nadu",
+        "party": "TVK",
+        "state": "Tamil Nadu",
+        "aliases": [
+          "C. Joseph Vijay**"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "auto_added": true,
+        "auto_added_on": "2026-05-28",
+        "gemma_confidence": "high",
+        "mentions_detected": 52,
+        "criminal_incidents": [
+          {
+            "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
+            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
+            "scraped_at": "2026-05-30 03:52:17.421777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu **C. Joseph Vijay**, the actor-politician making his electoral debut, has filed revised ",
+            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
+            "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
+            "scraped_at": "2026-04-05 05:18:19.309562",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-16",
+        "controversies": [
+          {
+            "incident_text": "C. Joseph Vijay described the new TVK-led administration as a 'Vijay-model government'.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-inaugurates-two-day-training-programme-for-mlas/article71108198.ece",
+            "source_title": "Tamil Nadu CM Vijay inaugurates two-day training programme for MLAs - The Hindu",
+            "scraped_at": "2026-06-16 08:33:40"
+          }
+        ]
+      },
+      {
+        "name": "Revanth Reddy",
+        "aliases": [
+          "Revanth",
+          "Telangana CM"
+        ],
+        "role": "Chief Minister of Telangana",
+        "state": "Telangana",
+        "party": "INC",
+        "ruling_since": "2023",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
+        "image_placeholder": "revanth_reddy",
+        "criminal_incidents": [
+          {
+            "incident_text": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu **Chief Minister Revanth Reddy** and **Irrigation Minister N. Uttam Kumar Reddy** plan to meet the **CBI Director** to u",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanthuttamto-meetcbidirectorfor-expeditingkaleshwaramprobe/article70898797.ece",
+            "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+            "scraped_at": "2026-04-23 23:56:55.724370",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "Revanth Reddy's government is selectively targeting the poor and middle class through HYDRAA anti-encroachment drives.",
+            "source_url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
+            "source_title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
+            "scraped_at": "2026-06-09 04:48:15.959112"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
+            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
+            "scraped_at": "2026-03-18 23:36:53.293151"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 08:40:42.964767"
+          },
+          {
+            "incident_text": "Revanth Reddy linked HYDRAA's functioning to Adolf Hitler's actions.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
+            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
+            "scraped_at": "2026-06-07 14:02:56.909896"
+          },
+          {
+            "incident_text": "G. Kishan Reddy allegedly hobnobs with BRS leaders, hindering project approvals.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed the Asian Development Bank sanctioned ₹4,100 crore for the Musi Riverfront Development project.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/brs-alleges-cm-misled-assembly-on-adb-loan-for-musi-project/article70739720.ece",
+            "source_title": "BRS alleges CM misled Assembly on ADB loan for Musi project - The Hindu",
+            "scraped_at": "2026-03-13 12:37:49"
+          },
+          {
+            "incident_text": "Revanth Reddy stated that Telangana became the first state to implement SC categorisation.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
+            "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
+            "scraped_at": "2026-03-06 08:41:29"
+          }
+        ],
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-15"
+      },
+      {
+        "name": "Manik Saha",
+        "role": "Chief Minister of Tripura",
+        "party": "BJP",
+        "state": "Tripura",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Manik_Saha",
+        "image_placeholder": "manik_saha",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
         "name": "Yogi Adityanath",
         "aliases": [
           "Yogi",
@@ -1595,12 +2384,433 @@
         "criminal_cases_in_news": 0
       },
       {
+        "name": "Pushkar Singh Dhami",
+        "role": "Chief Minister of Uttarakhand",
+        "party": "BJP",
+        "state": "Uttarakhand",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
+        "image_placeholder": "pushkar_singh_dhami",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      },
+      {
+        "name": "Suvendu Adhikari",
+        "role": "Chief Minister of West Bengal",
+        "party": "BJP",
+        "state": "West Bengal",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 8,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
+        "image_placeholder": "suvendu_adhikari",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 5,
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu **Chief Election Commissioner Gyanesh Kumar** directed West Bengal authorities to ensure zero tolerance for post-poll vi",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/cec-orders-immediate-arrest-of-those-involved-in-post-poll-violence-in-bengal-official/article70945756.ece",
+            "source_title": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu",
+            "scraped_at": "2026-05-07 01:24:04.915716",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-05 03:44:09.432326",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu The **West Bengal** government has initiated a crackdown on alleged post-poll violence and f",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-reopens-59-cases-linked-to-2021-post-poll-violence-181-fresh-firs-registered/article70993198.ece",
+            "source_title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu",
+            "scraped_at": "2026-05-18 17:37:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian Following the BJP's victory in the West Bengal elections, **Tensions** have escalated with violence e",
+            "source_url": "https://www.theguardian.com/world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
+            "source_title": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian",
+            "scraped_at": "2026-05-07 15:22:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "​Take east: On the BJP government in West Bengal - The Hindu The **Bharatiya Janata Party (BJP)** secured a resounding victory in the West Bengal Assembly elections, winning 207 out of 294 seats.  **S",
+            "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
+            "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
+            "scraped_at": "2026-05-08 17:32:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-16",
+        "controversies": [
+          {
+            "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
+            "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
+            "scraped_at": "2026-06-09 18:10:55.701145"
+          },
+          {
+            "incident_text": "Suvendu Adhikari's government has faced criticism for its 'bulldozer culture' approach to evictions.",
+            "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
+            "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-09 15:41:48.731058"
+          },
+          {
+            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 12:37:10"
+          },
+          {
+            "incident_text": "Suvendu Adhikari claimed Abhishek Banerjee owns 24 properties in Kolkata.",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
+            "source_title": "Suvendu targets Abhishek, says all his properties will be accounted for - The Hindu",
+            "scraped_at": "2026-05-16 20:00:22"
+          }
+        ]
+      },
+      {
+        "name": "Rekha Gupta",
+        "role": "Chief Minister of Delhi",
+        "party": "BJP",
+        "state": "Delhi",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rekha_Gupta",
+        "image_placeholder": "rekha_gupta",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": [
+          {
+            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
+          }
+        ]
+      },
+      {
+        "name": "Omar Abdullah",
+        "aliases": [
+          "Omar",
+          "J&K CM"
+        ],
+        "role": "Chief Minister of Jammu and Kashmir",
+        "state": "Jammu and Kashmir",
+        "party": "National Conference",
+        "ruling_since": "2024",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
+        "image_placeholder": "omar_abdullah",
+        "criminal_cases_in_news": 0,
+        "criminal_incidents": [],
+        "criminal_last_updated": "2026-06-01",
+        "controversies": [
+          {
+            "incident_text": "Omar Abdullah stated that the Congress party is the only party with a presence in all Indian states and thus can unify the INDIA alliance.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
+            "source_title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
+            "scraped_at": "2026-06-10 23:30:52.812424"
+          },
+          {
+            "incident_text": "Mehbooba Mufti visited the AIIMS site, claiming credit for a project she delayed.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "Omar Abdullah stated that the abrogation of Article 370 was the biggest policy mistake made by the Indian government.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-omar-abdullah-session/article71064526.ece",
+            "source_title": "Abrogation of Article 370 was the biggest policy mistake by the government: Omar Abdullah - The Hindu",
+            "scraped_at": "2026-06-17 07:37:36"
+          }
+        ]
+      },
+      {
+        "name": "N. Rangasamy",
+        "role": "Chief Minister of Puducherry",
+        "party": "AINRC",
+        "state": "Puducherry",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Rangasamy",
+        "image_placeholder": "n_rangasamy",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
+      }
+    ],
+    "generic_politicians": [
+      {
+        "name": "Krishna Byre Gowda",
+        "role": "Minister of Bengaluru Development",
+        "party": "INC",
+        "state": "Karnataka",
+        "aliases": [
+          "Bengaluru Development"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
+        "image_placeholder": "krishna_byre_gowda",
+        "auto_added": true,
+        "auto_added_on": "2026-06-06",
+        "gemma_confidence": "high",
+        "mentions_detected": 5,
+        "controversies": [
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:23"
+          },
+          {
+            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:34"
+          },
+          {
+            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 10:24:09"
+          }
+        ]
+      },
+      {
+        "name": "S.P. Velumani",
+        "role": "MLA",
+        "party": "unconfirmed",
+        "state": "Tamil Nadu",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/S.P._Velumani",
+        "image_placeholder": "sp_velumani",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "medium",
+        "mentions_detected": 7,
+        "criminal_incidents": [
+          {
+            "incident_text": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu **R. Girirajan**, a **DMK Rajya Sabha member**, filed nine writ petitions in the Madras High",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-moves-madras-high-court-seeking-direction-to-ed-to-register-cases-against-aiadmk-leaders/article70757360.ece",
+            "source_title": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu",
+            "scraped_at": "2026-03-18 12:14:00.786686",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
+            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
+            "scraped_at": "2026-04-20 20:05:45.187031",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-15"
+      },
+      {
+        "name": "Meenakshi Natarajan",
+        "role": "Rajya Sabha candidate",
+        "party": "INC",
+        "state": null,
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi_Natarajan",
+        "image_placeholder": "meenakshi_natarajan",
+        "auto_added": true,
+        "auto_added_on": "2026-06-10",
+        "gemma_confidence": "high",
+        "mentions_detected": 5,
+        "criminal_incidents": [
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission’s** disqualification of Congres",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express **The Congress** challenged the rejection of its candidate, **Meenakshi Natarajan**, f",
+            "source_url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
+            "source_title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
+            "scraped_at": "2026-06-10 21:39:20.999817",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-16",
+        "controversies": [
+          {
+            "incident_text": "Meenakshi Natarajan stated the Returning Officer's decision was a subversion of democracy.",
+            "source_url": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
+            "source_title": "Congress calls Returning Officer’s order on Meenakshi Natarajan’s Rajya Sabha nomination ‘egregious’ - The Hindu",
+            "scraped_at": "2026-06-10 12:25:07.373246"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          }
+        ]
+      },
+      {
+        "name": "M.K. Stalin",
+        "aliases": [
+          "Stalin",
+          "Tamil Nadu CM",
+          "DMK Chief"
+        ],
+        "role": "Former Chief Minister",
+        "state": "Tamil Nadu",
+        "party": "DMK",
+        "ruling_since": "2021",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/M._K._Stalin",
+        "image_placeholder": "mk_stalin",
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "M.K. Stalin claimed the BJP would destroy the AIADMK.",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-will-meet-its-downfall-for-inducting-traitors-ousted-from-aiadmk-palaniswami/article70719687.ece",
+            "source_title": "DMK will meet its downfall for inducting ‘traitors’ ousted from AIADMK: Palaniswami - The Hindu",
+            "scraped_at": "2026-03-09 03:25:54"
+          },
+          {
+            "incident_text": "M.K. Stalin is fearful of a major electoral defeat, according to L. Murugan.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-inspects-venue-for-pms-public-meeting-in-tiruchi/article70718977.ece",
+            "source_title": "Union Minister inspects venue for PM’s public meeting in Tiruchi - The Hindu",
+            "scraped_at": "2026-03-08 08:17:38"
+          }
+        ],
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-16"
+      },
+      {
+        "name": "Bhupesh Baghel",
+        "aliases": [
+          "Baghel",
+          "Former Chhattisgarh CM"
+        ],
+        "role": "Former Chief Minister",
+        "state": "Chhattisgarh",
+        "party": "INC",
+        "ruling_since": "N/A",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
+        "image_placeholder": "bhupesh_baghel",
+        "criminal_incidents": [
+          {
+            "incident_text": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu The **Supreme Court of India** agreed to hear a case regarding the ability of investigating a",
+            "source_url": "https://www.thehindu.com/news/national/chaitanya-baghel-case-supreme-court-to-hear-question-of-law-ed-maintains-case-is-infructuous/article70774544.ece",
+            "source_title": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu",
+            "scraped_at": "2026-03-23 06:50:48.893317",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [
+          {
+            "incident_text": "Bhupesh Baghel cited alliance principles when addressing Hemant Soren's complaint about the candidate announcement.",
+            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+            "scraped_at": "2026-06-07 11:52:49.380769"
+          }
+        ],
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-15"
+      },
+      {
+        "name": "Pabitra Margherita",
+        "role": "Former Chief Minister of Assam",
+        "party": "",
+        "state": "Assam",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pabitra_Margherita",
+        "image_placeholder": "pabitra_margherita",
+        "auto_added": true,
+        "auto_added_on": "2026-06-02",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
+      },
+      {
         "name": "Nitish Kumar",
         "aliases": [
           "Nitish",
           "Former Bihar CM"
         ],
-        "role": "Chief Minister of Bihar",
+        "role": "Former Chief Minister of Bihar",
         "state": "Bihar",
         "party": "JDU",
         "ruling_since": "2005",
@@ -1636,7 +2846,7 @@
           "Bengal CM",
           "TMC Chief"
         ],
-        "role": "Chief Minister of West Bengal",
+        "role": "Former Chief Minister of West Bengal",
         "state": "West Bengal",
         "party": "TMC",
         "ruling_since": "2011",
@@ -1849,7 +3059,7 @@
           "Siddaramaiah",
           "Karnataka CM"
         ],
-        "role": "Chief Minister of Karnataka",
+        "role": "Former Chief Minister of Karnataka",
         "state": "Karnataka",
         "party": "INC",
         "ruling_since": "2023",
@@ -1924,82 +3134,12 @@
         ]
       },
       {
-        "name": "Revanth Reddy",
-        "aliases": [
-          "Revanth",
-          "Telangana CM"
-        ],
-        "role": "Chief Minister of Telangana",
-        "state": "Telangana",
-        "party": "INC",
-        "ruling_since": "2023",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
-        "image_placeholder": "revanth_reddy",
-        "criminal_incidents": [
-          {
-            "incident_text": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu **Chief Minister Revanth Reddy** and **Irrigation Minister N. Uttam Kumar Reddy** plan to meet the **CBI Director** to u",
-            "source_url": "https://www.thehindu.com/news/national/telangana/revanthuttamto-meetcbidirectorfor-expeditingkaleshwaramprobe/article70898797.ece",
-            "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
-            "scraped_at": "2026-04-23 23:56:55.724370",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "Revanth Reddy's government is selectively targeting the poor and middle class through HYDRAA anti-encroachment drives.",
-            "source_url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
-            "source_title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
-            "scraped_at": "2026-06-09 04:48:15.959112"
-          },
-          {
-            "incident_text": "Revanth Reddy stated he was ready to order a probe into HILT and TDR allegations if formally requested.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
-            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
-            "scraped_at": "2026-03-18 23:36:53.293151"
-          },
-          {
-            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
-            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
-            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
-            "scraped_at": "2026-06-06 08:40:42.964767"
-          },
-          {
-            "incident_text": "Revanth Reddy linked HYDRAA's functioning to Adolf Hitler's actions.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
-            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
-            "scraped_at": "2026-06-07 14:02:56.909896"
-          },
-          {
-            "incident_text": "G. Kishan Reddy allegedly hobnobs with BRS leaders, hindering project approvals.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
-            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
-            "scraped_at": "2026-06-07 18:52:22.571559"
-          },
-          {
-            "incident_text": "Revanth Reddy claimed the Asian Development Bank sanctioned ₹4,100 crore for the Musi Riverfront Development project.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/brs-alleges-cm-misled-assembly-on-adb-loan-for-musi-project/article70739720.ece",
-            "source_title": "BRS alleges CM misled Assembly on ADB loan for Musi project - The Hindu",
-            "scraped_at": "2026-03-13 12:37:49"
-          },
-          {
-            "incident_text": "Revanth Reddy stated that Telangana became the first state to implement SC categorisation.",
-            "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
-            "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
-            "scraped_at": "2026-03-06 08:41:29"
-          }
-        ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
-      },
-      {
         "name": "Pinarayi Vijayan",
         "aliases": [
           "Pinarayi",
           "Kerala CM"
         ],
-        "role": "Chief Minister of Kerala",
+        "role": "Former Chief Minister of Kerala",
         "state": "Kerala",
         "party": "CPM",
         "ruling_since": "2016",
@@ -2047,1146 +3187,6 @@
         ],
         "criminal_last_updated": "2026-06-16",
         "controversies": []
-      },
-      {
-        "name": "Hemant Soren",
-        "aliases": [
-          "Hemant",
-          "Jharkhand CM"
-        ],
-        "role": "Chief Minister of Jharkhand",
-        "state": "Jharkhand",
-        "party": "JMM",
-        "ruling_since": "2024",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
-        "image_placeholder": "hemant_soren",
-        "criminal_incidents": [],
-        "controversies": [
-          {
-            "incident_text": "Hemant Soren complained that Congress announced its candidate without consultation.",
-            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
-            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
-            "scraped_at": "2026-06-07 11:52:49.380769"
-          }
-        ],
-        "criminal_cases_in_news": 0
-      },
-      {
-        "name": "Chandrababu Naidu",
-        "aliases": [
-          "Naidu",
-          "CBN",
-          "Andhra CM"
-        ],
-        "role": "Chief Minister of Andhra Pradesh",
-        "state": "Andhra Pradesh",
-        "party": "TDP",
-        "ruling_since": "2024",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
-        "image_placeholder": "chandrababu_naidu",
-        "criminal_incidents": [
-          {
-            "incident_text": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu The **High Court** of India admitted a Writ Petition filed by former MLA Alla Ramakrishna Reddy, seeking ",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-to-hear-writ-petition-seeking-transfer-of-amaravati-irr-case-to-cbi-on-march-16/article70723036.ece",
-            "source_title": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu",
-            "scraped_at": "2026-03-09 10:36:12",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "Chandrababu Naidu stated that boycotting legislative sessions is shirking the responsibility to raise public issues.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-shirking-responsibility-of-raising-public-issues-in-assembly-says-ap-cm/article70711940.ece",
-            "source_title": "YSRCP shirking responsibility of raising public issues in Assembly, says A.P. CM - The Hindu",
-            "scraped_at": "2026-03-06 13:42:46"
-          }
-        ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-17"
-      },
-      {
-        "name": "Devendra Fadnavis",
-        "aliases": [
-          "Fadnavis",
-          "Maharashtra CM"
-        ],
-        "role": "Chief Minister of Maharashtra",
-        "state": "Maharashtra",
-        "party": "BJP",
-        "ruling_since": "2024",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
-        "image_placeholder": "devendra_fadnavis",
-        "criminal_incidents": [
-          {
-            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
-            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
-            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
-            "scraped_at": "2026-06-10 12:26:50.498411",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express **Ankita Deshkar**, a Deputy Copy Editor and fact-checker at **The Indian Expr",
-            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
-            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
-            "scraped_at": "2026-06-16 18:22:08",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "Devendra Fadnavis questioned the government's commitment to implementing recommendations from the 2015 Malwani liquor tragedy committee.",
-            "source_url": "https://indianexpress.com/article/cities/pune/pune-hooch-tragedy-congress-maharashtra-government-response-10726203/",
-            "source_title": "Hooch deaths: ‘Perfect case of government negligence; what was learned from 2015 Malwani liquor tragedy?’ asks Congress | Pune News - The Indian Express",
-            "scraped_at": "2026-06-05 15:41:13.820641"
-          },
-          {
-            "incident_text": "Devendra Fadnavis believes love, not money, influences voters.",
-            "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
-            "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
-            "scraped_at": "2026-06-06 12:10:36.336496"
-          },
-          {
-            "incident_text": "Devendra Fadnavis stated the bill aims to prevent forced, fraudulent, or induced religious conversions.",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
-            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
-            "scraped_at": "2026-03-16 23:40:11.368501"
-          },
-          {
-            "incident_text": "Devendra Fadnavis did not reach out to the kin of a NEET aspirant who died during a CJP protest in Nagpur.",
-            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
-            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
-            "scraped_at": "2026-06-16 18:22:08"
-          },
-          {
-            "incident_text": "Devendra Fadnavis was tagged in a statement alleging attempts to bribe MPs with ₹15 crore.",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/15-crore-will-be-paid-to-mps-tonight-says-shiv-sena-ubt-leader/article71110702.ece",
-            "source_title": "₹15 crore will be paid to MPs tonight, says Shiv Sena (UBT) leader - The Hindu",
-            "scraped_at": "2026-06-16 21:33:16"
-          }
-        ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-16"
-      },
-      {
-        "name": "Bhajanlal Sharma",
-        "aliases": [
-          "Bhajanlal",
-          "Rajasthan CM"
-        ],
-        "role": "Chief Minister of Rajasthan",
-        "state": "Rajasthan",
-        "party": "BJP",
-        "ruling_since": "2023",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bhajanlal_Sharma",
-        "image_placeholder": "bhajanlal_sharma",
-        "criminal_incidents": [],
-        "controversies": [],
-        "criminal_cases_in_news": 0
-      },
-      {
-        "name": "Mohan Yadav",
-        "aliases": [
-          "Mohan Yadav",
-          "MP CM"
-        ],
-        "role": "Chief Minister of Madhya Pradesh",
-        "state": "Madhya Pradesh",
-        "party": "BJP",
-        "ruling_since": "2023",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
-        "image_placeholder": "mohan_yadav",
-        "criminal_incidents": [],
-        "controversies": [
-          {
-            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
-            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
-            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
-            "scraped_at": "2026-06-10 21:37:18.591976"
-          }
-        ],
-        "criminal_cases_in_news": 0
-      },
-      {
-        "name": "Omar Abdullah",
-        "aliases": [
-          "Omar",
-          "J&K CM"
-        ],
-        "role": "Chief Minister of Jammu and Kashmir",
-        "state": "Jammu and Kashmir",
-        "party": "National Conference",
-        "ruling_since": "2024",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
-        "image_placeholder": "omar_abdullah",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
-        "controversies": [
-          {
-            "incident_text": "Omar Abdullah stated that the Congress party is the only party with a presence in all Indian states and thus can unify the INDIA alliance.",
-            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
-            "source_title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
-            "scraped_at": "2026-06-10 23:30:52.812424"
-          },
-          {
-            "incident_text": "Mehbooba Mufti visited the AIIMS site, claiming credit for a project she delayed.",
-            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
-            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
-            "scraped_at": "2026-06-06 08:41:43.929151"
-          },
-          {
-            "incident_text": "Omar Abdullah stated that the abrogation of Article 370 was the biggest policy mistake made by the Indian government.",
-            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-omar-abdullah-session/article71064526.ece",
-            "source_title": "Abrogation of Article 370 was the biggest policy mistake by the government: Omar Abdullah - The Hindu",
-            "scraped_at": "2026-06-17 07:37:36"
-          }
-        ]
-      },
-      {
-        "name": "Sukhvinder Singh Sukhu",
-        "aliases": [
-          "Sukhu",
-          "Himachal CM"
-        ],
-        "role": "Chief Minister of Himachal Pradesh",
-        "state": "Himachal Pradesh",
-        "party": "INC",
-        "ruling_since": "2022",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Sukhvinder_Singh_Sukhu",
-        "image_placeholder": "sukhvinder_sukhu",
-        "criminal_incidents": [],
-        "controversies": [
-          {
-            "incident_text": "Sukhvinder Singh Sukhu attributed the local body poll results to 'local factors'.",
-            "source_url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
-            "source_title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
-            "scraped_at": "2026-06-02 02:01:02.628872"
-          },
-          {
-            "incident_text": "Sukhvinder Singh Sukhu accused the BJP of not supporting Himachal Pradesh's interests and neglecting the state during difficult times.",
-            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
-            "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
-            "scraped_at": "2026-03-21 08:00:59.766390"
-          },
-          {
-            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
-            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
-            "scraped_at": "2026-06-03 09:54:24"
-          }
-        ],
-        "criminal_cases_in_news": 0
-      },
-      {
-        "name": "C. Joseph Vijay",
-        "role": "Chief Minister of Tamil Nadu",
-        "party": "TVK",
-        "state": "Tamil Nadu",
-        "aliases": [
-          "C. Joseph Vijay**"
-        ],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
-        "auto_added": true,
-        "auto_added_on": "2026-05-28",
-        "gemma_confidence": "high",
-        "mentions_detected": 52,
-        "criminal_incidents": [
-          {
-            "incident_text": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu **Justice G.R. Swaminathan** of the Madras High Court presided over a cas",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
-            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
-            "scraped_at": "2026-05-30 03:52:17.421777",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu **C. Joseph Vijay**, the actor-politician making his electoral debut, has filed revised ",
-            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
-            "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
-            "scraped_at": "2026-04-05 05:18:19.309562",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-16",
-        "controversies": [
-          {
-            "incident_text": "C. Joseph Vijay described the new TVK-led administration as a 'Vijay-model government'.",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-inaugurates-two-day-training-programme-for-mlas/article71108198.ece",
-            "source_title": "Tamil Nadu CM Vijay inaugurates two-day training programme for MLAs - The Hindu",
-            "scraped_at": "2026-06-16 08:33:40"
-          }
-        ]
-      },
-      {
-        "name": "Himanta Biswa Sarma",
-        "role": "Chief Minister of Assam",
-        "party": "BJP",
-        "state": "Assam",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
-        "image_placeholder": "himanta_biswa_sarma",
-        "auto_added": true,
-        "auto_added_on": "2026-06-02",
-        "gemma_confidence": "high",
-        "mentions_detected": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu **Himanta Biswa Sarma**, Assam Chief Minister, accused the **Congress** of fabricating",
-            "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
-            "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
-            "scraped_at": "2026-04-06 05:31:18.786927",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu **Pawan Khera**, a Congress leader, was granted anticipatory bail by the **Supreme Court**",
-            "source_url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
-            "source_title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
-            "scraped_at": "2026-05-02 18:14:31.909107",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu **Assam** Chief Minister **Himanta Biswa Sarma** accused the **Congress** party of a “foreign-",
-            "source_url": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
-            "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
-            "scraped_at": "2026-04-07 08:22:43.536400",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-16",
-        "controversies": [
-          {
-            "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
-            "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
-            "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
-            "scraped_at": "2026-03-18 23:38:55.839838"
-          }
-        ]
-      },
-      {
-        "name": "Bhagwant Mann",
-        "role": "Chief Minister of Punjab",
-        "party": "AAP",
-        "state": "Punjab",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
-        "image_placeholder": "bhagwant_mann",
-        "auto_added": true,
-        "auto_added_on": "2026-06-02",
-        "gemma_confidence": "high",
-        "mentions_detected": 1,
-        "controversies": [
-          {
-            "incident_text": "Bhagwant Mann stated that a potential SAD-BJP alliance would be opportunistic and harmful to Punjab.",
-            "source_url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
-            "source_title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
-            "scraped_at": "2026-06-11 02:03:51.529239"
-          },
-          {
-            "incident_text": "Bhagwant Mann claimed a video showing him sprinkling alcohol on Sikh guru images was AI-generated.",
-            "source_url": "https://www.ndtv.com/india-news/bhagwant-mann-declared-anti-guru-by-akal-takht-ahead-of-punjab-polls-11639198#publisher=newsstand",
-            "source_title": "Bhagwant Mann Declared 'Anti-Guru' By Akal Takht Ahead Of Punjab Polls",
-            "scraped_at": "2026-06-15 12:24:22"
-          },
-          {
-            "incident_text": "Bhagwant Mann accused certain religious authorities of spreading false propaganda at the behest of their political bosses.",
-            "source_url": "https://indianexpress.com/article/political-pulse/amid-akal-takht-vs-cm-bhagwant-mann-a-look-at-jathedar-role-in-turbulent-panthic-politics-10743175/",
-            "source_title": "Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics | Political Pulse News - The Indian Express",
-            "scraped_at": "2026-06-17 02:05:54"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe **Sukhbir Singh Badal**, leader of the **Shiromani Akali Dal**, has accused **Chief Minister Bhagwant Mann** of disrespecting ",
-            "source_url": "https://www.ndtv.com/india-news/akal-takht-row-escalates-sukhbir-badal-attacks-mann-bjp-seeks-cbi-probe-11651411#publisher=newsstand",
-            "source_title": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe",
-            "scraped_at": "2026-06-17 18:45:18",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-18"
-      },
-      {
-        "name": "Nayab Singh Saini",
-        "role": "Chief Minister of Haryana",
-        "party": "BJP",
-        "state": "Haryana",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Nayab_Singh_Saini",
-        "image_placeholder": "nayab_singh_saini",
-        "auto_added": true,
-        "auto_added_on": "2026-06-03",
-        "gemma_confidence": "high",
-        "mentions_detected": 1,
-        "controversies": [
-          {
-            "incident_text": "Nayab Singh Saini was called a 'CM on deputation' for visiting Punjab frequently.",
-            "source_url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-confident-of-congress-win-in-rajya-sabha-polls-in-haryana/article70746072.ece",
-            "source_title": "Bhupinder Hooda confident of Congress win in Rajya Sabha polls in Haryana - The Hindu",
-            "scraped_at": "2026-03-15 10:38:20.934261"
-          }
-        ]
-      },
-      {
-        "name": "Pema Khandu",
-        "role": "Chief Minister of Arunachal Pradesh",
-        "party": "BJP",
-        "state": "Arunachal Pradesh",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Pema_Khandu",
-        "image_placeholder": "pema_khandu",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Vishnu Deo Sai",
-        "role": "Chief Minister of Chhattisgarh",
-        "party": "BJP",
-        "state": "Chhattisgarh",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Vishnu_Deo_Sai",
-        "image_placeholder": "vishnu_deo_sai",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": [
-          {
-            "incident_text": "Vishnu Deo Sai stated the need for a new anti-conversion law.",
-            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-cabinet-approves-new-anti-conversion-law-draft/article70728272.ece",
-            "source_title": "Chhattisgarh Cabinet approves new anti-conversion law draft - The Hindu",
-            "scraped_at": "2026-03-10 14:13:00"
-          }
-        ]
-      },
-      {
-        "name": "Pramod Sawant",
-        "role": "Chief Minister of Goa",
-        "party": "BJP",
-        "state": "Goa",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Pramod_Sawant",
-        "image_placeholder": "pramod_sawant",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Bhupendra Patel",
-        "role": "Chief Minister of Gujarat",
-        "party": "BJP",
-        "state": "Gujarat",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
-        "image_placeholder": "bhupendra_patel",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "N. Biren Singh",
-        "role": "Chief Minister of Manipur",
-        "party": "BJP",
-        "state": "Manipur",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/N._Biren_Singh",
-        "image_placeholder": "n_biren_singh",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [
-          {
-            "incident_text": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu The **Supreme Court of India** ordered the **Kuki Organisation for Human Rights** to ",
-            "source_url": "https://www.thehindu.com/news/national/manipur/supreme-court-asks-petitioner-to-turn-in-first-gen-copy-of-leaked-audio-to-forensic-lab/article70923991.ece",
-            "source_title": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu",
-            "scraped_at": "2026-04-30 22:33:08.403010",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [],
-        "criminal_last_updated": "2026-06-14"
-      },
-      {
-        "name": "Conrad Sangma",
-        "role": "Chief Minister of Meghalaya",
-        "party": "NPP",
-        "state": "Meghalaya",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Sangma",
-        "image_placeholder": "conrad_sangma",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Lalduhoma",
-        "role": "Chief Minister of Mizoram",
-        "party": "ZPM",
-        "state": "Mizoram",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Lalduhoma",
-        "image_placeholder": "lalduhoma",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Neiphiu Rio",
-        "role": "Chief Minister of Nagaland",
-        "party": "NDPP",
-        "state": "Nagaland",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Neiphiu_Rio",
-        "image_placeholder": "neiphiu_rio",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Mohan Majhi",
-        "role": "Chief Minister of Odisha",
-        "party": "BJP",
-        "state": "Odisha",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Majhi",
-        "image_placeholder": "mohan_majhi",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Prem Singh Tamang",
-        "role": "Chief Minister of Sikkim",
-        "party": "SKM",
-        "state": "Sikkim",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Prem_Singh_Tamang",
-        "image_placeholder": "prem_singh_tamang",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Manik Saha",
-        "role": "Chief Minister of Tripura",
-        "party": "BJP",
-        "state": "Tripura",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Manik_Saha",
-        "image_placeholder": "manik_saha",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Pushkar Singh Dhami",
-        "role": "Chief Minister of Uttarakhand",
-        "party": "BJP",
-        "state": "Uttarakhand",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
-        "image_placeholder": "pushkar_singh_dhami",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      },
-      {
-        "name": "Rekha Gupta",
-        "role": "Chief Minister of Delhi",
-        "party": "BJP",
-        "state": "Delhi",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Rekha_Gupta",
-        "image_placeholder": "rekha_gupta",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": [
-          {
-            "incident_text": "Rekha Gupta praised Modi's leadership and highlighted his government's achievements over the past twelve years.",
-            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
-            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
-            "scraped_at": "2026-06-10 12:26:38.519138"
-          },
-          {
-            "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
-            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
-            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
-            "scraped_at": "2026-06-03 00:14:15.719327"
-          }
-        ]
-      },
-      {
-        "name": "N. Rangasamy",
-        "role": "Chief Minister of Puducherry",
-        "party": "AINRC",
-        "state": "Puducherry",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/N._Rangasamy",
-        "image_placeholder": "n_rangasamy",
-        "auto_added": true,
-        "auto_added_on": "2026-06-05",
-        "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
-      }
-    ],
-    "generic_politicians": [
-      {
-        "name": "Krishna Byre Gowda",
-        "role": "Minister of Bengaluru Development",
-        "party": "INC",
-        "state": "Karnataka",
-        "aliases": [
-          "Bengaluru Development"
-        ],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
-        "image_placeholder": "krishna_byre_gowda",
-        "auto_added": true,
-        "auto_added_on": "2026-06-06",
-        "gemma_confidence": "high",
-        "mentions_detected": 5,
-        "controversies": [
-          {
-            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
-            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
-            "scraped_at": "2026-06-04 18:45:23"
-          },
-          {
-            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
-            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
-            "scraped_at": "2026-06-04 18:45:34"
-          },
-          {
-            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
-            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
-            "scraped_at": "2026-06-07 10:24:09"
-          }
-        ]
-      },
-      {
-        "name": "S.P. Velumani",
-        "role": "MLA",
-        "party": "unconfirmed",
-        "state": "Tamil Nadu",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/S.P._Velumani",
-        "image_placeholder": "sp_velumani",
-        "auto_added": true,
-        "auto_added_on": "2026-06-02",
-        "gemma_confidence": "medium",
-        "mentions_detected": 7,
-        "criminal_incidents": [
-          {
-            "incident_text": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu **R. Girirajan**, a **DMK Rajya Sabha member**, filed nine writ petitions in the Madras High",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-moves-madras-high-court-seeking-direction-to-ed-to-register-cases-against-aiadmk-leaders/article70757360.ece",
-            "source_title": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu",
-            "scraped_at": "2026-03-18 12:14:00.786686",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu The **Madras High Court** dismissed nine writ petitions filed by DMK Rajya Sabha member R. Girirajan seeking to compel the ",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
-            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
-            "scraped_at": "2026-04-20 20:05:45.187031",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-15"
-      },
-      {
-        "name": "Meenakshi Natarajan",
-        "role": "Rajya Sabha candidate",
-        "party": "INC",
-        "state": null,
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi_Natarajan",
-        "image_placeholder": "meenakshi_natarajan",
-        "auto_added": true,
-        "auto_added_on": "2026-06-10",
-        "gemma_confidence": "high",
-        "mentions_detected": 5,
-        "criminal_incidents": [
-          {
-            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission's** disqualification of Congres",
-            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
-            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
-            "scraped_at": "2026-06-10 12:26:50.498411",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu **N. Ramchander Rao**, Telangana BJP president, defended the **Election Commission’s** disqualification of Congres",
-            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
-            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
-            "scraped_at": "2026-06-10 12:26:35.086682",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express **The Congress** challenged the rejection of its candidate, **Meenakshi Natarajan**, f",
-            "source_url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
-            "source_title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
-            "scraped_at": "2026-06-10 21:39:20.999817",
-            "incident_type": "serious"
-          }
-        ],
-        "criminal_last_updated": "2026-06-16",
-        "controversies": [
-          {
-            "incident_text": "Meenakshi Natarajan stated the Returning Officer's decision was a subversion of democracy.",
-            "source_url": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
-            "source_title": "Congress calls Returning Officer’s order on Meenakshi Natarajan’s Rajya Sabha nomination ‘egregious’ - The Hindu",
-            "scraped_at": "2026-06-10 12:25:07.373246"
-          },
-          {
-            "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
-            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
-            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
-            "scraped_at": "2026-06-10 21:37:18.591976"
-          }
-        ]
-      },
-      {
-        "name": "Samrat Choudhary",
-        "aliases": [
-          "Samrat",
-          "Choudhary",
-          "Bihar Chief Minister"
-        ],
-        "role": "Former Chief Minister",
-        "state": "Bihar",
-        "party": "BJP",
-        "ruling_since": "2026",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
-        "image_placeholder": "samrat_choudhary",
-        "criminal_incidents": [
-          {
-            "incident_text": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu The **Delhi High Court** dismissed a petition by former Bihar Chief Minister and RJD supremo **Lalu Prasad Yadav",
-            "source_url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
-            "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
-            "scraped_at": "2026-03-24 10:05:36.975630",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
-      },
-      {
-        "name": "M.K. Stalin",
-        "aliases": [
-          "Stalin",
-          "Tamil Nadu CM",
-          "DMK Chief"
-        ],
-        "role": "Former Chief Minister",
-        "state": "Tamil Nadu",
-        "party": "DMK",
-        "ruling_since": "2021",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/M._K._Stalin",
-        "image_placeholder": "mk_stalin",
-        "criminal_incidents": [
-          {
-            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
-            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
-            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
-            "scraped_at": "2026-05-04 22:14:09",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "M.K. Stalin claimed the BJP would destroy the AIADMK.",
-            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-will-meet-its-downfall-for-inducting-traitors-ousted-from-aiadmk-palaniswami/article70719687.ece",
-            "source_title": "DMK will meet its downfall for inducting ‘traitors’ ousted from AIADMK: Palaniswami - The Hindu",
-            "scraped_at": "2026-03-09 03:25:54"
-          },
-          {
-            "incident_text": "M.K. Stalin is fearful of a major electoral defeat, according to L. Murugan.",
-            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-inspects-venue-for-pms-public-meeting-in-tiruchi/article70718977.ece",
-            "source_title": "Union Minister inspects venue for PM’s public meeting in Tiruchi - The Hindu",
-            "scraped_at": "2026-03-08 08:17:38"
-          }
-        ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-16"
-      },
-      {
-        "name": "Bhupesh Baghel",
-        "aliases": [
-          "Baghel",
-          "Former Chhattisgarh CM"
-        ],
-        "role": "Former Chief Minister",
-        "state": "Chhattisgarh",
-        "party": "INC",
-        "ruling_since": "N/A",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bhupesh_Baghel",
-        "image_placeholder": "bhupesh_baghel",
-        "criminal_incidents": [
-          {
-            "incident_text": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu The **Supreme Court of India** agreed to hear a case regarding the ability of investigating a",
-            "source_url": "https://www.thehindu.com/news/national/chaitanya-baghel-case-supreme-court-to-hear-question-of-law-ed-maintains-case-is-infructuous/article70774544.ece",
-            "source_title": "Chaitanya Baghel case: Supreme Court to hear question of law; ED maintains case is infructuous - The Hindu",
-            "scraped_at": "2026-03-23 06:50:48.893317",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "Bhupesh Baghel cited alliance principles when addressing Hemant Soren's complaint about the candidate announcement.",
-            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
-            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
-            "scraped_at": "2026-06-07 11:52:49.380769"
-          }
-        ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
-      },
-      {
-        "name": "V.D. Satheesan",
-        "role": "Former Chief Minister of Kerala",
-        "party": "INC",
-        "state": "Kerala",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "auto_added": true,
-        "auto_added_on": "2026-05-28",
-        "gemma_confidence": "high",
-        "mentions_detected": 29,
-        "criminal_incidents": [
-          {
-            "incident_text": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu **Kamal Haasan**, founder of **Makkal Needhi Maiam**, announced the party's withdrawal from the 2026 Tamil Nad",
-            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
-            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
-            "scraped_at": "2026-03-25 05:03:23.619762",
-            "incident_type": "broad"
-          }
-        ],
-        "controversies": [
-          {
-            "incident_text": "V.D. Satheesan hinted at potential defections from the Left.",
-            "source_url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
-            "source_title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
-            "scraped_at": "2026-03-16 23:01:00.277422"
-          },
-          {
-            "incident_text": "V.D. Satheesan stated the Congress high command will decide if MPs contest the Assembly election.",
-            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-high-command-will-decide-on-mps-contesting-says-satheesan/article70742605.ece",
-            "source_title": "Kerala Assembly elections: High command will decide on MPs contesting, says Satheesan - The Hindu",
-            "scraped_at": "2026-03-14 05:07:22"
-          },
-          {
-            "incident_text": "V.D. Satheesan stated that the Munambam holding was not Waqf property.",
-            "source_url": "https://www.thehindu.com/news/national/kerala/munambam-is-waqf-property-says-chairperson/article71110466.ece",
-            "source_title": "Munambam is Waqf property, says board chairperson - The Hindu",
-            "scraped_at": "2026-06-16 18:24:04"
-          }
-        ],
-        "criminal_last_updated": "2026-06-15"
-      },
-      {
-        "name": "Pabitra Margherita",
-        "role": "Former Chief Minister of Assam",
-        "party": "",
-        "state": "Assam",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Pabitra_Margherita",
-        "image_placeholder": "pabitra_margherita",
-        "auto_added": true,
-        "auto_added_on": "2026-06-02",
-        "gemma_confidence": "high",
-        "mentions_detected": 1
-      },
-      {
-        "name": "Suvendu Adhikari",
-        "role": "Former Chief Minister of West Bengal",
-        "party": "BJP",
-        "state": "West Bengal",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 8,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
-        "image_placeholder": "suvendu_adhikari",
-        "auto_added": true,
-        "auto_added_on": "2026-06-02",
-        "gemma_confidence": "high",
-        "mentions_detected": 5,
-        "criminal_incidents": [
-          {
-            "incident_text": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu **The BJP legislature party** will meet in Kolkata on Friday, May 8, 2026",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
-            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
-            "scraped_at": "2026-05-08 06:58:00.243592",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
-            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
-            "scraped_at": "2026-05-09 06:39:18.299777",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu **Chief Election Commissioner Gyanesh Kumar** directed West Bengal authorities to ensure zero tolerance for post-poll vi",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/cec-orders-immediate-arrest-of-those-involved-in-post-poll-violence-in-bengal-official/article70945756.ece",
-            "source_title": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu",
-            "scraped_at": "2026-05-07 01:24:04.915716",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu **Mamata Banerjee**, **M.K. Stalin**, and **Pinarayi Vijayan** have lost their respective electio",
-            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
-            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
-            "scraped_at": "2026-05-05 03:44:09.432326",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu The **West Bengal** government has initiated a crackdown on alleged post-poll violence and f",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-reopens-59-cases-linked-to-2021-post-poll-violence-181-fresh-firs-registered/article70993198.ece",
-            "source_title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu",
-            "scraped_at": "2026-05-18 17:37:48",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian Following the BJP's victory in the West Bengal elections, **Tensions** have escalated with violence e",
-            "source_url": "https://www.theguardian.com/world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
-            "source_title": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian",
-            "scraped_at": "2026-05-07 15:22:26",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "​Take east: On the BJP government in West Bengal - The Hindu The **Bharatiya Janata Party (BJP)** secured a resounding victory in the West Bengal Assembly elections, winning 207 out of 294 seats.  **S",
-            "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
-            "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
-            "scraped_at": "2026-05-08 17:32:12",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader' **Trinamool Congress** MLA Ri",
-            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
-            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
-            "scraped_at": "2026-06-03 13:40:08",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-16",
-        "controversies": [
-          {
-            "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
-            "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
-            "scraped_at": "2026-06-09 18:10:55.701145"
-          },
-          {
-            "incident_text": "Suvendu Adhikari's government has faced criticism for its 'bulldozer culture' approach to evictions.",
-            "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
-            "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
-            "scraped_at": "2026-06-09 15:41:48.731058"
-          },
-          {
-            "incident_text": "Mamata Banerjee alleged the Election Commission functioned unilaterally in transferring officials.",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
-            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
-            "scraped_at": "2026-03-20 12:37:10"
-          },
-          {
-            "incident_text": "Suvendu Adhikari claimed Abhishek Banerjee owns 24 properties in Kolkata.",
-            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
-            "source_title": "Suvendu targets Abhishek, says all his properties will be accounted for - The Hindu",
-            "scraped_at": "2026-05-16 20:00:22"
-          }
-        ]
-      },
-      {
-        "name": "D.K. Shivakumar",
-        "role": "Former Chief Minister of Karnataka",
-        "party": "",
-        "state": "Karnataka",
-        "aliases": [],
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
-        "image_placeholder": "dk_shivakumar",
-        "auto_added": true,
-        "auto_added_on": "2026-06-11",
-        "gemma_confidence": "high",
-        "mentions_detected": 1,
-        "criminal_incidents": [
-          {
-            "incident_text": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu ##  Congress Alleges BJP Poaching Bid in Odisha\n\nOdisha's Deputy Chief Minister D.K. Shivakumar has accused the Bharatiya Jan",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
-            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
-            "scraped_at": "2026-03-15 15:02:18.550638",
-            "incident_type": "broad"
-          }
-        ],
-        "criminal_last_updated": "2026-06-15",
-        "controversies": [
-          {
-            "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
-            "source_title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
-            "scraped_at": "2026-06-03 05:29:14.896823"
-          },
-          {
-            "incident_text": "D.K. Shivakumar alleged that the BJP offered ₹5 crore bribes to each Odisha Congress legislator.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
-            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
-            "scraped_at": "2026-03-15 15:02:18.550638"
-          },
-          {
-            "incident_text": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
-            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
-            "scraped_at": "2026-06-03 15:24:24.218444"
-          },
-          {
-            "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
-            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
-            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
-            "scraped_at": "2026-06-03 22:16:12.589341"
-          },
-          {
-            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, which he previously held as Deputy Chief Minister.",
-            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
-            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
-            "scraped_at": "2026-06-05 00:15:34.835256"
-          },
-          {
-            "incident_text": "D.K. Shivakumar relinquished the Bengaluru Development portfolio, previously held as Deputy Chief Minister.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
-            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
-            "scraped_at": "2026-06-05 00:15:23.494826"
-          },
-          {
-            "incident_text": "D.K. Shivakumar retained control of BDA and BMRDA despite previously assigning the portfolios to Krishna Byre Gowda.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
-            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
-            "scraped_at": "2026-06-07 15:54:09.127238"
-          },
-          {
-            "incident_text": "D.K. Shivakumar strongly opposed the Union government’s proposed “One Nation One Election” initiative.",
-            "source_url": "https://www.thehindu.com/news/national/karnataka/cong-aap-oppose-simultaneous-polls-while-bjp-welcomes/article70988060.ece",
-            "source_title": "Cong., AAP oppose simultaneous polls, while BJP welcomes - The Hindu",
-            "scraped_at": "2026-05-16 16:01:33"
-          },
-          {
-            "incident_text": "Revanth Reddy stated he is competing with China and Japan, not Indian states.",
-            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
-            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
-            "scraped_at": "2026-06-06 03:10:42"
-          }
-        ]
       }
     ],
     "parties": [
@@ -3204,6 +3204,7 @@
         "ruling_states": [
           "Arunachal Pradesh",
           "Assam",
+          "Bihar",
           "Chhattisgarh",
           "Goa",
           "Gujarat",
@@ -3216,6 +3217,7 @@
           "Tripura",
           "Uttar Pradesh",
           "Uttarakhand",
+          "West Bengal",
           "Delhi"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
@@ -3236,6 +3238,7 @@
         "ruling_states": [
           "Himachal Pradesh",
           "Karnataka",
+          "Kerala",
           "Telangana"
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/Indian_National_Congress",
@@ -3270,9 +3273,7 @@
         "founded": "1998",
         "president": "Mamata Banerjee",
         "coalition": "INDIA Alliance",
-        "ruling_states": [
-          "West Bengal"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/All_India_Trinamool_Congress",
         "color": "#00FF00"
       },
@@ -3333,9 +3334,7 @@
         "founded": "1964",
         "president": "Sitaram Yechury",
         "coalition": "INDIA Alliance",
-        "ruling_states": [
-          "Kerala"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
         "color": "#FF0000"
       },
@@ -3350,9 +3349,7 @@
         "founded": "1999",
         "president": "Nitish Kumar",
         "coalition": "NDA",
-        "ruling_states": [
-          "Bihar"
-        ],
+        "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Janata_Dal_(United)",
         "color": "#00FF00"
       },
@@ -3600,8 +3597,8 @@
         "name": "Bihar",
         "aliases": [],
         "capital": "Patna",
-        "ruling_party": "JDU",
-        "cm": "Nitish Kumar",
+        "ruling_party": "BJP",
+        "cm": "Samrat Choudhary",
         "region": "East",
         "cm_confidence": 0.86,
         "cm_last_updated": "2026-06-16"
@@ -3669,7 +3666,7 @@
         "aliases": [],
         "capital": "Bengaluru",
         "ruling_party": "INC",
-        "cm": "Siddaramaiah",
+        "cm": "D.K. Shivakumar",
         "region": "South",
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16"
@@ -3678,8 +3675,8 @@
         "name": "Kerala",
         "aliases": [],
         "capital": "Thiruvananthapuram",
-        "ruling_party": "CPM",
-        "cm": "Pinarayi Vijayan",
+        "ruling_party": "INC",
+        "cm": "V.D. Satheesan",
         "region": "South",
         "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-16"
@@ -3826,8 +3823,8 @@
           "WB"
         ],
         "capital": "Kolkata",
-        "ruling_party": "TMC",
-        "cm": "Mamata Banerjee",
+        "ruling_party": "BJP",
+        "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.86,
         "party_last_updated": "2026-06-18",
