@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 2,
+      "gaffe_updates": 5
     },
     "rescan_history": {
       "in_progress": false,
@@ -321,6 +321,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/bjp-wont-succeed-in-its-ultimate-objective-says-congress-amid-shiv-sena-ubt-developments/article71112579.ece",
             "source_title": "BJP won’t succeed in its ultimate objective, says Congress amid Shiv Sena (UBT) developments - The Hindu",
             "scraped_at": "2026-06-17 07:38:29"
+          },
+          {
+            "incident_text": "Amit Shah reportedly pressured the Governor to serve political interests.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-governor-cv-ananda-bose-resigns/article70708232.ece",
+            "source_title": "West Bengal Governor C.V. Ananda Bose resigns ahead of Assembly polls - The Hindu",
+            "scraped_at": "2026-03-05 10:46:13"
           }
         ]
       },
@@ -1294,6 +1300,12 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
             "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
             "scraped_at": "2026-06-10 23:30:33.007053"
+          },
+          {
+            "incident_text": "Sharad Pawar assured he would not merge with the NCP.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/pawar-play-why-no-one-wants-to-hurt-ncp-sp-chief/article70708955.ece",
+            "source_title": "Pawar play: why ‘no one wants to hurt’ NCP (SP) chief - The Hindu",
+            "scraped_at": "2026-03-05 22:55:17"
           }
         ]
       },
@@ -2243,6 +2255,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-inaugurates-two-day-training-programme-for-mlas/article71108198.ece",
             "source_title": "Tamil Nadu CM Vijay inaugurates two-day training programme for MLAs - The Hindu",
             "scraped_at": "2026-06-16 08:33:40"
+          },
+          {
+            "incident_text": "C. Joseph Vijay's administration is fixated on social media trends rather than governance.",
+            "source_url": "https://indianexpress.com/article/entertainment/tamil/as-vijays-suit-and-lunchbox-trends-udhayanidhi-stalin-says-everythings-reels-with-him-10746241/",
+            "source_title": "As Vijay’s suit and lunchbox trends, Udhayanidhi Stalin says everything’s ‘reels with him’ | Tamil News - The Indian Express",
+            "scraped_at": "2026-06-18 13:01:01"
           }
         ]
       },
@@ -2835,6 +2853,12 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-top-prospect-for-bihars-next-cm-to-meet-amit-shah-in-west-bengal-on-march-8/article70715781.ece",
             "source_title": "Samrat Choudhary, top prospect for Bihar’s next CM, to meet Amit Shah in West Bengal on March 8 - The Hindu",
             "scraped_at": "2026-03-07 10:21:50"
+          },
+          {
+            "incident_text": "Nitish Kumar stated he desired to be a member of both houses of Parliament.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumar-files-nomination-papers-for-rajya-sabha-ending-20-years-as-bihar-cm/article70707624.ece",
+            "source_title": "Nitish Kumar files nomination papers for Rajya Sabha, ending 20 years as Bihar CM - The Hindu",
+            "scraped_at": "2026-03-05 16:12:19"
           }
         ]
       },
@@ -3047,6 +3071,24 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/any-disrespect-to-president-murmu-deeply-regrettable-unacceptable-edappadi-palaniswami/article70718120.ece",
             "source_title": "AIADMK general secretary Edappadi Palaniswami says 'Any disrespect to President Murmu deeply regrettable, unacceptable' - The Hindu",
             "scraped_at": "2026-03-08 01:23:26"
+          },
+          {
+            "incident_text": "Mamata Banerjee stated she believes the Governor may have been pressured for political reasons.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-governor-cv-ananda-bose-resigns/article70708232.ece",
+            "source_title": "West Bengal Governor C.V. Ananda Bose resigns ahead of Assembly polls - The Hindu",
+            "scraped_at": "2026-03-05 10:46:13"
+          },
+          {
+            "incident_text": "Mamata Banerjee stated she was not consulted about R.N. Ravi's transfer, violating convention.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-governor-rn-ravi-transfer-ak-bhalla-state-in-charge/article70708396.ece",
+            "source_title": "Tamil Nadu Governor R.N. Ravi transferred to Bengal - The Hindu",
+            "scraped_at": "2026-03-05 10:46:47"
+          },
+          {
+            "incident_text": "Mamata Banerjee stated that the Union Home Minister did not consult her about R.N. Ravi's appointment as Governor of West Bengal.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-governor-rn-ravi-transferred-to-bengal/article70708396.ece",
+            "source_title": "TN Governor R.N. Ravi transferred; Rajendra Vishwanath Arlekar in-charge-of Tamil Nadu - The Hindu",
+            "scraped_at": "2026-03-05 13:03:05"
           }
         ],
         "criminal_cases_in_news": 17,
@@ -5739,6 +5781,26 @@
       "source_url": "https://www.thehindu.com/news/national/telangana/centre-releases-over-1034-cr-to-gram-panchayats-under-15th-finance-commission-grants/article70707369.ece",
       "source_title": "Centre releases over ₹1,034 cr. to gram panchayats under 15th Finance Commission grants - The Hindu",
       "scraped_at": "2026-03-05 08:46:31",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "that the force is prepared to fulfill its duties in all conditions",
+      "source_url": "https://www.thehindu.com/news/national/amit-shah-reiterates-commitment-to-eliminate-maoism-by-march-31/article70710822.ece",
+      "source_title": "Amit Shah reiterates commitment to eliminate Maoism by March 31 - The Hindu",
+      "scraped_at": "2026-03-06 03:16:04",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that these works were halted by the previous YSR Congress government and neglected routine maintenance",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/focus-on-flood-prevention-providing-irrigation-to-last-acre-in-godavari-delta-says-minister-nimmala/article70706806.ece",
+      "source_title": "Focus on flood prevention, providing irrigation to last acre in Godavari Delta, says Minister Nimmala - The Hindu",
+      "scraped_at": "2026-03-05 07:43:26",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
