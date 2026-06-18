@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-06-17 08:22:37.963690",
+  "generated_at": "2026-06-18 07:20:38.773187",
   "summary": {
     "cm_updates_applied": 2,
-    "party_updates_applied": 2,
-    "criminal_updates_applied": 3,
-    "gaffe_updates_applied": 3,
-    "promises_extracted": 0,
+    "party_updates_applied": 3,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 10
+    "items_needing_review": 9
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.58,
-      "mentions": 14,
-      "reason": "Below auto-update threshold",
-      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -35,8 +26,8 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.67,
-      "mentions": 6,
+      "confidence": 0.7,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
     },
@@ -51,30 +42,12 @@
     },
     {
       "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
-      "confidence": 0.5,
-      "mentions": 3,
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.58,
+      "mentions": 14,
       "reason": "Below auto-update threshold",
-      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.5,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "Pinarayi Vijayan",
-      "confidence": 0.47,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "M.V. Govindan, from Taliparamba, asserting that she was a senior leader in her own right. Breaking his silence after three CPI(M) leaders decided to contest as Independents backed by Congress, Kerala "
+      "context": "7th of May 2026,” a gazette notification issued by the order of the Governor said. The 17th West Bengal Legislative Assembly which was sworn in after the 2021 assembly elections now stands dissolved. "
     },
     {
       "type": "cm_detection",
@@ -86,20 +59,39 @@
       "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
     },
     {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "Pinarayi Vijayan",
+      "confidence": 0.44,
+      "mentions": 7,
+      "reason": "Below auto-update threshold",
+      "context": "zed the LDF government's handling of issues like cooking gas shortages and economic development in the state. All India Congress Committee general secretary Sachin Pilot has said that the campaign by "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.46,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ocratic politics allows cross-state campaigning and questions criticism - Pawan Kalyan said he will contest Telangana elections, including Greater Hyderabad Municipal Corporation polls Andhra Pradesh "
+    },
+    {
       "type": "ruling_party",
       "state": "Karnataka",
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.85,
-      "reason": "Gemma rejected",
-      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     }
   ]
 }

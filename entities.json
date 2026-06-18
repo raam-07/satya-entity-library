@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-17",
+    "last_updated": "2026-06-18",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 2,
-      "criminal_updates": 3,
-      "new_promises": 0,
-      "gaffe_updates": 3
+      "party_updates": 3,
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -3626,9 +3626,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-17",
+        "party_last_updated": "2026-06-18",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-17"
+        "cm_last_updated": "2026-06-18"
       },
       {
         "name": "Rajasthan",
@@ -3656,7 +3656,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-17"
+        "party_last_updated": "2026-06-18"
       },
       {
         "name": "Telangana",
@@ -3684,7 +3684,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-17"
+        "cm_last_updated": "2026-06-18"
       },
       {
         "name": "Uttarakhand",
@@ -3703,8 +3703,8 @@
         "ruling_party": "TMC",
         "cm": "Mamata Banerjee",
         "region": "East",
-        "party_confidence": 0.83,
-        "party_last_updated": "2026-06-11",
+        "party_confidence": 0.85,
+        "party_last_updated": "2026-06-18",
         "cm_confidence": 0.93,
         "cm_last_updated": "2026-06-16"
       },
@@ -5257,6 +5257,16 @@
       "source_title": "Will usher in ‘Yuva Yuga’, promises new Karnataka Chief Minister - The Hindu",
       "scraped_at": "2026-06-04 17:12:05",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that the scheme will continue",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-presents-769-lakh-crore-maharashtra-budget-loan-waiver-for-farmers/article70713287.ece",
+      "source_title": "Fadnavis presents ₹7.69 lakh crore Maharashtra Budget, loan waiver for farmers - The Hindu",
+      "scraped_at": "2026-03-06 17:06:07",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
