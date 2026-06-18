@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 5,
+      "gaffe_updates": 8
     },
     "rescan_history": {
       "in_progress": false,
@@ -234,6 +234,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
             "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
             "scraped_at": "2026-06-16 13:21:21"
+          },
+          {
+            "incident_text": "Narendra Modi wants everyone to live peacefully, according to B.S. Yediyurappa.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/touring-the-state-to-bring-change-people-want-to-see-says-bsy/article70711566.ece",
+            "source_title": "Touring the State to bring change people want to see, says BSY - The Hindu",
+            "scraped_at": "2026-03-06 11:41:52"
           }
         ]
       },
@@ -1185,6 +1191,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-accuses-congress-of-misusing-kanshi-rams-name-for-political-gains/article70743312.ece",
             "source_title": "Mayawati accuses Congress of misusing Kanshi Ram's name for political gains - The Hindu",
             "scraped_at": "2026-03-14 07:33:14"
+          },
+          {
+            "incident_text": "Mayawati urged respect for the President's office and avoidance of politicizing constitutional positions.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/lapses-at-prez-event-mayawati-urges-respect-for-presidents-office/article70718239.ece",
+            "source_title": "'Lapses' at Prez event: Mayawati urges respect for President's office - The Hindu",
+            "scraped_at": "2026-03-08 00:18:49"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1563,7 +1575,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-16",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Nitish Kumar filed nomination papers for the Rajya Sabha election.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-top-prospect-for-bihars-next-cm-to-meet-amit-shah-in-west-bengal-on-march-8/article70715781.ece",
+            "source_title": "Samrat Choudhary, top prospect for Bihar’s next CM, to meet Amit Shah in West Bengal on March 8 - The Hindu",
+            "scraped_at": "2026-03-07 10:21:50"
+          }
+        ]
       },
       {
         "name": "Samrat Choudhary",
@@ -1772,6 +1791,36 @@
             "source_url": "https://indianexpress.com/article/political-pulse/amid-tmc-split-a-maharashtra-parallel-how-shiv-sena-ncp-revolts-played-out-10741337/",
             "source_title": "Amid TMC split, a Maharashtra parallel: How Shiv Sena, NCP revolts played out | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-16 02:12:08"
+          },
+          {
+            "incident_text": "Mamata Banerjee is trying to make an issue of the war situation in West Asia regarding cooking gas prices.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/lpg-price-hike-mithun-asks-why-petrol-diesel-costlier-in-bengal-compared-to-other-states/article70715342.ece",
+            "source_title": "LPG price hike: Mithun asks why petrol, diesel costlier in Bengal compared to other states - The Hindu",
+            "scraped_at": "2026-03-07 05:00:22"
+          },
+          {
+            "incident_text": "Mamata Banerjee suggested her absence at the event might be due to personal anger towards President Murmu.",
+            "source_url": "https://www.thehindu.com/news/national/president-murmu-darjeeling-visit-santhal-conference-cm-mamata/article70715754.ece",
+            "source_title": "President Murmu criticises Bengal Government for protocol failures at Darjeeling event - The Hindu",
+            "scraped_at": "2026-03-07 07:27:48"
+          },
+          {
+            "incident_text": "Mamata Banerjee's absence from President Murmu's visit was noted.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/lapses-at-prez-event-mayawati-urges-respect-for-presidents-office/article70718239.ece",
+            "source_title": "'Lapses' at Prez event: Mayawati urges respect for President's office - The Hindu",
+            "scraped_at": "2026-03-08 00:18:49"
+          },
+          {
+            "incident_text": "Mamata Banerjee stated that the President was received and seen off as per approved protocols.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/protocol-lapses-at-president-event-centre-seeks-response-from-west-bengal-government/article70718315.ece",
+            "source_title": "Protocol lapses at President event: Centre seeks response from West Bengal Government - The Hindu",
+            "scraped_at": "2026-03-08 01:23:16"
+          },
+          {
+            "incident_text": "Mamata Banerjee should tender an apology to the members of the tribal communities.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/any-disrespect-to-president-murmu-deeply-regrettable-unacceptable-edappadi-palaniswami/article70718120.ece",
+            "source_title": "AIADMK general secretary Edappadi Palaniswami says 'Any disrespect to President Murmu deeply regrettable, unacceptable' - The Hindu",
+            "scraped_at": "2026-03-08 01:23:26"
           }
         ],
         "criminal_cases_in_news": 17,
@@ -1837,6 +1886,24 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
             "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
             "scraped_at": "2026-06-04 18:45:34"
+          },
+          {
+            "incident_text": "Siddaramaiah has not paid attention to marginalized and Dalit communities.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/touring-the-state-to-bring-change-people-want-to-see-says-bsy/article70711566.ece",
+            "source_title": "Touring the State to bring change people want to see, says BSY - The Hindu",
+            "scraped_at": "2026-03-06 11:41:52"
+          },
+          {
+            "incident_text": "Siddaramaiah believes God exists everywhere, including within people.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-says-he-believes-god-is-everywhere/article70715748.ece",
+            "source_title": "Siddaramaiah says he believes God is everywhere - The Hindu",
+            "scraped_at": "2026-03-07 09:26:29"
+          },
+          {
+            "incident_text": "Siddaramaiah's budget betrays the common people's expectations by relying heavily on debt.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/state-budget-is-directionless-misleading-says-shettar/article70712858.ece",
+            "source_title": "State Budget is directionless, misleading, says Shettar - The Hindu",
+            "scraped_at": "2026-03-08 08:17:09"
           }
         ]
       },
@@ -1899,6 +1966,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/brs-alleges-cm-misled-assembly-on-adb-loan-for-musi-project/article70739720.ece",
             "source_title": "BRS alleges CM misled Assembly on ADB loan for Musi project - The Hindu",
             "scraped_at": "2026-03-13 12:37:49"
+          },
+          {
+            "incident_text": "Revanth Reddy stated that Telangana became the first state to implement SC categorisation.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
+            "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
+            "scraped_at": "2026-03-06 08:41:29"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1934,6 +2007,12 @@
             "source_url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-will-meet-its-downfall-for-inducting-traitors-ousted-from-aiadmk-palaniswami/article70719687.ece",
             "source_title": "DMK will meet its downfall for inducting ‘traitors’ ousted from AIADMK: Palaniswami - The Hindu",
             "scraped_at": "2026-03-09 03:25:54"
+          },
+          {
+            "incident_text": "M.K. Stalin is fearful of a major electoral defeat, according to L. Murugan.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-inspects-venue-for-pms-public-meeting-in-tiruchi/article70718977.ece",
+            "source_title": "Union Minister inspects venue for PM’s public meeting in Tiruchi - The Hindu",
+            "scraped_at": "2026-03-08 08:17:38"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2043,7 +2122,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Chandrababu Naidu stated that boycotting legislative sessions is shirking the responsibility to raise public issues.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-shirking-responsibility-of-raising-public-issues-in-assembly-says-ap-cm/article70711940.ece",
+            "source_title": "YSRCP shirking responsibility of raising public issues in Assembly, says A.P. CM - The Hindu",
+            "scraped_at": "2026-03-06 13:42:46"
+          }
+        ],
         "criminal_cases_in_news": 1,
         "criminal_last_updated": "2026-06-17"
       },
@@ -5266,6 +5352,56 @@
       "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-presents-769-lakh-crore-maharashtra-budget-loan-waiver-for-farmers/article70713287.ece",
       "source_title": "Fadnavis presents ₹7.69 lakh crore Maharashtra Budget, loan waiver for farmers - The Hindu",
       "scraped_at": "2026-03-06 17:06:07",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the Telangana government has decided to implement categorisation of Scheduled Castes",
+      "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
+      "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
+      "scraped_at": "2026-03-06 08:41:29",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "party leaders that they do not have to worry at all as he would be around with them [even after going to the RS]",
+      "source_url": "https://www.thehindu.com/news/national/bihar/nishant-kumar-to-join-jdu-on-march-8-as-nitish-promises-to-stick-around/article70712223.ece",
+      "source_title": "Nishant Kumar to join JD(U) on March 8, as Nitish promises to stick around - The Hindu",
+      "scraped_at": "2026-03-06 11:41:35",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Arvind Kejriwal",
+      "promise_text": "him of assistance in raising this issue in Parliament",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/ncp-leader-rohit-pawar-meets-kejriwal-seeks-help-to-raise-ajit-pawars-plane-crash-in-parliament/article70715518.ece",
+      "source_title": "NCP leader Rohit Pawar meets Kejriwal, seeks help to raise Ajit Pawar's plane crash in Parliament - The Hindu",
+      "scraped_at": "2026-03-07 05:56:00",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the long-pending issue of house sites for journalists would be resolved soon",
+      "source_url": "https://www.thehindu.com/news/national/telangana/journalists-house-sites-issue-to-be-resolved-soon-cm/article70719853.ece",
+      "source_title": "Journalists’ house sites issue to be resolved soon: CM - The Hindu",
+      "scraped_at": "2026-03-08 11:59:37",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "that the long-pending issue of house sites for journalists would be resolved soon",
+      "source_url": "https://www.thehindu.com/news/national/telangana/journalists-house-sites-issue-to-be-resolved-soon-cm/article70719853.ece",
+      "source_title": "Journalists’ house sites issue to be resolved soon: CM - The Hindu",
+      "scraped_at": "2026-03-08 11:59:37",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
