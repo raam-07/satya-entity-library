@@ -1432,6 +1432,7 @@ def discover_new_entities(articles, entities, nlp, llm):
     flagged    = []
 
     valid_categories = {'cabinet_minister', 'state_chief_minister', 'opposition_leader', 'generic_politician'}
+    candidates_processed = []
 
     for name, count in consolidated_counter.most_common(50):
         if count < NEW_ENTITY_MIN_MENTIONS:
@@ -1449,21 +1450,38 @@ def discover_new_entities(articles, entities, nlp, llm):
             continue
 
         extraction_prompt = f"""<start_of_turn>user
-Based on the article excerpts below, answer about the person named "{name}".
+You are extracting a profile for ONE specific person named "{name}".
+Use ONLY facts about {name} themselves — never facts about people they meet, criticise,
+attack, succeed, praise, or merely refer to.
 
-Articles: {context_sample[:1800]}
+CRITICAL RULES:
+1. "role" must be {name}'s OWN current position. If the text only states SOMEONE ELSE'S role
+   (e.g. "{name} attacked the former Chief Minister"), that role belongs to the other person —
+   do NOT assign it to {name}.
+2. Never record a "former"/"ex" title as the current role.
+3. "role_evidence" must be the exact phrase from the article that states {name}'s OWN role,
+   and it must contain {name}'s name. If no such phrase exists, set role AND role_evidence to "".
+4. Only judge {name}: are they an Indian politician?
 
-Return ONLY a JSON object with these exact fields:
+Example Trap Avoidance:
+Article text: "BJP Union Minister Pabitra Margherita attacked the former Chief Minister of Assam, Tarun Gogoi."
+Extraction for "Pabitra Margherita":
+- "role": "Union Minister" (Not "Former Chief Minister of Assam")
+- "role_evidence": "BJP Union Minister Pabitra Margherita" (the phrase showing their own role)
+
+Article excerpts: {context_sample[:1800]}
+
+Return ONLY this JSON (no extra text):
 {{
   "is_indian_politician": true or false,
-  "full_name": "their full official name",
-  "role": "their exact role e.g. Chief Minister of Karnataka, Union Minister of Finance, Member of Parliament, MLA, Regional Spokesperson",
-  "party": "their political party abbreviation e.g. BJP, INC, AAP, TMC, DMK",
-  "state": "their home state or null if national-level",
-  "category": "cabinet_minister" (Union/National Cabinet Ministers of India ONLY) or "state_chief_minister" or "opposition_leader" or "generic_politician" (including State-level Cabinet Ministers, MLAs, MPs, regional leaders),
+  "full_name": "official full name",
+  "role": "{name}'s own current role, or '' if not clearly stated",
+  "role_evidence": "exact phrase from the article naming {name} and their role, or ''",
+  "party": "party abbreviation as written in the article, or '' if not stated",
+  "state": "home state, or null if national-level",
+  "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader" or "generic_politician",
   "confidence": "high" or "medium" or "low"
 }}
-No explanation. No extra text.
 <end_of_turn>
 <start_of_turn>model
 """
@@ -1483,19 +1501,59 @@ No explanation. No extra text.
                 logging.info(f"SKIP (not Indian politician): {name}")
                 continue
 
-            full_name  = (parsed.get('full_name') or name).strip()
-            role       = (parsed.get('role') or '').strip()
-            party      = (parsed.get('party') or '').strip()
-            state      = parsed.get('state') or None
-            category   = (parsed.get('category') or '').strip()
-            confidence = (parsed.get('confidence') or 'low').strip()
+            full_name     = (parsed.get('full_name') or name).strip()
+            role          = (parsed.get('role') or '').strip()
+            role_evidence = (parsed.get('role_evidence') or '').strip()
+            party         = (parsed.get('party') or '').strip()
+            state         = parsed.get('state') or None
+            category      = (parsed.get('category') or '').strip()
+            confidence    = (parsed.get('confidence') or 'low').strip()
+
+            # Clean/normalize helper for role evidence backstop
+            def normalize_text(t):
+                if not t:
+                    return ""
+                return re.sub(r'[^a-z0-9]', '', t.lower())
+
+            norm_evidence  = normalize_text(role_evidence)
+            norm_name      = normalize_text(name)
+            norm_full_name = normalize_text(full_name)
+            norm_context   = normalize_text(context_sample)
+
+            is_evidence_valid = False
+            if norm_evidence:
+                contains_name = (norm_name in norm_evidence) or (norm_full_name in norm_evidence)
+                in_context    = norm_evidence in norm_context
+                if contains_name and in_context:
+                    is_evidence_valid = True
+
+            if not is_evidence_valid:
+                logging.info(f"Role evidence validation failed for {full_name} (evidence: '{role_evidence}'). Discarding role.")
+                role = ""
+                role_evidence = ""
+
+            # Drop former/ex roles
+            if role:
+                role_lower = role.lower()
+                if "former" in role_lower or "ex-" in role_lower or "ex " in role_lower:
+                    logging.info(f"Former/ex role detected for {full_name} ('{role}'). Discarding role.")
+                    role = ""
+                    role_evidence = ""
 
             # Force all auto-added entities to generic_politician category
             category = 'generic_politician'
 
             # Dynamically derive ruling coalition
-            ruling_party_val = entities['india']['central_government'].get('ruling_party', '').strip().lower()
-            ruling_coalition_val = entities['india']['central_government'].get('ruling_coalition', '').strip().lower()
+            ruling_party_val = ''
+            ruling_coalition_val = ''
+            # Fallback for central_government path lookup
+            if 'central_government' not in entities['india'] and 'central_govt' in entities['india']:
+                ruling_party_val = entities['india']['central_govt'].get('ruling_party', '').strip().lower()
+                ruling_coalition_val = entities['india']['central_govt'].get('ruling_coalition', '').strip().lower()
+            elif 'central_government' in entities['india']:
+                ruling_party_val = entities['india']['central_government'].get('ruling_party', '').strip().lower()
+                ruling_coalition_val = entities['india']['central_government'].get('ruling_coalition', '').strip().lower()
+                
             union_coalition = {ruling_party_val, ruling_coalition_val}
             for p in entities['india'].get('parties', []):
                 p_coalition = p.get('coalition', '').strip().lower()
@@ -1504,16 +1562,20 @@ No explanation. No extra text.
                     for alias in p.get('aliases', []):
                         union_coalition.add(alias.lower())
 
-            # Enforce party validation and normalization
-            resolved_party = "unconfirmed"
+            # Party verification check
+            is_recognized_party = False
+            resolved_party = ""
             if party:
                 party_lower = party.strip().lower()
                 if party_lower in party_registry:
                     resolved_party = party_registry[party_lower]
-            party = resolved_party
+                    is_recognized_party = True
+                else:
+                    resolved_party = party.strip()
+            else:
+                resolved_party = "unconfirmed"
 
-            # Deterministic nationality backstop check: party OR state must be Indian/valid
-            has_valid_party = (party != "unconfirmed")
+            # Parse and canonicalize state if valid
             has_valid_state = False
             if state:
                 state_lower = state.strip().lower()
@@ -1521,83 +1583,37 @@ No explanation. No extra text.
                     has_valid_state = True
                     canonical_state = next(s['name'] for s in entities['india']['states'] if s['name'].lower() == state_lower)
                     state = canonical_state
-            
-            if not (has_valid_party or has_valid_state):
-                logging.info(f"Nationality backstop failed for {full_name} (party: {party}, state: {state}). Flagging for review.")
-                flagged.append({
-                    "name":            full_name,
-                    "raw_name":        name,
-                    "mentions":        count,
-                    "role":            role,
-                    "party":           party,
-                    "state":           state,
-                    "category":        category,
-                    "confidence":      confidence,
-                    "reason":          "Nationality backstop failed: unrecognized party and state/UT",
-                    "sample_articles": person_contexts[name][:2],
-                })
-                continue
-
-            if full_name.lower() in blocked_names or name.lower() in blocked_names:
-                logging.info(f"SKIP (institution/party, not a person): {full_name}")
-                continue
-
-            # Skip if Gemma resolved to an already-known name
-            if full_name.lower() in known_names:
-                logging.info(f"SKIP (already known under full name): {full_name}")
-                continue
 
             new_entry = {
                 "name":                   full_name,
                 "role":                   role,
-                "party":                  party,
+                "party":                  resolved_party,
                 "state":                  state,
                 "aliases":                [name] if name != full_name else [],
                 "criminal_cases":         0,
                 "criminal_cases_in_news": 0,
                 "affidavit_url":          "https://affidavit.eci.gov.in",
-                "wikipedia":              f"https://en.wikipedia.org/wiki/{full_name.replace(' ', '_')}",
+                "wikipedia":              "", # keep empty per user requirement
                 "image_placeholder":      full_name.lower().replace(' ', '_').replace('.', ''),
                 "auto_added":             True,
                 "auto_added_on":          str(datetime.now().date()),
                 "gemma_confidence":       confidence,
                 "mentions_detected":      count,
+                "party_verified":         is_recognized_party,
             }
+            if role_evidence:
+                new_entry["role_evidence"] = role_evidence
 
-            if confidence in ('high', 'medium'):
-                # Auto-add directly into the live entities dict
-                entities['india'][f'{category}s'].append(new_entry)
-                dest_str = f"entities['india']['{category}s']"
-
-                # Update known_names so we don't double-add this run
-                known_names.add(full_name.lower())
-                known_names.add(name.lower())
-
-                auto_added.append({
-                    "name":       full_name,
-                    "category":   category,
-                    "confidence": confidence,
-                    "mentions":   count,
-                    "role":       role,
-                    "party":      party,
-                })
-                logging.info(
-                    f"AUTO-ADDED [{confidence}]: {full_name} ({role}, {party}) "
-                    f"→ {dest_str}"
-                )
-            else:
-                flagged.append({
-                    "name":            full_name,
-                    "raw_name":        name,
-                    "mentions":        count,
-                    "role":            role,
-                    "party":           party,
-                    "category":        category,
-                    "confidence":      confidence,
-                    "reason":          "Gemma confidence too low for auto-add",
-                    "sample_articles": person_contexts[name][:2],
-                })
-                logging.info(f"FLAGGED FOR REVIEW (low confidence): {full_name}")
+            candidates_processed.append({
+                "profile": new_entry,
+                "confidence": confidence,
+                "count": count,
+                "raw_name": name,
+                "has_valid_state": has_valid_state,
+                "is_recognized_party": is_recognized_party,
+                "raw_party": resolved_party,
+                "contexts": person_contexts[name]
+            })
 
         except Exception as e:
             logging.warning(f"Gemma extraction failed for '{name}': {e}. Flagging for review.")
@@ -1607,6 +1623,158 @@ No explanation. No extra text.
                 "reason":          f"Gemma extraction error: {e}",
                 "sample_articles": person_contexts[name][:2],
             })
+
+    # Build a set of all lowercase names and aliases of all existing parties in entities.json for deduplication
+    existing_party_aliases = set()
+    for p in entities['india'].get('parties', []):
+        existing_party_aliases.add(p['name'].lower())
+        if p.get('full_name'):
+            existing_party_aliases.add(p['full_name'].lower())
+        for alias in p.get('aliases', []):
+            existing_party_aliases.add(alias.lower())
+
+    # Tally occurrences of unrecognized parties in current discovery run
+    unrecognized_party_counts = Counter()
+    unrecognized_party_candidates = defaultdict(list)
+
+    for c in candidates_processed:
+        party_val = c["raw_party"]
+        if party_val != "unconfirmed" and not c["is_recognized_party"]:
+            party_upper = party_val.upper()
+            unrecognized_party_counts[party_upper] += 1
+            unrecognized_party_candidates[party_upper].append(c)
+
+    # Process unrecognized parties and auto-promote if they qualify
+    for party_upper, candidates in unrecognized_party_candidates.items():
+        count_seen = len(candidates)
+        if count_seen >= 3:
+            # Check Indian context: at least one candidate carrying it must have a valid Indian state
+            has_indian_state = any(c["has_valid_state"] for c in candidates)
+            
+            # Check shape: 2-8 char uppercase abbreviation OR contains standard Indian political party suffix/token
+            is_abbrev = re.match(r'^[A-Z0-9\(\)\-&]{2,8}$', party_upper) is not None
+            p_lower = party_upper.lower()
+            suffix_tokens = ["party", "dal", "sena", "katchi", "kazhagam", "congress", "morcha", "samaj", "union", "front", "parishad", "league", "movement"]
+            has_suffix = any(token in p_lower for token in suffix_tokens)
+            has_valid_shape = is_abbrev or has_suffix
+            
+            # Deduplication against existing aliases
+            is_duplicate = p_lower in existing_party_aliases
+            
+            if has_indian_state and has_valid_shape and not is_duplicate:
+                logging.info(f"Auto-promoting party '{party_upper}' to registry (seen {count_seen} times)")
+                new_party_obj = {
+                    "name": party_upper,
+                    "full_name": party_upper,
+                    "aliases": [],
+                    "ideology": "Regionalism, state rights",
+                    "founded": "Unknown",
+                    "president": "Unknown",
+                    "coalition": "Unknown",
+                    "ruling_states": [],
+                    "wikipedia": "",
+                    "color": "#808080",
+                    "auto_added": True
+                }
+                entities['india']['parties'].append(new_party_obj)
+                existing_party_aliases.add(p_lower)
+                
+                # Mark all candidates of this party as verified
+                for c in candidates:
+                    c["profile"]["party_verified"] = True
+                    c["passed_backstop_override"] = True
+            else:
+                logging.info(f"Party '{party_upper}' did not qualify for auto-promotion. "
+                             f"State context: {has_indian_state}, Shape: {has_valid_shape}, Duplicate: {is_duplicate}")
+                flagged.append({
+                    "type": "unrecognized_party",
+                    "party": party_upper,
+                    "mentions": count_seen,
+                    "reason": f"Failed auto-promotion. Indian state context: {has_indian_state}, valid shape: {has_valid_shape}, duplicate: {is_duplicate}",
+                    "sample_candidates": [c["profile"]["name"] for c in candidates]
+                })
+        else:
+            logging.info(f"Party '{party_upper}' seen {count_seen} times (< 3). Flagging party.")
+            flagged.append({
+                "type": "unrecognized_party",
+                "party": party_upper,
+                "mentions": count_seen,
+                "reason": "Seen less than 3 times in this run",
+                "sample_candidates": [c["profile"]["name"] for c in candidates]
+            })
+
+    # Now filter candidates into auto_added and flagged lists based on final backstop check
+    for c in candidates_processed:
+        profile = c["profile"]
+        confidence = c["confidence"]
+        count = c["count"]
+        raw_name = c["raw_name"]
+        has_valid_state = c["has_valid_state"]
+        is_recognized_party = c["is_recognized_party"]
+        passed_backstop = (
+            is_recognized_party or 
+            has_valid_state or 
+            c.get("passed_backstop_override", False)
+        )
+        
+        if not passed_backstop:
+            logging.info(f"Nationality backstop failed for {profile['name']} (party: {profile['party']}, state: {profile['state']}). Flagging for review.")
+            flagged.append({
+                "name":            profile['name'],
+                "raw_name":        raw_name,
+                "mentions":        count,
+                "role":            profile['role'],
+                "party":           profile['party'],
+                "state":           profile['state'],
+                "category":        profile['category'],
+                "confidence":      confidence,
+                "reason":          "Nationality backstop failed: unrecognized party and state/UT",
+                "sample_articles": c["contexts"][:2],
+            })
+            continue
+
+        if profile['name'].lower() in blocked_names or raw_name.lower() in blocked_names:
+            logging.info(f"SKIP (institution/party, not a person): {profile['name']}")
+            continue
+
+        if profile['name'].lower() in known_names:
+            logging.info(f"SKIP (already known under full name): {profile['name']}")
+            continue
+
+        if confidence in ('high', 'medium'):
+            # Auto-add directly into the live entities dict
+            category = profile['category']
+            entities['india'][f'{category}s'].append(profile)
+            dest_str = f"entities['india']['{category}s']"
+
+            known_names.add(profile['name'].lower())
+            known_names.add(raw_name.lower())
+
+            auto_added.append({
+                "name":       profile['name'],
+                "category":   category,
+                "confidence": confidence,
+                "mentions":   count,
+                "role":       profile['role'],
+                "party":      profile['party'],
+            })
+            logging.info(
+                f"AUTO-ADDED [{confidence}]: {profile['name']} ({profile['role']}, {profile['party']}) "
+                f"→ {dest_str}"
+            )
+        else:
+            flagged.append({
+                "name":            profile['name'],
+                "raw_name":        raw_name,
+                "mentions":        count,
+                "role":            profile['role'],
+                "party":           profile['party'],
+                "category":        profile['category'],
+                "confidence":      confidence,
+                "reason":          "Gemma confidence too low for auto-add",
+                "sample_articles": c["contexts"][:2],
+            })
+            logging.info(f"FLAGGED FOR REVIEW (low confidence): {profile['name']}")
 
     logging.info(
         f"New entities: {len(auto_added)} auto-added, {len(flagged)} flagged for review."

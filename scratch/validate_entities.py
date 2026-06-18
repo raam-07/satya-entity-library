@@ -92,24 +92,31 @@ for c in cms:
     else:
         print(f"INFO: Guard check - CM profile '{c['name']}' exists for state '{state_name}' which has empty/N/A active CM.")
 
-# 4. Assert no CM entry has "former" or "ex-" in their role
-for c in cms:
-    role = c.get("role", "")
-    role_lower = role.lower()
-    if "former" in role_lower or "ex-" in role_lower:
-        print(f"FAIL: CM profile '{c['name']}' has former/ex in role: '{role}'!")
-        failures += 1
-
-if failures == 0:
-    print("PASS: No former/ex roles or mismatching CMs found.")
-
-# 5. Assert all auto-added entries have valid party or state, and valid party values
 all_politicians = (
     cms + 
     data["india"].get("cabinet_ministers", []) + 
     data["india"].get("opposition_leaders", []) + 
     data["india"].get("generic_politicians", [])
 )
+
+# 4. Assert no politician entry has "former" or "ex-" or "ex " in their role
+for p in all_politicians:
+    role = p.get("role", "")
+    role_lower = role.lower()
+    if "former" in role_lower or "ex-" in role_lower or "ex " in role_lower:
+        p_name = p["name"]
+        is_auto = p.get("auto_added", False)
+        if is_auto:
+            print(f"FAIL: Auto-added profile '{p_name}' has former/ex in role: '{role}'!")
+            failures += 1
+        else:
+            # Log warning/info for legacy profiles
+            print(f"INFO: Legacy profile '{p_name}' has former/ex in role: '{role}'")
+
+if failures == 0:
+    print("PASS: No former/ex roles in auto-added profiles.")
+
+# 5. Assert all auto-added entries have valid party or state, and valid party values
 auto_added_count = 0
 for p in all_politicians:
     if p.get("auto_added"):

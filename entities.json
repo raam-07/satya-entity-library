@@ -3604,6 +3604,228 @@
         "ruling_states": [],
         "wikipedia": "",
         "color": "#008000"
+      },
+      {
+        "name": "MDMK",
+        "full_name": "Marumalarchi Dravida Munnetra Kazhagam",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF0000"
+      },
+      {
+        "name": "PMK",
+        "full_name": "Pattali Makkal Katchi",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "RLD",
+        "full_name": "Rashtriya Lok Dal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#00FF00"
+      },
+      {
+        "name": "JD(S)",
+        "full_name": "Janata Dal (Secular)",
+        "aliases": [
+          "JDS"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#00FF7F"
+      },
+      {
+        "name": "INLD",
+        "full_name": "Indian National Lok Dal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#2E8B57"
+      },
+      {
+        "name": "AGP",
+        "full_name": "Asom Gana Parishad",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#32CD32"
+      },
+      {
+        "name": "IUML",
+        "full_name": "Indian Union Muslim League",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#228B22"
+      },
+      {
+        "name": "KC(M)",
+        "full_name": "Kerala Congress (M)",
+        "aliases": [
+          "Kerala Congress"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFD700"
+      },
+      {
+        "name": "NPF",
+        "full_name": "Naga People's Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#4B0082"
+      },
+      {
+        "name": "MNF",
+        "full_name": "Mizo National Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF4500"
+      },
+      {
+        "name": "UPPL",
+        "full_name": "United People's Party Liberal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFA500"
+      },
+      {
+        "name": "BPF",
+        "full_name": "Bodoland People's Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF8C00"
+      },
+      {
+        "name": "RSP",
+        "full_name": "Revolutionary Socialist Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#B22222"
+      },
+      {
+        "name": "AIUDF",
+        "full_name": "All India United Democratic Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#008000"
+      },
+      {
+        "name": "AJSU",
+        "full_name": "All Jharkhand Students Union",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF8C00"
+      },
+      {
+        "name": "RLP",
+        "full_name": "Rashtriya Loktantrik Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "JJP",
+        "full_name": "Jannayak Janta Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#808000"
+      },
+      {
+        "name": "SAD",
+        "full_name": "Shiromani Akali Dal",
+        "aliases": [
+          "Akali Dal"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFD700"
       }
     ],
     "states": [
