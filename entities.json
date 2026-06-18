@@ -1359,7 +1359,7 @@
       {
         "name": "Thol. Thirumavalavan",
         "role": "leader of the VCK",
-        "party": "unconfirmed",
+        "party": "VCK",
         "state": "Tamil Nadu",
         "aliases": [],
         "criminal_cases": 0,
@@ -1515,7 +1515,7 @@
       {
         "name": "Mehbooba Mufti",
         "role": "President of Peoples Democratic Party",
-        "party": "unconfirmed",
+        "party": "PDP",
         "state": "Jammu and Kashmir",
         "aliases": [],
         "criminal_cases": 0,
@@ -2629,7 +2629,7 @@
       {
         "name": "S.P. Velumani",
         "role": "MLA",
-        "party": "unconfirmed",
+        "party": "AIADMK",
         "state": "Tamil Nadu",
         "aliases": [],
         "criminal_cases": 0,
@@ -2790,8 +2790,8 @@
       },
       {
         "name": "Pabitra Margherita",
-        "role": "Former Chief Minister of Assam",
-        "party": "",
+        "role": "Union Minister of State / MP",
+        "party": "BJP",
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
@@ -3562,6 +3562,48 @@
         ],
         "wikipedia": "https://en.wikipedia.org/wiki/AINRC",
         "color": "#808080"
+      },
+      {
+        "name": "VCK",
+        "full_name": "Viduthalai Chiruthaigal Katchi",
+        "aliases": [
+          "Liberation Panthers Party"
+        ],
+        "ideology": "Social justice, Dalit rights",
+        "founded": "1989",
+        "president": "Thol. Thirumavalavan",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#0000FF"
+      },
+      {
+        "name": "PDP",
+        "full_name": "Jammu and Kashmir Peoples Democratic Party",
+        "aliases": [
+          "Peoples Democratic Party"
+        ],
+        "ideology": "Regionalism, Self-rule",
+        "founded": "1999",
+        "president": "Mehbooba Mufti",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#006400"
+      },
+      {
+        "name": "AIADMK",
+        "full_name": "All India Anna Dravida Munnetra Kazhagam",
+        "aliases": [
+          "All India Anna DMK"
+        ],
+        "ideology": "Dravidian populism",
+        "founded": "1972",
+        "president": "Edappadi K. Palaniswami",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#008000"
       }
     ],
     "states": [
