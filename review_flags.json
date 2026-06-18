@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18 07:20:38.773187",
+  "generated_at": "2026-06-18 07:38:56.648418",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 9
@@ -33,6 +33,15 @@
     },
     {
       "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.46,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
+    },
+    {
+      "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
       "confidence": 0.71,
@@ -47,7 +56,7 @@
       "confidence": 0.58,
       "mentions": 14,
       "reason": "Below auto-update threshold",
-      "context": "7th of May 2026,” a gazette notification issued by the order of the Governor said. The 17th West Bengal Legislative Assembly which was sworn in after the 2021 assembly elections now stands dissolved. "
+      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
     },
     {
       "type": "cm_detection",
@@ -66,15 +75,6 @@
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "zed the LDF government's handling of issues like cooking gas shortages and economic development in the state. All India Congress Committee general secretary Sachin Pilot has said that the campaign by "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.46,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
     },
     {
       "type": "cm_detection",
