@@ -222,8 +222,8 @@ def load_entities():
 def is_candidate_name(ent_text):
     ent_text = ent_text.strip()
     words = ent_text.split()
-    # Indian politician names generally consist of 2 or 3 words
-    if len(words) not in (2, 3):
+    # Indian politician names generally consist of 1 to 4 words
+    if not (1 <= len(words) <= 4):
         return False
         
     for w in words:
@@ -1363,6 +1363,19 @@ def discover_new_entities(articles, entities, nlp, llm):
         for alias in p.get('aliases', []):
             blocked_names.add(alias.lower())
 
+    # Build party registry lookup dynamically from entities.json
+    party_registry = {}
+    for p in entities['india'].get('parties', []):
+        p_name = p['name']
+        party_registry[p_name.lower()] = p_name
+        if p.get('full_name'):
+            party_registry[p['full_name'].lower()] = p_name
+        for alias in p.get('aliases', []):
+            party_registry[alias.lower()] = p_name
+
+    # Build valid states set dynamically from entities.json
+    valid_states = {s['name'].lower() for s in entities['india'].get('states', [])}
+
     # Count mentions of unknown PERSON entities (and possible misclassified ORG/GPE names) via spaCy NER
     person_counter  = Counter()
     person_contexts = defaultdict(list)
@@ -1477,20 +1490,53 @@ No explanation. No extra text.
             category   = (parsed.get('category') or '').strip()
             confidence = (parsed.get('confidence') or 'low').strip()
 
-            # Validate category
-            if category not in valid_categories:
-                category = 'generic_politician'
+            # Force all auto-added entities to generic_politician category
+            category = 'generic_politician'
 
-            # Guardrail: Union cabinet ministers must belong to the ruling national coalition (BJP/NDA).
-            # If categorized as cabinet_minister but party is not in the coalition, or role is state-level,
-            # downgrade to generic_politician.
-            if category == 'cabinet_minister':
-                union_coalition = {'bjp', 'nda', 'ljp', 'jdu', 'tdp'}
-                role_lower = role.lower()
-                is_union_party = party.lower() in union_coalition
-                if not is_union_party or any(x in role_lower for x in ('bengaluru', 'mumbai', 'delhi', 'karnataka', 'maharashtra', 'state-level', 'state cabinet')):
-                    logging.info(f"Guardrail: Downgrading {full_name} ({role}) from cabinet_minister to generic_politician")
-                    category = 'generic_politician'
+            # Dynamically derive ruling coalition
+            ruling_party_val = entities['india']['central_government'].get('ruling_party', '').strip().lower()
+            ruling_coalition_val = entities['india']['central_government'].get('ruling_coalition', '').strip().lower()
+            union_coalition = {ruling_party_val, ruling_coalition_val}
+            for p in entities['india'].get('parties', []):
+                p_coalition = p.get('coalition', '').strip().lower()
+                if p_coalition and p_coalition == ruling_coalition_val:
+                    union_coalition.add(p['name'].lower())
+                    for alias in p.get('aliases', []):
+                        union_coalition.add(alias.lower())
+
+            # Enforce party validation and normalization
+            resolved_party = "unconfirmed"
+            if party:
+                party_lower = party.strip().lower()
+                if party_lower in party_registry:
+                    resolved_party = party_registry[party_lower]
+            party = resolved_party
+
+            # Deterministic nationality backstop check: party OR state must be Indian/valid
+            has_valid_party = (party != "unconfirmed")
+            has_valid_state = False
+            if state:
+                state_lower = state.strip().lower()
+                if state_lower in valid_states:
+                    has_valid_state = True
+                    canonical_state = next(s['name'] for s in entities['india']['states'] if s['name'].lower() == state_lower)
+                    state = canonical_state
+            
+            if not (has_valid_party or has_valid_state):
+                logging.info(f"Nationality backstop failed for {full_name} (party: {party}, state: {state}). Flagging for review.")
+                flagged.append({
+                    "name":            full_name,
+                    "raw_name":        name,
+                    "mentions":        count,
+                    "role":            role,
+                    "party":           party,
+                    "state":           state,
+                    "category":        category,
+                    "confidence":      confidence,
+                    "reason":          "Nationality backstop failed: unrecognized party and state/UT",
+                    "sample_articles": person_contexts[name][:2],
+                })
+                continue
 
             if full_name.lower() in blocked_names or name.lower() in blocked_names:
                 logging.info(f"SKIP (institution/party, not a person): {full_name}")
@@ -1592,91 +1638,158 @@ def enforce_database_consistency(entities):
         party_raw_upper = party_raw.strip().upper()
         return party_lookup.get(party_raw_upper, party_raw.strip())
 
+    def matches_cm(profile, auth_cm):
+        if not auth_cm or auth_cm == "N/A":
+            return False
+        
+        def clean(n):
+            return re.sub(r'[^a-z0-9]', '', n.lower())
+        
+        auth_cm_clean = clean(auth_cm)
+        if clean(profile.get('name', '')) == auth_cm_clean:
+            return True
+        
+        for alias in profile.get('aliases', []):
+            if clean(alias) == auth_cm_clean:
+                return True
+                
+        # Punctuation/space normalized whole-word match fallback
+        # e.g., 'Stalin' resolves to 'M. K. Stalin' or 'M.K. Stalin'
+        def norm_words(n):
+            return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9 ]', ' ', n.lower().replace('.', ' '))).strip()
+            
+        p_norm = norm_words(profile.get('name', ''))
+        auth_norm = norm_words(auth_cm)
+        
+        if p_norm and auth_norm:
+            if re.search(r'\b' + re.escape(auth_norm) + r'\b', p_norm) or \
+               re.search(r'\b' + re.escape(p_norm) + r'\b', auth_norm):
+                return True
+                
+        return False
+
     # Build CM profile resolver helper (checks name and aliases)
     def find_cm_profile(cm_name):
         if not cm_name or cm_name == "N/A":
             return None
-        cm_name_lower = cm_name.strip().lower()
-        
-        # 1. Try exact name or alias match
         for profile in cms:
-            if profile['name'].lower() == cm_name_lower:
+            if matches_cm(profile, cm_name):
                 return profile
-            for alias in profile.get('aliases', []):
-                if alias.lower() == cm_name_lower:
-                    return profile
-                    
-        # 2. Whole-word fallback (e.g. 'Stalin' resolves to 'M.K. Stalin')
-        for profile in cms:
-            p_name_lower = profile['name'].lower()
-            if re.search(r'\b' + re.escape(cm_name_lower) + r'\b', p_name_lower) or \
-               re.search(r'\b' + re.escape(p_name_lower) + r'\b', cm_name_lower):
-                return profile
-                
         return None
 
-    # 1. Synchronize State CMs with profiles and demote former CMs
+    # 1. Synchronize State CMs with profiles and demote former/non-matching CMs
+    active_cms_by_state = {}
     for state in states:
         state_name = state['name']
-        active_cm_name = state.get('cm')
-        ruling_party = resolve_party_name(state.get('ruling_party'))
-        
-        # Fallback: if active_cm_name is null/empty, check if there is an active CM profile for this state
-        if not active_cm_name or active_cm_name == "N/A":
-            for profile in cms:
-                if profile.get('state') == state_name and "Chief Minister" in profile.get('role', '') and "Former" not in profile.get('role', ''):
-                    logging.info(f"Fallback: Found active CM profile '{profile['name']}' for state {state_name}. Syncing state record.")
-                    state['cm'] = profile['name']
-                    active_cm_name = profile['name']
-                    if profile.get('party') and not ruling_party:
-                        state['ruling_party'] = profile['party']
-                        ruling_party = profile['party']
-                    break
-        
-        if active_cm_name and active_cm_name != "N/A":
-            profile = find_cm_profile(active_cm_name)
-            if profile:
-                profile['role'] = f"Chief Minister of {state_name}" if "Chief Minister" not in profile.get('role', '') else profile['role']
-                if "Former" in profile['role']:
-                    profile['role'] = profile['role'].replace("Former ", "").replace("Former Chief Minister", "Chief Minister")
-                
+        active_cm = state.get('cm')
+        if active_cm and active_cm.strip() and active_cm.strip() != "N/A":
+            active_cms_by_state[state_name.lower()] = active_cm.strip()
+
+    cms_to_keep = []
+    cms_to_demote = []
+    matched_states = set()
+
+    for profile in cms:
+        name = profile.get('name', '')
+        role = profile.get('role', '') or ''
+        role_lower = role.lower()
+        state_name = profile.get('state')
+        state_lower = state_name.lower() if state_name else ""
+
+        # Demote immediately if role contains 'former' or 'ex-'
+        if "former" in role_lower or "ex-" in role_lower:
+            logging.info(f"Demoting {name} because role '{role}' contains 'former' or 'ex-'")
+            cms_to_demote.append(profile)
+            continue
+
+        # Check if this state has an authoritative active CM set
+        if state_lower in active_cms_by_state:
+            auth_cm = active_cms_by_state[state_lower]
+            if matches_cm(profile, auth_cm):
+                # Canonicalize role and state
+                profile['role'] = f"Chief Minister of {state_name}"
                 profile['state'] = state_name
+                
+                # Check for duplicates (only allow 1 CM per state)
+                if state_lower in matched_states:
+                    logging.info(f"Demoting duplicate CM profile {name} for state {state_name}")
+                    cms_to_demote.append(profile)
+                else:
+                    cms_to_keep.append(profile)
+                    matched_states.add(state_lower)
+            else:
+                # Does not match the authoritative CM -> Demote!
+                logging.info(f"Demoting {name} because it does not match active CM '{auth_cm}' for state {state_name}")
+                cms_to_demote.append(profile)
+        else:
+            # Guard: If states[].cm is empty/missing, leave the existing entry intact and warn/flag
+            logging.warning(f"Guard triggered: state '{state_name}' has no CM in states[].cm. Leaving existing CM entry '{name}' intact.")
+            cms_to_keep.append(profile)
+
+    # For any state with an authoritative CM not found in cms, create a profile
+    for state in states:
+        state_name = state['name']
+        state_lower = state_name.lower()
+        if state_lower in active_cms_by_state and state_lower not in matched_states:
+            auth_cm = active_cms_by_state[state_lower]
+            logging.warning(f"Active CM '{auth_cm}' for state {state_name} has no active profile. Creating basic profile.")
+            ruling_party = resolve_party_name(state.get('ruling_party'))
+            new_profile = {
+                "name": auth_cm,
+                "role": f"Chief Minister of {state_name}",
+                "party": ruling_party or "",
+                "state": state_name,
+                "aliases": [],
+                "criminal_cases": 0,
+                "criminal_cases_in_news": 0,
+                "affidavit_url": "https://affidavit.eci.gov.in",
+                "wikipedia": f"https://en.wikipedia.org/wiki/{auth_cm.replace(' ', '_')}",
+                "image_placeholder": auth_cm.lower().replace(' ', '_').replace('.', ''),
+                "auto_added": True,
+                "auto_added_on": str(datetime.now().date()),
+                "gemma_confidence": "high",
+                "criminal_incidents": [],
+                "controversies": []
+            }
+            cms_to_keep.append(new_profile)
+            matched_states.add(state_lower)
+
+    # Sync state fields (cm, ruling_party) for keeping profiles
+    for state in states:
+        state_name = state['name']
+        state_lower = state_name.lower()
+        if state_lower in active_cms_by_state:
+            auth_cm = active_cms_by_state[state_lower]
+            profile = next((p for p in cms_to_keep if p.get('state') == state_name and matches_cm(p, auth_cm)), None)
+            if profile:
+                # Sync state record with canonical name
+                state['cm'] = profile['name']
+                ruling_party = resolve_party_name(state.get('ruling_party'))
                 cm_party = resolve_party_name(profile.get('party'))
                 if cm_party and cm_party != ruling_party:
                     logging.info(f"Syncing state {state_name} ruling_party '{ruling_party}' to match CM's party '{cm_party}'")
                     state['ruling_party'] = cm_party
-                    ruling_party = cm_party
                 elif ruling_party and not cm_party:
                     profile['party'] = ruling_party
-            else:
-                logging.warning(f"Active CM '{active_cm_name}' for state {state_name} has no profile. Creating basic profile.")
-                new_profile = {
-                    "name": active_cm_name,
-                    "role": f"Chief Minister of {state_name}",
-                    "party": ruling_party or "",
-                    "state": state_name,
-                    "aliases": [],
-                    "criminal_cases": 0,
-                    "criminal_cases_in_news": 0,
-                    "affidavit_url": "https://affidavit.eci.gov.in",
-                    "wikipedia": f"https://en.wikipedia.org/wiki/{active_cm_name.replace(' ', '_')}",
-                    "image_placeholder": active_cm_name.lower().replace(' ', '_').replace('.', ''),
-                    "auto_added": True,
-                    "auto_added_on": str(datetime.now().date()),
-                    "gemma_confidence": "high",
-                    "criminal_incidents": [],
-                    "controversies": []
-                }
-                cms.append(new_profile)
+
+    # Apply demotions: modify role, remove from state_chief_ministers, and append to generic_politicians
+    if 'generic_politicians' not in entities['india']:
+        entities['india']['generic_politicians'] = []
+
+    for profile in cms_to_demote:
+        # Prepend/update role
+        role = profile.get('role', '')
+        if "Chief Minister" in role and "Former" not in role:
+            profile['role'] = role.replace("Chief Minister", "Former Chief Minister")
+        elif not role.lower().startswith("former"):
+            profile['role'] = f"Former {role}"
             
-            # Demote any other CM profiles for this state to "Former Chief Minister"
-            for c in cms:
-                if c.get('state') == state_name and c['name'].lower() != active_cm_name.lower():
-                    resolved_profile = find_cm_profile(c['name'])
-                    if resolved_profile and resolved_profile['name'].lower() != active_cm_name.lower():
-                        if "Chief Minister" in c.get('role', '') and "Former" not in c.get('role', ''):
-                            logging.info(f"Demoting {c['name']} to Former Chief Minister of {state_name}")
-                            c['role'] = c['role'].replace("Chief Minister", "Former Chief Minister")
+        # Avoid duplicating in generic_politicians if already exists (check name case-insensitively)
+        if not any(g['name'].lower() == profile['name'].lower() for g in entities['india']['generic_politicians']):
+            entities['india']['generic_politicians'].append(profile)
+
+    # Overwrite the state_chief_ministers list
+    entities['india']['state_chief_ministers'] = cms_to_keep
 
     # 2. Recompute Party ruling_states dynamically
     party_map = {p['name'].upper(): p for p in party_list}
@@ -1709,6 +1822,20 @@ def enforce_database_consistency(entities):
                 party_list.append(new_party)
                 party_map[ruling_party_upper] = new_party
                 
+    # 3. Validate and normalize party fields for all auto-added politicians
+    all_categories = ['cabinet_ministers', 'opposition_leaders', 'state_chief_ministers', 'generic_politicians']
+    for cat in all_categories:
+        for p in entities['india'].get(cat, []):
+            if p.get('auto_added'):
+                party = p.get('party')
+                if party:
+                    party_lower = party.strip().lower()
+                    party_upper = party_lower.upper()
+                    if party_upper in party_lookup:
+                        p['party'] = party_lookup[party_upper]
+                    else:
+                        p['party'] = "unconfirmed"
+
     logging.info("--- Referential Integrity Enforced successfully ---")
 
 
@@ -1812,12 +1939,23 @@ def main():
     import sys
     args = sys.argv[1:]
     
-    # Process mode options: "--process", "--commit-sheet", or default (both)
+    # Process mode options: "--process", "--commit-sheet", "--only-consistency", or default (both)
     mode = "both"
     if "--process" in args:
         mode = "process"
     elif "--commit-sheet" in args:
         mode = "commit-sheet"
+    elif "--only-consistency" in args:
+        mode = "only-consistency"
+        logging.info("--- Running Consistency Enforcer Only ---")
+        entities = load_entities()
+        entities = dedupe_entities(entities)
+        enforce_database_consistency(entities)
+        with open(ENTITIES_OUTPUT_PATH, 'w', encoding='utf-8') as f:
+            json.dump(entities, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+        logging.info("Saved consistency-enforced entities.json")
+        return
 
     start_time = time.time()
     logging.info(f"--- Satya Entity Updater Started (Mode: {mode}) ---")
