@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 3,
       "new_promises": 5,
-      "gaffe_updates": 8
+      "gaffe_updates": 6
     },
     "rescan_history": {
       "in_progress": false,
@@ -240,6 +240,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/touring-the-state-to-bring-change-people-want-to-see-says-bsy/article70711566.ece",
             "source_title": "Touring the State to bring change people want to see, says BSY - The Hindu",
             "scraped_at": "2026-03-06 11:41:52"
+          },
+          {
+            "incident_text": "Narendra Modi's foreign policy is the result of exploitation, Rahul Gandhi claimed.",
+            "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
+            "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
+            "scraped_at": "2026-03-06 05:13:38"
           }
         ]
       },
@@ -260,7 +266,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -275,9 +281,16 @@
             "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
             "scraped_at": "2026-05-08 06:58:00.243592",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "War of words erupts in U.P. as BJP ally claims split in Samajwadi Party; Akhilesh hits back - The Hindu **Om Prakash Rajbhar**, **Suheldev Bharatiya Samaj Party (SBSP)** president, and **Deputy Chief ",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-yadav-responds-to-up-ministers-claims-on-major-split-in-samajwadi-party/article71112966.ece",
+            "source_title": "War of words erupts in U.P. as BJP ally claims split in Samajwadi Party; Akhilesh hits back - The Hindu",
+            "scraped_at": "2026-06-17 16:19:37",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-18",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
@@ -302,6 +315,12 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
             "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
             "scraped_at": "2026-06-01 20:33:27"
+          },
+          {
+            "incident_text": "Amit Shah is allegedly offering MPs ₹15 crore each to join the BJP.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/bjp-wont-succeed-in-its-ultimate-objective-says-congress-amid-shiv-sena-ubt-developments/article71112579.ece",
+            "source_title": "BJP won’t succeed in its ultimate objective, says Congress amid Shiv Sena (UBT) developments - The Hindu",
+            "scraped_at": "2026-06-17 07:38:29"
           }
         ]
       },
@@ -947,6 +966,18 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-undermining-achievements-of-india-its-people-fm-nirmala-sitharaman/article71100616.ece",
             "source_title": "Rahul Gandhi 'undermining' achievements of India, its people: FM Nirmala Sitharaman - The Hindu",
             "scraped_at": "2026-06-14 08:58:57"
+          },
+          {
+            "incident_text": "Rahul Gandhi said India's foreign policy stems from the exploitation of a compromised individual.",
+            "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
+            "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
+            "scraped_at": "2026-03-06 05:13:38"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that the low viewership of 'Kerala Story-2' indicates a lack of understanding of Kerala's culture and traditions.",
+            "source_url": "https://www.thehindu.com/news/national/good-news-that-kerala-story-2-is-not-being-widely-watched-says-rahul-gandhi/article70711856.ece",
+            "source_title": "‘Good news’ that Kerala Story-2 is not being widely watched, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-06 07:38:00"
           }
         ]
       },
@@ -1085,6 +1116,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
             "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
             "scraped_at": "2026-06-16 13:21:21"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that India's foreign policy is the result of exploiting a compromised individual.",
+            "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
+            "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
+            "scraped_at": "2026-03-06 05:13:38"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1281,6 +1318,13 @@
             "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
             "scraped_at": "2026-03-24 10:05:36.975630",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "After years of pillion-riding, BJP readies to take the driving seat in Bihar - The Hindu **Nitish Kumar**, the **Bihar Chief Minister**, filed his nomination papers for the Rajya Sabha on March 5, 202",
+            "source_url": "https://www.thehindu.com/news/national/after-years-of-pillion-riding-bjp-readies-to-take-the-driving-seat-in-bihar/article70711558.ece",
+            "source_title": "After years of pillion-riding, BJP readies to take the driving seat in Bihar - The Hindu",
+            "scraped_at": "2026-03-06 07:38:42",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -1291,8 +1335,8 @@
             "scraped_at": "2026-06-16 13:20:23"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-18"
       },
       {
         "name": "Tejashwi Yadav",
@@ -2270,6 +2314,12 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
             "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
             "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "Omar Abdullah stated that the abrogation of Article 370 was the biggest policy mistake made by the Indian government.",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-omar-abdullah-session/article71064526.ece",
+            "source_title": "Abrogation of Article 370 was the biggest policy mistake by the government: Omar Abdullah - The Hindu",
+            "scraped_at": "2026-06-17 07:37:36"
           }
         ]
       },
@@ -2625,7 +2675,7 @@
         "state": "Punjab",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
         "image_placeholder": "bhagwant_mann",
@@ -2645,8 +2695,24 @@
             "source_url": "https://www.ndtv.com/india-news/bhagwant-mann-declared-anti-guru-by-akal-takht-ahead-of-punjab-polls-11639198#publisher=newsstand",
             "source_title": "Bhagwant Mann Declared 'Anti-Guru' By Akal Takht Ahead Of Punjab Polls",
             "scraped_at": "2026-06-15 12:24:22"
+          },
+          {
+            "incident_text": "Bhagwant Mann accused certain religious authorities of spreading false propaganda at the behest of their political bosses.",
+            "source_url": "https://indianexpress.com/article/political-pulse/amid-akal-takht-vs-cm-bhagwant-mann-a-look-at-jathedar-role-in-turbulent-panthic-politics-10743175/",
+            "source_title": "Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-17 02:05:54"
           }
-        ]
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe **Sukhbir Singh Badal**, leader of the **Shiromani Akali Dal**, has accused **Chief Minister Bhagwant Mann** of disrespecting ",
+            "source_url": "https://www.ndtv.com/india-news/akal-takht-row-escalates-sukhbir-badal-attacks-mann-bjp-seeks-cbi-probe-11651411#publisher=newsstand",
+            "source_title": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe",
+            "scraped_at": "2026-06-17 18:45:18",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-06-18"
       },
       {
         "name": "Nayab Singh Saini",
@@ -3789,7 +3855,7 @@
         "ruling_party": "TMC",
         "cm": "Mamata Banerjee",
         "region": "East",
-        "party_confidence": 0.85,
+        "party_confidence": 0.86,
         "party_last_updated": "2026-06-18",
         "cm_confidence": 0.93,
         "cm_last_updated": "2026-06-16"
@@ -5402,6 +5468,56 @@
       "source_url": "https://www.thehindu.com/news/national/telangana/journalists-house-sites-issue-to-be-resolved-soon-cm/article70719853.ece",
       "source_title": "Journalists’ house sites issue to be resolved soon: CM - The Hindu",
       "scraped_at": "2026-03-08 11:59:37",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to restrict social media access for children under 13 years old",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mulling-ban-on-social-media-for-children-below-13/article70711087.ece",
+      "source_title": "Andhra Pradesh mulling over ban on social media for children below 13 - The Hindu",
+      "scraped_at": "2026-03-06 05:13:02",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "the construction of the Bengaluru Business Corridor (BBC) will be completed within four years",
+      "source_url": "https://www.thehindu.com/news/cities/bangalore/karnataka-budget-2026-intermediate-ring-road-miyawaki-parks-municipal-bonds-for-bengaluru/article70710846.ece",
+      "source_title": "Karnataka Budget: Intermediate Ring Road, Miyawaki parks, municipal bonds for Bengaluru - The Hindu",
+      "scraped_at": "2026-03-06 07:40:10",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "four KREIS residential schools with the Central Board of Secondary Education (CBSE) curriculum",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/new-bodies-for-upliftment-of-deprived-communities/article70712606.ece",
+      "source_title": "New bodies for upliftment of deprived communities - The Hindu",
+      "scraped_at": "2026-03-06 10:34:40",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "pending compensation for victims and a monthly honorarium for DVMC members",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/focus-on-solving-problems-faced-by-scst-communities-officials-told/article70715796.ece",
+      "source_title": "Focus on solving problems faced by SC/ST communities, officials told - The Hindu",
+      "scraped_at": "2026-03-07 08:13:37",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Pinarayi Vijayan",
+      "promise_text": "that this project is a symbol of his government's commitment to development and ensuring no place in the state is left untouched",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-chief-minister-dedicates-states-longest-backwater-bridge/article70716706.ece",
+      "source_title": "Kerala Chief Minister dedicates State’s longest backwater bridge - The Hindu",
+      "scraped_at": "2026-03-07 11:59:02",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

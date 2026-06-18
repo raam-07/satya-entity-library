@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-18 09:57:38.622467",
+  "generated_at": "2026-06-18 11:57:07.012109",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 8,
+    "criminal_updates_applied": 3,
+    "gaffe_updates_applied": 6,
     "promises_extracted": 5,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -17,8 +17,8 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.56,
-      "mentions": 9,
+      "confidence": 0.53,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "while swimming off an island in Singapore on September 19, 2025. He had travelled to Singapore to attend a festival organised by Shyamkanu Mahanta, who is one of the accused. In December 2025, Assam C"
     },
@@ -60,15 +60,6 @@
     },
     {
       "type": "cm_detection",
-      "state": "Madhya Pradesh",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
-    },
-    {
-      "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
       "confidence": 0.44,
@@ -84,6 +75,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "ocratic politics allows cross-state campaigning and questions criticism - Pawan Kalyan said he will contest Telangana elections, including Greater Hyderabad Municipal Corporation polls Andhra Pradesh "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Madhya Pradesh",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
     },
     {
       "type": "ruling_party",
