@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 3,
-      "new_promises": 5,
-      "gaffe_updates": 6
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -3187,6 +3187,22 @@
         ],
         "criminal_last_updated": "2026-06-16",
         "controversies": []
+      },
+      {
+        "name": "Sheikh Abdullah",
+        "role": "Former Chief Minister of Jammu",
+        "party": "",
+        "state": "Jammu",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sheikh_Abdullah",
+        "image_placeholder": "sheikh_abdullah",
+        "auto_added": true,
+        "auto_added_on": "2026-06-18",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
       }
     ],
     "parties": [
@@ -5714,6 +5730,16 @@
       "source_title": "Kerala Chief Minister dedicates State’s longest backwater bridge - The Hindu",
       "scraped_at": "2026-03-07 11:59:02",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "G. Kishan Reddy",
+      "promise_text": "that this is part of over ₹11",
+      "source_url": "https://www.thehindu.com/news/national/telangana/centre-releases-over-1034-cr-to-gram-panchayats-under-15th-finance-commission-grants/article70707369.ece",
+      "source_title": "Centre releases over ₹1,034 cr. to gram panchayats under 15th Finance Commission grants - The Hindu",
+      "scraped_at": "2026-03-05 08:46:31",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
