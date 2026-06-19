@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-18",
+    "last_updated": "2026-06-19",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 5
+      "new_promises": 3,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4071,9 +4071,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-18",
+        "party_last_updated": "2026-06-19",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-18"
+        "cm_last_updated": "2026-06-19"
       },
       {
         "name": "Rajasthan",
@@ -4101,7 +4101,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-18"
+        "party_last_updated": "2026-06-19"
       },
       {
         "name": "Telangana",
@@ -4129,7 +4129,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-18"
+        "cm_last_updated": "2026-06-19"
       },
       {
         "name": "Uttarakhand",
@@ -4149,7 +4149,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.86,
-        "party_last_updated": "2026-06-18",
+        "party_last_updated": "2026-06-19",
         "cm_confidence": 0.93,
         "cm_last_updated": "2026-06-16"
       },
@@ -5802,6 +5802,36 @@
       "source_title": "Focus on flood prevention, providing irrigation to last acre in Godavari Delta, says Minister Nimmala - The Hindu",
       "scraped_at": "2026-03-05 07:43:26",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that the foundation for the ArcelorMittal Nippon Steel plant in Anakapalli and the Google Data Centre in Visakhapatnam would be laid this month and April",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/foundation-for-arcelormittal-nippon-steel-plant-this-month-cm/article70703930.ece",
+      "source_title": "Foundation for ArcelorMittal Nippon Steel plant this month: CM - The Hindu",
+      "scraped_at": "2026-03-04 11:44:50",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that the TDP-led government is working to resurrect Andhra Pradesh's brand image and create a $2",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/foundation-for-arcelormittal-nippon-steel-plant-this-month-cm/article70703930.ece",
+      "source_title": "Foundation for ArcelorMittal Nippon Steel plant this month: CM - The Hindu",
+      "scraped_at": "2026-03-04 11:44:50",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "a free bus travel scheme for students studying across Karnataka",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/students-face-technical-glitches-while-applying-for-free-bus-passes-in-karnataka/article71117328.ece",
+      "source_title": "Students face technical glitches while applying for free bus passes in Karnataka - The Hindu",
+      "scraped_at": "2026-06-19 00:14:25",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18 22:48:27.496918",
+  "generated_at": "2026-06-19 07:22:57.381611",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 5,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 3,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 9
@@ -30,15 +30,6 @@
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.46,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
     },
     {
       "type": "cm_detection",
@@ -69,12 +60,21 @@
     },
     {
       "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.46,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
+    },
+    {
+      "type": "cm_detection",
       "state": "Andhra Pradesh",
       "candidate": "Chandrababu Naidu",
       "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "ocratic politics allows cross-state campaigning and questions criticism - Pawan Kalyan said he will contest Telangana elections, including Greater Hyderabad Municipal Corporation polls Andhra Pradesh "
+      "context": "s Vice-Chairman in the presence of film personalities, public representatives and officials. Mr. Bharat Bhushan said he would strive for the development of cinema, arts and theatre in Andhra Pradesh, "
     },
     {
       "type": "cm_detection",
