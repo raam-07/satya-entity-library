@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 3,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 6
     },
     "rescan_history": {
       "in_progress": false,
@@ -246,6 +246,18 @@
             "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
             "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
             "scraped_at": "2026-03-06 05:13:38"
+          },
+          {
+            "incident_text": "Narendra Modi was depicted as imposing Hindi names while wearing a Tamil mask.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hindi-words-removed-from-entrance-arch-at-tiruchi-railway-divisional-office-following-political-furore/article70703462.ece",
+            "source_title": "Hindi words removed from entrance arch at Tiruchi Railway Divisional Office following political furore - The Hindu",
+            "scraped_at": "2026-03-04 08:44:13"
+          },
+          {
+            "incident_text": "Narendra Modi came to Gujarat as a parachute leader and became Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
+            "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
+            "scraped_at": "2026-03-04 08:45:11"
           }
         ]
       },
@@ -327,6 +339,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-governor-cv-ananda-bose-resigns/article70708232.ece",
             "source_title": "West Bengal Governor C.V. Ananda Bose resigns ahead of Assembly polls - The Hindu",
             "scraped_at": "2026-03-05 10:46:13"
+          },
+          {
+            "incident_text": "Amit Shah, along with Modi, ruined the nation, according to Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
+            "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
+            "scraped_at": "2026-03-04 08:45:11"
           }
         ]
       },
@@ -1345,6 +1363,12 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/rabri-devi-seeks-more-time-to-vacate-official-residence-cites-lalus-health/article71109099.ece",
             "source_title": "Rabri Devi seeks more time to vacate official residence, cites Lalu’s health - The Hindu",
             "scraped_at": "2026-06-16 13:20:23"
+          },
+          {
+            "incident_text": "Lalu Prasad Yadav helped Nitish Kumar become Chief Minister by outmaneuvering political rivals.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumars-political-journey-from-rebellion-to-longest-serving-cm/article70706250.ece",
+            "source_title": "Nitish Kumar’s political journey: From rebellion to longest-serving CM - The Hindu",
+            "scraped_at": "2026-03-05 03:24:11"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -2329,6 +2353,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
             "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
             "scraped_at": "2026-03-06 08:41:29"
+          },
+          {
+            "incident_text": "A. Revanth Reddy has been accused of destabilizing Telangana's administration through frequent transfers of senior officials.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/frequent-transfers-hitting-governance-in-telangana-harish-rao/article70703410.ece",
+            "source_title": "Frequent transfers hitting governance in Telangana: Harish Rao - The Hindu",
+            "scraped_at": "2026-03-04 08:45:53"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2767,6 +2797,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-inspects-venue-for-pms-public-meeting-in-tiruchi/article70718977.ece",
             "source_title": "Union Minister inspects venue for PM’s public meeting in Tiruchi - The Hindu",
             "scraped_at": "2026-03-08 08:17:38"
+          },
+          {
+            "incident_text": "M.K. Stalin criticized the BJP government for imposing Hindi names on institutions, calling it 'one language – three scripts'.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hindi-words-removed-from-entrance-arch-at-tiruchi-railway-divisional-office-following-political-furore/article70703462.ece",
+            "source_title": "Hindi words removed from entrance arch at Tiruchi Railway Divisional Office following political furore - The Hindu",
+            "scraped_at": "2026-03-04 08:44:13"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2859,6 +2895,12 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumar-files-nomination-papers-for-rajya-sabha-ending-20-years-as-bihar-cm/article70707624.ece",
             "source_title": "Nitish Kumar files nomination papers for Rajya Sabha, ending 20 years as Bihar CM - The Hindu",
             "scraped_at": "2026-03-05 16:12:19"
+          },
+          {
+            "incident_text": "Nitish Kumar is leaving his post as Bihar's chief minister to join the Rajya Sabha.",
+            "source_url": "https://www.thehindu.com/news/national/with-exit-of-its-forever-cm-nitish-kumar-its-an-end-of-an-era-in-bihar/article70706305.ece",
+            "source_title": "With exit of its ‘forever CM’ Nitish Kumar, it’s an end of an Era in Bihar - The Hindu",
+            "scraped_at": "2026-03-05 03:24:48"
           }
         ]
       },
