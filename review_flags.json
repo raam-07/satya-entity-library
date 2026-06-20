@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-06-19 09:03:39.582174",
+  "generated_at": "2026-06-20 06:33:57.780686",
   "summary": {
     "cm_updates_applied": 2,
-    "party_updates_applied": 3,
+    "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 6,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 9
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.58,
+      "mentions": 14,
+      "reason": "Below auto-update threshold",
+      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
+    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -33,6 +42,15 @@
     },
     {
       "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Nitish Kumar",
+      "confidence": 0.42,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "and linking it firmly to the path of development. He asserted that Mr. Kumar undertook the vital task of restoring the dignity and self-respect of the people of Bihar. “Through his ‘Samriddhi Yatra,’ "
+    },
+    {
+      "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
       "confidence": 0.71,
@@ -42,12 +60,12 @@
     },
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.58,
-      "mentions": 14,
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.43,
+      "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
+      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
     },
     {
       "type": "cm_detection",
@@ -60,28 +78,19 @@
     },
     {
       "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.46,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Mahatma Gandhi.  **Modi** also acknowledged the progress made under **Kumar's** leadership and expressed confidence in Bihar's future. Prime Minister Narendra Modi on Sunday (March 22, 2026) wrote to "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
+      "state": "Rajasthan",
+      "candidate": "Mohan Yadav",
       "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "s Vice-Chairman in the presence of film personalities, public representatives and officials. Mr. Bharat Bhushan said he would strive for the development of cinema, arts and theatre in Andhra Pradesh, "
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
     },
     {
       "type": "cm_detection",
       "state": "Madhya Pradesh",
       "candidate": "Mohan Yadav",
-      "confidence": 0.6,
-      "mentions": 3,
+      "confidence": 0.67,
+      "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
     },
@@ -92,6 +101,14 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "West Bengal",
+      "candidate": "BJP",
+      "confidence": 0.86,
+      "reason": "Gemma rejected",
+      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     }
   ]
 }

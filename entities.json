@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-19",
+    "last_updated": "2026-06-20",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 3,
+      "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 6
+      "new_promises": 2,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4113,9 +4113,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-19",
+        "party_last_updated": "2026-06-20",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-19"
+        "cm_last_updated": "2026-06-20"
       },
       {
         "name": "Rajasthan",
@@ -4143,7 +4143,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-19"
+        "party_last_updated": "2026-06-20"
       },
       {
         "name": "Telangana",
@@ -4171,7 +4171,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-19"
+        "cm_last_updated": "2026-06-20"
       },
       {
         "name": "Uttarakhand",
@@ -5873,6 +5873,26 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/students-face-technical-glitches-while-applying-for-free-bus-passes-in-karnataka/article71117328.ece",
       "source_title": "Students face technical glitches while applying for free bus passes in Karnataka - The Hindu",
       "scraped_at": "2026-06-19 00:14:25",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "a ₹2,000 special grant for elderly citizens receiving Old Age Pension and those receiving monthly grants to destitutes",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-credits-special-grant-of-2000-each-to-3779-lakh-old-age-pension-beneficiaries-destitutes-pwd/article70698007.ece",
+      "source_title": "TN credits special grant of ₹2,000 each to 37.79 lakh old age pension beneficiaries, destitutes, PwD - The Hindu",
+      "scraped_at": "2026-03-03 04:24:22",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Hemant Soren",
+      "promise_text": "that his government would provide every assistance to citizens from the State stranded abroad",
+      "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-urges-pm-to-ensure-safe-return-of-stranded-indians-from-gulf-nations/article70696981.ece",
+      "source_title": "Jharkhand CM urges PM to ensure safe return of stranded Indians from Gulf nations - The Hindu",
+      "scraped_at": "2026-03-02 14:31:31",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
