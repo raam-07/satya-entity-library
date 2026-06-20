@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 2,
+      "gaffe_updates": 16
     },
     "rescan_history": {
       "in_progress": false,
@@ -258,6 +258,18 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
             "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
             "scraped_at": "2026-03-04 08:45:11"
+          },
+          {
+            "incident_text": "Narendra Modi stated June 20th marks West Bengal Day due to Syama Prasad Mookerjee's proposal for Bengal's partition.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-to-visit-west-bengal-for-paschim-banga-dibas-international-yoga-day-celebrations/article71123091.ece",
+            "source_title": "PM Modi to visit West Bengal for Paschim Banga Dibas, International Yoga Day celebrations - The Hindu",
+            "scraped_at": "2026-06-19 17:00:50"
+          },
+          {
+            "incident_text": "T. Jagga Reddy stated that Rahul Gandhi's criticisms of the Modi government are now being recognized by the public.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
+            "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
+            "scraped_at": "2026-06-19 17:03:03"
           }
         ]
       },
@@ -345,6 +357,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
             "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
             "scraped_at": "2026-03-04 08:45:11"
+          },
+          {
+            "incident_text": "Amit Shah promised West Bengal government employees the Seventh Pay Commission would be implemented within 45 days if the BJP wins the election.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-promises-seventh-pay-commission-to-west-bengal-government-employees/article70695917.ece",
+            "source_title": "Amit Shah promises Seventh Pay Commission to West Bengal government employees - The Hindu",
+            "scraped_at": "2026-03-02 10:34:22"
           }
         ]
       },
@@ -675,7 +693,14 @@
         "criminal_cases_in_news": 0,
         "criminal_incidents": [],
         "criminal_last_updated": "2026-05-31",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Giriraj Singh wrote on X in March 2026, 'Respectful salutations to Maa Katyayani!'",
+            "source_url": "https://indianexpress.com/article/india/bpsc-exam-question-giriraj-singh-x-post-row-question-setter-barred-bihar-10748279/",
+            "source_title": "Giriraj Singh’s X post becomes Bihar govt recruitment exam question, BPSC takes action amid row | India News - The Indian Express",
+            "scraped_at": "2026-06-19 20:56:38"
+          }
+        ]
       },
       {
         "name": "Hardeep Singh Puri",
@@ -770,6 +795,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
             "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
             "scraped_at": "2026-06-07 18:52:22.571559"
+          },
+          {
+            "incident_text": "G. Kishan Reddy alleged Rahul Gandhi was exploiting Telangana's issues for political gain and to benefit his cronies.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
           }
         ]
       }
@@ -1002,6 +1033,18 @@
             "source_url": "https://www.thehindu.com/news/national/good-news-that-kerala-story-2-is-not-being-widely-watched-says-rahul-gandhi/article70711856.ece",
             "source_title": "‘Good news’ that Kerala Story-2 is not being widely watched, says Rahul Gandhi - The Hindu",
             "scraped_at": "2026-03-06 07:38:00"
+          },
+          {
+            "incident_text": "Rahul Gandhi has 'no right' to visit Telangana without reviewing election promises, according to G. Kishan Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "Rahul Gandhi's words on the failures of the Modi government have come true, according to T. Jagga Reddy.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
+            "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
+            "scraped_at": "2026-06-19 17:03:03"
           }
         ]
       },
@@ -1146,6 +1189,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
             "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
             "scraped_at": "2026-03-06 05:13:38"
+          },
+          {
+            "incident_text": "Priyank Kharge stated he didn't know which law the RSS was violating.",
+            "source_url": "https://indianexpress.com/article/opinion/columns/rss-priyank-kharge-indira-gandhi-ms-golwalkar-nehru-10748177/",
+            "source_title": "Why is RSS not registered? Asking this is either ignorance or politics | The Indian Express",
+            "scraped_at": "2026-06-19 14:19:00"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1610,6 +1659,18 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-shirking-responsibility-of-raising-public-issues-in-assembly-says-ap-cm/article70711940.ece",
             "source_title": "YSRCP shirking responsibility of raising public issues in Assembly, says A.P. CM - The Hindu",
             "scraped_at": "2026-03-06 13:42:46"
+          },
+          {
+            "incident_text": "Chandrababu Naidu is striving to turn Rayalaseema into ‘Ratanala Seema’ (land of prosperity).",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-trying-to-transform-rayalaseema-to-ratanala-seema-says-minister/article70695799.ece",
+            "source_title": "Naidu trying to transform Rayalaseema to Ratanala Seema, says Minister - The Hindu",
+            "scraped_at": "2026-03-02 08:59:03"
+          },
+          {
+            "incident_text": "Chandrababu Naidu was allegedly urged to prevent B. R. Naidu from holding key positions.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/karunakar-reddy-renews-call-for-ttd-chairmans-resignation-cites-new-evidence/article70695814.ece",
+            "source_title": "Karunakar Reddy renews call for TTD chairman’s resignation, cites ‘new evidence’ - The Hindu",
+            "scraped_at": "2026-03-02 10:36:56"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1931,6 +1992,12 @@
             "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
             "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
             "scraped_at": "2026-06-06 03:10:42"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated his relationship with Siddaramaiah is strong and unaffected by the opposition's accusations.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-rubbishes-allegations-of-spying-on-dk-shivakumar-loyalists/article70700262.ece",
+            "source_title": "Siddaramaiah rubbishes allegations of spying on D.K. Shivakumar loyalists - The Hindu",
+            "scraped_at": "2026-03-03 13:55:52"
           }
         ]
       },
@@ -1973,6 +2040,24 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/munambam-is-waqf-property-says-chairperson/article71110466.ece",
             "source_title": "Munambam is Waqf property, says board chairperson - The Hindu",
             "scraped_at": "2026-06-16 18:24:04"
+          },
+          {
+            "incident_text": "V.D. Satheesan's revised budget proposes changes to the State Planning Board, potentially abandoning Nehruvian economic planning principles.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/planning-to-be-abandoned-says-binoy-viswam-on-kerala-budget/article71123294.ece",
+            "source_title": "Kerala Budget: Planning to be abandoned, says Binoy Viswam - The Hindu",
+            "scraped_at": "2026-06-19 19:05:32"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated Kerala cannot withdraw from the PM SHRI agreement without a 30-day notice.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-provision-for-kerala-to-withdraw-from-pm-shri-deal-chief-minister-v-d-satheesan/article71123209.ece",
+            "source_title": "No provision for Kerala to withdraw from PM SHRI deal: Chief Minister V. D. Satheesan - The Hindu",
+            "scraped_at": "2026-06-19 19:05:50"
+          },
+          {
+            "incident_text": "V.D. Satheesan's budget only guarantees stunted development, according to T.M. Thomas Isaac.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-budget-new-budget-has-a-long-wish-list-but-not-enough-money-allocated-to-make-it-a-reality-says-thomas-isaac/article71122889.ece",
+            "source_title": "Kerala Budget: New Budget has a long wish list, but not enough money allocated to make it a reality, says Thomas Isaac - The Hindu",
+            "scraped_at": "2026-06-19 22:10:32"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -2194,6 +2279,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/amid-akal-takht-vs-cm-bhagwant-mann-a-look-at-jathedar-role-in-turbulent-panthic-politics-10743175/",
             "source_title": "Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-17 02:05:54"
+          },
+          {
+            "incident_text": "Bhagwant Mann's party disputes the video's authenticity using independent forensic analysis.",
+            "source_url": "https://www.ndtv.com/india-news/in-bhagwant-mann-video-row-a-battle-of-competing-narratives-11661059#publisher=newsstand",
+            "source_title": "In Bhagwant Mann Video Row, A Battle Of Competing Narratives",
+            "scraped_at": "2026-06-19 17:00:56"
           }
         ],
         "criminal_incidents": [
@@ -2359,6 +2450,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/frequent-transfers-hitting-governance-in-telangana-harish-rao/article70703410.ece",
             "source_title": "Frequent transfers hitting governance in Telangana: Harish Rao - The Hindu",
             "scraped_at": "2026-03-04 08:45:53"
+          },
+          {
+            "incident_text": "Revanth Reddy is accused of exploiting Telangana's issues for political gain.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2546,6 +2643,12 @@
             "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
             "source_title": "Suvendu targets Abhishek, says all his properties will be accounted for - The Hindu",
             "scraped_at": "2026-05-16 20:00:22"
+          },
+          {
+            "incident_text": "Suvendu Adhikari stated his government will introduce a law to auction the properties of accused individuals in similar cases.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-worker-killed-in-howrah-wb-cm-promises-law-to-seize-properties-of-accused/article71123386.ece",
+            "source_title": "BJP worker killed in Howrah; W.B. CM promises law to seize properties of accused - The Hindu",
+            "scraped_at": "2026-06-19 20:55:38"
           }
         ]
       },
@@ -2803,6 +2906,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hindi-words-removed-from-entrance-arch-at-tiruchi-railway-divisional-office-following-political-furore/article70703462.ece",
             "source_title": "Hindi words removed from entrance arch at Tiruchi Railway Divisional Office following political furore - The Hindu",
             "scraped_at": "2026-03-04 08:44:13"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed the ASI ignored Tamil Nadu's excavation proposals for eight months.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-urges-union-govtto-grant-approvalfor-archaeological-excavations-in-state/article70696898.ece",
+            "source_title": "CM urges Union govt.to grant approvalfor archaeological excavations in State - The Hindu",
+            "scraped_at": "2026-03-02 18:02:41"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3131,6 +3240,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-governor-rn-ravi-transferred-to-bengal/article70708396.ece",
             "source_title": "TN Governor R.N. Ravi transferred; Rajendra Vishwanath Arlekar in-charge-of Tamil Nadu - The Hindu",
             "scraped_at": "2026-03-05 13:03:05"
+          },
+          {
+            "incident_text": "Mamata Banerjee's government has not released the DA arrears despite a Supreme Court order.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-promises-seventh-pay-commission-to-west-bengal-government-employees/article70695917.ece",
+            "source_title": "Amit Shah promises Seventh Pay Commission to West Bengal government employees - The Hindu",
+            "scraped_at": "2026-03-02 10:34:22"
           }
         ],
         "criminal_cases_in_news": 17,
@@ -3214,6 +3329,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/state-budget-is-directionless-misleading-says-shettar/article70712858.ece",
             "source_title": "State Budget is directionless, misleading, says Shettar - The Hindu",
             "scraped_at": "2026-03-08 08:17:09"
+          },
+          {
+            "incident_text": "Siddaramaiah called allegations of spying 'desperate statements' of a 'jobless Opposition'.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-rubbishes-allegations-of-spying-on-dk-shivakumar-loyalists/article70700262.ece",
+            "source_title": "Siddaramaiah rubbishes allegations of spying on D.K. Shivakumar loyalists - The Hindu",
+            "scraped_at": "2026-03-03 13:55:52"
           }
         ]
       },
@@ -3270,7 +3391,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-16",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/tributes-pour-in-for-former-union-minister-kp-unnikrishnan/article70700253.ece",
+            "source_title": "Tributes pour in for Former Union Minister K.P. Unnikrishnan - The Hindu",
+            "scraped_at": "2026-03-03 10:42:14"
+          }
+        ]
       },
       {
         "name": "Sheikh Abdullah",
@@ -5893,6 +6021,26 @@
       "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-urges-pm-to-ensure-safe-return-of-stranded-indians-from-gulf-nations/article70696981.ece",
       "source_title": "Jharkhand CM urges PM to ensure safe return of stranded Indians from Gulf nations - The Hindu",
       "scraped_at": "2026-03-02 14:31:31",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "that the KPCC will announce its candidates within 24 hours of the Assembly polls announcement",
+      "source_url": "https://www.thehindu.com/news/national/kerala/congress-inches-closer-to-finalising-candidate-list-for-assembly-polls-in-kerala/article70699326.ece",
+      "source_title": "Congress inches closer to finalising candidate list for Assembly polls in Kerala - The Hindu",
+      "scraped_at": "2026-03-03 07:41:32",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "that Kerala is bound by the agreement with the Union government on the PM SHRI scheme and cannot withdraw from it without a 30-day notice as stipulated in the memorandum of understanding",
+      "source_url": "https://www.thehindu.com/news/national/kerala/no-provision-for-kerala-to-withdraw-from-pm-shri-deal-chief-minister-v-d-satheesan/article71123209.ece",
+      "source_title": "No provision for Kerala to withdraw from PM SHRI deal: Chief Minister V. D. Satheesan - The Hindu",
+      "scraped_at": "2026-06-19 19:05:50",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
