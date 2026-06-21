@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 3,
-      "gaffe_updates": 0
+      "gaffe_updates": 6
     },
     "rescan_history": {
       "in_progress": false,
@@ -270,6 +270,24 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
             "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
             "scraped_at": "2026-06-19 17:03:03"
+          },
+          {
+            "incident_text": "Narendra Modi promised not to shut down Congress government schemes if BJP came to power.",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/gehlot-seeks-restoration-of-congress-regimes-welfare-schemes-in-rajasthan/article70688308.ece",
+            "source_title": "Gehlot seeks restoration of Congress regime’s welfare schemes in Rajasthan - The Hindu",
+            "scraped_at": "2026-02-28 12:19:35"
+          },
+          {
+            "incident_text": "Narendra Modi is corrupt, according to Arvind Kejriwal.",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/modi-is-corrupt-bjp-countdown-has-begun-says-kejriwal/article70691071.ece",
+            "source_title": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu",
+            "scraped_at": "2026-03-01 05:03:03"
+          },
+          {
+            "incident_text": "Narendra Modi accused DMK Ministers of competing to engage in scams.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-ministers-competing-among-themselves-to-indulge-in-scams-modi/article70692264.ece",
+            "source_title": "TN Ministers competing among themselves to indulge in scams: Modi - The Hindu",
+            "scraped_at": "2026-03-01 23:01:49"
           }
         ]
       },
@@ -1045,6 +1063,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
             "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
             "scraped_at": "2026-06-19 17:03:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that taxing disability pensions is 'insulting' to veterans.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-seeks-more-funding-of-echs-tax-exemption-on-disability-pensions/article70687698.ece",
+            "source_title": "Rahul seeks more funding of ECHS, tax exemption on disability pensions - The Hindu",
+            "scraped_at": "2026-02-28 05:55:34"
           }
         ]
       },
@@ -1215,7 +1239,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
@@ -1237,9 +1261,30 @@
             "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
             "scraped_at": "2026-03-10 00:05:49",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti - The Hindu **Mehbooba Mufti**, former J&K chief minister and PDP president, criticized the release of **Arvind Kej",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kejriwals-release-exposed-high-handedness-of-investigative-agencies-mehbooba-mufti/article70685335.ece",
+            "source_title": "Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti - The Hindu",
+            "scraped_at": "2026-02-27 18:00:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kejriwal to address public rally at Jantar Mantar - The Hindu **Arvind Kejriwal**, national convenor of the **Aam Aadmi Party (AAP)**, is scheduled to address a public rally at Jantar Mantar in Delhi ",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-to-address-public-rally-at-jantar-mantar/article70688152.ece",
+            "source_title": "Kejriwal to address public rally at Jantar Mantar - The Hindu",
+            "scraped_at": "2026-02-28 11:57:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu **Arvind Kejriwal**, leader of the **Aam Aadmi Party**, declared at a rally that the downfall of the **Bharatiya Janata Party** ha",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/modi-is-corrupt-bjp-countdown-has-begun-says-kejriwal/article70691071.ece",
+            "source_title": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu",
+            "scraped_at": "2026-03-01 05:03:03",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-17",
+        "criminal_last_updated": "2026-06-21",
         "controversies": [
           {
             "incident_text": "Arvind Kejriwal plans to continue attacking Prime Minister Modi and Home Minister Shah.",
@@ -1671,6 +1716,18 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/karunakar-reddy-renews-call-for-ttd-chairmans-resignation-cites-new-evidence/article70695814.ece",
             "source_title": "Karunakar Reddy renews call for TTD chairman’s resignation, cites ‘new evidence’ - The Hindu",
             "scraped_at": "2026-03-02 10:36:56"
+          },
+          {
+            "incident_text": "N. Chandrababu Naidu should remove B.R. Naidu from office, according to the YSRCP.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-demands-resignation-of-ttd-chairman-br-naidu/article70691328.ece",
+            "source_title": "YSRCP demands resignation of TTD Chairman B.R. Naidu - The Hindu",
+            "scraped_at": "2026-03-01 09:25:07"
+          },
+          {
+            "incident_text": "Chandrababu Naidu is accused of planning to privatize the health scheme and kill Aarogyasri.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/universal-health-scheme-a-sham-alleges-apcc-president-y-s-sharmila/article70691891.ece",
+            "source_title": "Universal Health Scheme a sham, alleges APCC president Y. S. Sharmila - The Hindu",
+            "scraped_at": "2026-03-01 10:02:30"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1848,6 +1905,12 @@
             "source_url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-confident-of-congress-win-in-rajya-sabha-polls-in-haryana/article70746072.ece",
             "source_title": "Bhupinder Hooda confident of Congress win in Rajya Sabha polls in Haryana - The Hindu",
             "scraped_at": "2026-03-15 10:38:20.934261"
+          },
+          {
+            "incident_text": "Nayab Singh Saini alleged the Congress party shortened 'Vande Mataram' in 1937 under Muslim League pressure.",
+            "source_url": "https://www.thehindu.com/news/national/haryana/congress-chose-appeasement-over-nation-by-truncating-vande-mataram-says-haryana-cm-saini/article70684722.ece",
+            "source_title": "Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini - The Hindu",
+            "scraped_at": "2026-02-27 20:42:17"
           }
         ]
       },
@@ -2912,6 +2975,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-urges-union-govtto-grant-approvalfor-archaeological-excavations-in-state/article70696898.ece",
             "source_title": "CM urges Union govt.to grant approvalfor archaeological excavations in State - The Hindu",
             "scraped_at": "2026-03-02 18:02:41"
+          },
+          {
+            "incident_text": "M.K. Stalin stated he acted as Chief Minister to safeguard Thirupparankundram temple traditions.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/idecidedto-safeguard-the-traditions-of-thirupparankundram-temple-says-stalin/article70691252.ece",
+            "source_title": "I decided to safeguard the traditions of Thirupparankundram temple, says Stalin - The Hindu",
+            "scraped_at": "2026-03-01 09:25:32"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3010,6 +3079,12 @@
             "source_url": "https://www.thehindu.com/news/national/with-exit-of-its-forever-cm-nitish-kumar-its-an-end-of-an-era-in-bihar/article70706305.ece",
             "source_title": "With exit of its ‘forever CM’ Nitish Kumar, it’s an end of an Era in Bihar - The Hindu",
             "scraped_at": "2026-03-05 03:24:48"
+          },
+          {
+            "incident_text": "Nitish Kumar stated that the ban on alcohol received tremendous support from the people, particularly women and children.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/why-politicians-in-bihar-are-not-saying-cheers-to-prohibition/article70691265.ece",
+            "source_title": "Why politicians in Bihar are not saying ‘cheers’ to prohibition - The Hindu",
+            "scraped_at": "2026-03-01 06:17:39"
           }
         ]
       },
@@ -6072,6 +6147,36 @@
       "source_title": "CM Siddaramaiah condemns U.S. attack on Iran - The Hindu",
       "scraped_at": "2026-03-01 05:03:23",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "a series of significant decisions aimed at enhancing pilgrim services",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-to-prioritise-education-security-and-pilgrim-amenities/article70688899.ece",
+      "source_title": "TTD to prioritise education, security and pilgrim amenities - The Hindu",
+      "scraped_at": "2026-02-28 11:05:59",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "a site for the teachers' association building and pledged government funds for rural schools' infrastructure development",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/old-pension-scheme-issue-will-be-placed-before-the-cabinet-says-siddaramaiah/article70688731.ece",
+      "source_title": "Old Pension Scheme issue will be placed before the Cabinet, says Siddaramaiah - The Hindu",
+      "scraped_at": "2026-02-28 12:20:37",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that for the construction of the teachers’ association building",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/old-pension-scheme-issue-will-be-placed-before-the-cabinet-says-siddaramaiah/article70688731.ece",
+      "source_title": "Old Pension Scheme issue will be placed before the Cabinet, says Siddaramaiah - The Hindu",
+      "scraped_at": "2026-02-28 12:20:37",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
