@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 3,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -6041,6 +6041,36 @@
       "source_url": "https://www.thehindu.com/news/national/kerala/no-provision-for-kerala-to-withdraw-from-pm-shri-deal-chief-minister-v-d-satheesan/article71123209.ece",
       "source_title": "No provision for Kerala to withdraw from PM SHRI deal: Chief Minister V. D. Satheesan - The Hindu",
       "scraped_at": "2026-06-19 19:05:50",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "families back home that the state government is prioritizing their safety and has instructed the Resident Commissioner in Delhi to make necessary arrangements",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/jds-mlc-bhoje-gowda-gets-stuck-at-dubai-airport/article70689274.ece",
+      "source_title": "Helpline to be set up for people of Karnataka stuck in West Asian countries: CM - The Hindu",
+      "scraped_at": "2026-02-28 13:57:23",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "that, in his view, the U",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/cm-siddaramaiah-condemns-us-attack-on-iran/article70691026.ece",
+      "source_title": "CM Siddaramaiah condemns U.S. attack on Iran - The Hindu",
+      "scraped_at": "2026-03-01 05:03:23",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "that he had instructed the Chief Secretary and the Resident Commissioner in Delhi to take appropriate measures to bring all Kannadigas back home safely",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/cm-siddaramaiah-condemns-us-attack-on-iran/article70691026.ece",
+      "source_title": "CM Siddaramaiah condemns U.S. attack on Iran - The Hindu",
+      "scraped_at": "2026-03-01 05:03:23",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
