@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 3,
-      "gaffe_updates": 6
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -288,6 +288,30 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-ministers-competing-among-themselves-to-indulge-in-scams-modi/article70692264.ece",
             "source_title": "TN Ministers competing among themselves to indulge in scams: Modi - The Hindu",
             "scraped_at": "2026-03-01 23:01:49"
+          },
+          {
+            "incident_text": "Narendra Modi stated the Union government aims to resolve the Church dispute through consensus outside of court.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/patriarch-of-antioch-ignatius-aphrem-ii-meets-prime-minister-narendra-modi/article70684977.ece",
+            "source_title": "Patriarch of Antioch Ignatius Aphrem II meets Prime Minister Narendra Modi - The Hindu",
+            "scraped_at": "2026-02-27 11:41:38"
+          },
+          {
+            "incident_text": "Narendra Modi's visit to Israel aligns India's foreign policy with the US at the expense of its own interests.",
+            "source_url": "https://www.thehindu.com/news/national/cpim-is-fighting-both-tmc-and-bjp-in-west-bengal-ma-baby/article70685066.ece",
+            "source_title": "CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby - The Hindu",
+            "scraped_at": "2026-02-27 12:35:36"
+          },
+          {
+            "incident_text": "Narendra Modi claimed the TMC looted Bengal and those responsible are being held accountable.",
+            "source_url": "https://indianexpress.com/article/political-pulse/pm-narendra-modi-west-bengal-visit-paschimbanga-divas-tarakeswar-projects-suvendu-adhikari-10749481/",
+            "source_title": "‘Bengal freed from shackles, looters being sent to jail’, says PM, calls for ‘new future’ | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-20 20:21:45"
+          },
+          {
+            "incident_text": "Narendra Modi conveyed the message that civilian sailors should not be targets in wartime.",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-tharoor-for-showing-admiration-for-modi-mp-says-statement-given-partisan-twist/article71127126.ece",
+            "source_title": "Congress slams Tharoor for showing ‘admiration’ for Modi; MP says statement given ‘partisan twist’ - The Hindu",
+            "scraped_at": "2026-06-20 21:50:12"
           }
         ]
       },
@@ -1239,7 +1263,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "criminal_incidents": [
           {
             "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
@@ -1281,6 +1305,13 @@
             "source_url": "https://www.thehindu.com/news/cities/Delhi/modi-is-corrupt-bjp-countdown-has-begun-says-kejriwal/article70691071.ece",
             "source_title": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu",
             "scraped_at": "2026-03-01 05:03:03",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu **Pinarayi Vijayan**, Chief Minister of Kerala, praised the Delhi court's decision to acquit former **De",
+            "source_url": "https://www.thehindu.com/news/national/kerala/arvind-kejriwals-court-discharge-a-blow-to-union-government-kerala-chief-minister/article70685502.ece",
+            "source_title": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu",
+            "scraped_at": "2026-02-27 12:36:34",
             "incident_type": "broad"
           }
         ],
@@ -1463,6 +1494,12 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumars-political-journey-from-rebellion-to-longest-serving-cm/article70706250.ece",
             "source_title": "Nitish Kumar’s political journey: From rebellion to longest-serving CM - The Hindu",
             "scraped_at": "2026-03-05 03:24:11"
+          },
+          {
+            "incident_text": "Lalu Prasad Yadav is unwell, and his son claims a conspiracy to kill him and his father.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/conspiracy-being-hatched-to-kill-me-my-father-tej-pratap/article71126337.ece",
+            "source_title": "Conspiracy being hatched to kill me, my father: Tej Pratap - The Hindu",
+            "scraped_at": "2026-06-20 23:14:35"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -3321,6 +3358,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-promises-seventh-pay-commission-to-west-bengal-government-employees/article70695917.ece",
             "source_title": "Amit Shah promises Seventh Pay Commission to West Bengal government employees - The Hindu",
             "scraped_at": "2026-03-02 10:34:22"
+          },
+          {
+            "incident_text": "Mamata Banerjee claimed the CPI(M)'s support for Kerala's name change signaled an alliance with the BJP.",
+            "source_url": "https://www.thehindu.com/news/national/cpim-is-fighting-both-tmc-and-bjp-in-west-bengal-ma-baby/article70685066.ece",
+            "source_title": "CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby - The Hindu",
+            "scraped_at": "2026-02-27 12:35:36"
           }
         ],
         "criminal_cases_in_news": 17,
@@ -3472,6 +3515,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/tributes-pour-in-for-former-union-minister-kp-unnikrishnan/article70700253.ece",
             "source_title": "Tributes pour in for Former Union Minister K.P. Unnikrishnan - The Hindu",
             "scraped_at": "2026-03-03 10:42:14"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claimed the CBI implicated Kejriwal without evidence.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/arvind-kejriwals-court-discharge-a-blow-to-union-government-kerala-chief-minister/article70685502.ece",
+            "source_title": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu",
+            "scraped_at": "2026-02-27 12:36:34"
           }
         ]
       },
@@ -4317,7 +4366,7 @@
         "region": "North",
         "party_confidence": 1.0,
         "party_last_updated": "2026-06-21",
-        "cm_confidence": 0.75,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-21"
       },
       {
@@ -6176,6 +6225,36 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/old-pension-scheme-issue-will-be-placed-before-the-cabinet-says-siddaramaiah/article70688731.ece",
       "source_title": "Old Pension Scheme issue will be placed before the Cabinet, says Siddaramaiah - The Hindu",
       "scraped_at": "2026-02-28 12:20:37",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "that the Union government wished to resolve the Church dispute out of court through consensus",
+      "source_url": "https://www.thehindu.com/news/national/kerala/patriarch-of-antioch-ignatius-aphrem-ii-meets-prime-minister-narendra-modi/article70684977.ece",
+      "source_title": "Patriarch of Antioch Ignatius Aphrem II meets Prime Minister Narendra Modi - The Hindu",
+      "scraped_at": "2026-02-27 11:41:38",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "he would not denotify land acquired for the Bidadi Integrated Township Project",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/i-cant-denotify-not-ready-to-go-to-jail-karnataka-chief-minister-dk-shivakumar-on-bidadi-township-project/article71125566.ece",
+      "source_title": "‘I can’t denotify, not ready to go to jail’: Karnataka Chief Minister D.K. Shivakumar on Bidadi township project - The Hindu",
+      "scraped_at": "2026-06-20 21:50:32",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "a five-pronged strategy for agriculture",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-unveils-ambitious-agriculture-and-housing-roadmap-for-ap/article70684053.ece",
+      "source_title": "Naidu unveils ambitious agriculture and housing roadmap for A.P. - The Hindu",
+      "scraped_at": "2026-02-27 09:42:49",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
