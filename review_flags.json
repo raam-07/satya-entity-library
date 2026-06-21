@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20 10:26:15.534179",
+  "generated_at": "2026-06-21 07:17:49.256890",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 16,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 11
@@ -15,37 +15,10 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
-      "confidence": 0.43,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Madhya Pradesh",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.67,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Rajasthan",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
-    },
-    {
-      "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.58,
-      "mentions": 14,
+      "confidence": 0.57,
+      "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
     },
@@ -84,6 +57,33 @@
       "mentions": 15,
       "reason": "Below auto-update threshold",
       "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.43,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Madhya Pradesh",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Rajasthan",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
     },
     {
       "type": "cm_detection",
