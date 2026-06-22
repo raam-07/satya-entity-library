@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "criminal_updates": 3,
+      "new_promises": 2,
+      "gaffe_updates": 8
     },
     "rescan_history": {
       "in_progress": false,
@@ -312,6 +312,18 @@
             "source_url": "https://www.thehindu.com/news/national/congress-slams-tharoor-for-showing-admiration-for-modi-mp-says-statement-given-partisan-twist/article71127126.ece",
             "source_title": "Congress slams Tharoor for showing ‘admiration’ for Modi; MP says statement given ‘partisan twist’ - The Hindu",
             "scraped_at": "2026-06-20 21:50:12"
+          },
+          {
+            "incident_text": "Narendra Modi has quietly slipped off to Israel, dancing and singing at Epstein's behest.",
+            "source_url": "https://www.thehindu.com/news/national/congress-links-modis-israeloutreachto-epstein-files-claims/article70676542.ece",
+            "source_title": "Congress links Modi’s Israel outreach to ‘Epstein Files’ claims - The Hindu",
+            "scraped_at": "2026-02-25 14:34:54"
+          },
+          {
+            "incident_text": "Narendra Modi, according to Congress, orchestrated the rewriting of textbooks through a network of 'academic-quacks'.",
+            "source_url": "https://www.thehindu.com/news/national/nagpur-communal-ecosystem-for-rewriting-of-textbooks-is-real-ncert-congress-dig-at-govt/article70682702.ece",
+            "source_title": "'Nagpur Communal Ecosystem for Rewriting of Textbooks' is real NCERT: Congress' dig at govt - The Hindu",
+            "scraped_at": "2026-02-27 00:09:29"
           }
         ]
       },
@@ -692,6 +704,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-questions-transparency-in-indian-railways-ticket-pricing-policies/article70732038.ece",
             "source_title": "Owaisi questions transparency in Indian Railways ticket-pricing policies - The Hindu",
             "scraped_at": "2026-03-11 14:33:50"
+          },
+          {
+            "incident_text": "Ashwini Vaishnaw stated that online platforms must rethink their revenue sharing policies.",
+            "source_url": "https://www.thehindu.com/news/national/iampb-minister-asks-online-platforms-to-take-responsibility-for-content-share-revenue-fairly/article70679632.ece",
+            "source_title": "I&B Minister asks online platforms to take responsibility for content, share revenue fairly - The Hindu",
+            "scraped_at": "2026-02-26 08:26:01"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1093,6 +1111,18 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-seeks-more-funding-of-echs-tax-exemption-on-disability-pensions/article70687698.ece",
             "source_title": "Rahul seeks more funding of ECHS, tax exemption on disability pensions - The Hindu",
             "scraped_at": "2026-02-28 05:55:34"
+          },
+          {
+            "incident_text": "Rahul Gandhi alleged that Modi had previously visited Israel at Jeffrey Epstein's behest.",
+            "source_url": "https://www.thehindu.com/news/national/congress-links-modis-israeloutreachto-epstein-files-claims/article70676542.ece",
+            "source_title": "Congress links Modi’s Israel outreach to ‘Epstein Files’ claims - The Hindu",
+            "scraped_at": "2026-02-25 14:34:54"
+          },
+          {
+            "incident_text": "Rahul Gandhi accused Prime Minister Modi of prioritizing political and financial interests over farmers' well-being by potentially opening the agriculture sector to the United States.",
+            "source_url": "https://www.thehindu.com/news/national/prime-minister-modi-sacrificing-farmers-over-us-trade-deal-rahul-gandhi/article70679358.ece",
+            "source_title": "PM sacrificing farmers over U.S. trade deal: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-26 06:34:58"
           }
         ]
       },
@@ -1243,6 +1273,12 @@
             "source_url": "https://indianexpress.com/article/opinion/columns/rss-priyank-kharge-indira-gandhi-ms-golwalkar-nehru-10748177/",
             "source_title": "Why is RSS not registered? Asking this is either ignorance or politics | The Indian Express",
             "scraped_at": "2026-06-19 14:19:00"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge called Congress workers chanting 'DK, DK' 'useless fellows'.",
+            "source_url": "https://indianexpress.com/article/cities/bangalore/mallikarjun-kharge-congress-discipline-dk-shivakumar-slogans-karnataka-event-10750565/",
+            "source_title": "‘Useless fellows’: Mallikarjun Kharge scolds Congress workers chanting ‘DK, DK’ | Bangalore News - The Indian Express",
+            "scraped_at": "2026-06-21 22:19:26"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1263,7 +1299,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
         "image_placeholder": "arvind_kejriwal",
-        "criminal_cases_in_news": 7,
+        "criminal_cases_in_news": 9,
         "criminal_incidents": [
           {
             "incident_text": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes **The Aam Aadmi Party (AAP)** and its leader **Arvind Kejriwal** faced embarrassment after allegations of threats",
@@ -1313,9 +1349,23 @@
             "source_title": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu",
             "scraped_at": "2026-02-27 12:36:34",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Arvind Kejriwal: Indian court closes corruption case against former Delhi chief minister An Indian court cleared former Delhi chief minister Arvind Kejriwal and 23 others of corruption charges related",
+            "source_url": "https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Arvind Kejriwal: Indian court closes corruption case against former Delhi chief minister",
+            "scraped_at": "2026-02-27 07:39:06",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "KTR alleges ‘liquor scam’ narrative toppled AAP govt. and hurt BRS in Telangana - The Hindu **K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, expressed satisfaction with th",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-alleges-liquor-scam-narrative-toppled-aap-govt-and-hurt-brs-in-telangana/article70684130.ece",
+            "source_title": "KTR alleges ‘liquor scam’ narrative toppled AAP govt. and hurt BRS in Telangana - The Hindu",
+            "scraped_at": "2026-02-27 08:43:42",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-21",
+        "criminal_last_updated": "2026-06-22",
         "controversies": [
           {
             "incident_text": "Arvind Kejriwal plans to continue attacking Prime Minister Modi and Home Minister Shah.",
@@ -1408,6 +1458,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-questions-transparency-in-indian-railways-ticket-pricing-policies/article70732038.ece",
             "source_title": "Owaisi questions transparency in Indian Railways ticket-pricing policies - The Hindu",
             "scraped_at": "2026-03-11 14:33:50"
+          },
+          {
+            "incident_text": "Asaduddin Owaisi expressed concern about potential restrictions on religious practices at certain sites.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/deadlines-disputes-doubts-dog-umeed-forwaqfproperties/article70681344.ece",
+            "source_title": "Deadlines, disputes, doubts dog UMEED for waqf properties - The Hindu",
+            "scraped_at": "2026-02-27 00:10:53"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2158,6 +2214,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-budget-new-budget-has-a-long-wish-list-but-not-enough-money-allocated-to-make-it-a-reality-says-thomas-isaac/article71122889.ece",
             "source_title": "Kerala Budget: New Budget has a long wish list, but not enough money allocated to make it a reality, says Thomas Isaac - The Hindu",
             "scraped_at": "2026-06-19 22:10:32"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated that claims of an attack on Health Minister Veena George are 'nothing more than drama'.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/claims-of-ksu-attack-on-health-minister-veena-george-baseless-and-drama-says-kerala-opposition-leader/article70678670.ece",
+            "source_title": "Claims of KSU attack on Health Minister Veena George ‘drama’, says Kerala Opposition Leader - The Hindu",
+            "scraped_at": "2026-02-26 02:38:53"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -2247,6 +2309,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/15-crore-will-be-paid-to-mps-tonight-says-shiv-sena-ubt-leader/article71110702.ece",
             "source_title": "₹15 crore will be paid to MPs tonight, says Shiv Sena (UBT) leader - The Hindu",
             "scraped_at": "2026-06-16 21:33:16"
+          },
+          {
+            "incident_text": "Devendra Fadnavis claimed the opposition used ChatGPT to write a letter criticizing the government.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-accuses-of-mva-of-sending-ai-generated-letter-to-boycott-tea-party/article71130032.ece",
+            "source_title": "Maharashtra CM accuses of MVA of sending AI-generated letter to boycott tea party - The Hindu",
+            "scraped_at": "2026-06-21 20:56:34"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -3018,6 +3086,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/idecidedto-safeguard-the-traditions-of-thirupparankundram-temple-says-stalin/article70691252.ece",
             "source_title": "I decided to safeguard the traditions of Thirupparankundram temple, says Stalin - The Hindu",
             "scraped_at": "2026-03-01 09:25:32"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed inducting leaders like O. Panneerselvam strengthened the DMK.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-reacts-sharply-against-dmk-for-inducting-o-panneerselvam/article70683743.ece",
+            "source_title": "Tamil Nadu BJP reacts sharply against DMK for inducting O. Panneerselvam - The Hindu",
+            "scraped_at": "2026-02-27 08:44:56"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3260,6 +3334,13 @@
             "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
             "scraped_at": "2026-05-31 17:07:04",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "1.2 crore names may be deleted after SIR in Bengal, says Mamata - The Hindu **Mamata Banerjee**, West Bengal Chief Minister, expressed concern over the potential deletion of voter names during the Spe",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/12-crore-names-may-be-deleted-after-sir-in-bengal-says-mamata/article70676300.ece",
+            "source_title": "1.2 crore names may be deleted after SIR in Bengal, says Mamata - The Hindu",
+            "scraped_at": "2026-02-25 12:11:45",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3366,9 +3447,9 @@
             "scraped_at": "2026-02-27 12:35:36"
           }
         ],
-        "criminal_cases_in_news": 17,
+        "criminal_cases_in_news": 18,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-16"
+        "criminal_last_updated": "2026-06-22"
       },
       {
         "name": "Siddaramaiah",
@@ -3470,7 +3551,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -3506,9 +3587,16 @@
             "source_title": "You can hug Modi, but not Pinarayi? CPI(M) general secretary M.A. Baby asks Rahul Gandhi - The Hindu",
             "scraped_at": "2026-06-13 16:05:32",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Ramesh Chennithala seeks Kerala CM’s resignation alleging data leak of 1 crore citizens - The Hindu **Ramesh Chennithala**, a senior Congress leader, demanded the resignation of **Kerala Chief Ministe",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ramesh-chennithala-seeks-kerala-cms-resignation-alleging-data-leak-of-1-crore-citizens/article70682766.ece",
+            "source_title": "Ramesh Chennithala seeks Kerala CM’s resignation alleging data leak of 1 crore citizens - The Hindu",
+            "scraped_at": "2026-02-27 01:34:02",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-22",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
@@ -6295,6 +6383,26 @@
       "source_url": "https://www.dawn.com/news/1975906/india-israel-to-push-free-trade-pact-boost-defence-cooperation-modi",
       "source_title": "India, Israel to push free trade pact, boost defence cooperation: Modi",
       "scraped_at": "2026-02-26 08:22:19",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that his government was considering short-term and long-term measures for loan waivers",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-accuses-of-mva-of-sending-ai-generated-letter-to-boycott-tea-party/article71130032.ece",
+      "source_title": "Maharashtra CM accuses of MVA of sending AI-generated letter to boycott tea party - The Hindu",
+      "scraped_at": "2026-06-21 20:56:34",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to improve water access for farmers in the State",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-taking-steps-to-increase-farmers-income-cm/article70676589.ece",
+      "source_title": "A.P. taking steps to increase farmers’ income: CM - The Hindu",
+      "scraped_at": "2026-02-25 14:35:15",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

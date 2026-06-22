@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-22 08:08:16.986851",
+  "generated_at": "2026-06-22 11:27:33.500373",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "criminal_updates_applied": 3,
+    "gaffe_updates_applied": 8,
+    "promises_extracted": 2,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 11
+    "items_needing_review": 12
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -35,10 +35,19 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.7,
-      "mentions": 7,
+      "confidence": 0.62,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Punjab",
+      "candidate": "Bhagwant Mann",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "port of around ₹42,000 per acre,” he said at a press conference. “India is importing urea at nearly ₹100 per kg, while farmers are getting it at just ₹6 per kg.“ Mann attacks Centre Meanwhile, Punjab "
     },
     {
       "type": "cm_detection",
@@ -53,7 +62,7 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.7,
+      "confidence": 0.64,
       "mentions": 14,
       "reason": "Below auto-update threshold",
       "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
@@ -71,8 +80,8 @@
       "type": "cm_detection",
       "state": "Madhya Pradesh",
       "candidate": "Mohan Yadav",
-      "confidence": 0.67,
-      "mentions": 4,
+      "confidence": 0.71,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
     },
