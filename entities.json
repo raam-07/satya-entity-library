@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-21",
+    "last_updated": "2026-06-22",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 3,
-      "gaffe_updates": 4
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4365,9 +4365,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-21",
+        "party_last_updated": "2026-06-22",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-21"
+        "cm_last_updated": "2026-06-22"
       },
       {
         "name": "Rajasthan",
@@ -4395,7 +4395,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-21"
+        "party_last_updated": "2026-06-22"
       },
       {
         "name": "Telangana",
@@ -4423,7 +4423,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-21"
+        "cm_last_updated": "2026-06-22"
       },
       {
         "name": "Uttarakhand",
@@ -6255,6 +6255,36 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-unveils-ambitious-agriculture-and-housing-roadmap-for-ap/article70684053.ece",
       "source_title": "Naidu unveils ambitious agriculture and housing roadmap for A.P. - The Hindu",
       "scraped_at": "2026-02-27 09:42:49",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Yogi Adityanath",
+      "promise_text": "plans for a Japan Industrial City near Noida International Airport and a new industrial city in Bundelkhand region",
+      "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/cm-adityanath-invited-japanese-entrepreneurs-to-invest-in-uttar-pradesh/article70676079.ece",
+      "source_title": "CM Adityanath invited Japanese entrepreneurs to invest in Uttar Pradesh - The Hindu",
+      "scraped_at": "2026-02-25 21:00:40",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Siddaramaiah",
+      "promise_text": "that the sector has the potential to create 20 lakh jobs in five years and is driving innovation across various fields like education",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/citing-potential-of-20-lakh-jobs-in-5-years-karnataka-cm-urges-making-avgc-xr-skills-part-of-mainstream-education-at-gafx-conference-in-bengaluru/article70683049.ece",
+      "source_title": "Bengaluru is a city where creativity finds capital, says Chief Minister Siddaramaiah at GAFX 2026 - The Hindu",
+      "scraped_at": "2026-02-27 02:24:12",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that an inquiry is underway to determine the cause of the leak",
+      "source_url": "https://www.ndtv.com/india-news/2-killed-several-critical-due-to-gas-leak-at-tamil-nadu-seafood-export-unit-11666893#publisher=newsstand",
+      "source_title": "2 Killed, 46 Hospitalised Due To Gas Leak At Tamil Nadu Seafood Export Unit",
+      "scraped_at": "2026-06-21 13:12:03",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
