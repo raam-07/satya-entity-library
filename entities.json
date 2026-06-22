@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 3,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -6286,6 +6286,16 @@
       "source_title": "2 Killed, 46 Hospitalised Due To Gas Leak At Tamil Nadu Seafood Export Unit",
       "scraped_at": "2026-06-21 13:12:03",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "during his visit to Israel that the two countries agreed there is \"no place for terrorism in the world\" and would oppose it together",
+      "source_url": "https://www.dawn.com/news/1975906/india-israel-to-push-free-trade-pact-boost-defence-cooperation-modi",
+      "source_title": "India, Israel to push free trade pact, boost defence cooperation: Modi",
+      "scraped_at": "2026-02-26 08:22:19",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
