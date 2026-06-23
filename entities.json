@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 7
     },
     "rescan_history": {
       "in_progress": false,
@@ -324,6 +324,18 @@
             "source_url": "https://www.thehindu.com/news/national/nagpur-communal-ecosystem-for-rewriting-of-textbooks-is-real-ncert-congress-dig-at-govt/article70682702.ece",
             "source_title": "'Nagpur Communal Ecosystem for Rewriting of Textbooks' is real NCERT: Congress' dig at govt - The Hindu",
             "scraped_at": "2026-02-27 00:09:29"
+          },
+          {
+            "incident_text": "Narendra Modi expressed regret for not speaking Tamil.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cares-about-what-modi-shah-delivered-not-their-fake-emotions-says-udhayanidhi-stalin/article70667983.ece",
+            "source_title": "T.N. cares about what Modi, Shah delivered, not their ‘fake emotions’, says Udhayanidhi Stalin - The Hindu",
+            "scraped_at": "2026-02-23 14:33:13"
+          },
+          {
+            "incident_text": "Narendra Modi signed the India-U.S. trade deal under pressure from Donald Trump and Adani, harming Indian farmers.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-farmers-rally-bhopal-madhya-pradesh-india-usa-trade-deal/article70671041.ece",
+            "source_title": "Rahul Gandhi slams India-US trade deal: PM Modi should scrap ‘anti-farmer’ trade deal - The Hindu",
+            "scraped_at": "2026-02-24 07:51:21"
           }
         ]
       },
@@ -1123,6 +1135,18 @@
             "source_url": "https://www.thehindu.com/news/national/prime-minister-modi-sacrificing-farmers-over-us-trade-deal-rahul-gandhi/article70679358.ece",
             "source_title": "PM sacrificing farmers over U.S. trade deal: Rahul Gandhi - The Hindu",
             "scraped_at": "2026-02-26 06:34:58"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly undertakes foreign trips without informing Indian security agencies and has ties to anti-India elements.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-on-compromised-mission-has-links-with-pro-pak-elements-nitin-nabin/article70674540.ece",
+            "source_title": "Rahul on ‘compromised mission’, has links with ‘pro-Pak elements’: Nitin Nabin - The Hindu",
+            "scraped_at": "2026-02-25 02:06:43"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed the Nehru-Gandhi family prioritizes politics over national interest.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
+            "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
+            "scraped_at": "2026-02-25 08:21:47"
           }
         ]
       },
@@ -1279,6 +1303,12 @@
             "source_url": "https://indianexpress.com/article/cities/bangalore/mallikarjun-kharge-congress-discipline-dk-shivakumar-slogans-karnataka-event-10750565/",
             "source_title": "‘Useless fellows’: Mallikarjun Kharge scolds Congress workers chanting ‘DK, DK’ | Bangalore News - The Indian Express",
             "scraped_at": "2026-06-21 22:19:26"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge called chanting party workers 'useless fellows'",
+            "source_url": "https://www.ndtv.com/india-news/mallikarjun-kharge-warns-of-disciplinary-action-after-workers-chant-slogans-for-dk-shivakumar-11668989#publisher=newsstand",
+            "source_title": "Mallikarjun Kharge Warns Of Disciplinary Action After Workers Chant Slogans For DK Shivakumar",
+            "scraped_at": "2026-06-22 04:52:44"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1821,6 +1851,18 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/universal-health-scheme-a-sham-alleges-apcc-president-y-s-sharmila/article70691891.ece",
             "source_title": "Universal Health Scheme a sham, alleges APCC president Y. S. Sharmila - The Hindu",
             "scraped_at": "2026-03-01 10:02:30"
+          },
+          {
+            "incident_text": "Chandrababu Naidu labeled Bhumana Karunakar Reddy as Christian during an Assembly debate.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bhumana-fumes-at-naidu-over-christian-tag-calls-it-unacceptable/article70671951.ece",
+            "source_title": "Bhumana fumes at Naidu over Christian tag, calls it unacceptable - The Hindu",
+            "scraped_at": "2026-02-24 15:23:02"
+          },
+          {
+            "incident_text": "Chandrababu Naidu claimed the YSRCP regime destroyed Andhra Pradesh.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-slams-ysrcp-assures-state-reconstruction-with-nda-alliance/article70676434.ece",
+            "source_title": "Naidu slams YSRCP, assures State reconstruction with NDA alliance - The Hindu",
+            "scraped_at": "2026-02-25 10:44:07"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2245,6 +2287,12 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
             "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
             "scraped_at": "2026-06-10 21:37:18.591976"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed the Nehru-Gandhi family prioritizes politics over national interest.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
+            "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
+            "scraped_at": "2026-02-25 08:21:47"
           }
         ],
         "criminal_cases_in_news": 0
@@ -3534,6 +3582,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-rubbishes-allegations-of-spying-on-dk-shivakumar-loyalists/article70700262.ece",
             "source_title": "Siddaramaiah rubbishes allegations of spying on D.K. Shivakumar loyalists - The Hindu",
             "scraped_at": "2026-03-03 13:55:52"
+          },
+          {
+            "incident_text": "Siddaramaiah is reportedly pushing for a Cabinet reshuffle to signal his authority.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/first-time-mlas-letter-to-congress-high-command-seeking-cabinet-berths-surfaces/article70667627.ece",
+            "source_title": "First-time MLAs’ letter to Congress high command seeking Cabinet berths surfaces - The Hindu",
+            "scraped_at": "2026-02-23 14:32:42"
           }
         ]
       },
@@ -3609,6 +3663,18 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/arvind-kejriwals-court-discharge-a-blow-to-union-government-kerala-chief-minister/article70685502.ece",
             "source_title": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu",
             "scraped_at": "2026-02-27 12:36:34"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan's government is a brand in election-time PR campaigns.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/pinarayi-govt-in-kerala-itself-a-brand-in-pr-exercise-slams-ernakulam-angamaly-archdiocese-mouthpiece/article70674647.ece",
+            "source_title": "Pinarayi govt in Kerala ‘itself a brand in PR exercise’, slams Ernakulam-Angamaly Archdiocese mouthpiece - The Hindu",
+            "scraped_at": "2026-02-25 03:30:30"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan was aware of bribery allegations against I. Shihabuddeen.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/yc-urges-kerala-governor-not-to-approve-state-govt-nominee-as-psc-member/article70676313.ece",
+            "source_title": "YC urges Kerala Governor not to approve State govt. nominee as PSC member - The Hindu",
+            "scraped_at": "2026-02-25 10:44:18"
           }
         ]
       },
@@ -6413,6 +6479,16 @@
       "source_url": "https://www.thehindu.com/news/national/haryana/all-money-lost-in-idfc-first-bank-fraud-recovered-harayana-cm-saini/article70670612.ece",
       "source_title": "Haryana CM says all money lost in IDFC First Bank fraud recovered - The Hindu",
       "scraped_at": "2026-02-24 04:30:18",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that state honors will be accorded during the funeral of veteran Communist Party of India leader R",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/state-honours-to-be-accorded-for-nallakannus-funeral-says-cm-stalin/article70675169.ece",
+      "source_title": "State honours to be accorded for Nallakannu’s funeral, says CM Stalin - The Hindu",
+      "scraped_at": "2026-02-25 08:22:36",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
