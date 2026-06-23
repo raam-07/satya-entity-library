@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-22",
+    "last_updated": "2026-06-23",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 3,
-      "new_promises": 2,
-      "gaffe_updates": 8
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4453,7 +4453,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-22",
+        "party_last_updated": "2026-06-23",
         "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-22"
       },
@@ -4483,7 +4483,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-22"
+        "party_last_updated": "2026-06-23"
       },
       {
         "name": "Telangana",
@@ -4511,7 +4511,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-22"
+        "cm_last_updated": "2026-06-23"
       },
       {
         "name": "Uttarakhand",
@@ -6403,6 +6403,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-taking-steps-to-increase-farmers-income-cm/article70676589.ece",
       "source_title": "A.P. taking steps to increase farmers’ income: CM - The Hindu",
       "scraped_at": "2026-02-25 14:35:15",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nayab Singh Saini",
+      "promise_text": "that the entire amount was returned within 24 hours and attributed the incident to collusion between employees of a particular branch in Chandigarh",
+      "source_url": "https://www.thehindu.com/news/national/haryana/all-money-lost-in-idfc-first-bank-fraud-recovered-harayana-cm-saini/article70670612.ece",
+      "source_title": "Haryana CM says all money lost in IDFC First Bank fraud recovered - The Hindu",
+      "scraped_at": "2026-02-24 04:30:18",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
