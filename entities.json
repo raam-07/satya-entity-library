@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 4,
+      "criminal_updates": 2,
       "new_promises": 3,
-      "gaffe_updates": 16
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -87,9 +87,16 @@
             "source_title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
             "scraped_at": "2026-04-26 12:19:14",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Shirtless protest: Court reserves order on Delhi Police plea for custody of arrested IYC workers - The Hindu A Delhi court reserved its order on a police request for five-day custody of four Indian Yo",
+            "source_url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
+            "source_title": "Shirtless protest: Court reserves order on Delhi Police plea for custody of arrested IYC workers - The Hindu",
+            "scraped_at": "2026-02-21 03:08:50",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-24",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -354,6 +361,12 @@
             "source_url": "https://www.thehindu.com/news/national/every-file-represents-aspirations-lives-of-countless-citizens-pm-modi-to-young-ias-officers/article71136968.ece",
             "source_title": "Every file represents aspirations, lives of countless citizens: PM Modi to young IAS officers - The Hindu",
             "scraped_at": "2026-06-23 11:27:14"
+          },
+          {
+            "incident_text": "Narendra Modi allegedly tarnished India's international image, according to Youth Congress protesters.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-workers-stage-protest-demand-removal-of-pm-modi/article70660094.ece",
+            "source_title": "Congress workers stage protest, demand removal of PM Modi - The Hindu",
+            "scraped_at": "2026-02-21 08:23:00"
           }
         ]
       },
@@ -2380,6 +2393,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/claims-of-ksu-attack-on-health-minister-veena-george-baseless-and-drama-says-kerala-opposition-leader/article70678670.ece",
             "source_title": "Claims of KSU attack on Health Minister Veena George ‘drama’, says Kerala Opposition Leader - The Hindu",
             "scraped_at": "2026-02-26 02:38:53"
+          },
+          {
+            "incident_text": "V.D. Satheesan alleged the Tantri's arrest was a conspiracy to divert attention from CPI(M) allegations.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-questions-tantris-arrest-in-sabarimala-gold-case-asks-sit-to-clarify/article70659588.ece",
+            "source_title": "V.D Satheesan questions Tantri’s arrest in Sabarimala gold case, asks SIT to clarify - The Hindu",
+            "scraped_at": "2026-02-21 06:19:56"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -2694,7 +2713,7 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
@@ -2713,9 +2732,16 @@
             "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
             "scraped_at": "2026-04-05 05:18:19.309562",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Vijay government moves Supreme Court on Thirupparankundram row - The Hindu **Tamil Nadu**'s government has appealed to the **Supreme Court** against orders from the **Madras High Court** concerning th",
+            "source_url": "https://www.thehindu.com/news/national/vijay-government-moves-supreme-court-on-thirupparankundram-row/article71136318.ece",
+            "source_title": "Vijay government moves Supreme Court on Thirupparankundram row - The Hindu",
+            "scraped_at": "2026-06-23 07:56:08",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-24",
         "controversies": [
           {
             "incident_text": "C. Joseph Vijay described the new TVK-led administration as a 'Vijay-model government'.",
@@ -3867,6 +3893,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/yc-urges-kerala-governor-not-to-approve-state-govt-nominee-as-psc-member/article70676313.ece",
             "source_title": "YC urges Kerala Governor not to approve State govt. nominee as PSC member - The Hindu",
             "scraped_at": "2026-02-25 10:44:18"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan's campaign claimed he deserved credit for the Tantri's arrest.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-questions-tantris-arrest-in-sabarimala-gold-case-asks-sit-to-clarify/article70659588.ece",
+            "source_title": "V.D Satheesan questions Tantri’s arrest in Sabarimala gold case, asks SIT to clarify - The Hindu",
+            "scraped_at": "2026-02-21 06:19:56"
           }
         ]
       },
@@ -6722,6 +6754,36 @@
       "source_title": "Illegal immigrants being deported, genuine Indians have noting to fear: Bengal CM - The Hindu",
       "scraped_at": "2026-06-24 04:52:04",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that the UDF would boycott the meeting",
+      "source_url": "https://www.thehindu.com/news/national/kerala/udf-stages-protest-at-health-ministers-meeting/article70659811.ece",
+      "source_title": "UDF stages protest at Health Minister’s meeting - The Hindu",
+      "scraped_at": "2026-02-21 08:22:56",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that Andhra Pradesh will achieve 100% door-to-door waste collection in rural areas by March",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/hundred-percent-door-to-door-garbage-collection-in-rural-areas-by-march-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70659653.ece",
+      "source_title": "Hundred percent door-to-door garbage collection in rural areas by March, says Andhra Pradesh Chief Minister Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-02-21 09:06:03",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "that if the UDF gains power",
+      "source_url": "https://www.thehindu.com/news/national/kerala/udf-will-find-a-permanent-solution-to-the-increasing-human-animal-conflict-says-vd-satheeshan/article70667874.ece",
+      "source_title": "UDF will find a permanent solution to the increasing human-animal conflict, says V.D. Satheesan - The Hindu",
+      "scraped_at": "2026-02-23 10:27:34",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
