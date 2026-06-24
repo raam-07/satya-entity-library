@@ -1,6 +1,8 @@
 name: Satya Entity Updater
 
 on:
+  repository_dispatch:
+    types: [trigger-entity-updater]
   schedule:
     # Runs daily at 02:00 UTC (script header says weekly/periodic; every-5-min
     # was burning Actions minutes — the self-loop below already handles backlog)
@@ -158,3 +160,12 @@ jobs:
             review_flags.json
             *.log
           retention-days: 14
+
+      - name: Trigger Promise Tracker Instantly
+        if: steps.run-step.outputs.has_more != 'true'
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PROMISE_TRACKER_PAT }}
+          repository: raam-07/Satya-promise-tracker
+          event-type: trigger-promise-tracker
+
