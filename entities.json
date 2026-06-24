@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 4,
+      "new_promises": 3,
+      "gaffe_updates": 16
     },
     "rescan_history": {
       "in_progress": false,
@@ -336,6 +336,24 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-farmers-rally-bhopal-madhya-pradesh-india-usa-trade-deal/article70671041.ece",
             "source_title": "Rahul Gandhi slams India-US trade deal: PM Modi should scrap ‘anti-farmer’ trade deal - The Hindu",
             "scraped_at": "2026-02-24 07:51:21"
+          },
+          {
+            "incident_text": "Narendra Modi's 'Abki baar Trump Sarkaar' slogan is contradicted by the interim trade deal.",
+            "source_url": "https://www.thehindu.com/news/national/us-trade-deal-proof-of-abki-baar-trump-se-haar-congress-swipe-at-government/article70662775.ece",
+            "source_title": "U.S. trade deal proof of ‘Abki baar Trump se haar’: Congress’ swipe at government - The Hindu",
+            "scraped_at": "2026-02-22 03:09:40"
+          },
+          {
+            "incident_text": "Narendra Modi called the Congress party's protest 'dirty and shameless' politics.",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-in-meerut-rally-ai-impact-summit-congress-protest-development-projects/article70662886.ece",
+            "source_title": "Congress used AI Impact Summit for its ‘gandi aur nangi’ politics: PM Modi - The Hindu",
+            "scraped_at": "2026-02-22 05:28:20"
+          },
+          {
+            "incident_text": "Narendra Modi stated that every file represents the aspirations, concerns, and lives of countless citizens.",
+            "source_url": "https://www.thehindu.com/news/national/every-file-represents-aspirations-lives-of-countless-citizens-pm-modi-to-young-ias-officers/article71136968.ece",
+            "source_title": "Every file represents aspirations, lives of countless citizens: PM Modi to young IAS officers - The Hindu",
+            "scraped_at": "2026-06-23 11:27:14"
           }
         ]
       },
@@ -356,7 +374,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -378,9 +396,16 @@
             "source_title": "War of words erupts in U.P. as BJP ally claims split in Samajwadi Party; Akhilesh hits back - The Hindu",
             "scraped_at": "2026-06-17 16:19:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express **Abhishek Banerjee**, a leader of the **Trinamool Congress**, has requested permission to trav",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
+            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-23 16:37:06",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-18",
+        "criminal_last_updated": "2026-06-24",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
@@ -429,6 +454,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-promises-seventh-pay-commission-to-west-bengal-government-employees/article70695917.ece",
             "source_title": "Amit Shah promises Seventh Pay Commission to West Bengal government employees - The Hindu",
             "scraped_at": "2026-03-02 10:34:22"
+          },
+          {
+            "incident_text": "Amit Shah was trying to end the corrupt DMK rule.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ops-can-do-anything-for-power-says-dhinakaran/article70660674.ece",
+            "source_title": "OPS can do anything for power, says Dhinakaran - The Hindu",
+            "scraped_at": "2026-02-21 10:25:05"
           }
         ]
       },
@@ -683,6 +714,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
             "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
             "scraped_at": "2026-06-16 13:21:21"
+          },
+          {
+            "incident_text": "Dharmendra Pradhan called the Cockroach Janata Party the 'B team' of disruptive elements.",
+            "source_url": "https://www.ndtv.com/india-news/b-team-of-disruptive-elements-education-minister-dharmendra-pradhan-to-ndtv-on-cjp-11675087#publisher=newsstand",
+            "source_title": "\"B Team Of Disruptive Elements\": Education Minister Dharmendra Pradhan To NDTV On CJP",
+            "scraped_at": "2026-06-23 11:24:46"
           }
         ]
       },
@@ -843,7 +880,14 @@
         "known_promises": [],
         "image_placeholder": "kiren_rijiju",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Kiren Rijiju stated the BJP has built 'good confidence among minorities, especially those who are smaller minorities.'",
+            "source_url": "https://www.thehindu.com/news/national/kerala/church-requested-micro-minority-status-at-meet-with-rijiju-chandrasekhar/article70667327.ece",
+            "source_title": "Church requested ‘micro minority’ status at meet with Rijiju: Chandrasekhar - The Hindu",
+            "scraped_at": "2026-02-23 09:27:16"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -1147,6 +1191,30 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
             "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
             "scraped_at": "2026-02-25 08:21:47"
+          },
+          {
+            "incident_text": "Rahul Gandhi's SPG protection was previously removed by the BJP government.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-questions-removal-of-nsg-cover-accuses-bjp-government-of-playing-with-his-security/article70661293.ece",
+            "source_title": "Akhilesh questions removal of NSG cover, accuses BJP government of 'playing' with his security - The Hindu",
+            "scraped_at": "2026-02-21 17:01:04"
+          },
+          {
+            "incident_text": "Rahul Gandhi spoke to Bhupen Borah after his resignation from the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-borah-joins-bjp/article70662542.ece",
+            "source_title": "Former Assam Congress chief Bhupen Borah joins BJP - The Hindu",
+            "scraped_at": "2026-02-22 01:28:10"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that the rules of the Houses can override constitutional rights.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-the-freedom-of-speech-of-mps/article70663727.ece",
+            "source_title": "Protecting the freedom of speech of MPs - The Hindu",
+            "scraped_at": "2026-02-22 14:01:10"
+          },
+          {
+            "incident_text": "Rahul Gandhi is accused of trying to create anarchy through attacks on the government.",
+            "source_url": "https://www.ndtv.com/india-news/b-team-of-disruptive-elements-education-minister-dharmendra-pradhan-to-ndtv-on-cjp-11675087#publisher=newsstand",
+            "source_title": "\"B Team Of Disruptive Elements\": Education Minister Dharmendra Pradhan To NDTV On CJP",
+            "scraped_at": "2026-06-23 11:24:46"
           }
         ]
       },
@@ -1309,6 +1377,12 @@
             "source_url": "https://www.ndtv.com/india-news/mallikarjun-kharge-warns-of-disciplinary-action-after-workers-chant-slogans-for-dk-shivakumar-11668989#publisher=newsstand",
             "source_title": "Mallikarjun Kharge Warns Of Disciplinary Action After Workers Chant Slogans For DK Shivakumar",
             "scraped_at": "2026-06-22 04:52:44"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that rules of the Houses can override constitutional rights.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-the-freedom-of-speech-of-mps/article70663727.ece",
+            "source_title": "Protecting the freedom of speech of MPs - The Hindu",
+            "scraped_at": "2026-02-22 14:01:10"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1426,6 +1500,18 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/akhilesh-yadav-congress-india-bloc-remark-10733870/",
             "source_title": "Delhi Confidential: Guess Who? | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-06-10 23:29:24.834004"
+          },
+          {
+            "incident_text": "Akhilesh Yadav claimed the BJP government is politicizing security decisions by withdrawing his NSG cover.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-questions-removal-of-nsg-cover-accuses-bjp-government-of-playing-with-his-security/article70661293.ece",
+            "source_title": "Akhilesh questions removal of NSG cover, accuses BJP government of 'playing' with his security - The Hindu",
+            "scraped_at": "2026-02-21 17:01:04"
+          },
+          {
+            "incident_text": "Akhilesh Yadav claimed that infrastructure projects in Uttar Pradesh are plagued by corruption.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
+            "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-22 10:26:49"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1631,7 +1717,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 15,
+        "criminal_cases_in_news": 17,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -1741,9 +1827,23 @@
             "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
             "scraped_at": "2026-06-16 18:22:39",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express **Abhishek Banerjee**, a leader of the **Trinamool Congress**, has requested permission to trav",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
+            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-23 16:37:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal Govt to bring in law to auction properties of those involved in corruption, says Suvendu - The Hindu **Suvendu Adhikari**, **West Bengal** Chief Minister, criticized the **Trinamool Congre",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govt-to-bring-in-law-to-auction-properties-of-those-involved-in-corruption-says-suvendu/article71138833.ece",
+            "source_title": "West Bengal Govt to bring in law to auction properties of those involved in corruption, says Suvendu - The Hindu",
+            "scraped_at": "2026-06-23 22:50:09",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-24",
         "controversies": [
           {
             "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
@@ -1762,6 +1862,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
             "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
             "scraped_at": "2026-06-16 18:22:39"
+          },
+          {
+            "incident_text": "Abhishek Banerjee requested permission to travel abroad for seven days of eye treatment.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
+            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-23 16:37:06"
           }
         ]
       },
@@ -1930,6 +2036,12 @@
             "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
             "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
             "scraped_at": "2026-03-18 23:38:55.839838"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma announced that Bhupen Kumar Borah would join the BJP.",
+            "source_url": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-borah-joins-bjp/article70662542.ece",
+            "source_title": "Former Assam Congress chief Bhupen Borah joins BJP - The Hindu",
+            "scraped_at": "2026-02-22 01:28:10"
           }
         ]
       },
@@ -2196,6 +2308,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-rubbishes-allegations-of-spying-on-dk-shivakumar-loyalists/article70700262.ece",
             "source_title": "Siddaramaiah rubbishes allegations of spying on D.K. Shivakumar loyalists - The Hindu",
             "scraped_at": "2026-03-03 13:55:52"
+          },
+          {
+            "incident_text": "D.K. Shivakumar refused to comment on the allegations against him, stating he was unaware of the context.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/i-am-targeted-but-wont-be-a-coward-says-cm-setting-off-more-speculation/article70659929.ece",
+            "source_title": "I am ‘targeted’, but won’t be a ‘coward’, says CM, setting off more speculation - The Hindu",
+            "scraped_at": "2026-02-21 12:03:02"
           }
         ]
       },
@@ -2293,6 +2411,12 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
             "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
             "scraped_at": "2026-02-25 08:21:47"
+          },
+          {
+            "incident_text": "Mohan Yadav is accused of leading an 'engine of plunder' through land purchases by his family.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/engine-of-plunder-running-at-full-speed-under-bjps-double-engine-govt-in-mp-congress/article71136515.ece",
+            "source_title": "'Engine of plunder' running at full speed under BJP's double-engine govt in MP: Congress - The Hindu",
+            "scraped_at": "2026-06-23 07:57:47"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2363,6 +2487,18 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-accuses-of-mva-of-sending-ai-generated-letter-to-boycott-tea-party/article71130032.ece",
             "source_title": "Maharashtra CM accuses of MVA of sending AI-generated letter to boycott tea party - The Hindu",
             "scraped_at": "2026-06-21 20:56:34"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated Ajit Pawar was the best Chief Minister Maharashtra never had.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-was-best-cm-maharashtra-never-had-says-fadnavis/article70666971.ece",
+            "source_title": "Ajit Pawar was best CM Maharashtra never had, says Fadnavis - The Hindu",
+            "scraped_at": "2026-02-23 09:27:39"
+          },
+          {
+            "incident_text": "Devendra Fadnavis was questioned by Sanjay Raut about the law and order situation in the state.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/after-the-split-mudslinging-begins-between-the-newly-inducted-shiv-sena-mps-and-the-shiv-senaubt/article71138956.ece",
+            "source_title": "After the split, mudslinging begins between the newly inducted Shiv Sena MPs and the Shiv Sena(UBT) - The Hindu",
+            "scraped_at": "2026-06-23 22:50:29"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -2592,6 +2728,18 @@
             "source_url": "https://indianexpress.com/article/entertainment/tamil/as-vijays-suit-and-lunchbox-trends-udhayanidhi-stalin-says-everythings-reels-with-him-10746241/",
             "source_title": "As Vijay’s suit and lunchbox trends, Udhayanidhi Stalin says everything’s ‘reels with him’ | Tamil News - The Indian Express",
             "scraped_at": "2026-06-18 13:01:01"
+          },
+          {
+            "incident_text": "C. Joseph Vijay's close aide Jagadish Palanisamy was appointed as his Private Secretary.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-close-aide-jagadish-palanisamy-appointed-as-private-secretary-to-cm/article71135955.ece",
+            "source_title": "T.N. Chief Minister Vijay’s close aide Jagadish Palanisamy appointed as CM’s Private Secretary - The Hindu",
+            "scraped_at": "2026-06-23 07:58:06"
+          },
+          {
+            "incident_text": "C. Joseph Vijay compared himself to an elderly man searching for someone, interpreted by some as a reference to M.K. Stalin's defeat.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
+            "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
+            "scraped_at": "2026-06-24 00:04:02"
           }
         ]
       },
@@ -2740,6 +2888,12 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/yogi-adityanath-fir-akhilesh-yadav-daughter-remarks-up-politics-10738000/",
             "source_title": "Yogi Adityanath orders FIR over remarks on Akhilesh Yadav’s daughter",
             "scraped_at": "2026-06-13 12:54:18"
+          },
+          {
+            "incident_text": "Yogi Adityanath is going to Japan but not Kyoto, according to Akhilesh Yadav.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
+            "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-22 10:26:49"
           }
         ],
         "criminal_cases_in_news": 0
@@ -3102,6 +3256,13 @@
             "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
             "scraped_at": "2026-05-04 22:14:09",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Palaniswami assures people of bringing back hawala money stashed abroad in the event of victory - The Hindu **Edappadi K. Palaniswami**, general secretary of the AIADMK, promised to bring back \"hawala",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-assures-people-of-bringing-back-hawala-money-stashed-abroad-in-the-event-of-victory/article70661013.ece",
+            "source_title": "Palaniswami assures people of bringing back hawala money stashed abroad in the event of victory - The Hindu",
+            "scraped_at": "2026-02-21 21:06:02",
+            "incident_type": "serious"
           }
         ],
         "controversies": [
@@ -3140,10 +3301,22 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-reacts-sharply-against-dmk-for-inducting-o-panneerselvam/article70683743.ece",
             "source_title": "Tamil Nadu BJP reacts sharply against DMK for inducting O. Panneerselvam - The Hindu",
             "scraped_at": "2026-02-27 08:44:56"
+          },
+          {
+            "incident_text": "M.K. Stalin believes the current balance of power favors the Union, leading to state function duplication and micromanagement.",
+            "source_url": "https://www.thehindu.com/news/national/need-to-recalibrate-union-state-relations-as-centralisation-has-failed-to-deliver-mk-stalin/article70660886.ece",
+            "source_title": "Need to recalibrate Union-State relations as centralisation has failed to deliver: M.K. Stalin - The Hindu",
+            "scraped_at": "2026-02-21 12:01:58"
+          },
+          {
+            "incident_text": "M.K. Stalin's defeat in Kolathur was referenced in a story told by the Chief Minister.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
+            "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
+            "scraped_at": "2026-06-24 00:04:02"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-16"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-24"
       },
       {
         "name": "Bhupesh Baghel",
@@ -3588,6 +3761,18 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/first-time-mlas-letter-to-congress-high-command-seeking-cabinet-berths-surfaces/article70667627.ece",
             "source_title": "First-time MLAs’ letter to Congress high command seeking Cabinet berths surfaces - The Hindu",
             "scraped_at": "2026-02-23 14:32:42"
+          },
+          {
+            "incident_text": "Siddaramaiah claimed he was targeted politically due to his caste and background.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/i-am-targeted-but-wont-be-a-coward-says-cm-setting-off-more-speculation/article70659929.ece",
+            "source_title": "I am ‘targeted’, but won’t be a ‘coward’, says CM, setting off more speculation - The Hindu",
+            "scraped_at": "2026-02-21 12:03:02"
+          },
+          {
+            "incident_text": "Siddaramaiah stated that a Dalit Chief Minister should happen when leadership discussions occur.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-leadership-tussle-in-karnataka-gains-traction-again/article70663665.ece",
+            "source_title": "Congress leadership tussle in Karnataka gains traction again - The Hindu",
+            "scraped_at": "2026-02-22 10:04:37"
           }
         ]
       },
@@ -3605,7 +3790,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -3648,9 +3833,16 @@
             "source_title": "Ramesh Chennithala seeks Kerala CM’s resignation alleging data leak of 1 crore citizens - The Hindu",
             "scraped_at": "2026-02-27 01:34:02",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kerala Assembly Budget session resumes amid Opposition uproar over Sabarimala gold theft case - The Hindu The Kerala Assembly resumed its Budget session amidst protests from the **Congress-led United ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-budget-session-resumes-amid-opposition-uproar-over-sabarimala-gold-theft-case/article70665622.ece",
+            "source_title": "Kerala Assembly Budget session resumes amid Opposition uproar over Sabarimala gold theft case - The Hindu",
+            "scraped_at": "2026-02-22 23:33:25",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-22",
+        "criminal_last_updated": "2026-06-24",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
@@ -6499,6 +6691,36 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/rajamahendravaram-anuria-deaths-state-announces-10-lakh-ex-gratia/article70666579.ece",
       "source_title": "Rajamahendravaram Anuria deaths: State announces ₹10 lakh ex-gratia - The Hindu",
       "scraped_at": "2026-02-23 05:57:14",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "this during the Azadi Ka Amrit Mahotsav and highlighted his \"Panch Pran\" pledge to break free from colonial mindset",
+      "source_url": "https://www.thehindu.com/news/national/rashtrapati-bhavan-to-get-rajagopalacharis-statue/article70664158.ece",
+      "source_title": "Rashtrapati Bhavan to get Rajagopalachari’s statue - The Hindu",
+      "scraped_at": "2026-02-22 11:08:39",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that his party is prepared to face any investigation by ED",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/we-are-prepared-to-face-ed-i-t-cbi-tn-cm-stalin/article70666241.ece",
+      "source_title": "Tamil Nadu election: We are prepared to face ED, I-T, and CBI, says T.N. CM Stalin - The Hindu",
+      "scraped_at": "2026-02-23 05:57:30",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Suvendu Adhikari",
+      "promise_text": "Indian citizens that they would not be affected by these actions",
+      "source_url": "https://www.thehindu.com/news/national/illegal-immigrants-being-deported-genuine-indians-have-noting-to-fear-bengal-cm/article71139465.ece",
+      "source_title": "Illegal immigrants being deported, genuine Indians have noting to fear: Bengal CM - The Hindu",
+      "scraped_at": "2026-06-24 04:52:04",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
