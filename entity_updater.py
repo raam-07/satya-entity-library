@@ -95,19 +95,35 @@ def get_db_connection():
     return sqlite3.connect(DB_PATH)
 
 def fetch_articles(conn):
-    logging.info("Fetching classified articles from SQLite database...")
+    rescan_requested = os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
+    logging.info(f"Fetching classified articles from SQLite database (rescan_requested={rescan_requested})...")
     articles = []
     try:
         cursor = conn.cursor()
-        cursor.execute("""
-            SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
-                   category, sentiment, sentiment_target, rephrased_article, 
-                   party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
-                   topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
-                   classified_at, status 
-            FROM articles 
-            WHERE status IN ('classified', 'entity_processed', 'processed')
-        """)
+        if rescan_requested:
+            cursor.execute("""
+                SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
+                       category, sentiment, sentiment_target, rephrased_article, 
+                       party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
+                       topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
+                       classified_at, status 
+                FROM articles 
+                WHERE status IN ('classified', 'entity_processed', 'processed')
+            """)
+        else:
+            # Optimize: Only fetch unprocessed articles OR processed articles from the last 90 days
+            import time
+            cutoff_timestamp = int(time.time()) - 90 * 24 * 3600
+            cursor.execute("""
+                SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
+                       category, sentiment, sentiment_target, rephrased_article, 
+                       party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
+                       topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
+                       classified_at, status 
+                FROM articles 
+                WHERE status = 'classified' 
+                   OR (status IN ('entity_processed', 'processed') AND scraped_at >= ?)
+            """, (cutoff_timestamp,))
         rows = cursor.fetchall()
     except Exception as e:
         logging.error(f"Failed to query articles from database: {e}")
