@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24 12:39:38.454341",
+  "generated_at": "2026-06-25 05:39:39.196151",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 2,
-    "gaffe_updates_applied": 3,
-    "promises_extracted": 3,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 12
@@ -52,11 +52,11 @@
     {
       "type": "cm_detection",
       "state": "Bihar",
-      "candidate": "Nitish Kumar",
-      "confidence": 0.42,
+      "candidate": "Samrat Choudhary",
+      "confidence": 0.45,
       "mentions": 5,
       "reason": "Below auto-update threshold",
-      "context": "and linking it firmly to the path of development. He asserted that Mr. Kumar undertook the vital task of restoring the dignity and self-respect of the people of Bihar. “Through his ‘Samriddhi Yatra,’ "
+      "context": "en aligning his governance with Kumar's policies and frequently seeks guidance from him before making significant decisions. A month into the new regime in Bihar, Bhartiya Janata Party leader and new "
     },
     {
       "type": "cm_detection",
@@ -98,10 +98,10 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "Pinarayi Vijayan",
-      "confidence": 0.44,
-      "mentions": 7,
+      "confidence": 0.4,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
-      "context": "zed the LDF government's handling of issues like cooking gas shortages and economic development in the state. All India Congress Committee general secretary Sachin Pilot has said that the campaign by "
+      "context": "rimala gold case. He also questioned the lack of action taken against **Vijayan's** son regarding a summons from the Enforcement Directorate. Leader of the Opposition V.D. Satheesan on Friday accused "
     },
     {
       "type": "ruling_party",

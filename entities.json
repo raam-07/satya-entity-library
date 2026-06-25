@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-24",
+    "last_updated": "2026-06-25",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 2,
-      "new_promises": 3,
-      "gaffe_updates": 3
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4743,7 +4743,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-24",
+        "party_last_updated": "2026-06-25",
         "cm_confidence": 0.8,
         "cm_last_updated": "2026-06-22"
       },
@@ -4773,7 +4773,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-24"
+        "party_last_updated": "2026-06-25"
       },
       {
         "name": "Telangana",
@@ -4801,7 +4801,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-24"
+        "cm_last_updated": "2026-06-25"
       },
       {
         "name": "Uttarakhand",
@@ -6784,6 +6784,16 @@
       "source_title": "UDF will find a permanent solution to the increasing human-animal conflict, says V.D. Satheesan - The Hindu",
       "scraped_at": "2026-02-23 10:27:34",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to develop a \"Quantum Ecosystem\" to manufacture quantum computing equipment for the global market",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-is-developing-a-quantum-ecosystem-for-global-markets-says-cm-naidu/article70656103.ece",
+      "source_title": "A.P. is developing Quantum ecosystem for global markets, says CM Naidu - The Hindu",
+      "scraped_at": "2026-02-20 08:46:30",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
