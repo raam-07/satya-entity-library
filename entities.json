@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 9
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -379,6 +379,12 @@
             "source_url": "https://indianexpress.com/article/opinion/columns/five-decades-after-the-emergency-difficult-questions-unheeded-warnings-10756004/",
             "source_title": "Five decades after the Emergency, difficult questions, unheeded warnings | The Indian Express",
             "scraped_at": "2026-06-25 01:35:11"
+          },
+          {
+            "incident_text": "Narendra Modi believes AI will benefit the world when shared openly.",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-dig-at-pms-manav-vision-for-ai/article70651402.ece",
+            "source_title": "AI Summit 2026: Congress takes dig at PM Modi's ‘MANAV’ vision for AI - The Hindu",
+            "scraped_at": "2026-02-19 06:15:15"
           }
         ]
       },
@@ -970,7 +976,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 11,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1040,6 +1046,13 @@
             "source_url": "https://www.thehindu.com/news/national/defamation-case-rahul-gandhi-sultanpur-court-february-20-2026/article70654862.ece",
             "source_title": "Defamation case: Rahul to appear before Sultanpur court - The Hindu",
             "scraped_at": "2026-02-20 01:36:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man detained in Kota for threatening to shoot Rahul Gandhi, other Congress MPs - The Hindu **Raj Singh**, spokesperson for the right-wing group **Karni Sena**, was detained by police in Rajasthan's Ko",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/man-detained-in-kota-for-threatening-to-shoot-rahul-gandhi-other-congress-mps/article70651591.ece",
+            "source_title": "Man detained in Kota for threatening to shoot Rahul Gandhi, other Congress MPs - The Hindu",
+            "scraped_at": "2026-02-19 06:13:07",
             "incident_type": "broad"
           }
         ],
@@ -2111,6 +2124,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-general-secretary-priyanka-gandhi-vadra-assam-visit/article70654916.ece",
             "source_title": "Priyanka Gandhi criticises Assam CM for dragging Gaurav Gogoi’s family, children into ‘Pakistan link’ allegation - The Hindu",
             "scraped_at": "2026-02-20 01:35:47"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma allegedly made communal and anti-constitutional statements aimed at inciting division.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-leaders-push-for-mass-firs-against-assam-cm-for-communal-statements/article70652771.ece",
+            "source_title": "Uttar Pradesh Congress leaders push for mass FIRs against Assam CM for ‘communal’ statements - The Hindu",
+            "scraped_at": "2026-02-19 11:31:52"
           }
         ]
       },
@@ -3806,6 +3825,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-judicial-officers-to-be-deployed-for-west-bengal-sir/article70656467.ece",
             "source_title": "Supreme Court asks judicial officers to be deployed for West Bengal SIR - The Hindu",
             "scraped_at": "2026-02-20 11:42:43"
+          },
+          {
+            "incident_text": "Mamata Banerjee criticized Narendra Modi for calling Ramakrishna Paramhamsa 'Swami', arguing it is a title for disciples, not the master.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/calling-ramakrishna-swami-reflects-insensitivity-mamata-reacts-to-pms-social-media-post/article70652698.ece",
+            "source_title": "Calling Ramakrishna Swami reflects insensitivity, Mamata reacts to PM’s social media post - The Hindu",
+            "scraped_at": "2026-02-19 11:31:58"
           }
         ],
         "criminal_cases_in_news": 18,
