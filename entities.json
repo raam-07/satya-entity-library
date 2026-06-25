@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2504,6 +2504,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
             "source_title": "UDF government’s stance on PM SHRI unconstitutional - The Hindu",
             "scraped_at": "2026-06-25 09:57:19"
+          },
+          {
+            "incident_text": "V.D. Satheesan claimed the government did not consult the opposition about extending bar operating hours.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-talks-with-opposition-on-bar-timing-extension-says-kerala-leader-of-the-opposition/article70648109.ece",
+            "source_title": "No talks with Opposition on bar timing extension, says Kerala Leader of the Opposition - The Hindu",
+            "scraped_at": "2026-02-18 13:36:35"
           }
         ],
         "criminal_last_updated": "2026-06-15"
