@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25 21:46:11.198640",
+  "generated_at": "2026-06-25 22:18:20.440507",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 11
@@ -13,6 +13,15 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.5,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "een an election issue. Seven persons, including his manager Siddharth Sharma and event organiser Shaymkanu Mahanta, have been in judicial custody in connection with the singer-composer’s death. While "
+    },
     {
       "type": "cm_detection",
       "state": "West Bengal",
@@ -30,15 +39,6 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.5,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "een an election issue. Seven persons, including his manager Siddharth Sharma and event organiser Shaymkanu Mahanta, have been in judicial custody in connection with the singer-composer’s death. While "
     },
     {
       "type": "cm_detection",

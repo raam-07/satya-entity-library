@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -6990,6 +6990,16 @@
       "source_url": "https://www.ndtv.com/india-news/result-of-sins-suvendu-adhikari-slams-trinamool-over-kolkata-roof-collapse-11686149#publisher=newsstand",
       "source_title": "\"Result Of Sins\": Suvendu Adhikari Slams Trinamool Over Kolkata Roof Collapse",
       "scraped_at": "2026-06-25 12:28:25",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that upon release, the inmates will also be examined and if traces of drugs are detected",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/hubballi-strict-measures-are-being-taken-to-curb-drugs-says-dgp-of-prisons/article70648267.ece",
+      "source_title": "Director General of Police (Prisons and Correctional Services) Alok Kumar held a review meeting with jail authorities at Dharwad Central Prison on February 18. - The Hindu",
+      "scraped_at": "2026-02-18 10:04:59",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
