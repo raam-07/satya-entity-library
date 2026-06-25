@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25 12:52:02.235186",
+  "generated_at": "2026-06-25 13:17:21.858192",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
@@ -8,7 +8,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 12
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -84,15 +84,6 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "Pinarayi Vijayan",
-      "confidence": 0.4,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "rimala gold case. He also questioned the lack of action taken against **Vijayan's** son regarding a summons from the Enforcement Directorate. Leader of the Opposition V.D. Satheesan on Friday accused "
     },
     {
       "type": "cm_detection",
