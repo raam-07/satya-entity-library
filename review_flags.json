@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-25 21:27:56.287798",
+  "generated_at": "2026-06-25 21:46:11.198640",
   "summary": {
     "cm_updates_applied": 2,
-    "party_updates_applied": 3,
+    "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 10
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -20,43 +20,7 @@
       "confidence": 0.5,
       "mentions": 12,
       "reason": "Below auto-update threshold",
-      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.5,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "while swimming off an island in Singapore on September 19, 2025. He had travelled to Singapore to attend a festival organised by Shyamkanu Mahanta, who is one of the accused. In December 2025, Assam C"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.62,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Samrat Choudhary",
-      "confidence": 0.45,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "en aligning his governance with Kumar's policies and frequently seeks guidance from him before making significant decisions. A month into the new regime in Bihar, Bhartiya Janata Party leader and new "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "Siddaramaiah",
-      "confidence": 0.62,
-      "mentions": 13,
-      "reason": "Below auto-update threshold",
-      "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
+      "context": "s, and increased EC observer deployment. The Bharatiya Janata Party (BJP) on Monday (March 30, 2026) urged the Election Commission of India (EC) to initiate legal proceedings and prohibit West Bengal "
     },
     {
       "type": "cm_detection",
@@ -69,12 +33,21 @@
     },
     {
       "type": "cm_detection",
-      "state": "Madhya Pradesh",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.71,
-      "mentions": 5,
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.5,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
-      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
+      "context": "een an election issue. Seven persons, including his manager Siddharth Sharma and event organiser Shaymkanu Mahanta, have been in judicial custody in connection with the singer-composer’s death. While "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.62,
+      "mentions": 13,
+      "reason": "Below auto-update threshold",
+      "context": "n complaining about inadequate compensation for land losers in the Upper Krishna Project and the delay in increasing the height of the Almatti dam. However, such issues did not dominate the campaign. "
     },
     {
       "type": "cm_detection",
@@ -83,7 +56,34 @@
       "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
-      "context": "M.P. to form dedicated task force to counter organised forest crime: CM Yadav - The Hindu **Madhya Pradesh** Chief Minister Mohan Yadav approved the formation of a State-level task force to combat org"
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Madhya Pradesh",
+      "candidate": "Mohan Yadav",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.62,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "s.  The party will hold a meeting in Mumbai on May 20th to address the internal issues. Nationalist Congress Party (NCP) MP, and Maharashtra Deputy Chief Minister Sunetra Pawar’s son, Parth Pawar met "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Bihar",
+      "candidate": "Samrat Choudhary",
+      "confidence": 0.45,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "p 11 new satellite townships in the state, prohibiting land sales and construction until a Master Plan is prepared. In his first Cabinet meeting after assuming the post on Wednesday (April 22, 2026), "
     },
     {
       "type": "cm_detection",
@@ -95,11 +95,19 @@
     },
     {
       "type": "ruling_party",
+      "state": "West Bengal",
+      "candidate": "BJP",
+      "confidence": 0.86,
+      "reason": "Gemma rejected",
+      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
+    },
+    {
+      "type": "ruling_party",
       "state": "Karnataka",
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "on rates due to high fees previously associated with these processes. Deputy Chief Minister and Bengaluru Development in-charge D.K. Shivakumar unveiled the “sixth guarantee” — Bhu Guarantee — of the "
+      "context": "Congress government spending more time to solve its internal dispute rather than people’s problems, says Prime Minister Narendra Modi - The Hindu **Prime Minister Narendra Modi** criticized the **Cong"
     }
   ]
 }
