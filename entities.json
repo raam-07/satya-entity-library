@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1588,6 +1588,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
             "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
             "scraped_at": "2026-02-22 10:26:49"
+          },
+          {
+            "incident_text": "Akhilesh Yadav stated that the SP-Congress alliance will continue, focusing on victory rather than seat count.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/in-major-organisational-rejig-bjp-announces-new-office-bearers-in-uttar-pradesh/article71145534.ece",
+            "source_title": "In major organisational rejig, BJP announces new office bearers in Uttar Pradesh - The Hindu",
+            "scraped_at": "2026-06-25 09:57:39"
           }
         ],
         "criminal_cases_in_news": 0
