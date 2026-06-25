@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -2773,6 +2773,12 @@
             "source_url": "https://indianexpress.com/article/india/punjab-row-over-mann-video-police-get-custody-of-two-in-forensic-report-case-10756060/",
             "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
             "scraped_at": "2026-06-24 23:10:37"
+          },
+          {
+            "incident_text": "Bhagwant Mann's resignation was demanded by Raghav Chadha due to an 'objectionable' video deemed authentic by Gurugram Police.",
+            "source_url": "https://www.ndtv.com/india-news/raghav-chadha-demands-bhagwant-manns-resignation-over-video-row-11686179#publisher=newsstand",
+            "source_title": "Raghav Chadha Demands Bhagwant Mann's Resignation Over Video Row",
+            "scraped_at": "2026-06-25 12:27:23"
           }
         ],
         "criminal_incidents": [
