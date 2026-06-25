@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-25 06:17:55.027348",
+  "generated_at": "2026-06-25 08:48:58.642775",
   "summary": {
-    "cm_updates_applied": 1,
+    "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "criminal_updates_applied": 3,
+    "gaffe_updates_applied": 9,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -17,7 +17,7 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.55,
+      "confidence": 0.52,
       "mentions": 12,
       "reason": "Below auto-update threshold",
       "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
@@ -26,7 +26,7 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.53,
+      "confidence": 0.5,
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "while swimming off an island in Singapore on September 19, 2025. He had travelled to Singapore to attend a festival organised by Shyamkanu Mahanta, who is one of the accused. In December 2025, Assam C"
@@ -39,15 +39,6 @@
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "une and Pimpri-Chinchwad after consuming spurious liquor over the last three days, police said on Friday. Eight people have been arrested, including the main accused, Karnal Singh Virkha. Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Punjab",
-      "candidate": "Bhagwant Mann",
-      "confidence": 0.71,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "port of around ₹42,000 per acre,” he said at a press conference. “India is importing urea at nearly ₹100 per kg, while farmers are getting it at just ₹6 per kg.“ Mann attacks Centre Meanwhile, Punjab "
     },
     {
       "type": "cm_detection",
@@ -102,6 +93,14 @@
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "rimala gold case. He also questioned the lack of action taken against **Vijayan's** son regarding a summons from the Enforcement Directorate. Leader of the Opposition V.D. Satheesan on Friday accused "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Haryana",
+      "candidate": "Bhagwant Mann",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "AP) government in Punjab, Haryana Chief Minister Nayab Singh Saini on Friday (May 8, 2026) declared that Punjab had descended into a condition “worse than West Bengal”, accusing the government led by "
     },
     {
       "type": "ruling_party",

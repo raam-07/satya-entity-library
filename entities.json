@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 3,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 9
     },
     "rescan_history": {
       "in_progress": false,
@@ -367,6 +367,18 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/congress-workers-stage-protest-demand-removal-of-pm-modi/article70660094.ece",
             "source_title": "Congress workers stage protest, demand removal of PM Modi - The Hindu",
             "scraped_at": "2026-02-21 08:23:00"
+          },
+          {
+            "incident_text": "Narendra Modi was accused of taking credit for UPI, an idea developed before his term.",
+            "source_url": "https://www.thehindu.com/news/national/classmate-who-does-no-work-but-shows-up-to-take-all-credit-congress-dig-at-pm-over-upi/article70655410.ece",
+            "source_title": "Classmate who does no work, but shows up to take all credit: Congress’ dig at PM over UPI - The Hindu",
+            "scraped_at": "2026-02-20 04:38:56"
+          },
+          {
+            "incident_text": "Narendra Modi's rule is viewed by some as creeping authoritarianism.",
+            "source_url": "https://indianexpress.com/article/opinion/columns/five-decades-after-the-emergency-difficult-questions-unheeded-warnings-10756004/",
+            "source_title": "Five decades after the Emergency, difficult questions, unheeded warnings | The Indian Express",
+            "scraped_at": "2026-06-25 01:35:11"
           }
         ]
       },
@@ -522,7 +534,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Nirmala Sitharaman accused DMK leaders of displaying Periyar's portrait despite his disparaging remarks about Tamil.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/reassessingperiyarevramasamystake-on-tamil-which-he-called-a-barbarian-language/article70651265.ece",
+            "source_title": "Reassessing Periyar E.V. Ramasamy’s take on Tamil, which he called a barbarian language - The Hindu",
+            "scraped_at": "2026-02-19 21:01:49"
+          }
+        ],
         "criminal_cases_in_news": 1,
         "criminal_last_updated": "2026-06-16"
       },
@@ -951,7 +970,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 10,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1015,9 +1034,16 @@
             "source_title": "Left MPs slam Rahul Gandhi for his ‘inappropriate remarks’ against Pinarayi government - The Hindu",
             "scraped_at": "2026-03-09 12:42:25",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Defamation case: Rahul to appear before Sultanpur court - The Hindu **Rahul Gandhi** is scheduled to appear in court in Sultanpur, Uttar Pradesh on Friday, February 20, 2026, to record his statement i",
+            "source_url": "https://www.thehindu.com/news/national/defamation-case-rahul-gandhi-sultanpur-court-february-20-2026/article70654862.ece",
+            "source_title": "Defamation case: Rahul to appear before Sultanpur court - The Hindu",
+            "scraped_at": "2026-02-20 01:36:09",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-17",
+        "criminal_last_updated": "2026-06-25",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -1228,6 +1254,18 @@
             "source_url": "https://www.ndtv.com/india-news/b-team-of-disruptive-elements-education-minister-dharmendra-pradhan-to-ndtv-on-cjp-11675087#publisher=newsstand",
             "source_title": "\"B Team Of Disruptive Elements\": Education Minister Dharmendra Pradhan To NDTV On CJP",
             "scraped_at": "2026-06-23 11:24:46"
+          },
+          {
+            "incident_text": "Rahul Gandhi is scheduled to appear in court regarding defamation claims stemming from remarks made against Amit Shah in 2018.",
+            "source_url": "https://www.thehindu.com/news/national/defamation-case-rahul-gandhi-sultanpur-court-february-20-2026/article70654862.ece",
+            "source_title": "Defamation case: Rahul to appear before Sultanpur court - The Hindu",
+            "scraped_at": "2026-02-20 01:36:09"
+          },
+          {
+            "incident_text": "Rahul Gandhi expressed regret for a statement allegedly defaming Kartikeya Singh.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-expresses-regret-in-defamation-case-filed-by-shivraj-singh-chouhans-son/article71143233.ece",
+            "source_title": "Rahul Gandhi expresses regret in defamation case filed by Shivraj Singh Chouhan's son - The Hindu",
+            "scraped_at": "2026-06-25 01:37:24"
           }
         ]
       },
@@ -1279,6 +1317,12 @@
             "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
             "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
             "scraped_at": "2026-03-18 23:38:55.839838"
+          },
+          {
+            "incident_text": "Priyanka Gandhi Vadra stated that attacking Gaurav Gogoi's family is 'wrong politics'.",
+            "source_url": "https://www.thehindu.com/news/national/congress-general-secretary-priyanka-gandhi-vadra-assam-visit/article70654916.ece",
+            "source_title": "Priyanka Gandhi criticises Assam CM for dragging Gaurav Gogoi’s family, children into ‘Pakistan link’ allegation - The Hindu",
+            "scraped_at": "2026-02-20 01:35:47"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1396,6 +1440,12 @@
             "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-the-freedom-of-speech-of-mps/article70663727.ece",
             "source_title": "Protecting the freedom of speech of MPs - The Hindu",
             "scraped_at": "2026-02-22 14:01:10"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge questioned why the BJP targets his family while ignoring similar accusations against the Modi government.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-accuses-congress-president-and-his-son-of-land-grab-through-trust-in-karnataka/article71142571.ece",
+            "source_title": "BJP accuses Congress president and his son of ‘land grab’ through trust in Karnataka - The Hindu",
+            "scraped_at": "2026-06-24 18:22:58"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -2055,6 +2105,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-borah-joins-bjp/article70662542.ece",
             "source_title": "Former Assam Congress chief Bhupen Borah joins BJP - The Hindu",
             "scraped_at": "2026-02-22 01:28:10"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma attacked Gaurav Gogoi over alleged Pakistan links, dragging his family into the accusations.",
+            "source_url": "https://www.thehindu.com/news/national/congress-general-secretary-priyanka-gandhi-vadra-assam-visit/article70654916.ece",
+            "source_title": "Priyanka Gandhi criticises Assam CM for dragging Gaurav Gogoi’s family, children into ‘Pakistan link’ allegation - The Hindu",
+            "scraped_at": "2026-02-20 01:35:47"
           }
         ]
       },
@@ -2624,7 +2680,7 @@
         "state": "Punjab",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 4,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
         "image_placeholder": "bhagwant_mann",
@@ -2656,6 +2712,24 @@
             "source_url": "https://www.ndtv.com/india-news/in-bhagwant-mann-video-row-a-battle-of-competing-narratives-11661059#publisher=newsstand",
             "source_title": "In Bhagwant Mann Video Row, A Battle Of Competing Narratives",
             "scraped_at": "2026-06-19 17:00:56"
+          },
+          {
+            "incident_text": "Bhagwant Mann allegedly orchestrated a fake forensic report to discredit a viral video.",
+            "source_url": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:15"
+          },
+          {
+            "incident_text": "Bhagwant Mann allegedly orchestrated a fake forensic report to discredit a viral video.",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-couple-booked-for-another-birthday-celebration-on-brahmaputra-bridge/article71142583.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:42"
+          },
+          {
+            "incident_text": "Bhagwant Mann claimed he is not the individual seen in the video.",
+            "source_url": "https://indianexpress.com/article/india/punjab-row-over-mann-video-police-get-custody-of-two-in-forensic-report-case-10756060/",
+            "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
+            "scraped_at": "2026-06-24 23:10:37"
           }
         ],
         "criminal_incidents": [
@@ -2665,9 +2739,30 @@
             "source_title": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe",
             "scraped_at": "2026-06-17 18:45:18",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu **Archana Gupta**, president of the **Bharatiya Janata Party** in Haryana, called f",
+            "source_url": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:15",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu **Archana Gupta**, president of the **Bharatiya Janata Party** in Haryana, demanded",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-couple-booked-for-another-birthday-celebration-on-brahmaputra-bridge/article71142583.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express Two men, Arun Mahendru and Ankit Bhardwaj, w",
+            "source_url": "https://indianexpress.com/article/india/punjab-row-over-mann-video-police-get-custody-of-two-in-forensic-report-case-10756060/",
+            "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
+            "scraped_at": "2026-06-24 23:10:37",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-18"
+        "criminal_last_updated": "2026-06-25"
       },
       {
         "name": "Bhajanlal Sharma",
@@ -2790,6 +2885,13 @@
             "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
             "scraped_at": "2026-04-23 23:56:55.724370",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "HC grants bail to Balka Suman - The Hindu **Justice K. Sujana** of the Telangana High Court granted bail to former MLA **Balka Suman**, who was arrested for inflammatory speech inciting attacks on rai",
+            "source_url": "https://www.thehindu.com/news/national/telangana/hc-grants-bail-to-balka-suman/article71142907.ece",
+            "source_title": "HC grants bail to Balka Suman - The Hindu",
+            "scraped_at": "2026-06-24 18:21:22",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2848,8 +2950,8 @@
             "scraped_at": "2026-03-03 08:46:21"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-25"
       },
       {
         "name": "Manik Saha",
@@ -3339,6 +3441,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
             "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
             "scraped_at": "2026-06-24 00:04:02"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed the BJP runs numerous right-wing social media accounts spreading 'fake news'.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-running-several-right-wing-social-media-accounts-spreading-fake-news-says-stalin/article70656380.ece",
+            "source_title": "BJP running several right-wing social media accounts spreading fake news, says Stalin - The Hindu",
+            "scraped_at": "2026-02-20 16:25:13"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -3692,6 +3800,12 @@
             "source_url": "https://www.thehindu.com/news/national/cpim-is-fighting-both-tmc-and-bjp-in-west-bengal-ma-baby/article70685066.ece",
             "source_title": "CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby - The Hindu",
             "scraped_at": "2026-02-27 12:35:36"
+          },
+          {
+            "incident_text": "Mamata Banerjee's government has a 'trust deficit' with the Election Commission, according to the Supreme Court.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-judicial-officers-to-be-deployed-for-west-bengal-sir/article70656467.ece",
+            "source_title": "Supreme Court asks judicial officers to be deployed for West Bengal SIR - The Hindu",
+            "scraped_at": "2026-02-20 11:42:43"
           }
         ],
         "criminal_cases_in_news": 18,
@@ -4744,8 +4858,8 @@
         "region": "North",
         "party_confidence": 1.0,
         "party_last_updated": "2026-06-25",
-        "cm_confidence": 0.8,
-        "cm_last_updated": "2026-06-22"
+        "cm_confidence": 0.78,
+        "cm_last_updated": "2026-06-25"
       },
       {
         "name": "Rajasthan",
