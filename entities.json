@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2025,6 +2025,13 @@
             "source_title": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu",
             "scraped_at": "2026-03-09 10:36:12",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu **Ambati Rambabu**, a leader of the **YSR Congress Party**, was released on bail from Rajahmundry Central Prison after ",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-released-from-rajahmundry-central-prison/article70647634.ece",
+            "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
+            "scraped_at": "2026-02-18 09:03:19",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2069,10 +2076,16 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-slams-ysrcp-assures-state-reconstruction-with-nda-alliance/article70676434.ece",
             "source_title": "Naidu slams YSRCP, assures State reconstruction with NDA alliance - The Hindu",
             "scraped_at": "2026-02-25 10:44:07"
+          },
+          {
+            "incident_text": "Chandrababu Naidu and his son Nara Lokesh orchestrated the attack on my house, according to Ambati Rambabu.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-released-from-rajahmundry-central-prison/article70647634.ece",
+            "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
+            "scraped_at": "2026-02-18 09:03:19"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-17"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-06-25"
       },
       {
         "name": "Pema Khandu",
@@ -7000,6 +7013,16 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/hubballi-strict-measures-are-being-taken-to-curb-drugs-says-dgp-of-prisons/article70648267.ece",
       "source_title": "Director General of Police (Prisons and Correctional Services) Alok Kumar held a review meeting with jail authorities at Dharwad Central Prison on February 18. - The Hindu",
       "scraped_at": "2026-02-18 10:04:59",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "a completion timeline of one and a half years",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/bengaluru-farmers-on-other-stretches-of-bbc-project-hold-out-impasse-continues/article70642877.ece",
+      "source_title": "Bengaluru: Farmers on other stretches of BBC project hold out, impasse continues - The Hindu",
+      "scraped_at": "2026-02-18 09:03:27",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
