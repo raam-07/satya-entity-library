@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -385,6 +385,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-takes-dig-at-pms-manav-vision-for-ai/article70651402.ece",
             "source_title": "AI Summit 2026: Congress takes dig at PM Modi's ‘MANAV’ vision for AI - The Hindu",
             "scraped_at": "2026-02-19 06:15:15"
+          },
+          {
+            "incident_text": "Narendra Modi's government has not implemented a new policy regarding passports as proof of citizenship.",
+            "source_url": "https://www.ndtv.com/india-news/passport-valid-document-for-voter-roll-revision-election-commission-11686995#publisher=newsstand",
+            "source_title": "Passport Valid Document For Voter Roll Revision: Election Commission",
+            "scraped_at": "2026-06-25 15:27:23"
           }
         ]
       },
