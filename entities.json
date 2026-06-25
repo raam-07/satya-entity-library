@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1279,6 +1279,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-expresses-regret-in-defamation-case-filed-by-shivraj-singh-chouhans-son/article71143233.ece",
             "source_title": "Rahul Gandhi expresses regret in defamation case filed by Shivraj Singh Chouhan's son - The Hindu",
             "scraped_at": "2026-06-25 01:37:24"
+          },
+          {
+            "incident_text": "",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-high-court-defamation-shivraj-singh-chouhan-son-10757297/",
+            "source_title": "Rahul Gandhi expresses regret in defamation case by Shivraj Singh Chouhan’s son | India News - The Indian Express",
+            "scraped_at": "2026-06-25 12:30:04"
           }
         ]
       },
@@ -6950,6 +6956,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-is-developing-a-quantum-ecosystem-for-global-markets-says-cm-naidu/article70656103.ece",
       "source_title": "A.P. is developing Quantum ecosystem for global markets, says CM Naidu - The Hindu",
       "scraped_at": "2026-02-20 08:46:30",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Suvendu Adhikari",
+      "promise_text": "compensation for victims' families and promised strict action against those responsible",
+      "source_url": "https://www.ndtv.com/india-news/result-of-sins-suvendu-adhikari-slams-trinamool-over-kolkata-roof-collapse-11686149#publisher=newsstand",
+      "source_title": "\"Result Of Sins\": Suvendu Adhikari Slams Trinamool Over Kolkata Roof Collapse",
+      "scraped_at": "2026-06-25 12:28:25",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
