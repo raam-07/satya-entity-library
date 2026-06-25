@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1291,6 +1291,12 @@
             "source_url": "https://indianexpress.com/article/india/rahul-gandhi-high-court-defamation-shivraj-singh-chouhan-son-10757297/",
             "source_title": "Rahul Gandhi expresses regret in defamation case by Shivraj Singh Chouhan’s son | India News - The Indian Express",
             "scraped_at": "2026-06-25 12:30:04"
+          },
+          {
+            "incident_text": "Rahul Gandhi confirmed the DMK had committed one Rajya Sabha seat to the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/rs-polls-on-march-16-dmk-aiadmk-to-accommodate-allies/article70648415.ece",
+            "source_title": "RS polls on March 16; DMK, AIADMK to accommodate allies - The Hindu",
+            "scraped_at": "2026-02-18 14:37:35"
           }
         ]
       },
