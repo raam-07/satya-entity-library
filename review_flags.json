@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-25 17:08:07.284527",
+  "generated_at": "2026-06-25 17:27:48.052957",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -53,8 +53,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.64,
-      "mentions": 14,
+      "confidence": 0.62,
+      "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "core full marks, he said. He said parents of those who had written these exams in other centres were viewing these exams with suspicion and were alleging that irregularities had taken place. He urged "
     },
