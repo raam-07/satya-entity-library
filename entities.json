@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7133,6 +7133,16 @@
       "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-vetoed-sonia-offer-to-make-me-cm-in-2014-himanta-biswa-sarma/article70643234.ece",
       "source_title": "Rahul Gandhi vetoed Sonia offer to make me CM in 2014: Himanta Biswa Sarma - The Hindu",
       "scraped_at": "2026-02-17 09:04:42",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "the family that the guilty would receive the \"harshest punishment\" and accepted their demand for a special public prosecutor",
+      "source_url": "https://www.ndtv.com/india-news/lohagad-fort-murder-26-11-prosecutor-ujjwal-nikam-to-fight-pune-murder-victim-ketan-agarwals-case-11690729#publisher=newsstand",
+      "source_title": "Lohagad Fort Murder: 26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim Ketan Agarwal's Case",
+      "scraped_at": "2026-06-26 11:50:48",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
