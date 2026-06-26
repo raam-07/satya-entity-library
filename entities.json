@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -2228,6 +2228,12 @@
             "source_url": "https://www.thehindu.com/news/national/my-statements-are-always-within-constitutional-limits-have-no-fear-assam-cm-on-viral-video-row/article70644343.ece",
             "source_title": "My statements are always within constitutional limits, have no fear: Assam CM on viral video row - The Hindu",
             "scraped_at": "2026-02-17 11:08:09"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma denied knowledge of a video depicting him shooting members of a minority community.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/fir-registered-over-objectionable-social-media-post-by-assam-bjp/article70642696.ece",
+            "source_title": "FIR registered over objectionable social media post by Assam BJP - The Hindu",
+            "scraped_at": "2026-02-17 09:04:33"
           }
         ]
       },
