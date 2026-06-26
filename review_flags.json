@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26 00:27:41.623587",
+  "generated_at": "2026-06-26 00:54:35.852216",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
@@ -97,7 +97,7 @@
       "type": "ruling_party",
       "state": "West Bengal",
       "candidate": "BJP",
-      "confidence": 0.86,
+      "confidence": 0.9,
       "reason": "Gemma rejected",
       "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     },
