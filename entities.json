@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -915,6 +915,12 @@
             "source_url": "https://www.ndtv.com/india-news/bjp-wont-be-junior-partner-hardeep-puri-on-alliance-speculation-in-punjab-11633062#publisher=newsstand",
             "source_title": "BJP Won't Be Junior Partner: Hardeep Puri On Alliance Speculation In Punjab",
             "scraped_at": "2026-06-13 19:47:12"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri claimed he met Jeffrey Epstein on a few occasions for professional reasons.",
+            "source_url": "https://www.thehindu.com/news/national/hardeep-puri-must-clarify-his-62-email-exchanges-14-meetings-with-epstein-congress/article70643822.ece",
+            "source_title": "Hardeep Puri must clarify his ‘62 email exchanges, 14 meetings’ with Epstein: Congress - The Hindu",
+            "scraped_at": "2026-02-17 12:31:10"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2209,6 +2215,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/stop-hindu-certificates-to-politicians-gogoi-tells-assam-cm/article70647583.ece",
             "source_title": "Assam CM Gaurav Gogoi to CM Himanta Sarma: Stop ‘Hindu certificates’ to politicians - The Hindu",
             "scraped_at": "2026-02-18 07:46:17"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma stated his remarks are always within constitutional limits and he fears no repercussions.",
+            "source_url": "https://www.thehindu.com/news/national/my-statements-are-always-within-constitutional-limits-have-no-fear-assam-cm-on-viral-video-row/article70644343.ece",
+            "source_title": "My statements are always within constitutional limits, have no fear: Assam CM on viral video row - The Hindu",
+            "scraped_at": "2026-02-17 11:08:09"
           }
         ]
       },
@@ -7083,6 +7095,16 @@
       "source_title": "Detailed project report being prepared for six-laning of Salem-Chengapalli stretch of NH 544 - The Hindu",
       "scraped_at": "2026-02-18 03:27:15",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the Tamil Nadu State Budget will integrate climate action across all departments",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/budget-will-be-planned-to-integrate-climate-action-in-schemes-across-departments-stalin/article70644209.ece",
+      "source_title": "Budget will be planned to integrate climate action in schemes across departments: Stalin - The Hindu",
+      "scraped_at": "2026-02-17 12:30:05",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
