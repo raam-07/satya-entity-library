@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -391,6 +391,12 @@
             "source_url": "https://www.ndtv.com/india-news/passport-valid-document-for-voter-roll-revision-election-commission-11686995#publisher=newsstand",
             "source_title": "Passport Valid Document For Voter Roll Revision: Election Commission",
             "scraped_at": "2026-06-25 15:27:23"
+          },
+          {
+            "incident_text": "Narendra Modi's government blocked a cartoon video due to concerns about its potential impact on national security, defense, reputation, and foreign relations.",
+            "source_url": "https://www.thehindu.com/news/national/on-the-importance-of-satire/article70643183.ece",
+            "source_title": "On the importance of satire - The Hindu",
+            "scraped_at": "2026-02-17 23:30:40"
           }
         ]
       },
@@ -803,6 +809,12 @@
             "source_url": "https://www.thehindu.com/news/national/iampb-minister-asks-online-platforms-to-take-responsibility-for-content-share-revenue-fairly/article70679632.ece",
             "source_title": "I&B Minister asks online platforms to take responsibility for content, share revenue fairly - The Hindu",
             "scraped_at": "2026-02-26 08:26:01"
+          },
+          {
+            "incident_text": "Ashwini Vaishnaw apologized for difficulties attendees faced on the opening day of the India AI Impact Summit.",
+            "source_url": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-pm-modi-artificial-intelligence-news-delhi-updates/article70645921.ece",
+            "source_title": "India AI Summit 2026 Day 3 LIVE: PM Modi highlights India's transformative potential, role in AI revolution - The Hindu",
+            "scraped_at": "2026-02-17 23:29:50"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1489,6 +1501,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-accuses-congress-president-and-his-son-of-land-grab-through-trust-in-karnataka/article71142571.ece",
             "source_title": "BJP accuses Congress president and his son of ‘land grab’ through trust in Karnataka - The Hindu",
             "scraped_at": "2026-06-24 18:22:58"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge criticized the Modi Government for 'utter chaos and rank mismanagement'.",
+            "source_url": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-pm-modi-artificial-intelligence-news-delhi-updates/article70645921.ece",
+            "source_title": "India AI Summit 2026 Day 3 LIVE: PM Modi highlights India's transformative potential, role in AI revolution - The Hindu",
+            "scraped_at": "2026-02-17 23:29:50"
           }
         ],
         "criminal_cases_in_news": 1,
