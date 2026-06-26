@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1507,6 +1507,12 @@
             "source_url": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-pm-modi-artificial-intelligence-news-delhi-updates/article70645921.ece",
             "source_title": "India AI Summit 2026 Day 3 LIVE: PM Modi highlights India's transformative potential, role in AI revolution - The Hindu",
             "scraped_at": "2026-02-17 23:29:50"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge criticized the Modi government's management of the AI summit as 'utter chaos' and 'rank mismanagement'.",
+            "source_url": "https://www.thehindu.com/news/national/it-minister-apologises-for-ai-summit-troubles-global-embarrassment-says-kharge/article70643571.ece",
+            "source_title": "IT Minister apologises for AI summit troubles; global embarrassment, says Kharge - The Hindu",
+            "scraped_at": "2026-02-17 13:39:36"
           }
         ],
         "criminal_cases_in_news": 1,
