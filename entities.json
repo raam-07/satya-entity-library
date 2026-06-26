@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7173,6 +7173,16 @@
       "source_url": "https://www.ndtv.com/india-news/lohagad-fort-murder-26-11-prosecutor-ujjwal-nikam-to-fight-pune-murder-victim-ketan-agarwals-case-11690729#publisher=newsstand",
       "source_title": "Lohagad Fort Murder: 26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim Ketan Agarwal's Case",
       "scraped_at": "2026-06-26 11:50:48",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Conrad Sangma",
+      "promise_text": "that 57 FIRs have been registered following a fatal coal mine explosion that killed 33 miners on February 5th",
+      "source_url": "https://www.thehindu.com/news/national/meghalaya/rat-hole-mine-blast-firs-illegal-coal-seized-in-meghalaya/article70639320.ece",
+      "source_title": "Meghalaya rat-hole mine blast: 57 FIRs registered, 15,000 tonnes illegal coal seized - The Hindu",
+      "scraped_at": "2026-02-16 13:45:41",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
