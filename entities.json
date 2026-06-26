@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -509,6 +509,12 @@
             "source_url": "https://www.thehindu.com/news/national/decision-on-jk-statehood-soon-arjun-meghwal/article70643023.ece",
             "source_title": "Decision on J&K Statehood soon: Arjun Meghwal - The Hindu",
             "scraped_at": "2026-02-17 07:47:25"
+          },
+          {
+            "incident_text": "Amit Shah promised to implement UCC in West Bengal within six months if BJP came to power.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ucc-to-be-implemented-in-bengal-by-following-all-procedures-suvendu/article71149912.ece",
+            "source_title": "UCC to be implemented in State through proper procedure, says Bengal CM - The Hindu",
+            "scraped_at": "2026-06-26 19:25:27"
           }
         ]
       },
@@ -3318,6 +3324,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-worker-killed-in-howrah-wb-cm-promises-law-to-seize-properties-of-accused/article71123386.ece",
             "source_title": "BJP worker killed in Howrah; W.B. CM promises law to seize properties of accused - The Hindu",
             "scraped_at": "2026-06-19 20:55:38"
+          },
+          {
+            "incident_text": "Suvendu Adhikari pledged to introduce laws against 'land jihad', 'love jihad', and forced religious conversion, along with the Uniform Civil Code.",
+            "source_url": "https://www.ndtv.com/india-news/bengal-to-implement-uniform-code-bring-anti-conversion-law-suvendu-adhikari-11692904#publisher=newsstand",
+            "source_title": "Bengal To Implement Uniform Code, Bring Anti-Conversion Law: Suvendu Adhikari",
+            "scraped_at": "2026-06-26 19:23:26"
           }
         ]
       },
