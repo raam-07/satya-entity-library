@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2167,6 +2167,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-leaders-push-for-mass-firs-against-assam-cm-for-communal-statements/article70652771.ece",
             "source_title": "Uttar Pradesh Congress leaders push for mass FIRs against Assam CM for ‘communal’ statements - The Hindu",
             "scraped_at": "2026-02-19 11:31:52"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma claimed Bhupen Kumar Borah was the 'last Hindu leader' without a dynastic family in Congress.",
+            "source_url": "https://www.thehindu.com/news/national/assam/stop-hindu-certificates-to-politicians-gogoi-tells-assam-cm/article70647583.ece",
+            "source_title": "Assam CM Gaurav Gogoi to CM Himanta Sarma: Stop ‘Hindu certificates’ to politicians - The Hindu",
+            "scraped_at": "2026-02-18 07:46:17"
           }
         ]
       },

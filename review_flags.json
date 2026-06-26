@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-26 00:54:35.852216",
+  "generated_at": "2026-06-26 01:16:04.788271",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -15,30 +15,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.5,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "een an election issue. Seven persons, including his manager Siddharth Sharma and event organiser Shaymkanu Mahanta, have been in judicial custody in connection with the singer-composer’s death. While "
-    },
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.5,
-      "mentions": 12,
-      "reason": "Below auto-update threshold",
-      "context": "s, and increased EC observer deployment. The Bharatiya Janata Party (BJP) on Monday (March 30, 2026) urged the Election Commission of India (EC) to initiate legal proceedings and prohibit West Bengal "
-    },
-    {
-      "type": "cm_detection",
       "state": "Andhra Pradesh",
       "candidate": "Chandrababu Naidu",
       "confidence": 0.43,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.5,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "een an election issue. Seven persons, including his manager Siddharth Sharma and event organiser Shaymkanu Mahanta, have been in judicial custody in connection with the singer-composer’s death. While "
     },
     {
       "type": "cm_detection",
@@ -57,6 +48,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.5,
+      "mentions": 12,
+      "reason": "Below auto-update threshold",
+      "context": "s, and increased EC observer deployment. The Bharatiya Janata Party (BJP) on Monday (March 30, 2026) urged the Election Commission of India (EC) to initiate legal proceedings and prohibit West Bengal "
     },
     {
       "type": "cm_detection",
