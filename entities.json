@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -3794,6 +3794,13 @@
             "source_title": "1.2 crore names may be deleted after SIR in Bengal, says Mamata - The Hindu",
             "scraped_at": "2026-02-25 12:11:45",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal IPAC raids case: SC to decide if ED is ‘weaponised’ or ‘terrorised’ - The Hindu The **West Bengal** government argued in the Supreme Court that the **ED** is being used to target political",
+            "source_url": "https://www.thehindu.com/news/national/i-pac-raids-case-supreme-court-to-decide-if-ed-is-weaponised-or-terrorised/article70646324.ece",
+            "source_title": "West Bengal IPAC raids case: SC to decide if ED is ‘weaponised’ or ‘terrorised’ - The Hindu",
+            "scraped_at": "2026-02-18 02:07:02",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3912,9 +3919,9 @@
             "scraped_at": "2026-02-19 11:31:58"
           }
         ],
-        "criminal_cases_in_news": 18,
+        "criminal_cases_in_news": 19,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-22"
+        "criminal_last_updated": "2026-06-26"
       },
       {
         "name": "Siddaramaiah",
