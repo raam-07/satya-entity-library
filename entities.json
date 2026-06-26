@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1355,7 +1355,14 @@
           }
         ],
         "criminal_last_updated": "2026-06-15",
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-vetoed-sonia-offer-to-make-me-cm-in-2014-himanta-biswa-sarma/article70643234.ece",
+            "source_title": "Rahul Gandhi vetoed Sonia offer to make me CM in 2014: Himanta Biswa Sarma - The Hindu",
+            "scraped_at": "2026-02-17 09:04:42"
+          }
+        ]
       },
       {
         "name": "Priyanka Gandhi",
@@ -7104,6 +7111,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/budget-will-be-planned-to-integrate-climate-action-in-schemes-across-departments-stalin/article70644209.ece",
       "source_title": "Budget will be planned to integrate climate action in schemes across departments: Stalin - The Hindu",
       "scraped_at": "2026-02-17 12:30:05",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Himanta Biswa Sarma",
+      "promise_text": "that Sonia Gandhi offered him the position and he had planned to take oath on June 30th",
+      "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-vetoed-sonia-offer-to-make-me-cm-in-2014-himanta-biswa-sarma/article70643234.ece",
+      "source_title": "Rahul Gandhi vetoed Sonia offer to make me CM in 2014: Himanta Biswa Sarma - The Hindu",
+      "scraped_at": "2026-02-17 09:04:42",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
