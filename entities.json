@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2727,6 +2727,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/raut-seeks-action-against-rebel-mp-sanjay-patil-over-threats-fadnavis-says-police-will-act/article71145613.ece",
             "source_title": "Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu",
             "scraped_at": "2026-06-25 09:55:21"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated that his meeting with Uddhav Thackeray was the biggest news of the day.",
+            "source_url": "https://www.ndtv.com/india-news/biggest-news-of-the-day-devendra-fadnavis-after-sharing-flight-with-uddhav-thackeray-11692439#publisher=newsstand",
+            "source_title": "\"Biggest News Of The Day\": Devendra Fadnavis After Sharing Flight With Uddhav Thackeray",
+            "scraped_at": "2026-06-26 17:05:06"
           }
         ],
         "criminal_cases_in_news": 2,
