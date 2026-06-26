@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1297,6 +1297,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/rs-polls-on-march-16-dmk-aiadmk-to-accommodate-allies/article70648415.ece",
             "source_title": "RS polls on March 16; DMK, AIADMK to accommodate allies - The Hindu",
             "scraped_at": "2026-02-18 14:37:35"
+          },
+          {
+            "incident_text": "Rahul Gandhi said the AI Summit was a 'disorganised PR spectacle' and alleged Chinese products were showcased.",
+            "source_url": "https://www.thehindu.com/news/national/those-who-lack-intelligence-shouldnt-post-about-ai-bjp-on-rahul-gandhis-ai-summit-remark/article70647036.ece",
+            "source_title": "Those who lack intelligence shouldn’t post about AI: BJP on Rahul Gandhi’s AI Summit remark - The Hindu",
+            "scraped_at": "2026-02-18 05:24:08"
           }
         ]
       },
