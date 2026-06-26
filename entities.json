@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7042,6 +7042,16 @@
       "source_title": "Bengaluru: Farmers on other stretches of BBC project hold out, impasse continues - The Hindu",
       "scraped_at": "2026-02-18 09:03:27",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitin Gadkari",
+      "promise_text": "that the DPR is under preparation and further action will be taken based on the outcome of the study",
+      "source_url": "https://www.thehindu.com/news/cities/Coimbatore/detailed-project-report-being-prepared-for-six-laning-of-salem-chengapalli-stretch-of-nh-544/article70646414.ece",
+      "source_title": "Detailed project report being prepared for six-laning of Salem-Chengapalli stretch of NH 544 - The Hindu",
+      "scraped_at": "2026-02-18 03:27:15",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
