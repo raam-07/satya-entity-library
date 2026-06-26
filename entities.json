@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1333,6 +1333,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/gaurav-gogoi-just-face-of-assam-congress-rakibul-hussain-its-sole-base-bhupen-borah/article70646396.ece",
             "source_title": "Gaurav Gogoi just face of Assam Congress, says Bhupen Borah - The Hindu",
             "scraped_at": "2026-02-18 03:27:38"
+          },
+          {
+            "incident_text": "Rahul Gandhi questioned the legality of the defamation case against him.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-bjps-defamation-case-against-rahul-gandhi/article70642067.ece",
+            "source_title": "Karnataka High Court quashes BJP’s defamation case against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-17 04:28:39"
           }
         ]
       },
