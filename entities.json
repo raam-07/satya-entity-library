@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1825,6 +1825,13 @@
             "source_title": "After years of pillion-riding, BJP readies to take the driving seat in Bihar - The Hindu",
             "scraped_at": "2026-03-06 07:38:42",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Land-for-jobs scam case: Delhi court frames charges against Lalu, Rabri Devi - The Hindu A Delhi court formally charged former **Railway Minister Lalu Prasad** and his wife, former **Bihar Chief Minis",
+            "source_url": "https://www.thehindu.com/news/national/land-for-jobs-scam-case-delhi-court-frames-charges-against-lalu-rabri-devi/article70639429.ece",
+            "source_title": "Land-for-jobs scam case: Delhi court frames charges against Lalu, Rabri Devi - The Hindu",
+            "scraped_at": "2026-02-16 11:45:54",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -1847,8 +1854,8 @@
             "scraped_at": "2026-06-20 23:14:35"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-18"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-06-26"
       },
       {
         "name": "Tejashwi Yadav",
