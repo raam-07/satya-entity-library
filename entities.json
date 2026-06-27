@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -409,6 +409,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/politics-where-the-versatile-bhagyaraj-could-not-make-a-dent/article71153679.ece",
             "source_title": "Politics: where the versatile Bhagyaraj could not make a dent - The Hindu",
             "scraped_at": "2026-06-27 10:16:42"
+          },
+          {
+            "incident_text": "Narendra Modi owes an explanation to devotees as the Trust was constituted by his government.",
+            "source_url": "https://www.thehindu.com/news/national/congress-questions-pms-silence-over-alleged-ram-temple-donation-theft/article71154279.ece",
+            "source_title": "Congress questions PM’s silence over alleged Ram temple donation theft - The Hindu",
+            "scraped_at": "2026-06-27 13:57:51"
           }
         ]
       },
@@ -1427,6 +1433,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-general-secretary-priyanka-gandhi-vadra-assam-visit/article70654916.ece",
             "source_title": "Priyanka Gandhi criticises Assam CM for dragging Gaurav Gogoi’s family, children into ‘Pakistan link’ allegation - The Hindu",
             "scraped_at": "2026-02-20 01:35:47"
+          },
+          {
+            "incident_text": "Priyanka Gandhi Vadra called for an investigation into allegations of embezzlement in Ram temple donations.",
+            "source_url": "https://www.thehindu.com/news/national/congress-questions-pms-silence-over-alleged-ram-temple-donation-theft/article71154279.ece",
+            "source_title": "Congress questions PM’s silence over alleged Ram temple donation theft - The Hindu",
+            "scraped_at": "2026-06-27 13:57:51"
           }
         ],
         "criminal_cases_in_news": 0
@@ -3361,6 +3373,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/mla-humayun-kabir-under-fire-after-threatening-bjp-workers-at-murshidabad-rally-10760316/",
             "source_title": "MLA Humayun Kabir under fire after threatening BJP workers at Murshidabad rally | Kolkata News - The Indian Express",
             "scraped_at": "2026-06-27 12:01:19"
+          },
+          {
+            "incident_text": "Suvendu Adhikari accused Firhad Hakim of corruption related to the Taratala warehouse collapse.",
+            "source_url": "https://indianexpress.com/article/political-pulse/taratala-warehouse-collapse-firhad-hakim-ex-aides-arrest-alarm-tmc-rebels-10760470/",
+            "source_title": "Taratala warehouse collapse: Why Firhad Hakim ex-aide’s arrest rings alarm bells among TMC rebels | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-27 13:58:02"
           }
         ]
       },
@@ -4039,6 +4057,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/mla-humayun-kabir-under-fire-after-threatening-bjp-workers-at-murshidabad-rally-10760316/",
             "source_title": "MLA Humayun Kabir under fire after threatening BJP workers at Murshidabad rally | Kolkata News - The Indian Express",
             "scraped_at": "2026-06-27 12:01:19"
+          },
+          {
+            "incident_text": "Mamata Banerjee backed the arrest of Firhad Hakim's former aide in connection with the Taratala warehouse collapse.",
+            "source_url": "https://indianexpress.com/article/political-pulse/taratala-warehouse-collapse-firhad-hakim-ex-aides-arrest-alarm-tmc-rebels-10760470/",
+            "source_title": "Taratala warehouse collapse: Why Firhad Hakim ex-aide’s arrest rings alarm bells among TMC rebels | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-27 13:58:02"
           }
         ],
         "criminal_cases_in_news": 19,
