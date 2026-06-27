@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 0,
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4146,6 +4146,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/congress-leadership-tussle-in-karnataka-gains-traction-again/article70663665.ece",
             "source_title": "Congress leadership tussle in Karnataka gains traction again - The Hindu",
             "scraped_at": "2026-02-22 10:04:37"
+          },
+          {
+            "incident_text": "Siddaramaiah's Congress government has failed to address Bengaluru's infrastructure issues.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-state-executive-on-february-19-to-adopt-resolution-supporting-vb-g-ram-g-asct/article70635226.ece",
+            "source_title": "BJP State executive on February 19 to adopt resolution supporting VB-G RAM G Asct - The Hindu",
+            "scraped_at": "2026-02-15 08:23:44"
           }
         ]
       },
