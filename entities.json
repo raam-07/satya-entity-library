@@ -1,13 +1,13 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-26",
+    "last_updated": "2026-06-27",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5060,9 +5060,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-26",
+        "party_last_updated": "2026-06-27",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-06-26"
+        "cm_last_updated": "2026-06-27"
       },
       {
         "name": "Rajasthan",
@@ -5090,7 +5090,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-26"
+        "party_last_updated": "2026-06-27"
       },
       {
         "name": "Telangana",
@@ -5118,7 +5118,7 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-26"
+        "cm_last_updated": "2026-06-27"
       },
       {
         "name": "Uttarakhand",
