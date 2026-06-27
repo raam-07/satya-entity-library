@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -533,6 +533,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/ucc-to-be-implemented-in-bengal-by-following-all-procedures-suvendu/article71149912.ece",
             "source_title": "UCC to be implemented in State through proper procedure, says Bengal CM - The Hindu",
             "scraped_at": "2026-06-26 19:25:27"
+          },
+          {
+            "incident_text": "Amit Shah is accused of orchestrating defections to hinder Fadnavis's political ascent.",
+            "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
+            "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
+            "scraped_at": "2026-06-27 18:10:51"
           }
         ]
       },
@@ -2782,6 +2788,12 @@
             "source_url": "https://www.ndtv.com/india-news/biggest-news-of-the-day-devendra-fadnavis-after-sharing-flight-with-uddhav-thackeray-11692439#publisher=newsstand",
             "source_title": "\"Biggest News Of The Day\": Devendra Fadnavis After Sharing Flight With Uddhav Thackeray",
             "scraped_at": "2026-06-26 17:05:06"
+          },
+          {
+            "incident_text": "",
+            "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
+            "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
+            "scraped_at": "2026-06-27 18:10:51"
           }
         ],
         "criminal_cases_in_news": 2,
