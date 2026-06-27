@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7289,6 +7289,16 @@
       "source_url": "https://www.ndtv.com/india-news/amit-shah-launches-bharat-taxi-in-gujarat-says-other-apps-exploit-drivers-11695011#publisher=newsstand",
       "source_title": "Amit Shah Launches Bharat Taxi In Gujarat, Says Other Apps Exploit Drivers",
       "scraped_at": "2026-06-27 11:58:38",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "the establishment of \"Walls of Gratitude\" to honor landowners who voluntarily donate land for public infrastructure projects in Karnataka",
+      "source_url": "https://www.thehindu.com/news/cities/bangalore/karnataka-government-to-honour-land-losers-for-development-projects-with-walls-of-gratitude/article71155146.ece",
+      "source_title": "Karnataka government to honour land losers for development projects with ‘Walls of Gratitude’ - The Hindu",
+      "scraped_at": "2026-06-27 19:55:50",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
