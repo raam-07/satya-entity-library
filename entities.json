@@ -2801,6 +2801,12 @@
             "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
             "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
             "scraped_at": "2026-06-27 18:10:51"
+          },
+          {
+            "incident_text": "Devendra Fadnavis condemned Sapkal's comparison as 'deplorable appeasement'",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-chief-draws-flak-over-remarks-on-tipu-sultan-chhatrapati-shivaji/article70632937.ece",
+            "source_title": "Maharashtra Congress chief draws flak over remarks on Tipu Sultan, Chhatrapati Shivaji - The Hindu",
+            "scraped_at": "2026-02-14 12:03:49"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -7317,6 +7323,16 @@
       "source_title": "Piyush Goyal | Crisis manager - The Hindu",
       "scraped_at": "2026-02-14 15:03:55",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Priyanka Gandhi",
+      "promise_text": "that a survey sketch for the rehabilitation of seven Dalit families in the Pariyathukavu settlement has been prepared and will be handed over to the Advocate General for submission to the High Court",
+      "source_url": "https://www.thehindu.com/news/national/kerala/survey-sketch-for-pariyathukavu-rehabilitation-ready-collector/article71155016.ece",
+      "source_title": "Survey sketch for Pariyathukavu rehabilitation ready: Collector - The Hindu",
+      "scraped_at": "2026-06-27 21:12:39",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
