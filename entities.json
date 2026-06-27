@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -397,6 +397,12 @@
             "source_url": "https://www.thehindu.com/news/national/on-the-importance-of-satire/article70643183.ece",
             "source_title": "On the importance of satire - The Hindu",
             "scraped_at": "2026-02-17 23:30:40"
+          },
+          {
+            "incident_text": "Opposition parties criticized Narendra Modi's interview as scripted and lacking substance.",
+            "source_url": "https://www.thehindu.com/news/national/opposition-slams-pm-modi-for-hollow-words-in-scripted-interview/article70636132.ece",
+            "source_title": "Opposition slams PM Modi for ‘hollow words’ in ‘scripted’ interview - The Hindu",
+            "scraped_at": "2026-02-15 12:02:55"
           }
         ]
       },
