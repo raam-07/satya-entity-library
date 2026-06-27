@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2265,6 +2265,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/fir-registered-over-objectionable-social-media-post-by-assam-bjp/article70642696.ece",
             "source_title": "FIR registered over objectionable social media post by Assam BJP - The Hindu",
             "scraped_at": "2026-02-17 09:04:33"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma allegedly made communal speeches and posted a firearm image targeting Muslims.",
+            "source_url": "https://www.thehindu.com/news/national/assam/supreme-court-finds-no-good-reason-to-entertain-pleas-for-hate-speech-fir-against-assam-cm/article70637930.ece",
+            "source_title": "Supreme Court finds ‘no good reason’ to entertain pleas for ‘hate speech’ FIR against Assam CM - The Hindu",
+            "scraped_at": "2026-02-16 04:38:34"
           }
         ]
       },
