@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -760,7 +760,14 @@
         "known_promises": [],
         "image_placeholder": "piyush_goyal",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Piyush Goyal stated that any future trade deal would be mutually beneficial, reciprocal, and equitable.",
+            "source_url": "https://www.thehindu.com/news/national/profile-on-piyush-goyal-crisis-manager/article70633226.ece",
+            "source_title": "Piyush Goyal | Crisis manager - The Hindu",
+            "scraped_at": "2026-02-14 15:03:55"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
@@ -7300,6 +7307,16 @@
       "source_title": "Karnataka government to honour land losers for development projects with ‘Walls of Gratitude’ - The Hindu",
       "scraped_at": "2026-06-27 19:55:50",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Piyush Goyal",
+      "promise_text": "the House that the government was examining the situation and would safeguard national interests",
+      "source_url": "https://www.thehindu.com/news/national/profile-on-piyush-goyal-crisis-manager/article70633226.ece",
+      "source_title": "Piyush Goyal | Crisis manager - The Hindu",
+      "scraped_at": "2026-02-14 15:03:55",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
