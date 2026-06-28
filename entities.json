@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1743,6 +1743,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/in-major-organisational-rejig-bjp-announces-new-office-bearers-in-uttar-pradesh/article71145534.ece",
             "source_title": "In major organisational rejig, BJP announces new office bearers in Uttar Pradesh - The Hindu",
             "scraped_at": "2026-06-25 09:57:39"
+          },
+          {
+            "incident_text": "Akhilesh Yadav stated that using derogatory language against Shankaracharya is both verbal violence and a sin.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/derogatory-language-against-shankaracharya-is-verbal-violence-akhilesh-yadav/article70631542.ece",
+            "source_title": "Derogatory language against Shankaracharya is verbal violence: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-14 02:08:28"
           }
         ],
         "criminal_cases_in_news": 0
@@ -3301,6 +3307,12 @@
             "source_url": "https://www.thehindu.com/news/national/asaduddin-owaisi-takes-swipe-at-yogi-adityanath-over-qayamat-remark-on-babri-masjid/article70631713.ece",
             "source_title": "Asaduddin Owaisi takes swipe at Yogi Adityanath over ‘Qayamat’ remark on Babri Masjid - The Hindu",
             "scraped_at": "2026-02-14 05:05:26"
+          },
+          {
+            "incident_text": "Yogi Adityanath stated that not everyone is entitled to use the title of 'Shankaracharya'.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/derogatory-language-against-shankaracharya-is-verbal-violence-akhilesh-yadav/article70631542.ece",
+            "source_title": "Derogatory language against Shankaracharya is verbal violence: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-14 02:08:28"
           }
         ],
         "criminal_cases_in_news": 0
