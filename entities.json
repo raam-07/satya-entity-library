@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7400,6 +7400,16 @@
       "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-death-rohit-pawar-writes-to-amit-shah-civil-aviation-minister-dgca-for-plane-crash-probe/article70632087.ece",
       "source_title": "Ajit Pawar death: Rohit Pawar writes to Amit Shah, Civil Aviation Minister, DGCA for plane crash probe - The Hindu",
       "scraped_at": "2026-02-14 07:30:45",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "them that it would be forwarded to the Chief Minister and the Chief Secretary of the State",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/mlc-calls-on-tribals-to-unite-and-fight-for-their-rights/article70629200.ece",
+      "source_title": "MLC calls on tribals to unite and fight for their rights - The Hindu",
+      "scraped_at": "2026-02-13 09:44:26",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
