@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3158,6 +3158,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
             "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
             "scraped_at": "2026-06-24 00:04:02"
+          },
+          {
+            "incident_text": "C. Joseph Vijay blamed the previous DMK regime for any problem.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-stuck-in-disaster-under-tvk-rule-udhayanidhi-stalin/article71157521.ece",
+            "source_title": "Tamil Nadu stuck in ‘disaster’ under TVK rule: Udhayanidhi Stalin - The Hindu",
+            "scraped_at": "2026-06-28 13:02:11"
           }
         ]
       },
