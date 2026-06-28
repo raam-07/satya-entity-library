@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1415,6 +1415,12 @@
             "source_url": "https://www.ndtv.com/india-news/politics-is-24-hour-job-pranab-mukherjees-daughter-sharmistha-mukherjee-on-rahul-gandhis-disappearing-act-11698228#publisher=newsstand",
             "source_title": "\"Politics Is 24-Hour Job\": Pranab Mukherjee's Daughter Sharmistha Mukherjee On Rahul Gandhi's \"Disappearing Act\"",
             "scraped_at": "2026-06-28 11:12:37"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly colludes with anti-India forces through visits to Southeast Asian countries with organizations like the Soros Foundation, Ford Foundation, and USAID.",
+            "source_url": "https://www.thehindu.com/news/national/what-is-a-substantive-motion-why-bjp-wants-rahul-gandhi-disqualified-from-lok-sabha/article70627499.ece",
+            "source_title": "What is a Substantive Motion, under which BJP MP is seeking Rahul Gandhi’s disqualification - The Hindu",
+            "scraped_at": "2026-02-13 03:23:32"
           }
         ]
       },
@@ -2518,6 +2524,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
             "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
             "scraped_at": "2026-06-03 09:54:24"
+          },
+          {
+            "incident_text": "Sukhvinder Singh Sukhu's government requested a six-month delay in local body elections.",
+            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-asks-himachal-pradesh-govt-sec-to-hold-local-body-polls-by-may-31/article70627549.ece",
+            "source_title": "Supreme Court asks Himachal Pradesh govt, SEC to hold local body polls by May 31 - The Hindu",
+            "scraped_at": "2026-02-13 03:23:04"
           }
         ],
         "criminal_cases_in_news": 0
@@ -7464,6 +7476,16 @@
       "source_url": "https://www.thehindu.com/videos/ahead-of-elections-tamil-nadu-cm-stalin-announces-major-cash-payout-for-women/article70627624.ece",
       "source_title": "Ahead of elections, Tamil Nadu CM Stalin announces major cash payout for women - The Hindu",
       "scraped_at": "2026-02-13 04:25:28",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that airports act as a foundation for real estate development and is working to address height restrictions near airports while ensuring aviation safety",
+      "source_url": "https://www.thehindu.com/news/national/aiming-for-50-more-airports-in-5-years-will-provide-huge-real-estate-opportunities-aviation-minister-naidu/article70627522.ece",
+      "source_title": "Aiming for 50 more airports in 5 years, will provide huge real estate opportunities: Aviation Minister Naidu - The Hindu",
+      "scraped_at": "2026-02-13 03:23:24",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false

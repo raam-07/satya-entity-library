@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28 16:09:02.900119",
+  "generated_at": "2026-06-28 16:59:03.898313",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 2,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 12
@@ -17,10 +17,10 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Mamata Banerjee",
-      "confidence": 0.5,
-      "mentions": 12,
+      "confidence": 0.48,
+      "mentions": 11,
       "reason": "Below auto-update threshold",
-      "context": "s, and increased EC observer deployment. The Bharatiya Janata Party (BJP) on Monday (March 30, 2026) urged the Election Commission of India (EC) to initiate legal proceedings and prohibit West Bengal "
+      "context": "e West Bengal Assembly election by addressing a public meeting at Naoda in Murshidabad with his ally, Aam Janata Unnayan Party (AJUP) leader Humayun Kabir. Accusing Trinamool Congress chairperson and "
     },
     {
       "type": "cm_detection",
