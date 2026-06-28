@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -2249,7 +2249,7 @@
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
         "image_placeholder": "himanta_biswa_sarma",
@@ -2278,9 +2278,16 @@
             "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
             "scraped_at": "2026-04-07 08:22:43.536400",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu The **Supreme Court** will hear petitions on February 16, 2026, concerning **Assam Chief Minister Himanta Bisw",
+            "source_url": "https://www.thehindu.com/news/national/himanta-firearm-video-supreme-court-to-hear-pleas-against-assam-cm-on-feb-16/article70631849.ece",
+            "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
+            "scraped_at": "2026-02-14 06:00:35",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-06-28",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -2329,6 +2336,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/supreme-court-finds-no-good-reason-to-entertain-pleas-for-hate-speech-fir-against-assam-cm/article70637930.ece",
             "source_title": "Supreme Court finds ‘no good reason’ to entertain pleas for ‘hate speech’ FIR against Assam CM - The Hindu",
             "scraped_at": "2026-02-16 04:38:34"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma is accused in a viral video of firing a rifle at two individuals, one wearing a skullcap and the other with a beard.",
+            "source_url": "https://www.thehindu.com/news/national/himanta-firearm-video-supreme-court-to-hear-pleas-against-assam-cm-on-feb-16/article70631849.ece",
+            "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
+            "scraped_at": "2026-02-14 06:00:35"
           }
         ]
       },
