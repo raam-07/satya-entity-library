@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -427,6 +427,12 @@
             "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
             "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
             "scraped_at": "2026-02-13 02:08:04"
+          },
+          {
+            "incident_text": "Narendra Modi is accused of being 'anti-farmer' and 'selling' the country through the India-U.S. trade deal.",
+            "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+            "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-12 14:08:36"
           }
         ]
       },
@@ -1090,7 +1096,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 11,
+        "criminal_cases_in_news": 12,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1168,9 +1174,16 @@
             "source_title": "Man detained in Kota for threatening to shoot Rahul Gandhi, other Congress MPs - The Hindu",
             "scraped_at": "2026-02-19 06:13:07",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu **Rahul Gandhi**, leader of the **Lok Sabha**'s Opposition, stated",
+            "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+            "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-12 14:08:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-25",
+        "criminal_last_updated": "2026-06-28",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -1453,6 +1466,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-demands-petroleum-minister-hardeep-singh-puris-resignation/article70625398.ece",
             "source_title": "Congress demands Petroleum Minister Hardeep Singh Puri’s resignation - The Hindu",
             "scraped_at": "2026-02-12 14:08:55"
+          },
+          {
+            "incident_text": "Rahul Gandhi accused Prime Minister Modi of being 'anti-farmer' and 'selling' India through the India-U.S. trade deal.",
+            "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+            "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-12 14:08:36"
           }
         ]
       },
