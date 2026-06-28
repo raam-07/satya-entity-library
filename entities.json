@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -858,6 +858,12 @@
             "source_url": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-pm-modi-artificial-intelligence-news-delhi-updates/article70645921.ece",
             "source_title": "India AI Summit 2026 Day 3 LIVE: PM Modi highlights India's transformative potential, role in AI revolution - The Hindu",
             "scraped_at": "2026-02-17 23:29:50"
+          },
+          {
+            "incident_text": "Ashwini Vaishnaw stated the relocation symbolizes India's shift from slavery's past to a future of 'Viksit Bharat' (Developed India).",
+            "source_url": "https://www.thehindu.com/news/national/cabinet-resolution-hails-shifting-of-pmo-to-seva-teerth/article70632244.ece",
+            "source_title": "Cabinet resolution hails shifting of PMO to Seva Teerth as 'confluence of history and future' - The Hindu",
+            "scraped_at": "2026-02-14 10:27:54"
           }
         ],
         "criminal_cases_in_news": 0
