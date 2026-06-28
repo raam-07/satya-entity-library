@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -933,7 +933,15 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Hardeep_Singh_Puri",
         "known_promises": [],
         "image_placeholder": "hardeep_singh_puri",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Watch: When the PM and LOP could not finish their speeches | Parliament budget session - The Hindu The first half of the Budget session of Parliament was marked by disruptions, with **PM Modi** and **",
+            "source_url": "https://www.thehindu.com/videos/watch-when-the-pm-and-lop-could-not-finish-their-speeches-parliament-budget-session/article70632010.ece",
+            "source_title": "Watch: When the PM and LOP could not finish their speeches | Parliament budget session - The Hindu",
+            "scraped_at": "2026-02-14 07:31:01",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Hardeep Singh Puri stated the INDIA alliance is plagued by internal contradictions and is unraveling.",
@@ -970,9 +978,16 @@
             "source_url": "https://www.thehindu.com/news/national/hardeep-puri-must-clarify-his-62-email-exchanges-14-meetings-with-epstein-congress/article70643822.ece",
             "source_title": "Hardeep Puri must clarify his ‘62 email exchanges, 14 meetings’ with Epstein: Congress - The Hindu",
             "scraped_at": "2026-02-17 12:31:10"
+          },
+          {
+            "incident_text": "Hardeep Puri was involved in the Epstein Files controversy.",
+            "source_url": "https://www.thehindu.com/videos/watch-when-the-pm-and-lop-could-not-finish-their-speeches-parliament-budget-session/article70632010.ece",
+            "source_title": "Watch: When the PM and LOP could not finish their speeches | Parliament budget session - The Hindu",
+            "scraped_at": "2026-02-14 07:31:01"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-28"
       },
       {
         "name": "Kiren Rijiju",
@@ -7339,6 +7354,16 @@
       "source_title": "Survey sketch for Pariyathukavu rehabilitation ready: Collector - The Hindu",
       "scraped_at": "2026-06-27 21:12:39",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sharad Pawar",
+      "promise_text": "his intention is not political but to ensure the truth behind the accident is established definitively",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-death-rohit-pawar-writes-to-amit-shah-civil-aviation-minister-dgca-for-plane-crash-probe/article70632087.ece",
+      "source_title": "Ajit Pawar death: Rohit Pawar writes to Amit Shah, Civil Aviation Minister, DGCA for plane crash probe - The Hindu",
+      "scraped_at": "2026-02-14 07:30:45",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
