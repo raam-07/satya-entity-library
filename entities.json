@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -421,6 +421,12 @@
             "source_url": "https://www.ndtv.com/india-news/pranab-mukherjee-praised-pm-modi-in-diary-daughter-sharmistha-mukherjee-shares-what-he-wrote-11698055#publisher=newsstand",
             "source_title": "Pranab Mukherjee Praised PM Modi In Diary. Daughter Sharmistha Mukherjee Shares What He Wrote",
             "scraped_at": "2026-06-28 11:13:57"
+          },
+          {
+            "incident_text": "Narendra Modi emphasized the importance of a 'double-engine government' for growth.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
+            "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
+            "scraped_at": "2026-02-13 02:08:04"
           }
         ]
       },
@@ -792,9 +798,17 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
         "known_promises": [],
         "image_placeholder": "dharmendra_pradhan",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "Sonam Wangchuk launches hunger strike at Jantar Mantar in support of CJP protest | The Indian Express **Sonam Wangchuk**, a prominent activist, and six members of the **All India Students’ Association",
+            "source_url": "https://indianexpress.com/article/delhi/sonam-wangchuk-hunger-strike-jantar-mantar-cockroach-cjp-abhijeet-pradhan-10761818/",
+            "source_title": "Sonam Wangchuk launches hunger strike at Jantar Mantar in support of CJP protest | The Indian Express",
+            "scraped_at": "2026-06-28 16:17:50",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-06-28",
         "controversies": [
           {
             "incident_text": "Dharmendra Pradhan announced the NEET-UG exam will be computer-based next year.",
@@ -1421,6 +1435,12 @@
             "source_url": "https://www.thehindu.com/news/national/what-is-a-substantive-motion-why-bjp-wants-rahul-gandhi-disqualified-from-lok-sabha/article70627499.ece",
             "source_title": "What is a Substantive Motion, under which BJP MP is seeking Rahul Gandhi’s disqualification - The Hindu",
             "scraped_at": "2026-02-13 03:23:32"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed to have verified information linking Hardeep Singh Puri to the Epstein files.",
+            "source_url": "https://www.thehindu.com/news/national/opposition-mps-demand-hardeep-puris-resignation-over-alleged-links-with-epstein/article70627293.ece",
+            "source_title": "Opposition MPs demand Hardeep Puri's resignation over alleged links with Epstein - The Hindu",
+            "scraped_at": "2026-02-13 02:07:17"
           }
         ]
       },
@@ -2650,6 +2670,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/i-am-targeted-but-wont-be-a-coward-says-cm-setting-off-more-speculation/article70659929.ece",
             "source_title": "I am ‘targeted’, but won’t be a ‘coward’, says CM, setting off more speculation - The Hindu",
             "scraped_at": "2026-02-21 12:03:02"
+          },
+          {
+            "incident_text": "D.K. Shivakumar is a loyal Congressman and will not embarrass the party.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-mlc-channaraj-hattiholi-dismisses-rumours-that-deputy-cm-dk-shivakumar-is-planning-coup-in-karnataka/article70625591.ece",
+            "source_title": "Congress MLC dismisses rumours of coup by Deputy CM D.K. Shivakumar in Karnataka - The Hindu",
+            "scraped_at": "2026-02-13 02:07:48"
           }
         ]
       },
@@ -3798,6 +3824,18 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-running-several-right-wing-social-media-accounts-spreading-fake-news-says-stalin/article70656380.ece",
             "source_title": "BJP running several right-wing social media accounts spreading fake news, says Stalin - The Hindu",
             "scraped_at": "2026-02-20 16:25:13"
+          },
+          {
+            "incident_text": "M.K. Stalin does not understand people's issues and only cares about his family's political power, according to Nainar Nagenthran.",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/bjp-to-begin-talks-on-seat-allocation-in-a-month-nainar-nagenthran/article70624981.ece",
+            "source_title": "BJP to begin talks on seat allocation in a month: Nainar Nagenthran - The Hindu",
+            "scraped_at": "2026-02-13 02:07:28"
+          },
+          {
+            "incident_text": "M.K. Stalin stated that Opposition-ruled States are thriving without a double-engine government.",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
+            "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
+            "scraped_at": "2026-02-13 02:08:04"
           }
         ],
         "criminal_cases_in_news": 2,
