@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -3295,6 +3295,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
             "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
             "scraped_at": "2026-02-22 10:26:49"
+          },
+          {
+            "incident_text": "Yogi Adityanath stated the Babri structure will never be rebuilt because 'qayamat' (doomsday) will never come.",
+            "source_url": "https://www.thehindu.com/news/national/asaduddin-owaisi-takes-swipe-at-yogi-adityanath-over-qayamat-remark-on-babri-masjid/article70631713.ece",
+            "source_title": "Asaduddin Owaisi takes swipe at Yogi Adityanath over ‘Qayamat’ remark on Babri Masjid - The Hindu",
+            "scraped_at": "2026-02-14 05:05:26"
           }
         ],
         "criminal_cases_in_news": 0
