@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7423,6 +7423,16 @@
       "source_title": "MLC calls on tribals to unite and fight for their rights - The Hindu",
       "scraped_at": "2026-02-13 09:44:26",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to develop Rayalaseema as a horticulture hub with an investment of ₹1 lakh crore",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/crimes-committed-under-the-guise-of-politics-will-not-be-tolerated-warns-chief-minister-chandrababu-naidu/article70628229.ece",
+      "source_title": "Crimes committed under the guise of politics will not be tolerated, warns Chief Minister Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-02-13 07:42:48",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
