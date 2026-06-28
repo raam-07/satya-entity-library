@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -1004,6 +1004,12 @@
             "source_url": "https://www.thehindu.com/videos/watch-when-the-pm-and-lop-could-not-finish-their-speeches-parliament-budget-session/article70632010.ece",
             "source_title": "Watch: When the PM and LOP could not finish their speeches | Parliament budget session - The Hindu",
             "scraped_at": "2026-02-14 07:31:01"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri claimed his contact with Jeffrey Epstein was for 'professional exchanges'.",
+            "source_url": "https://www.thehindu.com/news/national/congress-demands-petroleum-minister-hardeep-singh-puris-resignation/article70625398.ece",
+            "source_title": "Congress demands Petroleum Minister Hardeep Singh Puri’s resignation - The Hindu",
+            "scraped_at": "2026-02-12 14:08:55"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1441,6 +1447,12 @@
             "source_url": "https://www.thehindu.com/news/national/opposition-mps-demand-hardeep-puris-resignation-over-alleged-links-with-epstein/article70627293.ece",
             "source_title": "Opposition MPs demand Hardeep Puri's resignation over alleged links with Epstein - The Hindu",
             "scraped_at": "2026-02-13 02:07:17"
+          },
+          {
+            "incident_text": "Rahul Gandhi prompted a privilege motion for his comments on the matter.",
+            "source_url": "https://www.thehindu.com/news/national/congress-demands-petroleum-minister-hardeep-singh-puris-resignation/article70625398.ece",
+            "source_title": "Congress demands Petroleum Minister Hardeep Singh Puri’s resignation - The Hindu",
+            "scraped_at": "2026-02-12 14:08:55"
           }
         ]
       },
@@ -4339,6 +4351,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-state-executive-on-february-19-to-adopt-resolution-supporting-vb-g-ram-g-asct/article70635226.ece",
             "source_title": "BJP State executive on February 19 to adopt resolution supporting VB-G RAM G Asct - The Hindu",
             "scraped_at": "2026-02-15 08:23:44"
+          },
+          {
+            "incident_text": "Siddaramaiah called the BJP a 'factory of lies' for misleading people and undermining democratic values.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-a-factory-of-lies-says-siddaramaiah-in-mysuru/article71157656.ece",
+            "source_title": "BJP a ‘factory of lies’, says Siddaramaiah in Mysuru - The Hindu",
+            "scraped_at": "2026-06-28 20:44:32"
           }
         ]
       },
