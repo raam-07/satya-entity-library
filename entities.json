@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2909,6 +2909,12 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/uddhav-thackeray-babar-janata-party-operation-devendra-fadnavis-10761750/",
             "source_title": "Uddhav Thackeray calls BJP ‘Babar Janata Party’, says ‘Op tiger’ targeted Fadnavis | Mumbai News - The Indian Express",
             "scraped_at": "2026-06-28 14:56:33"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated he has no wings to clip because he is supported by the people of Maharashtra.",
+            "source_url": "https://www.ndtv.com/india-news/im-human-d-fadnavis-after-uddhav-thackerays-clip-wings-remark-11699555#publisher=newsstand",
+            "source_title": "\"I'm Human\": D Fadnavis After Uddhav Thackeray's \"Clip Wings\" Remark",
+            "scraped_at": "2026-06-28 17:46:37"
           }
         ],
         "criminal_cases_in_news": 2,
