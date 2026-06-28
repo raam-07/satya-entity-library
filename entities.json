@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -415,6 +415,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-questions-pms-silence-over-alleged-ram-temple-donation-theft/article71154279.ece",
             "source_title": "Congress questions PM’s silence over alleged Ram temple donation theft - The Hindu",
             "scraped_at": "2026-06-27 13:57:51"
+          },
+          {
+            "incident_text": "Narendra Modi is the only prime minister after Indira Gandhi who can read the pulse of the people, according to Pranab Mukherjee.",
+            "source_url": "https://www.ndtv.com/india-news/pranab-mukherjee-praised-pm-modi-in-diary-daughter-sharmistha-mukherjee-shares-what-he-wrote-11698055#publisher=newsstand",
+            "source_title": "Pranab Mukherjee Praised PM Modi In Diary. Daughter Sharmistha Mukherjee Shares What He Wrote",
+            "scraped_at": "2026-06-28 11:13:57"
           }
         ]
       },
@@ -1403,6 +1409,12 @@
             "source_url": "https://www.thehindu.com/news/national/you-dont-deserve-that-chair-navjot-kaur-sidhu-lashes-out-at-rahul-gandhi-after-quitting-congress/article70641506.ece",
             "source_title": "‘You don't deserve that chair’: Navjot Kaur Sidhu lashes out at Rahul Gandhi after quitting Congress - The Hindu",
             "scraped_at": "2026-02-16 23:29:27"
+          },
+          {
+            "incident_text": "Rahul Gandhi's sporadic political engagement since 2014 has coincided with the Congress party's consistent election losses.",
+            "source_url": "https://www.ndtv.com/india-news/politics-is-24-hour-job-pranab-mukherjees-daughter-sharmistha-mukherjee-on-rahul-gandhis-disappearing-act-11698228#publisher=newsstand",
+            "source_title": "\"Politics Is 24-Hour Job\": Pranab Mukherjee's Daughter Sharmistha Mukherjee On Rahul Gandhi's \"Disappearing Act\"",
+            "scraped_at": "2026-06-28 11:12:37"
           }
         ]
       },
