@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1608,6 +1608,12 @@
             "source_url": "https://www.thehindu.com/news/national/it-minister-apologises-for-ai-summit-troubles-global-embarrassment-says-kharge/article70643571.ece",
             "source_title": "IT Minister apologises for AI summit troubles; global embarrassment, says Kharge - The Hindu",
             "scraped_at": "2026-02-17 13:39:36"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge requested party members to refrain from speculating about leadership changes.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/enough-is-enough-this-must-stop-says-karnataka-home-minister-on-constant-speculation-on-leadership-change/article70628482.ece",
+            "source_title": "Enough is enough, this must stop, says Karnataka Home Minister on constant speculation on leadership change - The Hindu",
+            "scraped_at": "2026-02-13 12:00:56"
           }
         ],
         "criminal_cases_in_news": 1,
