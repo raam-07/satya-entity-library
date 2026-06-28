@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 2,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2865,6 +2865,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-chief-draws-flak-over-remarks-on-tipu-sultan-chhatrapati-shivaji/article70632937.ece",
             "source_title": "Maharashtra Congress chief draws flak over remarks on Tipu Sultan, Chhatrapati Shivaji - The Hindu",
             "scraped_at": "2026-02-14 12:03:49"
+          },
+          {
+            "incident_text": "Devendra Fadnavis orchestrated the defection of six Lok Sabha MPs to weaken Uddhav Thackeray.",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/uddhav-thackeray-babar-janata-party-operation-devendra-fadnavis-10761750/",
+            "source_title": "Uddhav Thackeray calls BJP ‘Babar Janata Party’, says ‘Op tiger’ targeted Fadnavis | Mumbai News - The Indian Express",
+            "scraped_at": "2026-06-28 14:56:33"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -7439,6 +7445,26 @@
       "source_title": "Crimes committed under the guise of politics will not be tolerated, warns Chief Minister Chandrababu Naidu - The Hindu",
       "scraped_at": "2026-02-13 07:42:48",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "a significant financial aid program for women ahead of state elections",
+      "source_url": "https://www.thehindu.com/videos/ahead-of-elections-tamil-nadu-cm-stalin-announces-major-cash-payout-for-women/article70627624.ece",
+      "source_title": "Ahead of elections, Tamil Nadu CM Stalin announces major cash payout for women - The Hindu",
+      "scraped_at": "2026-02-13 04:25:28",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "a major bonanza for women",
+      "source_url": "https://www.thehindu.com/videos/ahead-of-elections-tamil-nadu-cm-stalin-announces-major-cash-payout-for-women/article70627624.ece",
+      "source_title": "Ahead of elections, Tamil Nadu CM Stalin announces major cash payout for women - The Hindu",
+      "scraped_at": "2026-02-13 04:25:28",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
