@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1502,6 +1502,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-mp-nishikant-dubey-lok-sabha-rahul-gandhi-notice-to-move-motion/article70622899.ece",
             "source_title": "BJP’s Nishikant Dubey files notice to cancel Rahul Gandhi’s Lok Sabha membership - The Hindu",
             "scraped_at": "2026-02-12 02:32:08"
+          },
+          {
+            "incident_text": "Rahul Gandhi is a part-time politician, according to Nitin Nabin.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-a-part-time-politician-says-bjp-national-president-nitin-nabin/article71161560.ece",
+            "source_title": "Rahul Gandhi a ‘part-time politician’, says BJP national president Nitin Nabin - The Hindu",
+            "scraped_at": "2026-06-29 13:53:42"
           }
         ]
       },
