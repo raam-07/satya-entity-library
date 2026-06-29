@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -4419,6 +4419,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/cm-sends-legislators-to-foreign-tours-to-save-his-chair-says-bjp-state-president-vijayendra/article70624408.ece",
             "source_title": "CM sends legislators to foreign tours to save his chair, says BJP State president Vijayendra - The Hindu",
             "scraped_at": "2026-02-12 10:36:00"
+          },
+          {
+            "incident_text": "Siddaramaiah stated that legislators traveling at their own expense could not be denied permission.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-legislators-to-tour-australia-new-zealand-from-february-16/article70619836.ece",
+            "source_title": "Congress legislators of Karnataka to tour Australia, New Zealand from February 16 - The Hindu",
+            "scraped_at": "2026-02-12 01:17:34"
           }
         ]
       },
