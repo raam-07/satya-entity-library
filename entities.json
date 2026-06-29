@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1514,6 +1514,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-a-part-time-politician-says-bjp-national-president-nitin-nabin/article71161560.ece",
             "source_title": "Rahul Gandhi a ‘part-time politician’, says BJP national president Nitin Nabin - The Hindu",
             "scraped_at": "2026-06-29 13:53:42"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed Gen. Naravane's memoir 'Four Stars of Destiny' is already published.",
+            "source_url": "https://www.thehindu.com/news/national/former-army-general-naravane-confirms-penguins-claim-that-memoir-is-as-yet-unpublished-as-delhi-police-files-fir/article70616235.ece",
+            "source_title": "Former Army General Naravane confirms Penguin’s claim that memoir is as yet unpublished as Delhi Police files FIR - The Hindu",
+            "scraped_at": "2026-02-10 12:11:32"
           }
         ]
       },
