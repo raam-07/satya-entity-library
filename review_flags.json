@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 16:35:04.363621",
+  "generated_at": "2026-06-29 17:26:31.587069",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -113,19 +113,19 @@
     },
     {
       "type": "ruling_party",
-      "state": "Karnataka",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "ent order.  **T.T.V. Dhinakaran**, **AMMK's general secretary**, criticized the move, while the **AIADMK's IT wing** questioned the appointment's legitimacy and suggested it might be a \"proxy\" of the "
-    },
-    {
-      "type": "ruling_party",
       "state": "West Bengal",
       "candidate": "BJP",
       "confidence": 0.9,
       "reason": "Gemma rejected",
       "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Congress government spending more time to solve its internal dispute rather than people’s problems, says Prime Minister Narendra Modi - The Hindu **Prime Minister Narendra Modi** criticized the **Cong"
     }
   ]
 }
