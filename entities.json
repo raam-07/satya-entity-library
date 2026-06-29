@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4382,6 +4382,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-a-factory-of-lies-says-siddaramaiah-in-mysuru/article71157656.ece",
             "source_title": "BJP a ‘factory of lies’, says Siddaramaiah in Mysuru - The Hindu",
             "scraped_at": "2026-06-28 20:44:32"
+          },
+          {
+            "incident_text": "Siddaramaiah is sending Congress legislators on foreign tours to appease them and save his position, according to Vijayendra.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/cm-sends-legislators-to-foreign-tours-to-save-his-chair-says-bjp-state-president-vijayendra/article70624408.ece",
+            "source_title": "CM sends legislators to foreign tours to save his chair, says BJP State president Vijayendra - The Hindu",
+            "scraped_at": "2026-02-12 10:36:00"
           }
         ]
       },
