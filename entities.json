@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4493,7 +4493,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -4550,9 +4550,16 @@
             "source_title": "ED plea in Kerala HC seeks cancellation of bail for accused in attack on its officials - The Hindu",
             "scraped_at": "2026-06-27 12:01:15",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Misrepresentation of facts by prosecutor led to bail for accused in officials’ assault case: ED - The Hindu The **Directorate of Enforcement (ED)** argued that the release of an accused on bail in a c",
+            "source_url": "https://www.thehindu.com/news/national/kerala/misrepresentation-of-facts-by-prosecutor-led-to-bail-for-accused-in-officials-assault-case-ed/article71161053.ece",
+            "source_title": "Misrepresentation of facts by prosecutor led to bail for accused in officials’ assault case: ED - The Hindu",
+            "scraped_at": "2026-06-29 21:13:31",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-27",
+        "criminal_last_updated": "2026-06-29",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
@@ -7709,6 +7716,16 @@
       "source_url": "https://www.ndtv.com/india-news/womens-safety-non-negotiable-vijay-to-officials-in-his-1st-officers-meet-11703977#publisher=newsstand",
       "source_title": "'Women's Safety Non-Negotiable': Vijay To Officials In His 1st Officers' Meet",
       "scraped_at": "2026-06-29 16:56:27",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Ashwini Vaishnaw",
+      "promise_text": "Wadiyar that the matter would be examined promptly",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/ashwini-vaishnaw-urged-to-revive-mysurukushalnagar-railway-project/article70616115.ece",
+      "source_title": "Ashwini Vaishnaw urged to revive Mysuru–Kushalnagar railway project - The Hindu",
+      "scraped_at": "2026-02-10 09:17:24",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
