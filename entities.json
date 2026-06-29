@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -2257,6 +2257,13 @@
             "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
             "scraped_at": "2026-02-18 09:03:19",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Film producer Bandla Ganesh meets Naidu after Tirumala padayatra - The Hindu **Bandla Ganesh**, a film producer, met with **Chief Minister N. Chandrababu Naidu** after completing a 535-kilometer paday",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/film-producer-bandla-ganesh-meets-naidu-after-tirumala-padayatra/article70624543.ece",
+            "source_title": "Film producer Bandla Ganesh meets Naidu after Tirumala padayatra - The Hindu",
+            "scraped_at": "2026-02-12 09:07:54",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2309,8 +2316,8 @@
             "scraped_at": "2026-02-18 09:03:19"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-25"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-06-29"
       },
       {
         "name": "Pema Khandu",
