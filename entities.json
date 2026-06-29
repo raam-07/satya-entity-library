@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-06-28",
+    "last_updated": "2026-06-29",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1472,6 +1472,12 @@
             "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
             "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
             "scraped_at": "2026-02-12 14:08:36"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated he was ready to be hanged if the government wanted to.",
+            "source_url": "https://www.thehindu.com/news/national/congress-leader-kc-venugopal-hits-out-at-substantive-motion-notice-against-rahul-gandhi/article70625206.ece",
+            "source_title": "Congress leader K.C. Venugopal hits out at ‘Substantive Motion’ notice against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-12 11:46:19"
           }
         ]
       },
@@ -5333,9 +5339,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-28",
+        "party_last_updated": "2026-06-29",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-06-28"
+        "cm_last_updated": "2026-06-29"
       },
       {
         "name": "Rajasthan",
@@ -5363,7 +5369,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-06-28"
+        "party_last_updated": "2026-06-29"
       },
       {
         "name": "Telangana",
