@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1566,6 +1566,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-questions-pms-silence-over-alleged-ram-temple-donation-theft/article71154279.ece",
             "source_title": "Congress questions PM’s silence over alleged Ram temple donation theft - The Hindu",
             "scraped_at": "2026-06-27 13:57:51"
+          },
+          {
+            "incident_text": "Priyanka Gandhi Vadra denied encouraging Congress MPs during a confrontation, stating she spoke peacefully.",
+            "source_url": "https://www.thehindu.com/news/national/did-not-abuse-anyone-says-priyanka-gandhi-rejects-rijijus-charge-of-instigating-mps/article70622994.ece",
+            "source_title": "‘Did not abuse anyone,’ says Priyanka Gandhi, rejects Rijiju's charge of instigating MPs - The Hindu",
+            "scraped_at": "2026-02-12 02:31:13"
           }
         ],
         "criminal_cases_in_news": 0
@@ -7620,6 +7626,16 @@
       "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-reiterates-claim-of-congress-mps-abusing-lok-sabha-speaker-om-birla/article70622848.ece",
       "source_title": "Kiren Rijiju reiterates claim of Congress MPs Lok Sabha speaker Om Birla - The Hindu",
       "scraped_at": "2026-02-12 02:32:35",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "to bring it down to “an affordable level",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-opposition-leader-vd-satheesan-says-udf-will-increase-allocation-for-health-in-state-budget/article70622840.ece",
+      "source_title": "Kerala Assembly Elections: UDF pledges to enhance health budget and provide universal coverage - The Hindu",
+      "scraped_at": "2026-02-12 02:31:44",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
