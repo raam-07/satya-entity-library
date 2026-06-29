@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -1909,7 +1909,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Asaduddin_Owaisi",
         "image_placeholder": "asaduddin_owaisi",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Himanta Biswa Sarma video: Assam BJP social media co-convenor removed for uploading video - The Hindu **The Assam BJP** removed Ron Vikash Gaurav, a co-convenor of its social media team, for posting a",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-bjp-social-media-co-convenor-removed-for-uploading-controversial-video/article70622778.ece",
+            "source_title": "Himanta Biswa Sarma video: Assam BJP social media co-convenor removed for uploading video - The Hindu",
+            "scraped_at": "2026-02-12 01:15:24",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Asaduddin Owaisi questioned if Indian Railways categorized ticket fares as a 'trade secret'",
@@ -1924,7 +1932,8 @@
             "scraped_at": "2026-02-27 00:10:53"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-29"
       },
       {
         "name": "Sharad Pawar",
