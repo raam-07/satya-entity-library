@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1044,6 +1044,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/church-requested-micro-minority-status-at-meet-with-rijiju-chandrasekhar/article70667327.ece",
             "source_title": "Church requested ‘micro minority’ status at meet with Rijiju: Chandrasekhar - The Hindu",
             "scraped_at": "2026-02-23 09:27:16"
+          },
+          {
+            "incident_text": "Kiren Rijiju claimed 20-25 Congress MPs abused Speaker Om Birla and threatened Prime Minister Modi.",
+            "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-reiterates-claim-of-congress-mps-abusing-lok-sabha-speaker-om-birla/article70622848.ece",
+            "source_title": "Kiren Rijiju reiterates claim of Congress MPs Lok Sabha speaker Om Birla - The Hindu",
+            "scraped_at": "2026-02-12 02:32:35"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1484,6 +1490,12 @@
             "source_url": "https://www.thehindu.com/videos/watch-bjp-moves-substantive-motion-against-rahul-gandhi-nishikant-dubey-seeks-life-long-ban/article70623924.ece",
             "source_title": "Watch: BJP moves substantive motion against Rahul Gandhi, Nishikant Dubey seeks life-long ban - The Hindu",
             "scraped_at": "2026-02-12 06:19:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly colluded with anti-India forces while visiting foreign countries with organizations like the Soros Foundation, USAID, and Ford Foundation.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-mp-nishikant-dubey-lok-sabha-rahul-gandhi-notice-to-move-motion/article70622899.ece",
+            "source_title": "BJP’s Nishikant Dubey files notice to cancel Rahul Gandhi’s Lok Sabha membership - The Hindu",
+            "scraped_at": "2026-02-12 02:32:08"
           }
         ]
       },
@@ -7598,6 +7610,16 @@
       "source_url": "https://www.thehindu.com/news/national/aiming-for-50-more-airports-in-5-years-will-provide-huge-real-estate-opportunities-aviation-minister-naidu/article70627522.ece",
       "source_title": "Aiming for 50 more airports in 5 years, will provide huge real estate opportunities: Aviation Minister Naidu - The Hindu",
       "scraped_at": "2026-02-13 03:23:24",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Kiren Rijiju",
+      "promise_text": "that the incident was a violation of parliamentary rules and that his party believes in debate and discussion",
+      "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-reiterates-claim-of-congress-mps-abusing-lok-sabha-speaker-om-birla/article70622848.ece",
+      "source_title": "Kiren Rijiju reiterates claim of Congress MPs Lok Sabha speaker Om Birla - The Hindu",
+      "scraped_at": "2026-02-12 02:32:35",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
