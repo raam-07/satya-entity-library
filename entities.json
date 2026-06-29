@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1478,6 +1478,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-leader-kc-venugopal-hits-out-at-substantive-motion-notice-against-rahul-gandhi/article70625206.ece",
             "source_title": "Congress leader K.C. Venugopal hits out at ‘Substantive Motion’ notice against Rahul Gandhi - The Hindu",
             "scraped_at": "2026-02-12 11:46:19"
+          },
+          {
+            "incident_text": "Nishikant Dubey accused Rahul Gandhi of misleading the country.",
+            "source_url": "https://www.thehindu.com/videos/watch-bjp-moves-substantive-motion-against-rahul-gandhi-nishikant-dubey-seeks-life-long-ban/article70623924.ece",
+            "source_title": "Watch: BJP moves substantive motion against Rahul Gandhi, Nishikant Dubey seeks life-long ban - The Hindu",
+            "scraped_at": "2026-02-12 06:19:03"
           }
         ]
       },
