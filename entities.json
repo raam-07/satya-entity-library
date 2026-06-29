@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7688,6 +7688,16 @@
       "source_title": "Kerala Assembly Elections: UDF pledges to enhance health budget and provide universal coverage - The Hindu",
       "scraped_at": "2026-02-12 02:31:44",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "there would be \"no change and no compromise\" on women's safety",
+      "source_url": "https://www.ndtv.com/india-news/womens-safety-non-negotiable-vijay-to-officials-in-his-1st-officers-meet-11703977#publisher=newsstand",
+      "source_title": "'Women's Safety Non-Negotiable': Vijay To Officials In His 1st Officers' Meet",
+      "scraped_at": "2026-06-29 16:56:27",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
