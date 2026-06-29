@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3613,6 +3613,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/taratala-warehouse-collapse-firhad-hakim-ex-aides-arrest-alarm-tmc-rebels-10760470/",
             "source_title": "Taratala warehouse collapse: Why Firhad Hakim ex-aide’s arrest rings alarm bells among TMC rebels | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-27 13:58:02"
+          },
+          {
+            "incident_text": "Suvendu Adhikari accused Mamata Banerjee of weakness for allowing hate speech during her tenure.",
+            "source_url": "https://www.ndtv.com/india-news/in-warning-to-humayun-kabir-suvendu-adhikaris-weak-jab-at-mamata-banerjee-11702423#publisher=newsstand",
+            "source_title": "In Warning To Humayun Kabir, Suvendu Adhikari's 'Weak' Jab At Mamata Banerjee",
+            "scraped_at": "2026-06-29 13:55:23"
           }
         ]
       },
@@ -4309,6 +4315,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/taratala-warehouse-collapse-firhad-hakim-ex-aides-arrest-alarm-tmc-rebels-10760470/",
             "source_title": "Taratala warehouse collapse: Why Firhad Hakim ex-aide’s arrest rings alarm bells among TMC rebels | Political Pulse News - The Indian Express",
             "scraped_at": "2026-06-27 13:58:02"
+          },
+          {
+            "incident_text": "Mamata Banerjee is weak and allowed hate speeches, according to Suvendu Adhikari.",
+            "source_url": "https://www.ndtv.com/india-news/in-warning-to-humayun-kabir-suvendu-adhikaris-weak-jab-at-mamata-banerjee-11702423#publisher=newsstand",
+            "source_title": "In Warning To Humayun Kabir, Suvendu Adhikari's 'Weak' Jab At Mamata Banerjee",
+            "scraped_at": "2026-06-29 13:55:23"
           }
         ],
         "criminal_cases_in_news": 19,
