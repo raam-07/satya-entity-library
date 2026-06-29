@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 1,
       "gaffe_updates": 0
     },
@@ -7727,6 +7727,16 @@
       "source_title": "Ashwini Vaishnaw urged to revive Mysuru–Kushalnagar railway project - The Hindu",
       "scraped_at": "2026-02-10 09:17:24",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "the allocation of funds in his reply to the 2026–27 Budget presentation recently",
+      "source_url": "https://www.thehindu.com/news/national/kerala/5-crore-boost-to-transform-vellayil-coast-in-kozhikode/article71161984.ece",
+      "source_title": "Vellayil to get a facelift with two major projects - The Hindu",
+      "scraped_at": "2026-06-29 21:11:07",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
