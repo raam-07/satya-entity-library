@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -557,6 +557,12 @@
             "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
             "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
             "scraped_at": "2026-06-27 18:10:51"
+          },
+          {
+            "incident_text": "Amit Shah claimed that Indian history will be divided into two parts: before and after 2014.",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/amit-shah-independent-india-2014-before-after-10762722/",
+            "source_title": "History of independent India will have 2 parts – before 2014 and after: Amit Shah | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-06-29 09:19:51"
           }
         ]
       },
