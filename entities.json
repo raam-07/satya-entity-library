@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2499,6 +2499,12 @@
             "source_url": "https://www.thehindu.com/news/national/himanta-firearm-video-supreme-court-to-hear-pleas-against-assam-cm-on-feb-16/article70631849.ece",
             "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
             "scraped_at": "2026-02-14 06:00:35"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma's video depicted him firing at individuals wearing a skull cap and beard.",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-congress-files-police-complaint-against-bjp-over-controversial-video-of-cm/article70614674.ece",
+            "source_title": "Assam Congress files police complaint against BJP over controversial video of CM - The Hindu",
+            "scraped_at": "2026-02-10 06:08:27"
           }
         ]
       },
@@ -7737,6 +7743,16 @@
       "source_title": "Vellayil to get a facelift with two major projects - The Hindu",
       "scraped_at": "2026-06-29 21:11:07",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the enrolment of women in higher education has increased by 34% in Tamil Nadu due to the Pudhumai Penn scheme",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/womens-enrolment-in-higher-education-up-by-34-due-to-pudhumai-penn-scheme-tn-cm-stalin/article70614460.ece",
+      "source_title": "Women’s enrolment in higher education up by 34% due to 'Pudhumai Penn' scheme: T.N. CM Stalin - The Hindu",
+      "scraped_at": "2026-02-10 06:08:30",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
