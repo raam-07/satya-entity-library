@@ -3495,7 +3495,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
         "image_placeholder": "yogi_adityanath",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Uttar Pradesh: Journalist arrested for objectionable Facebook post on Yogi Adityanath in Ballia - The Hindu **Uttar Pradesh Police** arrested a journalist from Madhya Pradesh, **Pawan Tiwari**, for al",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/journalist-arrested-for-objectionable-facebook-post-on-up-cm-adityanath-in-ballia/article70613792.ece",
+            "source_title": "Uttar Pradesh: Journalist arrested for objectionable Facebook post on Yogi Adityanath in Ballia - The Hindu",
+            "scraped_at": "2026-02-09 23:39:52",
+            "incident_type": "serious"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Yogi Adityanath directed recruitment boards to avoid remarks disrespectful to caste, creed, or community.",
@@ -3546,7 +3554,8 @@
             "scraped_at": "2026-02-14 02:08:28"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-06-30"
       },
       {
         "name": "Pushkar Singh Dhami",
