@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1532,6 +1532,12 @@
             "source_url": "https://www.thehindu.com/news/national/mha-sidesteps-rahul-gandhis-query-on-agniveers-career-progression/article70616589.ece",
             "source_title": "MHA sidesteps Rahul Gandhi’s query on Agniveers career progression - The Hindu",
             "scraped_at": "2026-02-10 12:11:24"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated he believes former army chief Naravane over Penguin Random House India regarding the book's publication status.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-cites-naravanes-available-now-post-from-2023-to-rebut-publishers-claim/article70614372.ece",
+            "source_title": "Rahul cites Naravane's 'available now' post from 2023 to rebut publisher's claim - The Hindu",
+            "scraped_at": "2026-02-10 03:42:50"
           }
         ]
       },
