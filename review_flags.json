@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30 17:25:09.907333",
+  "generated_at": "2026-06-30 18:20:13.311610",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 13
@@ -15,21 +15,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.48,
-      "mentions": 11,
-      "reason": "Below auto-update threshold",
-      "context": "e West Bengal Assembly election by addressing a public meeting at Naoda in Murshidabad with his ally, Aam Janata Unnayan Party (AJUP) leader Humayun Kabir. Accusing Trinamool Congress chairperson and "
-    },
-    {
-      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
       "confidence": 0.47,
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "ngress candidate, from the constituency. “Miya” is a pejorative for Bengali-speaking or Bengal-origin Muslims in Assam. They are often branded as Bangladeshi or “illegal immigrants”. He slammed Assam "
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.45,
+      "mentions": 10,
+      "reason": "Below auto-update threshold",
+      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
     },
     {
       "type": "cm_detection",
