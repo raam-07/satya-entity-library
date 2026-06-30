@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 1
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -1062,6 +1062,12 @@
             "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-reiterates-claim-of-congress-mps-abusing-lok-sabha-speaker-om-birla/article70622848.ece",
             "source_title": "Kiren Rijiju reiterates claim of Congress MPs Lok Sabha speaker Om Birla - The Hindu",
             "scraped_at": "2026-02-12 02:32:35"
+          },
+          {
+            "incident_text": "Kiren Rijiju stated he would have been in his fifth Lok Sabha term if not for a 2009 defeat.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/mallikarjun-kharge-rajya-sabha-oath-congress-kiren-rijiju-10763633/",
+            "source_title": "Delhi Confidential: Missed Chance | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-30 00:11:51"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2002,6 +2008,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/pawar-play-why-no-one-wants-to-hurt-ncp-sp-chief/article70708955.ece",
             "source_title": "Pawar play: why ‘no one wants to hurt’ NCP (SP) chief - The Hindu",
             "scraped_at": "2026-03-05 22:55:17"
+          },
+          {
+            "incident_text": "Sharad Pawar dismissed speculation about foul play, calling the plane crash an accident.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/rohit-pawar-press-conference-ajit-pawar-air-crash-the-hindu-live-updates/article70614607.ece",
+            "source_title": "Ajit Pawar plane crash probe: Rohit Pawar raises doubts about Ajit Pawar's air crash in press conference | Live - The Hindu",
+            "scraped_at": "2026-02-10 06:08:17"
           }
         ]
       },
@@ -2406,7 +2418,7 @@
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
         "image_placeholder": "himanta_biswa_sarma",
@@ -2442,9 +2454,16 @@
             "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
             "scraped_at": "2026-02-14 06:00:35",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu **Himanta Biswa Sarma**, the Chief Minister of Assam, filed a defamation suit against three Congress leaders ",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
+            "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
+            "scraped_at": "2026-02-10 06:07:23",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-28",
+        "criminal_last_updated": "2026-06-30",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -2505,6 +2524,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/assam-congress-files-police-complaint-against-bjp-over-controversial-video-of-cm/article70614674.ece",
             "source_title": "Assam Congress files police complaint against BJP over controversial video of CM - The Hindu",
             "scraped_at": "2026-02-10 06:08:27"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma filed a ₹500 crore defamation suit against three Congress leaders for alleged false statements.",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
+            "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
+            "scraped_at": "2026-02-10 06:07:23"
           }
         ]
       },
@@ -4351,6 +4376,18 @@
             "source_url": "https://www.ndtv.com/india-news/in-warning-to-humayun-kabir-suvendu-adhikaris-weak-jab-at-mamata-banerjee-11702423#publisher=newsstand",
             "source_title": "In Warning To Humayun Kabir, Suvendu Adhikari's 'Weak' Jab At Mamata Banerjee",
             "scraped_at": "2026-06-29 13:55:23"
+          },
+          {
+            "incident_text": "Mamata Banerjee called for a Supreme Court-monitored probe into Ajit Pawar's death.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/rohit-pawar-press-conference-ajit-pawar-air-crash-the-hindu-live-updates/article70614607.ece",
+            "source_title": "Ajit Pawar plane crash probe: Rohit Pawar raises doubts about Ajit Pawar's air crash in press conference | Live - The Hindu",
+            "scraped_at": "2026-02-10 06:08:17"
+          },
+          {
+            "incident_text": "Mamata Banerjee claimed the amended OBC quota law was passed despite opposition from the rebel TMC group.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/mamata-banerjee-eras-obc-quota-law-amended-but-passage-of-bills-exposes-chinks-in-rebel-tmc-group-10763635/",
+            "source_title": "Mamata Banerjee era’s OBC quota law amended, but passage of Bills exposes chinks in rebel TMC group | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-30 00:12:23"
           }
         ],
         "criminal_cases_in_news": 19,
