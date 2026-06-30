@@ -7924,6 +7924,16 @@
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "his government would continue to support sanitation workers with housing",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-extends-free-meal-scheme-to-another-one-lakh-conservancy-workers-in-civic-bodies/article70609795.ece",
+      "source_title": "T.N. CM Stalin extends free meal scheme to another one lakh conservancy workers in civic bodies - The Hindu",
+      "scraped_at": "2026-02-09 02:12:55",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
     }
   ]
 }
