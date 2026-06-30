@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4321,6 +4321,13 @@
             "source_title": "I-PAC raids: Supreme Court adjourns hearing on ED’s plea for CBI probe into ‘interference’ by CM Mamata to Feb. 18 - The Hindu",
             "scraped_at": "2026-02-10 01:19:23",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal SIR hearing LIVE: Supreme Court continues hearing pleas on SIR - The Hindu The **Supreme Court** bench, comprising Chief Justice Surya Kant and Justices Joymalya Bagchi and N.V. Anjaria, h",
+            "source_url": "https://www.thehindu.com/news/national/sir-hearing-special-intensive-revision-supreme-court-live-updates-february-9-2026/article70609729.ece",
+            "source_title": "West Bengal SIR hearing LIVE: Supreme Court continues hearing pleas on SIR - The Hindu",
+            "scraped_at": "2026-02-09 04:38:22",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4469,7 +4476,7 @@
             "scraped_at": "2026-06-30 00:12:23"
           }
         ],
-        "criminal_cases_in_news": 20,
+        "criminal_cases_in_news": 21,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-06-30"
       },
