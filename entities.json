@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 1
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -3415,6 +3415,13 @@
             "source_title": "HC grants bail to Balka Suman - The Hindu",
             "scraped_at": "2026-06-24 18:21:22",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CM resorting to vulgarity as he has nothing to show: KTR - The Hindu **K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, urged voters to support the party or the Congress if ",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-resorting-to-vulgarity-as-he-has-nothing-to-show-ktr/article70612184.ece",
+            "source_title": "CM resorting to vulgarity as he has nothing to show: KTR - The Hindu",
+            "scraped_at": "2026-02-09 10:33:50",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3479,8 +3486,8 @@
             "scraped_at": "2026-02-09 10:34:19"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-25"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-06-30"
       },
       {
         "name": "Manik Saha",
