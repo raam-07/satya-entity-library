@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1556,6 +1556,12 @@
             "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
             "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
             "scraped_at": "2026-02-09 06:00:38"
+          },
+          {
+            "incident_text": "Rahul Gandhi was depicted raising a stick at political figures in a BJP advertisement.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/gandhi-smaraka-nidhi-objects-to-wrong-portrayal-of-gandhiji-in-advertisement-campaign-in-karnataka/article70608083.ece",
+            "source_title": "Gandhi Smaraka Nidhi objects to ‘wrong’ portrayal of Gandhiji in advertisement campaign in Karnataka - The Hindu",
+            "scraped_at": "2026-02-08 14:00:08"
           }
         ]
       },
@@ -4617,6 +4623,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/shivakumar-to-visit-delhi/article70612367.ece",
             "source_title": "Shivakumar to visit Delhi - The Hindu",
             "scraped_at": "2026-02-09 12:49:31"
+          },
+          {
+            "incident_text": "Siddaramaiah, Rahul Gandhi, and Mallikarjun Kharge were depicted with Gandhi raising a stick at them.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/gandhi-smaraka-nidhi-objects-to-wrong-portrayal-of-gandhiji-in-advertisement-campaign-in-karnataka/article70608083.ece",
+            "source_title": "Gandhi Smaraka Nidhi objects to ‘wrong’ portrayal of Gandhiji in advertisement campaign in Karnataka - The Hindu",
+            "scraped_at": "2026-02-08 14:00:08"
           }
         ]
       },
