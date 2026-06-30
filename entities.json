@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 2,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7867,6 +7867,26 @@
       "source_title": "Karnataka Government will recalculate Namma Metro fares using Delhi Metro formula: DKS - The Hindu",
       "scraped_at": "2026-02-09 12:47:52",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "that Confident Group did not face harassment from I-T officials",
+      "source_url": "https://www.thehindu.com/news/national/kerala/confident-group-md-refutes-reports-of-i-t-dept-harassment/article70611603.ece",
+      "source_title": "Confident Group MD refutes reports of I-T dept. harassment - The Hindu",
+      "scraped_at": "2026-02-09 09:30:00",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "the company’s clients that Confident Group’s financial structure remained very strong and t",
+      "source_url": "https://www.thehindu.com/news/national/kerala/confident-group-md-refutes-reports-of-i-t-dept-harassment/article70611603.ece",
+      "source_title": "Confident Group MD refutes reports of I-T dept. harassment - The Hindu",
+      "scraped_at": "2026-02-09 09:30:00",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
