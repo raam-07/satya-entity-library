@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -433,6 +433,12 @@
             "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
             "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
             "scraped_at": "2026-02-12 14:08:36"
+          },
+          {
+            "incident_text": "Narendra Modi did not address Parliament due to fear of the former army chief's book, according to Rahul Gandhi.",
+            "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
+            "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-09 06:00:38"
           }
         ]
       },
@@ -1544,6 +1550,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-cites-naravanes-available-now-post-from-2023-to-rebut-publishers-claim/article70614372.ece",
             "source_title": "Rahul cites Naravane's 'available now' post from 2023 to rebut publisher's claim - The Hindu",
             "scraped_at": "2026-02-10 03:42:50"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed Prime Minister Modi avoided Parliament due to fear of M.M. Naravane's book.",
+            "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
+            "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-09 06:00:38"
           }
         ]
       },
