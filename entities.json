@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3169,7 +3169,14 @@
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
         "criminal_incidents": [],
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Mohan Charan Majhi's government is accused of betraying farmers by failing to uphold election promises on paddy procurement.",
+            "source_url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-attacks-mohan-majhi-government-over-paddy-procurement/article70611619.ece",
+            "source_title": "Naveen Patnaik attacks Mohan Majhi government over paddy procurement - The Hindu",
+            "scraped_at": "2026-02-09 18:11:41"
+          }
+        ]
       },
       {
         "name": "Bhagwant Mann",
