@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7912,6 +7912,16 @@
       "source_title": "Confident Group MD refutes reports of I-T dept. harassment - The Hindu",
       "scraped_at": "2026-02-09 09:30:00",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "a comprehensive package to address the sea erosion and related issues along the Anchuthengu coast",
+      "source_url": "https://www.thehindu.com/news/national/kerala/kerala-government-to-implement-a-comprehensive-package-for-muthalapozhi-chief-minister/article71165683.ece",
+      "source_title": "Kerala government to implement a comprehensive package for Muthalapozhi: Chief Minister - The Hindu",
+      "scraped_at": "2026-06-30 14:33:42",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
