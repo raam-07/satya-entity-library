@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -796,6 +796,12 @@
             "source_url": "https://www.thehindu.com/news/national/profile-on-piyush-goyal-crisis-manager/article70633226.ece",
             "source_title": "Piyush Goyal | Crisis manager - The Hindu",
             "scraped_at": "2026-02-14 15:03:55"
+          },
+          {
+            "incident_text": "Piyush Goyal stated safeguards protect domestic interests from increased imports during a media interview while Parliament was in session.",
+            "source_url": "https://www.thehindu.com/news/national/dmk-mp-tiruchi-siva-moves-privilege-notice-against-commerce-minister-piyush-goyal/article70610593.ece",
+            "source_title": "DMK MP Tiruchi Siva moves privilege notice against Commerce Minister Piyush Goyal - The Hindu",
+            "scraped_at": "2026-02-09 06:41:16"
           }
         ],
         "criminal_cases_in_news": 0
