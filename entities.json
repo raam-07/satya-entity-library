@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2833,6 +2833,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/congress-mlc-channaraj-hattiholi-dismisses-rumours-that-deputy-cm-dk-shivakumar-is-planning-coup-in-karnataka/article70625591.ece",
             "source_title": "Congress MLC dismisses rumours of coup by Deputy CM D.K. Shivakumar in Karnataka - The Hindu",
             "scraped_at": "2026-02-13 02:07:48"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated he will meet party leaders in Delhi, including the Union Jal Shakti Minister and legal counsel.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/shivakumar-to-visit-delhi/article70612367.ece",
+            "source_title": "Shivakumar to visit Delhi - The Hindu",
+            "scraped_at": "2026-02-09 12:49:31"
           }
         ]
       },
@@ -4561,6 +4567,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/congress-legislators-to-tour-australia-new-zealand-from-february-16/article70619836.ece",
             "source_title": "Congress legislators of Karnataka to tour Australia, New Zealand from February 16 - The Hindu",
             "scraped_at": "2026-02-12 01:17:34"
+          },
+          {
+            "incident_text": "Siddaramaiah is the chairman of the Irrigation Department according to Shivakumar.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/shivakumar-to-visit-delhi/article70612367.ece",
+            "source_title": "Shivakumar to visit Delhi - The Hindu",
+            "scraped_at": "2026-02-09 12:49:31"
           }
         ]
       },
