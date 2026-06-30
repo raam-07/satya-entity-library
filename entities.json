@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4261,6 +4261,13 @@
             "source_title": "West Bengal IPAC raids case: SC to decide if ED is ‘weaponised’ or ‘terrorised’ - The Hindu",
             "scraped_at": "2026-02-18 02:07:02",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "I-PAC raids: Supreme Court adjourns hearing on ED’s plea for CBI probe into ‘interference’ by CM Mamata to Feb. 18 - The Hindu The **Supreme Court** adjourned the hearing of a petition filed by the **",
+            "source_url": "https://www.thehindu.com/news/national/i-pac-raids-supreme-court-adjourns-hearing-on-eds-plea-for-cbi-probe-into-interference-by-cm-mamata-to-feb-18/article70614013.ece",
+            "source_title": "I-PAC raids: Supreme Court adjourns hearing on ED’s plea for CBI probe into ‘interference’ by CM Mamata to Feb. 18 - The Hindu",
+            "scraped_at": "2026-02-10 01:19:23",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4409,9 +4416,9 @@
             "scraped_at": "2026-06-30 00:12:23"
           }
         ],
-        "criminal_cases_in_news": 19,
+        "criminal_cases_in_news": 20,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-26"
+        "criminal_last_updated": "2026-06-30"
       },
       {
         "name": "Siddaramaiah",
