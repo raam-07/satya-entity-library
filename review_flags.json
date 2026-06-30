@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-30 22:50:07.978482",
+  "generated_at": "2026-06-30 23:32:43.670722",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -17,8 +17,8 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.47,
-      "mentions": 7,
+      "confidence": 0.5,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "ngress candidate, from the constituency. “Miya” is a pejorative for Bengali-speaking or Bengal-origin Muslims in Assam. They are often branded as Bangladeshi or “illegal immigrants”. He slammed Assam "
     },
