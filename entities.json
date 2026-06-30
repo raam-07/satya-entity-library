@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -439,6 +439,12 @@
             "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
             "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
             "scraped_at": "2026-02-09 06:00:38"
+          },
+          {
+            "incident_text": "Narendra Modi's acceptance of the trade deal terms weakened India's independence and standing in the world.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/interim-trade-deal-a-surrender-to-us-pm-must-quit-siddaramaiah/article70607705.ece",
+            "source_title": "Interim trade deal a surrender to U.S., PM must quit: Siddaramaiah - The Hindu",
+            "scraped_at": "2026-02-08 10:27:40"
           }
         ]
       },
