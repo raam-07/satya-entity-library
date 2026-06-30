@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3471,6 +3471,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
             "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
             "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed the Central government did not cooperate in bringing back T. Prabhakar Rao from the U.S.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-revanth-says-probe-into-phone-tapping-delayed-due-to-prabhakar-raos-long-absence/article70612115.ece",
+            "source_title": "CM Revanth says probe into phone tapping delayed due to Prabhakar Rao’s long absence - The Hindu",
+            "scraped_at": "2026-02-09 10:34:19"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -7843,6 +7849,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/womens-enrolment-in-higher-education-up-by-34-due-to-pudhumai-penn-scheme-tn-cm-stalin/article70614460.ece",
       "source_title": "Women’s enrolment in higher education up by 34% due to 'Pudhumai Penn' scheme: T.N. CM Stalin - The Hindu",
       "scraped_at": "2026-02-10 06:08:30",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that Namma Metro fares will be recalculated using the Delhi Metro's formula after the state government halted a planned fare hike following public protests and political pressure",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-will-recalculate-namma-metro-fares-using-delhi-metro-formula-dks/article70612325.ece",
+      "source_title": "Karnataka Government will recalculate Namma Metro fares using Delhi Metro formula: DKS - The Hindu",
+      "scraped_at": "2026-02-09 12:47:52",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
