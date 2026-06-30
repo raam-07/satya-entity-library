@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3871,6 +3871,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
             "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
             "scraped_at": "2026-06-07 10:24:09"
+          },
+          {
+            "incident_text": "Krishna Byre Gowda stated that the stray dog population remains unchanged despite nearly 20 years of sterilisation efforts.",
+            "source_url": "https://www.ndtv.com/karnataka-news/where-has-money-gone-bengaluru-minister-krishna-byre-gowda-loses-cool-at-officials-over-strays-11708746#publisher=newsstand",
+            "source_title": "Where Has Money Gone: Bengaluru Minister Krishna Byre Gowda Loses Cool At Officials Over Strays",
+            "scraped_at": "2026-06-30 19:02:52"
           }
         ]
       },
