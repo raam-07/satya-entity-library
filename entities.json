@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -2424,7 +2424,7 @@
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
         "image_placeholder": "himanta_biswa_sarma",
@@ -2466,6 +2466,13 @@
             "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
             "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
             "scraped_at": "2026-02-10 06:07:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu The **Supreme Court** agreed to schedule an urgent hearing on a petition filed by the C",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-cpim-assam-himanta-gun-video-urgent-hearing-jan-10-2026/article70614040.ece",
+            "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
+            "scraped_at": "2026-02-10 02:35:04",
             "incident_type": "broad"
           }
         ],
@@ -2536,6 +2543,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
             "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
             "scraped_at": "2026-02-10 06:07:23"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma shared a social media post depicting him firing a gun at an image of two Muslim men.",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-cpim-assam-himanta-gun-video-urgent-hearing-jan-10-2026/article70614040.ece",
+            "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
+            "scraped_at": "2026-02-10 02:35:04"
           }
         ]
       },
