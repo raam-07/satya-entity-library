@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -1111,6 +1111,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
             "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
             "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "G Kishan Reddy is accused of suppressing a CBI inquiry into alleged BRS corruption.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
+            "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 12:04:19"
           }
         ]
       }
@@ -1579,7 +1585,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -1587,9 +1593,16 @@
             "source_title": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu",
             "scraped_at": "2026-04-19 18:09:30.425946",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu **Chief Minister A. Revanth Reddy** accused the **BJP** of inaction against the **BRS** leadership for allegedly am",
+            "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
+            "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 12:04:19",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-06-30",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
@@ -1996,6 +2009,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/deadlines-disputes-doubts-dog-umeed-forwaqfproperties/article70681344.ece",
             "source_title": "Deadlines, disputes, doubts dog UMEED for waqf properties - The Hindu",
             "scraped_at": "2026-02-27 00:10:53"
+          },
+          {
+            "incident_text": "Asaduddin Owaisi questioned BJP's nationalism regarding reduced Russian oil imports while China benefits.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-critiques-bjps-nationalism-amid-calls-for-local-development-in-karimnagar/article70607775.ece",
+            "source_title": "Owaisi critiques BJP’s nationalism amid calls for local development in Karimnagar - The Hindu",
+            "scraped_at": "2026-02-08 10:28:06"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3508,6 +3527,18 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cm-revanth-says-probe-into-phone-tapping-delayed-due-to-prabhakar-raos-long-absence/article70612115.ece",
             "source_title": "CM Revanth says probe into phone tapping delayed due to Prabhakar Rao’s long absence - The Hindu",
             "scraped_at": "2026-02-09 10:34:19"
+          },
+          {
+            "incident_text": "Revanth Reddy stated that the BRS is spreading false propaganda about district reorganization in Telangana.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/no-proposal-for-districts-reorganisation-before-the-government-cm-revanth-reddy/article70608124.ece",
+            "source_title": "No proposal for districts reorganisation before the government: CM Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 10:28:03"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed the BRS amassed ₹1,500 crore illegally through unethical practices.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
+            "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 12:04:19"
           }
         ],
         "criminal_cases_in_news": 3,
@@ -4629,6 +4660,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/gandhi-smaraka-nidhi-objects-to-wrong-portrayal-of-gandhiji-in-advertisement-campaign-in-karnataka/article70608083.ece",
             "source_title": "Gandhi Smaraka Nidhi objects to ‘wrong’ portrayal of Gandhiji in advertisement campaign in Karnataka - The Hindu",
             "scraped_at": "2026-02-08 14:00:08"
+          },
+          {
+            "incident_text": "Siddaramaiah asserted that there are no internal differences within the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-rift-in-congress-leadership-decision-lies-with-high-command-dinesh-gundu-rao/article70608029.ece",
+            "source_title": "No rift in Congress, leadership decision lies with high command: Dinesh Gundu Rao - The Hindu",
+            "scraped_at": "2026-02-08 10:28:09"
           }
         ]
       },
