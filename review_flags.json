@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 12:19:16.892943",
+  "generated_at": "2026-07-01 13:14:07.751293",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -15,21 +15,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.45,
-      "mentions": 10,
-      "reason": "Below auto-update threshold",
-      "context": "iachak for judicial adjudication work were gheraoed by a mob for several hours at Kaliachak block II Malda. The police had to rescue the officials late on Wednesday (April 1, 2026) night. West Bengal "
-    },
-    {
-      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
       "confidence": 0.47,
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "Union Home Minister. However, the party's victory has also sparked concerns about its impact on Assam's social fabric, particularly its divisive policies towards Bengali-speaking Muslim communities. H"
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.43,
+      "mentions": 9,
+      "reason": "Below auto-update threshold",
+      "context": "ased its list of all 27 candidates for the Assembly elections on Friday (April 3, 2026), while the Congress announced candidates for 27 of the 28 constituencies allotted to it by the DMK. West Bengal "
     },
     {
       "type": "cm_detection",
