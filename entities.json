@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2450,6 +2450,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-released-from-rajahmundry-central-prison/article70647634.ece",
             "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
             "scraped_at": "2026-02-18 09:03:19"
+          },
+          {
+            "incident_text": "Chandrababu Naidu created a one-man committee to get a favorable report on ghee adulteration in Tirumala laddu, despite the CBI stating no animal fat was used.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-only-to-get-favourable-report-on-tirumala-laddu-row-says-ysrcp/article70604195.ece",
+            "source_title": "One-man panel only to get favourable report on Tirumala laddu row, says YSRCP - The Hindu",
+            "scraped_at": "2026-02-07 10:03:09"
           }
         ],
         "criminal_cases_in_news": 3,
@@ -3564,6 +3570,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-accused-should-be-suspected-in-the-telangana-fsl-fire-accident-congress-mp/article70606892.ece",
             "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
             "scraped_at": "2026-02-08 04:06:33"
+          },
+          {
+            "incident_text": "Revanth Reddy stated that the corruption and misuse of funds during BRS rule would be permanently remembered.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ten-years-of-brs-loot-will-be-etched-in-states-annals-cm-revanth-reddy/article70604728.ece",
+            "source_title": "Ten years of BRS loot will be etched in State’s annals: CM Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-07 10:02:29"
           }
         ],
         "criminal_cases_in_news": 4,
@@ -8022,6 +8034,16 @@
       "source_title": "Telangana govt. likely to credit Rythu Bharosa aid into farmers’ accounts soon - The Hindu",
       "scraped_at": "2026-02-08 08:21:58",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "the constitution of a one-man committee to inquire into the alleged adulteration of ghee in the preparation of Tirumala laddu prasadam so that it would give him a favourable report",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-only-to-get-favourable-report-on-tirumala-laddu-row-says-ysrcp/article70604195.ece",
+      "source_title": "One-man panel only to get favourable report on Tirumala laddu row, says YSRCP - The Hindu",
+      "scraped_at": "2026-02-07 10:03:09",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
