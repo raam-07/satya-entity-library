@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1604,6 +1604,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-indulging-in-frivolous-rhetoric-to-stay-in-headlines-kiren-rijiju/article70603394.ece",
             "source_title": "Rahul Gandhi indulging in frivolous rhetoric to stay in headlines: Kiren Rijiju - The Hindu",
             "scraped_at": "2026-02-07 04:06:47"
+          },
+          {
+            "incident_text": "Rahul Gandhi was accused of being out of touch with reality and prioritizing personal interests over Punjab's.",
+            "source_url": "https://www.thehindu.com/news/national/punjab/navjot-kaur-sidhu-expelled-from-congress-days-after-she-quit-party/article70602727.ece",
+            "source_title": "Navjot Kaur Sidhu expelled from Congress, days after she ‘quit’ party - The Hindu",
+            "scraped_at": "2026-02-06 20:39:57"
           }
         ]
       },
@@ -4215,6 +4221,12 @@
             "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
             "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
             "scraped_at": "2026-06-07 11:52:49.380769"
+          },
+          {
+            "incident_text": "Bhupesh Baghel announced Navjot Kaur Sidhu's expulsion from the Congress.",
+            "source_url": "https://www.thehindu.com/news/national/punjab/navjot-kaur-sidhu-expelled-from-congress-days-after-she-quit-party/article70602727.ece",
+            "source_title": "Navjot Kaur Sidhu expelled from Congress, days after she ‘quit’ party - The Hindu",
+            "scraped_at": "2026-02-06 20:39:57"
           }
         ],
         "criminal_cases_in_news": 1,
