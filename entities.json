@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3471,6 +3471,13 @@
             "source_title": "CM resorting to vulgarity as he has nothing to show: KTR - The Hindu",
             "scraped_at": "2026-02-09 10:33:50",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu **Bhuvanagiri Member of Parliament Chamala Kiran Kumar Reddy** accused **BRS working president K.T",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-accused-should-be-suspected-in-the-telangana-fsl-fire-accident-congress-mp/article70606892.ece",
+            "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
+            "scraped_at": "2026-02-08 04:06:33",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3545,10 +3552,16 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
             "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
             "scraped_at": "2026-02-08 12:04:19"
+          },
+          {
+            "incident_text": "Revanth Reddy suspected KTR orchestrated the fire at the forensic laboratory to destroy evidence related to phone tapping.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-accused-should-be-suspected-in-the-telangana-fsl-fire-accident-congress-mp/article70606892.ece",
+            "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
+            "scraped_at": "2026-02-08 04:06:33"
           }
         ],
-        "criminal_cases_in_news": 3,
-        "criminal_last_updated": "2026-06-30"
+        "criminal_cases_in_news": 4,
+        "criminal_last_updated": "2026-07-01"
       },
       {
         "name": "Manik Saha",
