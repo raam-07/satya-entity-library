@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -445,6 +445,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/interim-trade-deal-a-surrender-to-us-pm-must-quit-siddaramaiah/article70607705.ece",
             "source_title": "Interim trade deal a surrender to U.S., PM must quit: Siddaramaiah - The Hindu",
             "scraped_at": "2026-02-08 10:27:40"
+          },
+          {
+            "incident_text": "Narendra Modi's government replaced the Mahatma Gandhi National Rural Employment Guarantee Act.",
+            "source_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/no-hitch-in-seat-sharing-talks-says-tncc-chief/article70604588.ece",
+            "source_title": "No hitch in seat-sharing talks, says TNCC chief - The Hindu",
+            "scraped_at": "2026-02-07 21:12:33"
           }
         ]
       },
