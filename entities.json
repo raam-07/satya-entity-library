@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -457,6 +457,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/pm-modi-hails-c-sadanandan-mp-for-his-rajya-sabha-speech/article70603698.ece",
             "source_title": "PM Modi hails C. Sadanandan MP for his Rajya Sabha speech - The Hindu",
             "scraped_at": "2026-02-07 06:24:29"
+          },
+          {
+            "incident_text": "Narendra Modi claimed opposition conduct prevented him from responding to the President's speech debate.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
+            "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
+            "scraped_at": "2026-02-07 05:07:46"
           }
         ]
       },
@@ -1586,6 +1592,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/gandhi-smaraka-nidhi-objects-to-wrong-portrayal-of-gandhiji-in-advertisement-campaign-in-karnataka/article70608083.ece",
             "source_title": "Gandhi Smaraka Nidhi objects to ‘wrong’ portrayal of Gandhiji in advertisement campaign in Karnataka - The Hindu",
             "scraped_at": "2026-02-08 14:00:08"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly attempted to harm India-China relations by raising concerns about General Naravane's book in Parliament.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
+            "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
+            "scraped_at": "2026-02-07 05:07:46"
           }
         ]
       },
