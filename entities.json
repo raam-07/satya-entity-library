@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "criminal_updates": 1,
+      "new_promises": 2,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1598,6 +1598,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
             "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
             "scraped_at": "2026-02-07 05:07:46"
+          },
+          {
+            "incident_text": "Kiren Rijiju stated Rahul Gandhi uses frivolous rhetoric to stay in the news.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-indulging-in-frivolous-rhetoric-to-stay-in-headlines-kiren-rijiju/article70603394.ece",
+            "source_title": "Rahul Gandhi indulging in frivolous rhetoric to stay in headlines: Kiren Rijiju - The Hindu",
+            "scraped_at": "2026-02-07 04:06:47"
           }
         ]
       },
@@ -1615,7 +1621,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -1630,9 +1636,16 @@
             "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
             "scraped_at": "2026-02-08 12:04:19",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sabarimala gold theft case: SIT questions Congress MP and UDF convenor Adoor Prakash - The Hindu **Adoor Prakash**, **Congress MP**, was questioned by the **Kerala High Court-appointed special investi",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-sit-questions-congress-mp-and-udf-convenor-adoor-prakash/article70603178.ece",
+            "source_title": "Sabarimala gold theft case: SIT questions Congress MP and UDF convenor Adoor Prakash - The Hindu",
+            "scraped_at": "2026-02-07 02:26:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-30",
+        "criminal_last_updated": "2026-07-01",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
@@ -8083,6 +8096,26 @@
       "source_url": "https://www.ndtv.com/india-news/revanth-reddy-on-bjps-nitin-nabins-2028-telangana-power-claim-took-15-years-in-bengal-11711675#publisher=newsstand",
       "source_title": "Revanth Reddy On BJP's Nitin Nabin's 2028 Telangana Power Claim: Took 15 Years In Bengal",
       "scraped_at": "2026-07-01 09:00:19",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "V.D. Satheesan",
+      "promise_text": "the UDF would accept support from the Jamaat-e-Islami",
+      "source_url": "https://www.thehindu.com/news/national/kerala/cpim-in-kerala-steps-up-attack-on-udf-over-jaamat-e-islami-support/article70603312.ece",
+      "source_title": "CPI(M) in Kerala steps up attack on UDF over Jaamat-e-Islami support - The Hindu",
+      "scraped_at": "2026-02-07 04:07:03",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the monthly pension of noon-meal workers will be increased from ₹2",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-urges-tn-government-to-consider-demands-of-noon-meal-workers/article70603210.ece",
+      "source_title": "Anbumani urges T.N. government to consider demands of noon-meal workers - The Hindu",
+      "scraped_at": "2026-02-07 04:07:22",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
