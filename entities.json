@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2610,6 +2610,12 @@
             "source_url": "https://www.thehindu.com/news/national/supreme-court-cpim-assam-himanta-gun-video-urgent-hearing-jan-10-2026/article70614040.ece",
             "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
             "scraped_at": "2026-02-10 02:35:04"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma claimed Gaurav Gogoi provided inaccurate information to deflect allegations of his wife's connection with Pakistan's ISI.",
+            "source_url": "https://www.thehindu.com/news/national/assam/gaurav-gogois-pakistan-links-being-probed-for-sake-of-national-security-himanta/article70603942.ece",
+            "source_title": "Gaurav Gogoi's 'Pakistan links' being probed for sake of national security: Himanta - The Hindu",
+            "scraped_at": "2026-02-07 07:26:01"
           }
         ]
       },
