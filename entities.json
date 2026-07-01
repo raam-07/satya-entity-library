@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -7993,6 +7993,16 @@
       "source_title": "T.N. CM Stalin extends free meal scheme to another one lakh conservancy workers in civic bodies - The Hindu",
       "scraped_at": "2026-02-09 02:12:55",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "this at a public meeting and the government is raising ₹9",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-govt-likely-to-credit-rythu-bharosa-aid-into-farmers-accounts-soon/article70607381.ece",
+      "source_title": "Telangana govt. likely to credit Rythu Bharosa aid into farmers’ accounts soon - The Hindu",
+      "scraped_at": "2026-02-08 08:21:58",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
