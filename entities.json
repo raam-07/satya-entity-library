@@ -8,7 +8,7 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -8043,6 +8043,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-only-to-get-favourable-report-on-tirumala-laddu-row-says-ysrcp/article70604195.ece",
       "source_title": "One-man panel only to get favourable report on Tirumala laddu row, says YSRCP - The Hindu",
       "scraped_at": "2026-02-07 10:03:09",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "Rs 15 lakh in every poor person's bank account",
+      "source_url": "https://www.ndtv.com/india-news/revanth-reddy-on-bjps-nitin-nabins-2028-telangana-power-claim-took-15-years-in-bengal-11711675#publisher=newsstand",
+      "source_title": "Revanth Reddy On BJP's Nitin Nabin's 2028 Telangana Power Claim: Took 15 Years In Bengal",
+      "scraped_at": "2026-07-01 09:00:19",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
