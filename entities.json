@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3888,6 +3888,12 @@
             "source_url": "https://www.ndtv.com/india-news/in-warning-to-humayun-kabir-suvendu-adhikaris-weak-jab-at-mamata-banerjee-11702423#publisher=newsstand",
             "source_title": "In Warning To Humayun Kabir, Suvendu Adhikari's 'Weak' Jab At Mamata Banerjee",
             "scraped_at": "2026-06-29 13:55:23"
+          },
+          {
+            "incident_text": "Suvendu Adhikari claimed some officials engaged in corruption due to fear, pressure, or other reasons.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/wont-use-you-for-political-interests-cm-suvendu-adhikari-to-west-bengal-civil-service-officers-10767282/",
+            "source_title": "Won’t use you for political interests: CM Suvendu Adhikari to West Bengal Civil Service officers | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-02 00:15:33"
           }
         ]
       },
