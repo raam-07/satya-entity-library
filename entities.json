@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4010,6 +4010,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/wont-use-you-for-political-interests-cm-suvendu-adhikari-to-west-bengal-civil-service-officers-10767282/",
             "source_title": "Won’t use you for political interests: CM Suvendu Adhikari to West Bengal Civil Service officers | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-02 00:15:33"
+          },
+          {
+            "incident_text": "Suvendu Adhikari stated the UCC would be implemented in the state soon.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-approves-panel-to-examine-draft-uniform-civil-code-bill/article71175436.ece",
+            "source_title": "West Bengal Cabinet approves panel to examine draft Uniform Civil Code Bill - The Hindu",
+            "scraped_at": "2026-07-02 17:55:16"
           }
         ]
       },
