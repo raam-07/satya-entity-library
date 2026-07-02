@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3685,6 +3685,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/congress-mim-have-clandestine-pact-bandi/article70600983.ece",
             "source_title": "Congress, MIM have clandestine pact: Bandi - The Hindu",
             "scraped_at": "2026-02-06 14:16:43"
+          },
+          {
+            "incident_text": "Revanth Reddy was accused of making false claims about ₹1,400 crore released to KMC for electoral advantage.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-terms-claims-on-release-of-funds-for-kmc-as-ridiculous-demands-white-paper/article70596903.ece",
+            "source_title": "Bandi Sanjay terms claims on release of funds for KMC as ‘ridiculous’, demands white paper - The Hindu",
+            "scraped_at": "2026-02-05 12:48:57"
           }
         ],
         "criminal_cases_in_news": 4,
@@ -4965,6 +4971,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-cm-seeks-west-bengal-counterparts-intervention-to-restore-journalist-r-rajagopals-passport/article71160604.ece",
             "source_title": "Kerala CM seeks West Bengal counterpart’s intervention to restore journalist R. Rajagopal’s passport - The Hindu",
             "scraped_at": "2026-06-29 09:17:56"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claimed media has shifted focus from rebuilding society to profit and attacks on the government.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/swadeshabhimani-kesari-award-presented-to-malayinkeezhu-gopalakrishnan/article70597170.ece",
+            "source_title": "Swadeshabhimani-Kesari award presented to Malayinkeezhu Gopalakrishnan - The Hindu",
+            "scraped_at": "2026-02-05 12:47:24"
           }
         ]
       },
