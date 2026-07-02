@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4286,6 +4286,12 @@
             "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
             "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
             "scraped_at": "2026-02-13 02:08:04"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed Tamil Nadu receives insufficient funding despite its strong economic performance and high tax contributions.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/centre-gives-a-pittance-to-tn-despite-state-ranking-2ndon-economic-front-cm/article70591442.ece",
+            "source_title": "Centre gives a pittance to T.N. despite State ranking 2nd on economic front: CM - The Hindu",
+            "scraped_at": "2026-02-04 14:02:28"
           }
         ],
         "criminal_cases_in_news": 2,
