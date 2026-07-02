@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -611,6 +611,12 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/only-achievable-special-status-for-jk-is-statehood-congress-leader-karra/article70616322.ece",
             "source_title": "Only achievable special status for J&K is Statehood: Congress leader Karra - The Hindu",
             "scraped_at": "2026-02-10 16:41:23"
+          },
+          {
+            "incident_text": "Amit Shah stated that the people of Eastern Nagaland felt ignored after Nagaland's creation.",
+            "source_url": "https://www.thehindu.com/news/national/nagaland/agreement-signed-on-creation-of-frontier-nagaland-territorial-authority-amit-shah/article70595546.ece",
+            "source_title": "Agreement signed on creation of Frontier Nagaland Territorial Authority - The Hindu",
+            "scraped_at": "2026-02-05 07:42:39"
           }
         ]
       },
