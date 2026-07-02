@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -463,6 +463,18 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
             "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
             "scraped_at": "2026-02-07 05:07:46"
+          },
+          {
+            "incident_text": "Narendra Modi surrendered to Trump's pressure and signed a harmful trade deal.",
+            "source_url": "https://www.thehindu.com/news/national/modi-signed-a-trap-deal-on-us-pressure-congress/article70601173.ece",
+            "source_title": "Modi signed a ‘trap deal’ on U.S. pressure: Congress - The Hindu",
+            "scraped_at": "2026-02-06 11:49:34"
+          },
+          {
+            "incident_text": "Narendra Modi is accused of avoiding questions about national security.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
+            "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
+            "scraped_at": "2026-02-06 12:42:55"
           }
         ]
       },
@@ -1616,6 +1628,12 @@
             "source_url": "https://www.thehindu.com/news/national/punjab/navjot-kaur-sidhu-expelled-from-congress-days-after-she-quit-party/article70602727.ece",
             "source_title": "Navjot Kaur Sidhu expelled from Congress, days after she ‘quit’ party - The Hindu",
             "scraped_at": "2026-02-06 20:39:57"
+          },
+          {
+            "incident_text": "Rahul Gandhi questioned General Naravane's account of the 2020 Chinese incursion and alleged links between Modi and Jeffrey Epstein.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
+            "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
+            "scraped_at": "2026-02-06 12:42:55"
           }
         ]
       },
@@ -1847,6 +1865,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/enough-is-enough-this-must-stop-says-karnataka-home-minister-on-constant-speculation-on-leadership-change/article70628482.ece",
             "source_title": "Enough is enough, this must stop, says Karnataka Home Minister on constant speculation on leadership change - The Hindu",
             "scraped_at": "2026-02-13 12:00:56"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge claimed Modi signed the trade deal due to pressure from Trump related to the Epstein files.",
+            "source_url": "https://www.thehindu.com/news/national/modi-signed-a-trap-deal-on-us-pressure-congress/article70601173.ece",
+            "source_title": "Modi signed a ‘trap deal’ on U.S. pressure: Congress - The Hindu",
+            "scraped_at": "2026-02-06 11:49:34"
           }
         ],
         "criminal_cases_in_news": 1,
