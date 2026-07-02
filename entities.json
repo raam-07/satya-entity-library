@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1064,6 +1064,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-demands-petroleum-minister-hardeep-singh-puris-resignation/article70625398.ece",
             "source_title": "Congress demands Petroleum Minister Hardeep Singh Puri’s resignation - The Hindu",
             "scraped_at": "2026-02-12 14:08:55"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri alleged Punjab's financial deterioration prompted the AAP government's U-turn on the employment scheme.",
+            "source_url": "https://indianexpress.com/article/india/what-changed-in-the-last-six-months-bjp-asks-mann-as-punjab-implements-rural-job-scheme-10767196/",
+            "source_title": "‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme | India News - The Indian Express",
+            "scraped_at": "2026-07-01 22:52:33"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3357,6 +3363,12 @@
             "source_url": "https://www.ndtv.com/india-news/raghav-chadha-demands-bhagwant-manns-resignation-over-video-row-11686179#publisher=newsstand",
             "source_title": "Raghav Chadha Demands Bhagwant Mann's Resignation Over Video Row",
             "scraped_at": "2026-06-25 12:27:23"
+          },
+          {
+            "incident_text": "Bhagwant Mann's government reversed its stance on the VB-G RAM G employment guarantee scheme due to Punjab's financial condition.",
+            "source_url": "https://indianexpress.com/article/india/what-changed-in-the-last-six-months-bjp-asks-mann-as-punjab-implements-rural-job-scheme-10767196/",
+            "source_title": "‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme | India News - The Indian Express",
+            "scraped_at": "2026-07-01 22:52:33"
           }
         ],
         "criminal_incidents": [
