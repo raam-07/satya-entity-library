@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2955,6 +2955,12 @@
             "source_url": "https://www.thehindu.com/news/cities/Mangalore/time-will-reveal-if-there-is-change-in-leadership-in-karnataka-says-deputy-cm-d-k-shivakumar/article70603397.ece",
             "source_title": "Time will reveal if there is change in leadership in Karnataka: D. K. Shivakumar - The Hindu",
             "scraped_at": "2026-02-07 05:19:19"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated that the Congress high command should react to Yathindra's leadership claims.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/high-command-will-have-to-react-says-dcm/article70601258.ece",
+            "source_title": "High Command will have to react, says DCM - The Hindu",
+            "scraped_at": "2026-02-06 14:16:16"
           }
         ]
       },
@@ -3637,6 +3643,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/ten-years-of-brs-loot-will-be-etched-in-states-annals-cm-revanth-reddy/article70604728.ece",
             "source_title": "Ten years of BRS loot will be etched in State’s annals: CM Revanth Reddy - The Hindu",
             "scraped_at": "2026-02-07 10:02:29"
+          },
+          {
+            "incident_text": "Revanth Reddy avoided visiting Karimnagar due to anticipated defeat in the upcoming municipal elections.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/congress-mim-have-clandestine-pact-bandi/article70600983.ece",
+            "source_title": "Congress, MIM have clandestine pact: Bandi - The Hindu",
+            "scraped_at": "2026-02-06 14:16:43"
           }
         ],
         "criminal_cases_in_news": 4,
