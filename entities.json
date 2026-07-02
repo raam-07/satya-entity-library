@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -2467,6 +2467,13 @@
             "source_title": "Film producer Bandla Ganesh meets Naidu after Tirumala padayatra - The Hindu",
             "scraped_at": "2026-02-12 09:07:54",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "A.P. High Court adjourns Ambati Rambabu’s lunch motion petition to February 11 - The Hindu **Ambati Rambabu**, a former Andhra Pradesh Minister and **YSRCP** leader, had his petition to quash cases ag",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-adjourns-ambati-rambabus-lunch-motion-petition-to-february-11/article70596400.ece",
+            "source_title": "A.P. High Court adjourns Ambati Rambabu’s lunch motion petition to February 11 - The Hindu",
+            "scraped_at": "2026-02-05 09:50:41",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2525,8 +2532,8 @@
             "scraped_at": "2026-02-07 10:03:09"
           }
         ],
-        "criminal_cases_in_news": 3,
-        "criminal_last_updated": "2026-06-29"
+        "criminal_cases_in_news": 4,
+        "criminal_last_updated": "2026-07-02"
       },
       {
         "name": "Pema Khandu",
