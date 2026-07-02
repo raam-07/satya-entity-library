@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3405,6 +3405,12 @@
             "source_url": "https://indianexpress.com/article/india/what-changed-in-the-last-six-months-bjp-asks-mann-as-punjab-implements-rural-job-scheme-10767196/",
             "source_title": "‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme | India News - The Indian Express",
             "scraped_at": "2026-07-01 22:52:33"
+          },
+          {
+            "incident_text": "Bhagwant Mann is visiting Bengaluru for detox amid controversy with the Akal Takht.",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-bengaluru-detox-programme-akal-takht-row-10767464/",
+            "source_title": "Bhagwant Mann to visit Bengaluru for detox amid Akal Takht row",
+            "scraped_at": "2026-07-02 04:45:36"
           }
         ],
         "criminal_incidents": [
