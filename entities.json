@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1640,6 +1640,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
             "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
             "scraped_at": "2026-02-06 12:42:55"
+          },
+          {
+            "incident_text": "Rahul Gandhi called Ravneet Singh Bittu a traitor for switching parties.",
+            "source_url": "https://www.thehindu.com/news/national/insults-fly-as-rahul-gandhi-ravneet-bittu-trade-traitor-and-enemy-of-the-country-jibes/article70591488.ece",
+            "source_title": "Insults fly as Rahul Gandhi, Ravneet Bittu trade ‘traitor’ and ‘enemy of the country’ jibes - The Hindu",
+            "scraped_at": "2026-02-04 08:49:58"
           }
         ]
       },
@@ -2543,6 +2549,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-only-to-get-favourable-report-on-tirumala-laddu-row-says-ysrcp/article70604195.ece",
             "source_title": "One-man panel only to get favourable report on Tirumala laddu row, says YSRCP - The Hindu",
             "scraped_at": "2026-02-07 10:03:09"
+          },
+          {
+            "incident_text": "Chandrababu Naidu claimed the YSRCP changes its stance on the state capital to mislead the public.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-lashes-out-at-jagan-for-changing-his-tune-on-state-capital/article71175011.ece",
+            "source_title": "Chief Minister Chandrababu Naidu lashes out at Jagan for changing his tune on State capital - The Hindu",
+            "scraped_at": "2026-07-02 15:43:37"
           }
         ],
         "criminal_cases_in_news": 5,
