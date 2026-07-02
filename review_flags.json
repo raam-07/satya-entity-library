@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 22:06:46.378757",
+  "generated_at": "2026-07-02 23:58:56.092022",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
@@ -8,29 +8,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 13
+    "items_needing_review": 14
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.47,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "Union Home Minister. However, the party's victory has also sparked concerns about its impact on Assam's social fabric, particularly its divisive policies towards Bengali-speaking Muslim communities. H"
-    },
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.43,
-      "mentions": 9,
-      "reason": "Below auto-update threshold",
-      "context": "ased its list of all 27 candidates for the Assembly elections on Friday (April 3, 2026), while the Congress announced candidates for 27 of the 28 constituencies allotted to it by the DMK. West Bengal "
-    },
     {
       "type": "cm_detection",
       "state": "Uttar Pradesh",
@@ -48,6 +30,15 @@
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.5,
+      "mentions": 7,
+      "reason": "Below auto-update threshold",
+      "context": "Union Home Minister. However, the party's victory has also sparked concerns about its impact on Assam's social fabric, particularly its divisive policies towards Bengali-speaking Muslim communities. H"
     },
     {
       "type": "cm_detection",
@@ -84,6 +75,24 @@
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "p 11 new satellite townships in the state, prohibiting land sales and construction until a Master Plan is prepared. In his first Cabinet meeting after assuming the post on Wednesday (April 22, 2026), "
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Mamata Banerjee",
+      "confidence": 0.4,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "andidates. The Congress leader was canvassing for his party's candidates after five years since the last Assembly polls in 2021. Speaking at a meeting at Raiganj in Uttar Dinajpur, Mr. Gandhi accused "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Tamil Nadu",
+      "candidate": "C. Joseph Vijay",
+      "confidence": 0.4,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "eting with **Governor Rajendra Vishwanath Arlekar** and receiving unconditional support from the **VCK** and the **IUML**. This marks the fourth time Mr. Vijay has met with the Governor in four days. "
     },
     {
       "type": "cm_detection",
