@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4610,6 +4610,13 @@
             "source_title": "West Bengal SIR hearing LIVE: Supreme Court continues hearing pleas on SIR - The Hindu",
             "scraped_at": "2026-02-09 04:38:22",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal SIR hearing LIVE: Mamata Banerjee to appear in person in Supreme Court - The Hindu **Mamata Banerjee**, West Bengal Chief Minister, will appear before the **Supreme Court** today to challe",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal-sir-hearing-supreme-court-mamata-banerjee-live-updates-february-4-2026/article70590299.ece",
+            "source_title": "West Bengal SIR hearing LIVE: Mamata Banerjee to appear in person in Supreme Court - The Hindu",
+            "scraped_at": "2026-02-04 00:07:44",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4758,9 +4765,9 @@
             "scraped_at": "2026-06-30 00:12:23"
           }
         ],
-        "criminal_cases_in_news": 21,
+        "criminal_cases_in_news": 22,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-06-30"
+        "criminal_last_updated": "2026-07-02"
       },
       {
         "name": "Siddaramaiah",
