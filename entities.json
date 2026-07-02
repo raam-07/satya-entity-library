@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -850,6 +850,12 @@
             "source_url": "https://www.thehindu.com/news/national/dmk-mp-tiruchi-siva-moves-privilege-notice-against-commerce-minister-piyush-goyal/article70610593.ece",
             "source_title": "DMK MP Tiruchi Siva moves privilege notice against Commerce Minister Piyush Goyal - The Hindu",
             "scraped_at": "2026-02-09 06:41:16"
+          },
+          {
+            "incident_text": "Piyush Goyal held a press conference on the India-U.S. trade deal outside Parliament while the session was ongoing.",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-india-us-trade-deal-piyush-goyal-press-conference-congress/article70591137.ece",
+            "source_title": "Congress says Commerce Minister's press conference during session breaches Parliament tradition - The Hindu",
+            "scraped_at": "2026-02-04 05:17:29"
           }
         ],
         "criminal_cases_in_news": 0
@@ -1088,6 +1094,12 @@
             "source_url": "https://indianexpress.com/article/india/what-changed-in-the-last-six-months-bjp-asks-mann-as-punjab-implements-rural-job-scheme-10767196/",
             "source_title": "‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme | India News - The Indian Express",
             "scraped_at": "2026-07-01 22:52:33"
+          },
+          {
+            "incident_text": "Hardeep Singh Puri stated that calling Ravneet Singh Bittu a traitor is unacceptable due to his family history and his grandfather's assassination.",
+            "source_url": "https://www.thehindu.com/news/national/entire-sikh-community-anguished-over-rahul-calling-bittu-traitor-bjp/article70591386.ece",
+            "source_title": "Entire Sikh community anguished over Rahul calling Bittu traitor: BJP - The Hindu",
+            "scraped_at": "2026-02-04 06:10:05"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -1646,6 +1658,18 @@
             "source_url": "https://www.thehindu.com/news/national/insults-fly-as-rahul-gandhi-ravneet-bittu-trade-traitor-and-enemy-of-the-country-jibes/article70591488.ece",
             "source_title": "Insults fly as Rahul Gandhi, Ravneet Bittu trade ‘traitor’ and ‘enemy of the country’ jibes - The Hindu",
             "scraped_at": "2026-02-04 08:49:58"
+          },
+          {
+            "incident_text": "Nayab Singh Saini called the Congress a 'tweet-master party' focused on misleading people.",
+            "source_url": "https://www.thehindu.com/news/national/haryana/congress-has-become-tweet-master-party-haryana-cm/article70591287.ece",
+            "source_title": "Congress has become ‘tweet master party’: Haryana CM - The Hindu",
+            "scraped_at": "2026-02-04 06:09:34"
+          },
+          {
+            "incident_text": "Rahul Gandhi called Ravneet Singh Bittu a traitor.",
+            "source_url": "https://www.thehindu.com/news/national/entire-sikh-community-anguished-over-rahul-calling-bittu-traitor-bjp/article70591386.ece",
+            "source_title": "Entire Sikh community anguished over Rahul calling Bittu traitor: BJP - The Hindu",
+            "scraped_at": "2026-02-04 06:10:05"
           }
         ]
       },
@@ -1883,6 +1907,12 @@
             "source_url": "https://www.thehindu.com/news/national/modi-signed-a-trap-deal-on-us-pressure-congress/article70601173.ece",
             "source_title": "Modi signed a ‘trap deal’ on U.S. pressure: Congress - The Hindu",
             "scraped_at": "2026-02-06 11:49:34"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge alleged the India-U.S. trade deal will harm Indian farmers and destroy the country's agriculture sector.",
+            "source_url": "https://www.thehindu.com/news/national/trade-deal-with-us-will-hurt-indian-farmers-govt-wants-to-destroy-agri-sector-kharge/article70591562.ece",
+            "source_title": "Trade deal with U.S. will hurt Indian farmers, govt wants to destroy agri sector: Kharge - The Hindu",
+            "scraped_at": "2026-02-04 07:39:08"
           }
         ],
         "criminal_cases_in_news": 1,
