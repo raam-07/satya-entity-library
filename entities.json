@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3069,6 +3069,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/no-talks-with-opposition-on-bar-timing-extension-says-kerala-leader-of-the-opposition/article70648109.ece",
             "source_title": "No talks with Opposition on bar timing extension, says Kerala Leader of the Opposition - The Hindu",
             "scraped_at": "2026-02-18 13:36:35"
+          },
+          {
+            "incident_text": "V.D. Satheesan warned that if current trends continue, Kerala could become an 'old-age home' within five years.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-udfs-puthuyuga-yatra-launch-vd-satheesan-flags-keralas-financial-crisis-and-promises-vision-for-states-future/article70599342.ece",
+            "source_title": "UDF’s Puthuyuga Yatra: V.D. Satheesan flags Kerala’s financial crisis and promises vision for State’s future - The Hindu",
+            "scraped_at": "2026-02-06 05:18:48"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -4690,9 +4696,17 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Siddaramaiah",
         "image_placeholder": "siddaramaiah",
-        "criminal_cases_in_news": 0,
-        "criminal_incidents": [],
-        "criminal_last_updated": "2026-06-01",
+        "criminal_cases_in_news": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "No leadership change in Karnataka, clear signal from Congress high command: MLC Yathindra - The Hindu **Yathindra**, son of **Siddaramaiah**, the Chief Minister of Karnataka, expressed confidence that",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-leadership-change-in-karnataka-clear-signal-from-congress-high-command-says-mlc-yathindra-siddaramaiah/article70599631.ece",
+            "source_title": "No leadership change in Karnataka, clear signal from Congress high command: MLC Yathindra - The Hindu",
+            "scraped_at": "2026-02-06 06:10:49",
+            "incident_type": "broad"
+          }
+        ],
+        "criminal_last_updated": "2026-07-02",
         "controversies": [
           {
             "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
@@ -8189,6 +8203,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-urges-tn-government-to-consider-demands-of-noon-meal-workers/article70603210.ece",
       "source_title": "Anbumani urges T.N. government to consider demands of noon-meal workers - The Hindu",
       "scraped_at": "2026-02-07 04:07:22",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that the Act has been scrapped and replaced with tamper-proof land records carrying QR codes",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-tears-into-jagan-rule-vows-to-protect-farmers-lands/article70599710.ece",
+      "source_title": "Naidu tears into Jagan rule; vows to protect farmers’ lands - The Hindu",
+      "scraped_at": "2026-02-06 06:09:00",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
