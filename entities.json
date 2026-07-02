@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2480,6 +2480,13 @@
             "source_title": "A.P. High Court adjourns Ambati Rambabu’s lunch motion petition to February 11 - The Hindu",
             "scraped_at": "2026-02-05 09:50:41",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "YSRCP will respond firmly if ‘Jungle Raj’ continues in A.P., says Jagan - The Hindu **YSRCP** president **Y.S. Jagan Mohan Reddy** accused the **Chandrababu Naidu-led government** of creating a breakd",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-respond-firmly-if-jungle-raj-continues-in-ap-says-jagan/article70592166.ece",
+            "source_title": "YSRCP will respond firmly if ‘Jungle Raj’ continues in A.P., says Jagan - The Hindu",
+            "scraped_at": "2026-02-05 00:16:35",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2538,7 +2545,7 @@
             "scraped_at": "2026-02-07 10:03:09"
           }
         ],
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "criminal_last_updated": "2026-07-02"
       },
       {
