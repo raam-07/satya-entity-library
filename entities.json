@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-01",
+    "last_updated": "2026-07-02",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3645,7 +3645,14 @@
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
         "criminal_incidents": [],
-        "controversies": []
+        "controversies": [
+          {
+            "incident_text": "Manik Saha stated that only national parties can provide sustained development for tribal communities.",
+            "source_url": "https://www.thehindu.com/news/national/tripura/tripura-council-poll-no-alliance-call-yet-by-bjp-ally-ipft-keen-on-tie-up/article70601716.ece",
+            "source_title": "Tripura council poll: no alliance call yet by BJP, ally IPFT keen on tie-up - The Hindu",
+            "scraped_at": "2026-02-06 14:53:53"
+          }
+        ]
       },
       {
         "name": "Yogi Adityanath",
@@ -5728,9 +5735,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-01",
+        "party_last_updated": "2026-07-02",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-01"
+        "cm_last_updated": "2026-07-02"
       },
       {
         "name": "Rajasthan",
@@ -5758,7 +5765,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-01"
+        "party_last_updated": "2026-07-02"
       },
       {
         "name": "Telangana",
