@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -8213,6 +8213,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-tears-into-jagan-rule-vows-to-protect-farmers-lands/article70599710.ece",
       "source_title": "Naidu tears into Jagan rule; vows to protect farmers’ lands - The Hindu",
       "scraped_at": "2026-02-06 06:09:00",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Conrad Sangma",
+      "promise_text": "stringent action against those responsible and deployed two Cabinet Ministers to assess the rescue",
+      "source_url": "https://www.thehindu.com/news/national/meghalaya/meghalaya-coal-mine-explosion-mine-owners-arrested-rescue-operations-ongoing/article70598663.ece",
+      "source_title": "Meghalaya coal mine explosion: Two mine owners arrested, rescue operations ongoing - The Hindu",
+      "scraped_at": "2026-02-06 00:12:55",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
