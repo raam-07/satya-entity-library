@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -488,6 +488,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
             "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
             "scraped_at": "2026-02-03 07:39:44"
+          },
+          {
+            "incident_text": "Narendra Modi took full credit for the temple's construction.",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-took-full-credit-for-ram-temple-now-must-break-silence-on-donation-theft-congress/article71179030.ece",
+            "source_title": "Ram temple row: Congress wants PM to break silence, questions SIT probe - The Hindu",
+            "scraped_at": "2026-07-03 17:01:09"
           }
         ]
       },
@@ -5070,6 +5076,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/state-bjp-president-by-vijayendra-expresses-doubts-over-sit-to-probe-death-of-real-estate-company-confident-group-founder-cj-roy/article70581836.ece",
             "source_title": "BJP leader B.Y. Vijayendra questions formation of SIT to probe death of C.J. Roy - The Hindu",
             "scraped_at": "2026-02-02 02:10:10"
+          },
+          {
+            "incident_text": "Siddaramaiah expressed displeasure over his exclusion from inauguration ceremonies for projects funded during his tenure.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/a-calm-siddaramaiah-keeps-everyone-guessing/article71179550.ece",
+            "source_title": "A ‘calm’ Siddaramaiah keeps everyone guessing - The Hindu",
+            "scraped_at": "2026-07-03 16:57:17"
           }
         ]
       },
