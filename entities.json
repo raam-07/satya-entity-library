@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3149,6 +3149,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-udfs-puthuyuga-yatra-launch-vd-satheesan-flags-keralas-financial-crisis-and-promises-vision-for-states-future/article70599342.ece",
             "source_title": "UDF’s Puthuyuga Yatra: V.D. Satheesan flags Kerala’s financial crisis and promises vision for State’s future - The Hindu",
             "scraped_at": "2026-02-06 05:18:48"
+          },
+          {
+            "incident_text": "V.D. Satheesan threatened to expose officers involved in the investigation, which the High Court defended.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-row-ldf-in-kerala-questions-sonia-gandhi-link-to-put-congress-on-the-defensive/article70586519.ece",
+            "source_title": "Sabarimala gold row: LDF in Kerala questions Sonia Gandhi link to put Congress on the defensive - The Hindu",
+            "scraped_at": "2026-02-03 03:13:31"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -4635,6 +4641,13 @@
             "source_title": "West Bengal SIR hearing LIVE: Mamata Banerjee to appear in person in Supreme Court - The Hindu",
             "scraped_at": "2026-02-04 00:07:44",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "SC adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids - The Hindu The **Supreme Court** adjourned the hearing on an ED plea alleging obstruction by the **West Ben",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-adjourns-to-february-10-eds-plea-against-interference-by-cm-mamata-during-i-pac-raids/article70586580.ece",
+            "source_title": "SC adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids - The Hindu",
+            "scraped_at": "2026-02-03 04:20:40",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4787,11 +4800,17 @@
             "source_url": "https://www.thehindu.com/news/national/case-against-west-bengal-sir-mamata-banerjee-to-attend-proceedings-in-supreme-court/article70589030.ece",
             "source_title": "Case against West Bengal SIR: Mamata Banerjee likely to appear in person in Supreme Court on February 4 - The Hindu",
             "scraped_at": "2026-02-03 13:06:02"
+          },
+          {
+            "incident_text": "Mamata Banerjee allegedly entered raid sites, took evidence, and intimidated officers, hindering the investigation.",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-adjourns-to-february-10-eds-plea-against-interference-by-cm-mamata-during-i-pac-raids/article70586580.ece",
+            "source_title": "SC adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids - The Hindu",
+            "scraped_at": "2026-02-03 04:20:40"
           }
         ],
-        "criminal_cases_in_news": 22,
+        "criminal_cases_in_news": 23,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-07-02"
+        "criminal_last_updated": "2026-07-03"
       },
       {
         "name": "Siddaramaiah",
@@ -5108,14 +5127,24 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
         "auto_added": true,
         "auto_added_on": "2026-07-03",
         "gemma_confidence": "high",
-        "mentions_detected": 1
+        "mentions_detected": 1,
+        "criminal_incidents": [
+          {
+            "incident_text": "15-year-old boy dies after fall from apartment in Bengaluru, police book pub for serving liquor to minor - The Hindu A 15-year-old boy died after falling from the seventh floor of a residential apartm",
+            "source_url": "https://www.thehindu.com/news/cities/bangalore/15-year-old-boy-dies-after-fall-from-apartment-in-bengaluru-police-book-pub-for-serving-liquor-to-minor/article70586271.ece",
+            "source_title": "15-year-old boy dies after fall from apartment in Bengaluru, police book pub for serving liquor to minor - The Hindu",
+            "scraped_at": "2026-02-03 04:20:25",
+            "incident_type": "serious"
+          }
+        ],
+        "criminal_last_updated": "2026-07-03"
       }
     ],
     "parties": [
