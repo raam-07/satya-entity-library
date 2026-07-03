@@ -650,7 +650,14 @@
         "known_promises": [],
         "image_placeholder": "rajnath_singh",
         "criminal_incidents": [],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Rajnath Singh accused Rahul Gandhi of misleading the House by quoting from an unpublished memoir.",
+            "source_url": "https://www.thehindu.com/news/national/budget-session-of-parliament-rahul-gandhi-naravane-memoir-lok-sabha/article70582353.ece",
+            "source_title": "Parliament uproar after Rahul Gandhi seeks to quote from former Army chief Naravane’s ‘memoir - The Hindu",
+            "scraped_at": "2026-02-02 04:30:19"
+          }
+        ],
         "criminal_cases_in_news": 0
       },
       {
