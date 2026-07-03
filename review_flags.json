@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03 01:52:41.032831",
+  "generated_at": "2026-07-03 03:45:02.667739",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 14
@@ -53,7 +53,7 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.72,
+      "confidence": 0.68,
       "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "s.  The party will hold a meeting in Mumbai on May 20th to address the internal issues. Nationalist Congress Party (NCP) MP, and Maharashtra Deputy Chief Minister Sunetra Pawar’s son, Parth Pawar met "
