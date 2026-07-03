@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-03 05:15:54.908007",
+  "generated_at": "2026-07-03 06:03:25.157246",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 2,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 14
+    "items_needing_review": 13
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -75,15 +75,6 @@
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "p 11 new satellite townships in the state, prohibiting land sales and construction until a Master Plan is prepared. In his first Cabinet meeting after assuming the post on Wednesday (April 22, 2026), "
-    },
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Mamata Banerjee",
-      "confidence": 0.4,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "andidates. The Congress leader was canvassing for his party's candidates after five years since the last Assembly polls in 2021. Speaking at a meeting at Raiganj in Uttar Dinajpur, Mr. Gandhi accused "
     },
     {
       "type": "cm_detection",

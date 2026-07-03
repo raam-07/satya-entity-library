@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -475,6 +475,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
             "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
             "scraped_at": "2026-02-06 12:42:55"
+          },
+          {
+            "incident_text": "Narendra Modi signed the India-U.S. trade deal under pressure, according to Rahul Gandhi.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
+            "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
+            "scraped_at": "2026-02-03 07:39:44"
           }
         ]
       },
@@ -1670,6 +1676,12 @@
             "source_url": "https://www.thehindu.com/news/national/entire-sikh-community-anguished-over-rahul-calling-bittu-traitor-bjp/article70591386.ece",
             "source_title": "Entire Sikh community anguished over Rahul calling Bittu traitor: BJP - The Hindu",
             "scraped_at": "2026-02-04 06:10:05"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed Prime Minister Modi signed the trade deal under pressure and compromised Indian farmers.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
+            "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
+            "scraped_at": "2026-02-03 07:39:44"
           }
         ]
       },
@@ -5086,6 +5098,22 @@
         "image_placeholder": "sheikh_abdullah",
         "auto_added": true,
         "auto_added_on": "2026-06-18",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
+      },
+      {
+        "name": "On Saturday",
+        "role": "Former Chief Minister of West Bengal",
+        "party": "",
+        "state": "West Bengal",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
+        "image_placeholder": "on_saturday",
+        "auto_added": true,
+        "auto_added_on": "2026-07-03",
         "gemma_confidence": "high",
         "mentions_detected": 1
       }
