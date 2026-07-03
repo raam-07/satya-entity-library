@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -692,6 +692,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/reassessingperiyarevramasamystake-on-tamil-which-he-called-a-barbarian-language/article70651265.ece",
             "source_title": "Reassessing Periyar E.V. Ramasamy’s take on Tamil, which he called a barbarian language - The Hindu",
             "scraped_at": "2026-02-19 21:01:49"
+          },
+          {
+            "incident_text": "Nirmala Sitharaman ignored Karnataka's needs in the budget, according to Minister Laxmi Hebbalkar.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/a-big-disappointment-for-karnataka-says-minister/article70579140.ece",
+            "source_title": "A big disappointment for Karnataka says Minister - The Hindu",
+            "scraped_at": "2026-02-01 11:09:20"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3354,6 +3360,12 @@
             "source_url": "https://www.ndtv.com/india-news/im-human-d-fadnavis-after-uddhav-thackerays-clip-wings-remark-11699555#publisher=newsstand",
             "source_title": "\"I'm Human\": D Fadnavis After Uddhav Thackeray's \"Clip Wings\" Remark",
             "scraped_at": "2026-06-28 17:46:37"
+          },
+          {
+            "incident_text": "Devendra Fadnavis refuted Sharad Pawar's claims about an NCP faction merger.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-denies-piyush-goyals-claim-that-he-has-been-appointed-ncp-chief/article70579295.ece",
+            "source_title": "Praful Patel denies Piyush Goyal’s claim that he has been appointed NCP chief - The Hindu",
+            "scraped_at": "2026-02-01 12:01:24"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -3613,7 +3625,7 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
@@ -3645,6 +3657,13 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-advance-bail-to-anitha-r-radhakrishnan-for-his-objectionable-remarks-against-cm-vijay/article71177455.ece",
             "source_title": "Madras High Court denies advance bail to Anitha R. Radhakrishnan for his objectionable remarks against CM Vijay - The Hindu",
             "scraped_at": "2026-07-03 07:54:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Watch: Anitha Radhakrishnan’s arrest triggers DMK-TVK standoff - The Hindu **Anitha R. Radhakrishnan**, former Tamil Nadu Fisheries Minister and DMK MLA, has been arrested for allegedly making dispara",
+            "source_url": "https://www.thehindu.com/videos/watch-anitha-radhakrishnans-arrest-triggers-dmk-tvk-standoff/article71179707.ece",
+            "source_title": "Watch: Anitha Radhakrishnan’s arrest triggers DMK-TVK standoff - The Hindu",
+            "scraped_at": "2026-07-03 17:02:13",
             "incident_type": "broad"
           }
         ],
@@ -3822,6 +3841,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-terms-claims-on-release-of-funds-for-kmc-as-ridiculous-demands-white-paper/article70596903.ece",
             "source_title": "Bandi Sanjay terms claims on release of funds for KMC as ‘ridiculous’, demands white paper - The Hindu",
             "scraped_at": "2026-02-05 12:48:57"
+          },
+          {
+            "incident_text": "Revanth Reddy claims his 60 trips to New Delhi yielded no financial benefits for Telangana.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/union-budget-continuation-of-injustice-to-telangana-say-brs-leaders-ktr-harish-rao/article70579937.ece",
+            "source_title": "Union Budget continuation of injustice to Telangana, say BRS leaders KTR, Harish Rao - The Hindu",
+            "scraped_at": "2026-02-01 12:25:06"
           }
         ],
         "criminal_cases_in_news": 4,
@@ -5209,7 +5234,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5230,6 +5255,13 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ambati-rambabu-remanded-to-14-days-judicial-custody/article70580300.ece",
             "source_title": "Ambati Rambabu remanded to 14 days’ judicial custody - The Hindu",
             "scraped_at": "2026-02-01 14:01:28",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two men who opposed harassment of Muslim shopkeeper booked in Uttarakhand - The Hindu The **Uttarakhand police** have registered three separate FIRs following incidents of alleged harassment and intim",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/two-men-who-opposed-harassment-of-muslim-shopkeeper-booked-in-uttarakhand/article70579252.ece",
+            "source_title": "Two men who opposed harassment of Muslim shopkeeper booked in Uttarakhand - The Hindu",
+            "scraped_at": "2026-02-01 12:24:51",
             "incident_type": "broad"
           }
         ],
