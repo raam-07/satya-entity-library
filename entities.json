@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -4864,6 +4864,18 @@
             "source_url": "https://www.thehindu.com/news/national/supreme-court-adjourns-to-february-10-eds-plea-against-interference-by-cm-mamata-during-i-pac-raids/article70586580.ece",
             "source_title": "SC adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids - The Hindu",
             "scraped_at": "2026-02-03 04:20:40"
+          },
+          {
+            "incident_text": "Mamata Banerjee called the budget 'directionless' and 'anti-poor' for lacking provisions for West Bengal.",
+            "source_url": "https://www.thehindu.com/business/budget/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
+            "source_title": "Budget 2026-27 falls short of expectations in poll bound West Bengal - The Hindu",
+            "scraped_at": "2026-02-01 13:59:03"
+          },
+          {
+            "incident_text": "Mamata Banerjee stated the budget lacked provisions for West Bengal's development.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
+            "source_title": "Union Budget 2026 falls short of expectations in poll-bound West Bengal - The Hindu",
+            "scraped_at": "2026-02-01 15:02:22"
           }
         ],
         "criminal_cases_in_news": 24,
@@ -5197,7 +5209,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5212,9 +5224,24 @@
             "source_title": "15-year-old boy dies after fall from apartment in Bengaluru, police book pub for serving liquor to minor - The Hindu",
             "scraped_at": "2026-02-03 04:20:25",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Ambati Rambabu remanded to 14 days’ judicial custody - The Hindu **Ambati Rambabu**, former Minister and YSR Congress Party leader, was granted a 14-day judicial remand by a court after being arrested",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ambati-rambabu-remanded-to-14-days-judicial-custody/article70580300.ece",
+            "source_title": "Ambati Rambabu remanded to 14 days’ judicial custody - The Hindu",
+            "scraped_at": "2026-02-01 14:01:28",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-03"
+        "criminal_last_updated": "2026-07-03",
+        "controversies": [
+          {
+            "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ambati-rambabu-remanded-to-14-days-judicial-custody/article70580300.ece",
+            "source_title": "Ambati Rambabu remanded to 14 days’ judicial custody - The Hindu",
+            "scraped_at": "2026-02-01 14:01:28"
+          }
+        ]
       }
     ],
     "parties": [
