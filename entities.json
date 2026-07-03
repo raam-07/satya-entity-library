@@ -8,8 +8,8 @@
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -8573,6 +8573,16 @@
       "source_title": "Centre announces ₹3,795-crore budgetary outlay for rail development works in Kerala - The Hindu",
       "scraped_at": "2026-02-02 09:47:40",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "a comprehensive medical testing program for nearly 72 lakh people under the Sanjeevani digital health project",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/free-health-tests-for-72-lakh-under-sanjeevani-digital-drive-naidu/article70579370.ece",
+      "source_title": "Free health tests for 72 lakh under Sanjeevani digital drive: Naidu - The Hindu",
+      "scraped_at": "2026-02-01 10:04:05",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
