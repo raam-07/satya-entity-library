@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -4674,6 +4674,13 @@
             "source_title": "SC adjourns to February 10 ED's plea against 'interference' by CM Mamata during I-PAC raids - The Hindu",
             "scraped_at": "2026-02-03 04:20:40",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal Government questions maintainability of ED plea in Supreme Court on I-PAC case - The Hindu The **West Bengal** government has challenged the **Directorate of Enforcement's (ED)** petition ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-questions-maintainability-of-ed-plea-in-supreme-court-on-i-pac-case/article70584332.ece",
+            "source_title": "West Bengal Government questions maintainability of ED plea in Supreme Court on I-PAC case - The Hindu",
+            "scraped_at": "2026-02-02 13:21:12",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4834,7 +4841,7 @@
             "scraped_at": "2026-02-03 04:20:40"
           }
         ],
-        "criminal_cases_in_news": 23,
+        "criminal_cases_in_news": 24,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-07-03"
       },
