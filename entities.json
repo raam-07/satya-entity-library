@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5064,6 +5064,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/swadeshabhimani-kesari-award-presented-to-malayinkeezhu-gopalakrishnan/article70597170.ece",
             "source_title": "Swadeshabhimani-Kesari award presented to Malayinkeezhu Gopalakrishnan - The Hindu",
             "scraped_at": "2026-02-05 12:47:24"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claimed the Centre was financially choking Kerala due to political hostility.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-being-punished-for-not-accepting-bjp-pinarayi/article70588570.ece",
+            "source_title": "Kerala being punished for not accepting BJP: Pinarayi - The Hindu",
+            "scraped_at": "2026-02-03 10:50:25"
           }
         ]
       },
