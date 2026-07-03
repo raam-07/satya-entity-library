@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "criminal_updates": 2,
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 7,
+        "criminal_cases_in_news": 8,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -94,9 +94,16 @@
             "source_title": "Shirtless protest: Court reserves order on Delhi Police plea for custody of arrested IYC workers - The Hindu",
             "scraped_at": "2026-02-21 03:08:50",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Parliament security breach case: police oppose bail to 3 - The Hindu The **Delhi police** opposed the bail plea of accused in the 2023 Parliament security breach case, arguing that carrying inflammabl",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/parliament-security-breach-case-police-oppose-bail-to-3/article70584569.ece",
+            "source_title": "Parliament security breach case: police oppose bail to 3 - The Hindu",
+            "scraped_at": "2026-02-02 20:48:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-24",
+        "criminal_last_updated": "2026-07-03",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -3581,7 +3588,7 @@
           "C. Joseph Vijay**"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "auto_added": true,
         "auto_added_on": "2026-05-28",
         "gemma_confidence": "high",
@@ -3607,9 +3614,16 @@
             "source_title": "Vijay government moves Supreme Court on Thirupparankundram row - The Hindu",
             "scraped_at": "2026-06-23 07:56:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Madras High Court denies advance bail to Anitha R. Radhakrishnan for his objectionable remarks against CM Vijay - The Hindu The **Madras High Court** denied anticipatory bail to former Minister Anitha",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-advance-bail-to-anitha-r-radhakrishnan-for-his-objectionable-remarks-against-cm-vijay/article71177455.ece",
+            "source_title": "Madras High Court denies advance bail to Anitha R. Radhakrishnan for his objectionable remarks against CM Vijay - The Hindu",
+            "scraped_at": "2026-07-03 07:54:08",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-24",
+        "criminal_last_updated": "2026-07-03",
         "controversies": [
           {
             "incident_text": "C. Joseph Vijay described the new TVK-led administration as a 'Vijay-model government'.",
@@ -8423,6 +8437,16 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-pushes-monsoon-session-to-august/article71175488.ece",
       "source_title": "Karnataka: SIR pushes Monsoon Session to August - The Hindu",
       "scraped_at": "2026-07-02 22:40:43",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "plans for a \"Tamil Biennale\" in January 2027 to promote Tamil Nadu as a destination for art and cultural tourism",
+      "source_url": "https://www.thehindu.com/news/cities/chennai/tamil-biennale-will-be-held-in-january-2027-stalin-says-at-global-tourism-summit/article70583535.ece",
+      "source_title": "Tamil Biennale will be held in January 2027, Stalin says at Global Tourism Summit - The Hindu",
+      "scraped_at": "2026-02-02 20:49:06",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
