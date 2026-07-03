@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -1701,6 +1701,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-om-birla-face-off-rule-349/article70586156.ece",
             "source_title": "Rahul Gandhi-Om Birla face off: Rule 349 bars reading books, newspapers; but silent on published or unpublished texts, says expert - The Hindu",
             "scraped_at": "2026-02-03 01:32:10"
+          },
+          {
+            "incident_text": "Rahul Gandhi was prevented from speaking on the 2020 India-China border conflict due to objections to references to General (retired) Manoj Naravane’s memoir.",
+            "source_url": "https://www.thehindu.com/news/national/congress-says-government-is-misusing-rules-to-silence-lop-from-quoting-naravanes-book-on-china-border-issue/article70583791.ece",
+            "source_title": "Congress says government is misusing rules to silence LoP from quoting Naravane’s book on China border issue - The Hindu",
+            "scraped_at": "2026-02-02 10:35:36"
           }
         ]
       },
@@ -3078,6 +3084,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/high-command-will-have-to-react-says-dcm/article70601258.ece",
             "source_title": "High Command will have to react, says DCM - The Hindu",
             "scraped_at": "2026-02-06 14:16:16"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated that 'one man with courage makes a majority' in politics.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/one-man-with-courage-makes-a-majority-says-dk-shivakumar/article70584004.ece",
+            "source_title": "One man with courage makes a majority, says D.K. Shivakumar - The Hindu",
+            "scraped_at": "2026-02-02 10:38:45"
           }
         ]
       },
@@ -4996,6 +5008,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/no-rift-in-congress-leadership-decision-lies-with-high-command-dinesh-gundu-rao/article70608029.ece",
             "source_title": "No rift in Congress, leadership decision lies with high command: Dinesh Gundu Rao - The Hindu",
             "scraped_at": "2026-02-08 10:28:09"
+          },
+          {
+            "incident_text": "Siddaramaiah stated that the BJP was accusing them of harboring enmity.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/one-man-with-courage-makes-a-majority-says-dk-shivakumar/article70584004.ece",
+            "source_title": "One man with courage makes a majority, says D.K. Shivakumar - The Hindu",
+            "scraped_at": "2026-02-02 10:38:45"
           }
         ]
       },
@@ -8455,6 +8473,16 @@
       "source_title": "Tamil Biennale will be held in January 2027, Stalin says at Global Tourism Summit - The Hindu",
       "scraped_at": "2026-02-02 20:49:06",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Ashwini Vaishnaw",
+      "promise_text": "in New Delhi that the Union government has extended full support to Mr",
+      "source_url": "https://www.thehindu.com/news/national/kerala/centre-announces-3795-crore-budgetary-outlay-for-rail-development-works-in-kerala/article70583922.ece",
+      "source_title": "Centre announces ₹3,795-crore budgetary outlay for rail development works in Kerala - The Hindu",
+      "scraped_at": "2026-02-02 09:47:40",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
