@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3090,6 +3090,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/one-man-with-courage-makes-a-majority-says-dk-shivakumar/article70584004.ece",
             "source_title": "One man with courage makes a majority, says D.K. Shivakumar - The Hindu",
             "scraped_at": "2026-02-02 10:38:45"
+          },
+          {
+            "incident_text": "D.K. Shivakumar has fallen silent on the 'Brand Bengaluru' campaign, which Ashok claims has deteriorated under his leadership.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/r-ashok-questions-silence-of-karnataka-deputy-cm-dk-shivakumar-on-brand-bengaluru-absence-from-house/article70582652.ece",
+            "source_title": "R. Ashok questions silence of Karnataka Deputy CM D.K. Shivakumar on Brand Bengaluru, absence from House - The Hindu",
+            "scraped_at": "2026-02-02 06:15:02"
           }
         ]
       },
