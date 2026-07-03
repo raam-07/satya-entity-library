@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1682,6 +1682,18 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
             "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
             "scraped_at": "2026-02-03 07:39:44"
+          },
+          {
+            "incident_text": "Rahul Gandhi attempted to quote from an unpublished memoir to criticize Modi and Singh regarding the 2020 India-China conflict.",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-lok-sabha-rajya-sabha-the-hindu-live-updates-february-3-2026/article70586034.ece",
+            "source_title": "Parliament Budget Session Day 5 LIVE: Lok Sabha adjourned till noon; Congress demands debate on India-U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-03 00:12:25"
+          },
+          {
+            "incident_text": "Rahul Gandhi argued an unpublished memoir was relevant to the parliamentary debate.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-om-birla-face-off-rule-349/article70586156.ece",
+            "source_title": "Rahul Gandhi-Om Birla face off: Rule 349 bars reading books, newspapers; but silent on published or unpublished texts, says expert - The Hindu",
+            "scraped_at": "2026-02-03 01:32:10"
           }
         ]
       },
