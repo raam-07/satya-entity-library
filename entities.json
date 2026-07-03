@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -704,6 +704,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/a-big-disappointment-for-karnataka-says-minister/article70579140.ece",
             "source_title": "A big disappointment for Karnataka says Minister - The Hindu",
             "scraped_at": "2026-02-01 11:09:20"
+          },
+          {
+            "incident_text": "Nirmala Sitharaman appeared to have forgotten Kerala existed on India’s map.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/at-ldfs-northern-region-development-rally-cm-pinarayi-vijayan-slams-centres-neglect-of-kerala/article70579334.ece",
+            "source_title": "At LDF’s northern region development rally, CM Pinarayi Vijayan slams Centre’s neglect of Kerala - The Hindu",
+            "scraped_at": "2026-02-01 10:00:42"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -5220,6 +5226,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-being-punished-for-not-accepting-bjp-pinarayi/article70588570.ece",
             "source_title": "Kerala being punished for not accepting BJP: Pinarayi - The Hindu",
             "scraped_at": "2026-02-03 10:50:25"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claimed the Union Budget demonstrated 'cruel neglect' towards Kerala.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/at-ldfs-northern-region-development-rally-cm-pinarayi-vijayan-slams-centres-neglect-of-kerala/article70579334.ece",
+            "source_title": "At LDF’s northern region development rally, CM Pinarayi Vijayan slams Centre’s neglect of Kerala - The Hindu",
+            "scraped_at": "2026-02-01 10:00:42"
           }
         ]
       },
@@ -5246,7 +5258,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5275,6 +5287,13 @@
             "source_title": "Two men who opposed harassment of Muslim shopkeeper booked in Uttarakhand - The Hindu",
             "scraped_at": "2026-02-01 12:24:51",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "A morning commute, a shattered family: New York officer’s death renews call against drunk driving - The Times of India **Officer Patricia Espinosa**, a seven-year veteran of the **Nassau County Police",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/a-morning-commute-a-shattered-family-new-york-officers-death-renews-call-against-drunk-driving/articleshow/127842767.cms",
+            "source_title": "A morning commute, a shattered family: New York officer’s death renews call against drunk driving - The Times of India",
+            "scraped_at": "2026-02-01 09:03:12",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-03",
@@ -5284,6 +5303,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ambati-rambabu-remanded-to-14-days-judicial-custody/article70580300.ece",
             "source_title": "Ambati Rambabu remanded to 14 days’ judicial custody - The Hindu",
             "scraped_at": "2026-02-01 14:01:28"
+          },
+          {
+            "incident_text": "On Saturday, Ambati Rambabu made derogatory comments about Chief Minister Naidu.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/msme-minister-condemns-ambati-rambabus-derogatory-remarks-on-chief-minister-naidu/article70576657.ece",
+            "source_title": "MSME Minister condemns Ambati Rambabu’s derogatory remarks on Chief Minister Naidu - The Hindu",
+            "scraped_at": "2026-02-01 09:28:07"
           }
         ]
       }
