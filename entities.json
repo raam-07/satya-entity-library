@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -6077,7 +6077,9 @@
         "capital": "Bhopal",
         "ruling_party": "BJP",
         "cm": "Mohan Yadav",
-        "region": "Central"
+        "region": "Central",
+        "cm_confidence": 0.83,
+        "cm_last_updated": "2026-07-03"
       },
       {
         "name": "Maharashtra",
