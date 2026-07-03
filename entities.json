@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-02",
+    "last_updated": "2026-07-03",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5908,9 +5908,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-02",
+        "party_last_updated": "2026-07-03",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-02"
+        "cm_last_updated": "2026-07-03"
       },
       {
         "name": "Rajasthan",
@@ -5938,7 +5938,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-02"
+        "party_last_updated": "2026-07-03"
       },
       {
         "name": "Telangana",
@@ -8338,6 +8338,16 @@
       "source_url": "https://www.thehindu.com/news/national/maharashtra/new-us-tariff-policy-favours-agricultural-exports-raises-concern-for-indian-farmers-sharad-pawar/article70590805.ece",
       "source_title": "India-US trade deal: Sharad Pawar says new U.S. tariff policy favours agricultural exports; raises concern for Indian farmers - The Hindu",
       "scraped_at": "2026-02-04 03:18:53",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that the dates for the Monsoon Session of the Karnataka legislature will be decided in the first or second week of August",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-sir-pushes-monsoon-session-to-august/article71175488.ece",
+      "source_title": "Karnataka: SIR pushes Monsoon Session to August - The Hindu",
+      "scraped_at": "2026-07-02 22:40:43",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false

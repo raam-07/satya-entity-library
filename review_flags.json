@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02 23:58:56.092022",
+  "generated_at": "2026-07-03 01:52:41.032831",
   "summary": {
     "cm_updates_applied": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 14
@@ -106,8 +106,8 @@
       "type": "cm_detection",
       "state": "Andhra Pradesh",
       "candidate": "Chandrababu Naidu",
-      "confidence": 0.5,
-      "mentions": 3,
+      "confidence": 0.57,
+      "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
     },
