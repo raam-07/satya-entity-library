@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -2318,6 +2318,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
             "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
             "scraped_at": "2026-01-30 22:53:49"
+          },
+          {
+            "incident_text": "Sharad Pawar stated the plane crash was an accident and should not be politicized.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawars-death-in-plane-crash-an-accident-dont-bring-politics-sharad-pawar/article70562713.ece",
+            "source_title": "Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar - The Hindu",
+            "scraped_at": "2026-01-28 22:55:35"
           }
         ]
       },
@@ -5043,6 +5049,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/humayun-kabir-blames-west-bengal-cm-for-communal-remarks/article70574934.ece",
             "source_title": "Humayun Kabir blames West Bengal CM for his communal remarks - The Hindu",
             "scraped_at": "2026-01-31 10:23:37"
+          },
+          {
+            "incident_text": "Mamata Banerjee alleged that all other agencies are compromised and a Supreme Court-monitored probe is needed.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawars-death-in-plane-crash-an-accident-dont-bring-politics-sharad-pawar/article70562713.ece",
+            "source_title": "Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar - The Hindu",
+            "scraped_at": "2026-01-28 22:55:35"
           }
         ],
         "criminal_cases_in_news": 24,
@@ -5400,7 +5412,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 29,
+        "criminal_cases_in_news": 31,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5611,6 +5623,20 @@
             "source_title": "‘No option but to follow SC order’: Court denies bail to Umar Khalid, Sharjeel Imam | Legal News - The Indian Express",
             "scraped_at": "2026-07-04 18:08:48",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "16-Year-Old Crushed Under Gravel While Unloading Dumper In Gurugram A 16-year-old boy, **Priyanshu Maurya**, died after being buried under a load of gravel in Gurugram's Sector 113. The incident occur",
+            "source_url": "https://www.ndtv.com/india-news/16-year-old-crushed-under-gravel-while-unloading-dumper-in-gurugram-11727838#publisher=newsstand",
+            "source_title": "16-Year-Old Crushed Under Gravel While Unloading Dumper In Gurugram",
+            "scraped_at": "2026-07-04 19:48:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman, 32, Raped By Neighbour In Jharkhand: Cops A 32-year-old woman in Jharkhand's Dumka district reported being raped by a neighbor after he allegedly blackmailed her with a video clip. The accused ",
+            "source_url": "https://www.ndtv.com/india-news/woman-32-raped-by-neighbour-in-jharkhand-cops-11727828#publisher=newsstand",
+            "source_title": "Woman, 32, Raped By Neighbour In Jharkhand: Cops",
+            "scraped_at": "2026-07-04 19:49:08",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5710,6 +5736,12 @@
             "source_url": "https://www.thehindu.com/news/national/ram-temple-donation-case-congress-questions-rss-asks-why-agencies-are-silent-on-big-thieves/article71183324.ece",
             "source_title": "Ram temple donation case: Congress questions RSS, asks why agencies are silent on ‘big thieves’ - The Hindu",
             "scraped_at": "2026-07-04 18:10:13"
+          },
+          {
+            "incident_text": "On Saturday, JD Vance criticized those who focus on America's imperfections, comparing them to 'brimstone preachers'.",
+            "source_url": "https://www.ndtv.com/world-news/zeal-of-brimstone-preacher-jd-vance-salms-us-critics-in-july-4th-address-11727823#publisher=newsstand",
+            "source_title": "\"Zeal Of Brimstone Preacher\": JD Vance Salms US Critics In July 4th Address",
+            "scraped_at": "2026-07-04 19:49:18"
           }
         ]
       }
