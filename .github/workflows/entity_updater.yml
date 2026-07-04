@@ -51,6 +51,10 @@ jobs:
           CMAKE_ARGS="-DGGML_AVX=ON -DGGML_AVX2=ON -DGGML_FMA=ON" pip install llama-cpp-python==0.2.90
           python -m spacy download en_core_web_sm
 
+      - name: Run Unit Tests
+        run: |
+          python scratch/test_bridge_sync.py
+
       - name: Cache Gemma Model
         id: cache-model
         uses: actions/cache@v4
