@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1073,6 +1073,12 @@
             "source_url": "https://indianexpress.com/article/india/bpsc-exam-question-giriraj-singh-x-post-row-question-setter-barred-bihar-10748279/",
             "source_title": "Giriraj Singh’s X post becomes Bihar govt recruitment exam question, BPSC takes action amid row | India News - The Indian Express",
             "scraped_at": "2026-06-19 20:56:38"
+          },
+          {
+            "incident_text": "Giriraj Singh claimed the UGC regulations were dividing Sanatan Dharma.",
+            "source_url": "https://www.thehindu.com/news/national/political-reactions-on-supreme-court-stay-on-ugc-equity-rules-updates-january-29/article70565043.ece",
+            "source_title": "Decision significant to protect Sanatan values, says Giriraj as Supreme Court stays UGC equity rules - The Hindu",
+            "scraped_at": "2026-01-29 05:42:11"
           }
         ]
       },
@@ -5665,6 +5671,12 @@
             "source_url": "https://www.bbc.com/news/articles/cq8413k1xvno?at_medium=RSS&at_campaign=rss",
             "source_title": "US Senator Amy Klobuchar announces bid for Minnesota governor",
             "scraped_at": "2026-01-29 09:39:05"
+          },
+          {
+            "incident_text": "On Saturday claimed the YSRCP government's greed for commissions drove away industries.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-dares-ysrcp-for-debate-on-development-of-rayalaseema/article71183325.ece",
+            "source_title": "Minister challenges YSRCP for debate on Rayalaseema development claims - The Hindu",
+            "scraped_at": "2026-07-04 18:11:19"
           }
         ]
       }
