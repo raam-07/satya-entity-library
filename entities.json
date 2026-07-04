@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
