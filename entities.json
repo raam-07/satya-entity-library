@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 2,
       "gaffe_updates": 0
     },
@@ -8644,6 +8644,26 @@
       "source_title": "Statue of Ramasamy Reddiyar to be installed on Omandurar Govt. Medical College campus: Stalin - The Hindu",
       "scraped_at": "2026-02-01 04:09:27",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nirmala Sitharaman",
+      "promise_text": "that the target for capex will be raised to ₹12",
+      "source_url": "https://www.thehindu.com/news/national/union-budget-congress-reaction/article70577316.ece",
+      "source_title": "Budget 2026: Congress calls budget lacklusture, nirmala sitharaman, economy - The Hindu",
+      "scraped_at": "2026-02-01 02:30:28",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nirmala Sitharaman",
+      "promise_text": "plans for seven high-speed corridors",
+      "source_url": "https://www.thehindu.com/business/budget/union-budget-2026-27-finance-minister-nirmala-sitharaman-announces-20000-crore-carbon-capture-utilisation-scheme/article70577158.ece",
+      "source_title": "Union Budget 2026-27: Finance Minister Nirmala Sitharaman announces ₹20,000-crore carbon capture, utilisation scheme - The Hindu",
+      "scraped_at": "2026-02-01 02:31:51",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
