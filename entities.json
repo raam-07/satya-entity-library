@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -648,6 +648,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
             "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
             "scraped_at": "2026-01-30 03:15:03"
+          },
+          {
+            "incident_text": "Amit Shah said Ajit Pawar's absence will leave a void in Maharashtra politics for a long time.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-leaves-maharashtra-politics-in-turbulence/article70567410.ece",
+            "source_title": "Ajit Pawar leaves Maharashtra politics in turbulence - The Hindu",
+            "scraped_at": "2026-01-29 12:38:56"
           }
         ]
       },
@@ -8999,6 +9005,16 @@
       "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
       "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
       "scraped_at": "2026-01-30 03:15:03",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "a ₹30 crore annual subsidy to modernize weaving and knitwear units",
+      "source_url": "https://www.thehindu.com/news/cities/Coimbatore/tn-govt-to-support-modernisation-of-textile-sector-stalin/article70565122.ece",
+      "source_title": "T.N. govt. to support modernisation of textile sector: Stalin - The Hindu",
+      "scraped_at": "2026-01-29 13:46:48",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
