@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5412,7 +5412,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 32,
+        "criminal_cases_in_news": 33,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5644,6 +5644,13 @@
             "source_title": "Border agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave",
             "scraped_at": "2026-01-28 22:51:19",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Pune court adjourns hearing in ‘Khashaba’ copyright dispute; writer cites teaser as evidence | The Indian Express **Sanjay Dudhane**, a writer, filed a copyright suit against **Nagraj Manjule**, **Jyo",
+            "source_url": "https://indianexpress.com/article/pune/nagraj-manjule-khashaba-movie-copyright-dispute-sanjay-dudhane-pune-court-10771557/",
+            "source_title": "Pune court adjourns hearing in ‘Khashaba’ copyright dispute; writer cites teaser as evidence | The Indian Express",
+            "scraped_at": "2026-07-04 21:06:12",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5749,6 +5756,12 @@
             "source_url": "https://www.ndtv.com/world-news/zeal-of-brimstone-preacher-jd-vance-salms-us-critics-in-july-4th-address-11727823#publisher=newsstand",
             "source_title": "\"Zeal Of Brimstone Preacher\": JD Vance Salms US Critics In July 4th Address",
             "scraped_at": "2026-07-04 19:49:18"
+          },
+          {
+            "incident_text": "On Saturday claimed the BJP’s central leadership has become arrogant with power.",
+            "source_url": "https://indianexpress.com/article/mumbai/raj-thackeray-bjp-devendra-fadnavis-ameet-satam-video-mumbai-monsoon-deaths-10771569/",
+            "source_title": "‘BJP’s central leadership has become arrogant’: Raj Thackeray targets Fadnavis over leaders’ remarks | The Indian Express",
+            "scraped_at": "2026-07-04 21:06:50"
           }
         ]
       }
