@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5652,6 +5652,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-unaware-of-sunetra-pawar-being-sworn-in-as-maharashtra-deputy-cm/article70573094.ece",
             "source_title": "No idea about Sunetra Pawar being sworn in as Maharashtra deputy CM, says Sharad Pawar - The Hindu",
             "scraped_at": "2026-01-30 22:52:02"
+          },
+          {
+            "incident_text": "On Saturday, federal agents fatally shot Alex Pretti two weeks after killing another US citizen, Renee Good.",
+            "source_url": "https://www.bbc.com/news/articles/cq8413k1xvno?at_medium=RSS&at_campaign=rss",
+            "source_title": "US Senator Amy Klobuchar announces bid for Minnesota governor",
+            "scraped_at": "2026-01-29 09:39:05"
           }
         ]
       }
