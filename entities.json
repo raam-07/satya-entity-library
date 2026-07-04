@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 1
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5388,7 +5388,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 24,
+        "criminal_cases_in_news": 25,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5563,6 +5563,13 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/patna-neet-aspirant-death-case-nitish-kumar-recommends-cbi-probe/article70573132.ece",
             "source_title": "Patna NEET aspirant death case: Nitish Kumar recommends CBI probe - The Hindu",
             "scraped_at": "2026-01-31 00:37:13",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Guwahati Fake Currency Accused Injured In Police Firing While Trying To Flee **Ajay Biswakarma**, one of five accused in a Guwahati fake currency racket, sustained bullet injuries to his leg while att",
+            "source_url": "https://www.ndtv.com/india-news/guwahati-fake-currency-accused-injured-in-police-firing-while-trying-to-flee-11726869#publisher=newsstand",
+            "source_title": "Guwahati Fake Currency Accused Injured In Police Firing While Trying To Flee",
+            "scraped_at": "2026-07-04 15:10:45",
             "incident_type": "broad"
           }
         ],
