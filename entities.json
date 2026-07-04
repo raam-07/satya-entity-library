@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -2270,6 +2270,18 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ncp-president-refutes-reports-about-discussion-of-merger-with-sharad-pawar-factions/article70573537.ece",
             "source_title": "Maharashtra NCP president refutes reports about discussion of merger with Sharad Pawar faction - The Hindu",
             "scraped_at": "2026-01-31 03:07:14"
+          },
+          {
+            "incident_text": "Sharad Pawar stated he had no knowledge of Sunetra Pawar's planned swearing-in as Maharashtra's deputy CM.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-unaware-of-sunetra-pawar-being-sworn-in-as-maharashtra-deputy-cm/article70573094.ece",
+            "source_title": "No idea about Sunetra Pawar being sworn in as Maharashtra deputy CM, says Sharad Pawar - The Hindu",
+            "scraped_at": "2026-01-30 22:52:02"
+          },
+          {
+            "incident_text": "Sharad Pawar expressed uncertainty about Sunetra Pawar's appointment as deputy CM.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
+            "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
+            "scraped_at": "2026-01-30 22:53:49"
           }
         ]
       },
@@ -3430,6 +3442,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-denies-piyush-goyals-claim-that-he-has-been-appointed-ncp-chief/article70579295.ece",
             "source_title": "Praful Patel denies Piyush Goyal’s claim that he has been appointed NCP chief - The Hindu",
             "scraped_at": "2026-02-01 12:01:24"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated support for Sunetra Pawar's appointment as deputy CM.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
+            "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
+            "scraped_at": "2026-01-30 22:53:49"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5316,7 +5334,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 22,
+        "criminal_cases_in_news": 24,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5478,6 +5496,20 @@
             "source_title": "Four devotees killed after being run over by car near Siruvachur - The Hindu",
             "scraped_at": "2026-01-31 01:33:38",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Telangana Hyderabad: Armed men open fire, rob cloth merchant outside SBI branch in Koti - The Hindu A 26-year-old cloth merchant, Rinshad from Nampally, was shot and robbed of ₹6 lakh in cash near an ",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/armed-men-open-fire-rob-cloth-merchant-outside-sbi-branch-in-koti-in-hyderabad/article70573140.ece",
+            "source_title": "Telangana Hyderabad: Armed men open fire, rob cloth merchant outside SBI branch in Koti - The Hindu",
+            "scraped_at": "2026-01-30 23:59:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Patna NEET aspirant death case: Nitish Kumar recommends CBI probe - The Hindu **Bihar** Chief Minister Nitish Kumar and **Deputy Chief Minister Samrat Choudhary** urged the **Government of India** to ",
+            "source_url": "https://www.thehindu.com/news/national/bihar/patna-neet-aspirant-death-case-nitish-kumar-recommends-cbi-probe/article70573132.ece",
+            "source_title": "Patna NEET aspirant death case: Nitish Kumar recommends CBI probe - The Hindu",
+            "scraped_at": "2026-01-31 00:37:13",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5553,6 +5585,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ncp-president-refutes-reports-about-discussion-of-merger-with-sharad-pawar-factions/article70573537.ece",
             "source_title": "Maharashtra NCP president refutes reports about discussion of merger with Sharad Pawar faction - The Hindu",
             "scraped_at": "2026-01-31 03:07:14"
+          },
+          {
+            "incident_text": "Sharad Pawar stated he had no knowledge of Sunetra Pawar's planned swearing-in as Maharashtra deputy CM.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-unaware-of-sunetra-pawar-being-sworn-in-as-maharashtra-deputy-cm/article70573094.ece",
+            "source_title": "No idea about Sunetra Pawar being sworn in as Maharashtra deputy CM, says Sharad Pawar - The Hindu",
+            "scraped_at": "2026-01-30 22:52:02"
           }
         ]
       }
