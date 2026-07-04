@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1732,6 +1732,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-says-government-is-misusing-rules-to-silence-lop-from-quoting-naravanes-book-on-china-border-issue/article70583791.ece",
             "source_title": "Congress says government is misusing rules to silence LoP from quoting Naravane’s book on China border issue - The Hindu",
             "scraped_at": "2026-02-02 10:35:36"
+          },
+          {
+            "incident_text": "Rahul Gandhi, according to Sarma, is steering the Congress towards a Left-leaning, caste-focused ideology.",
+            "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
+            "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
+            "scraped_at": "2026-07-04 00:11:31"
           }
         ]
       },
@@ -2807,6 +2813,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/gaurav-gogois-pakistan-links-being-probed-for-sake-of-national-security-himanta/article70603942.ece",
             "source_title": "Gaurav Gogoi's 'Pakistan links' being probed for sake of national security: Himanta - The Hindu",
             "scraped_at": "2026-02-07 07:26:01"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma claimed he controlled polarization in Assam and it is no longer needed.",
+            "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
+            "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
+            "scraped_at": "2026-07-04 00:11:31"
           }
         ]
       },
@@ -3235,7 +3247,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
         "image_placeholder": "mohan_yadav",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Congress hit with new infighting row in M.P. after Digvijaya Singh refutes Jitu Patwari’s claims over Ujjain land ‘scam’ - The Hindu The **Madhya Pradesh** Congress unit is facing further embarrassmen",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-hit-with-new-infighting-row-in-mp-after-digvijaya-singh-refutes-jitu-patwaris-claims-over-ujjain-land-scam/article71179990.ece",
+            "source_title": "Congress hit with new infighting row in M.P. after Digvijaya Singh refutes Jitu Patwari’s claims over Ujjain land ‘scam’ - The Hindu",
+            "scraped_at": "2026-07-04 00:11:09",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Mohan Yadav claimed Congress leaders sabotaged Meenakshi Natarajan's nomination to secure the Rajya Sabha seat for themselves.",
@@ -3256,7 +3276,8 @@
             "scraped_at": "2026-06-23 07:57:47"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-07-04"
       },
       {
         "name": "Devendra Fadnavis",
