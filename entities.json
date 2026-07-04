@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5304,7 +5304,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 17,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5410,6 +5410,27 @@
             "source_title": "Three girls drown in farm well in Ranipet - The Hindu",
             "scraped_at": "2026-01-31 10:22:55",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "15kg of ganja seized from train in Ongole; two held - The Hindu **Police** in Ongole seized 15kg of ganja from two passengers on the Ernakulam Express. **V. Jagadish** and **Prithvi Raj Baag**, both t",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/15kg-of-ganja-seized-from-train-in-ongole-two-held/article70574454.ece",
+            "source_title": "15kg of ganja seized from train in Ongole; two held - The Hindu",
+            "scraped_at": "2026-01-31 09:03:18",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "56-year-old man sentenced to a total 161 years of rigorous imprisonment for sexually abusing autistic student - The Hindu A **56-year-old** teacher, Santhosh Kumar, was sentenced to 161 years in priso",
+            "source_url": "https://www.thehindu.com/news/national/kerala/56-year-old-man-sentenced-to-a-total-161-years-of-rigorous-imprisonment-for-sexually-abusing-autistic-student/article70574827.ece",
+            "source_title": "56-year-old man sentenced to a total 161 years of rigorous imprisonment for sexually abusing autistic student - The Hindu",
+            "scraped_at": "2026-01-31 09:24:36",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Former Sub-Inspector sentenced to seven years for bribery - The Hindu **R. Mohanan**, a retired **police Sub-Inspector**, was sentenced to seven years in prison and fined ₹20,000 by the Kollam Vigilan",
+            "source_url": "https://www.thehindu.com/news/national/kerala/former-sub-inspector-sentenced-to-seven-years-for-bribery/article70574761.ece",
+            "source_title": "Former Sub-Inspector sentenced to seven years for bribery - The Hindu",
+            "scraped_at": "2026-01-31 09:27:30",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5455,6 +5476,12 @@
             "source_url": "https://www.thehindu.com/news/national/trashy-ruminations-of-a-convicted-criminal-mea-rubbishes-reference-to-pm-modis-2017-israel-visit-in-epstein-email/article70575034.ece",
             "source_title": "‘Trashy ruminations of a convicted criminal,’ MEA rubbishes reference to PM Modi's 2017 Israel visit in Epstein email - The Hindu",
             "scraped_at": "2026-01-31 10:24:21"
+          },
+          {
+            "incident_text": "D. Dhanuraj stated that Kerala's political legacy prevents limiting tourist numbers.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-states-political-legacy-will-not-allow-curbs-on-people-says-expert/article70574740.ece",
+            "source_title": "Kerala for All conclave: State’s political legacy will not allow curbs on people, says expert - The Hindu",
+            "scraped_at": "2026-01-31 09:27:44"
           }
         ]
       }
@@ -8796,6 +8823,16 @@
       "source_title": "Union Budget 2026-27: Finance Minister Nirmala Sitharaman announces ₹20,000-crore carbon capture, utilisation scheme - The Hindu",
       "scraped_at": "2026-02-01 02:31:51",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "a plan to develop the Kuppam Assembly constituency in Andhra Pradesh into an industrial hub",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/kuppam-to-be-developed-as-major-industrial-hub-says-chandrababu-naidu/article70574593.ece",
+      "source_title": "Kuppam to be developed as major industrial hub, says Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-01-31 09:02:34",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
