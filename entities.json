@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -2252,6 +2252,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/rohit-pawar-press-conference-ajit-pawar-air-crash-the-hindu-live-updates/article70614607.ece",
             "source_title": "Ajit Pawar plane crash probe: Rohit Pawar raises doubts about Ajit Pawar's air crash in press conference | Live - The Hindu",
             "scraped_at": "2026-02-10 06:08:17"
+          },
+          {
+            "incident_text": "Sharad Pawar previously referred to Sunetra Pawar as an 'outsider'.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-out-of-the-shadows/article70575365.ece",
+            "source_title": "Sunetra Pawar | Out of the shadows - The Hindu",
+            "scraped_at": "2026-01-31 15:03:45"
           }
         ]
       },
@@ -2591,6 +2597,13 @@
             "source_title": "YSRCP will respond firmly if ‘Jungle Raj’ continues in A.P., says Jagan - The Hindu",
             "scraped_at": "2026-02-05 00:16:35",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "YSRCP leader Ambati Rambabu arrested for ‘creating hurdles’ for police - The Hindu **Ambati Rambabu**, a leader of the **YSRCP**, was arrested on Saturday night for allegedly obstructing police office",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-arrested-for-creating-hurdles-for-police/article70575465.ece",
+            "source_title": "YSRCP leader Ambati Rambabu arrested for ‘creating hurdles’ for police - The Hindu",
+            "scraped_at": "2026-01-31 12:25:28",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2655,8 +2668,8 @@
             "scraped_at": "2026-07-02 15:43:37"
           }
         ],
-        "criminal_cases_in_news": 5,
-        "criminal_last_updated": "2026-07-02"
+        "criminal_cases_in_news": 6,
+        "criminal_last_updated": "2026-07-04"
       },
       {
         "name": "Pema Khandu",
@@ -3002,6 +3015,12 @@
             "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
             "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
             "scraped_at": "2026-06-07 11:52:49.380769"
+          },
+          {
+            "incident_text": "Hemant Soren's government in Jharkhand is facing criticism for continued use of the repealed CrPC for FIR registration.",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
+            "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
+            "scraped_at": "2026-01-31 16:59:52"
           }
         ],
         "criminal_cases_in_news": 0
@@ -5279,7 +5298,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 10,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5329,6 +5348,34 @@
             "source_title": "Bengaluru woman murdered, domestic help found dead at home in Mico Layout - The Hindu",
             "scraped_at": "2026-02-01 03:10:25",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Forensic scientists visit drug manufacturing lab in Mysuru - The Hindu **NCB** and **Mysuru City police** raided a clandestine drug manufacturing lab in Mysuru, finding traces of Mephodrone (MD) on Sa",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/forensic-scientists-visit-drug-manufacturing-lab-in-mysuru/article70575326.ece",
+            "source_title": "Forensic scientists visit drug manufacturing lab in Mysuru - The Hindu",
+            "scraped_at": "2026-01-31 12:25:43",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two persons murdered at Tasmac outlets in Tirupattur over previous enmity - The Hindu **Two persons** were murdered in separate incidents near **Ambur** and **Tirupattur** town on Saturday.  In the fi",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-murdered-at-tasmac-outlets-in-tirupattur-over-previous-enmity/article70574026.ece",
+            "source_title": "Two persons murdered at Tasmac outlets in Tirupattur over previous enmity - The Hindu",
+            "scraped_at": "2026-01-31 14:17:18",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "BJP demands Supreme Court-monitored SIT probe into Anandapur warehouse fire - The Hindu The **Bharatiya Janata Party (BJP)** demanded a Supreme Court-monitored investigation into the Anandapur warehou",
+            "source_url": "https://www.thehindu.com/news/national/bjp-demands-supreme-court-monitored-sit-probe-into-anandapur-warehouse-fire/article70574572.ece",
+            "source_title": "BJP demands Supreme Court-monitored SIT probe into Anandapur warehouse fire - The Hindu",
+            "scraped_at": "2026-01-31 12:04:25",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu **Amba Prasad**, former MLA and national secretary of the **All India Congress Committee (AICC",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
+            "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
+            "scraped_at": "2026-01-31 16:59:52",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5344,6 +5391,24 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/msme-minister-condemns-ambati-rambabus-derogatory-remarks-on-chief-minister-naidu/article70576657.ece",
             "source_title": "MSME Minister condemns Ambati Rambabu’s derogatory remarks on Chief Minister Naidu - The Hindu",
             "scraped_at": "2026-02-01 09:28:07"
+          },
+          {
+            "incident_text": "On Saturday, Dr. Ramadoss stated he is still negotiating alliances and hasn't finalized a decision.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ramadoss-still-speaking-to-potential-alliance-partners/article70574362.ece",
+            "source_title": "Ramadoss still ‘speaking’ to potential alliance partners - The Hindu",
+            "scraped_at": "2026-01-31 14:18:07"
+          },
+          {
+            "incident_text": "On Saturday, the NCP chose Sunetra Pawar unanimously as its leader.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-out-of-the-shadows/article70575365.ece",
+            "source_title": "Sunetra Pawar | Out of the shadows - The Hindu",
+            "scraped_at": "2026-01-31 15:03:45"
+          },
+          {
+            "incident_text": "Amba Prasad claimed FIRs are still being lodged under the repealed CrPC in Jharkhand.",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
+            "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
+            "scraped_at": "2026-01-31 16:59:52"
           }
         ]
       }
