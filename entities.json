@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5412,7 +5412,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 31,
+        "criminal_cases_in_news": 32,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5636,6 +5636,13 @@
             "source_url": "https://www.ndtv.com/india-news/woman-32-raped-by-neighbour-in-jharkhand-cops-11727828#publisher=newsstand",
             "source_title": "Woman, 32, Raped By Neighbour In Jharkhand: Cops",
             "scraped_at": "2026-07-04 19:49:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Border agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave **US Customs and Border Protection (CBP)** has placed two agents involved in the fatal shooting of **Alex Pretti*",
+            "source_url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Border agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave",
+            "scraped_at": "2026-01-28 22:51:19",
             "incident_type": "broad"
           }
         ],
