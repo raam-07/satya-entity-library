@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5394,7 +5394,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 26,
+        "criminal_cases_in_news": 29,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5584,6 +5584,27 @@
             "source_title": "Rohit Lamba Gang Member Arrested For Attacking Rival's Aide In Delhi",
             "scraped_at": "2026-07-04 16:33:57",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court rejects BJP councillor R. Sugathan's bail plea - The Hindu **R. Sugathan**, a BJP leader and Thiruvananthapuram Corporation councillor, was denied bail in two separate cases related to an assaul",
+            "source_url": "https://www.thehindu.com/news/national/kerala/court-rejects-bjp-councillor-r-sugathans-bail-plea/article71183571.ece",
+            "source_title": "Court rejects BJP councillor R. Sugathan's bail plea - The Hindu",
+            "scraped_at": "2026-07-04 18:08:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assault case: T.N. Minister Marie Wilson told to appear before Puducherry court without fail on July 10 - The Hindu **N. Marie Wilson**, Tamil Nadu Finance Minister, has been ordered by the **First Ju",
+            "source_url": "https://www.thehindu.com/news/cities/puducherry/assault-case-tn-minister-marie-wilson-told-to-appear-before-puducherry-court-without-fail-on-july-10/article71182001.ece",
+            "source_title": "Assault case: T.N. Minister Marie Wilson told to appear before Puducherry court without fail on July 10 - The Hindu",
+            "scraped_at": "2026-07-04 18:08:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘No option but to follow SC order’: Court denies bail to Umar Khalid, Sharjeel Imam | Legal News - The Indian Express **Umar Khalid** and **Sharjeel Imam** had their bail applications rejected by a De",
+            "source_url": "https://indianexpress.com/article/legal-news/delhi-court-reject-umar-khalid-sharjeel-imam-bail-plea-uapa-2020-riots-case-10771747/",
+            "source_title": "‘No option but to follow SC order’: Court denies bail to Umar Khalid, Sharjeel Imam | Legal News - The Indian Express",
+            "scraped_at": "2026-07-04 18:08:48",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5677,6 +5698,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-dares-ysrcp-for-debate-on-development-of-rayalaseema/article71183325.ece",
             "source_title": "Minister challenges YSRCP for debate on Rayalaseema development claims - The Hindu",
             "scraped_at": "2026-07-04 18:11:19"
+          },
+          {
+            "incident_text": "On Saturday claimed the BJP and RSS were merchants trading in the name of Lord Ram.",
+            "source_url": "https://www.thehindu.com/news/national/ram-temple-donation-case-congress-questions-rss-asks-why-agencies-are-silent-on-big-thieves/article71183324.ece",
+            "source_title": "Ram temple donation case: Congress questions RSS, asks why agencies are silent on ‘big thieves’ - The Hindu",
+            "scraped_at": "2026-07-04 18:10:13"
           }
         ]
       }
