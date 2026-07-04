@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2264,6 +2264,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-out-of-the-shadows/article70575365.ece",
             "source_title": "Sunetra Pawar | Out of the shadows - The Hindu",
             "scraped_at": "2026-01-31 15:03:45"
+          },
+          {
+            "incident_text": "Sharad Pawar stated he wished for the two NCP factions to reunite but had no knowledge of Sunetra Pawar's swearing-in ceremony.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ncp-president-refutes-reports-about-discussion-of-merger-with-sharad-pawar-factions/article70573537.ece",
+            "source_title": "Maharashtra NCP president refutes reports about discussion of merger with Sharad Pawar faction - The Hindu",
+            "scraped_at": "2026-01-31 03:07:14"
           }
         ]
       },
@@ -5310,7 +5316,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 21,
+        "criminal_cases_in_news": 22,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5465,6 +5471,13 @@
             "source_title": "Firing at Pune businessman's office: Suspected Bishnoi gang member apprehended from Rajasthan - The Hindu",
             "scraped_at": "2026-07-04 04:15:48",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Four devotees killed after being run over by car near Siruvachur - The Hindu **Devotees** were killed and others injured in a car accident near the Siruvachur bridge in Perambalur district on Saturday",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/four-devotees-killed-after-being-run-over-by-car-near-siruvachur/article70573197.ece",
+            "source_title": "Four devotees killed after being run over by car near Siruvachur - The Hindu",
+            "scraped_at": "2026-01-31 01:33:38",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5522,6 +5535,24 @@
             "source_url": "https://www.thehindu.com/news/national/ugc-row-consistency-of-not-consulting-anybody-reflects-in-every-decision-of-government-says-sibal/article70573751.ece",
             "source_title": "UGC row: Consistency of not consulting anybody reflects in every decision of government, says Sibal - The Hindu",
             "scraped_at": "2026-01-31 05:00:53"
+          },
+          {
+            "incident_text": "On Saturday questioned whether the Budget numbers would require revisions soon after their unveiling due to the release of new economic data.",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-govt-ahead-of-union-budget-2026/article70573291.ece",
+            "source_title": "Poor coordination in policy making: Congress slams Govt. ahead of Union Budget 2026 - The Hindu",
+            "scraped_at": "2026-01-31 01:33:27"
+          },
+          {
+            "incident_text": "On Saturday claimed that senior NCP leaders knew about the merger plan.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/senior-leaders-of-ncp-knew-about-the-merger-says-jayant-patil/article70573546.ece",
+            "source_title": "Senior leaders of NCP knew about the merger, says Jayant Patil - The Hindu",
+            "scraped_at": "2026-01-31 03:06:57"
+          },
+          {
+            "incident_text": "On Saturday claimed a meeting in Baramati was a casual gathering about local body elections.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ncp-president-refutes-reports-about-discussion-of-merger-with-sharad-pawar-factions/article70573537.ece",
+            "source_title": "Maharashtra NCP president refutes reports about discussion of merger with Sharad Pawar faction - The Hindu",
+            "scraped_at": "2026-01-31 03:07:14"
           }
         ]
       }
