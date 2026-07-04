@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -4953,6 +4953,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/budget-2026-27-falls-short-of-expectations-in-poll-bound-west-bengal/article70579023.ece",
             "source_title": "Union Budget 2026 falls short of expectations in poll-bound West Bengal - The Hindu",
             "scraped_at": "2026-02-01 15:02:22"
+          },
+          {
+            "incident_text": "Mamata Banerjee allegedly instructed Humayun Kabir to make communally divisive remarks to secure election victories.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/humayun-kabir-blames-west-bengal-cm-for-communal-remarks/article70574934.ece",
+            "source_title": "Humayun Kabir blames West Bengal CM for his communal remarks - The Hindu",
+            "scraped_at": "2026-01-31 10:23:37"
           }
         ],
         "criminal_cases_in_news": 24,
@@ -5298,7 +5304,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 14,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5376,6 +5382,34 @@
             "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
             "scraped_at": "2026-01-31 16:59:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "International red sanders smuggler held in Andhra - The Hindu **Mohammad Muzammil**, an international smuggler wanted in multiple cases, was arrested by the **Red Sanders Anti-Smuggling Task Force** o",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/international-red-sanders-smuggler-held-in-andhra/article70574674.ece",
+            "source_title": "International red sanders smuggler held in Andhra - The Hindu",
+            "scraped_at": "2026-01-31 10:01:43",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "ACB book disproportionate assets case against Darsi Municipal Commissioner - The Hindu **The Ongole Anti-Corruption Bureau (ACB)** registered a case against **Darsi Municipal Commissioner Yadala Mahes",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/acb-book-disproportionate-assets-case-against-darsi-municipal-commissioner/article70575079.ece",
+            "source_title": "ACB book disproportionate assets case against Darsi Municipal Commissioner - The Hindu",
+            "scraped_at": "2026-01-31 10:22:20",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Truck driven on wrong side crushes five bikers to death in Odisha - The Hindu A **truck** driver, allegedly driving on the wrong side of the road, struck a group of five motorcycle riders in Ganjam di",
+            "source_url": "https://www.thehindu.com/news/national/odisha/truck-driven-on-wrong-side-crushes-five-bikers-to-death-in-odisha/article70574123.ece",
+            "source_title": "Truck driven on wrong side crushes five bikers to death in Odisha - The Hindu",
+            "scraped_at": "2026-01-31 11:05:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three girls drown in farm well in Ranipet - The Hindu **Three girls**, including two siblings, drowned in an open well at Aroor village near Arcot town in Ranipet on Saturday.  The deceased were ident",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/three-girls-drown-in-farm-well-in-ranipet/article70575021.ece",
+            "source_title": "Three girls drown in farm well in Ranipet - The Hindu",
+            "scraped_at": "2026-01-31 10:22:55",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
@@ -5409,6 +5443,18 @@
             "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
             "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
             "scraped_at": "2026-01-31 16:59:52"
+          },
+          {
+            "incident_text": "On Saturday claimed he made communally offensive remarks at the behest of Chief Minister Mamata Banerjee.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/humayun-kabir-blames-west-bengal-cm-for-communal-remarks/article70574934.ece",
+            "source_title": "Humayun Kabir blames West Bengal CM for his communal remarks - The Hindu",
+            "scraped_at": "2026-01-31 10:23:37"
+          },
+          {
+            "incident_text": "On Saturday called references to Modi's Israel visit 'trashy ruminations' by a convicted criminal.",
+            "source_url": "https://www.thehindu.com/news/national/trashy-ruminations-of-a-convicted-criminal-mea-rubbishes-reference-to-pm-modis-2017-israel-visit-in-epstein-email/article70575034.ece",
+            "source_title": "‘Trashy ruminations of a convicted criminal,’ MEA rubbishes reference to PM Modi's 2017 Israel visit in Epstein email - The Hindu",
+            "scraped_at": "2026-01-31 10:24:21"
           }
         ]
       }
