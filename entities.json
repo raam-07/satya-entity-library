@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -642,6 +642,12 @@
             "source_url": "https://www.thehindu.com/news/national/nagaland/agreement-signed-on-creation-of-frontier-nagaland-territorial-authority-amit-shah/article70595546.ece",
             "source_title": "Agreement signed on creation of Frontier Nagaland Territorial Authority - The Hindu",
             "scraped_at": "2026-02-05 07:42:39"
+          },
+          {
+            "incident_text": "Amit Shah claimed Rahul Gandhi disrespected the Northeast by refusing to wear a 'gamosa' at a presidential event.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
+            "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
+            "scraped_at": "2026-01-30 03:15:03"
           }
         ]
       },
@@ -1750,6 +1756,12 @@
             "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
             "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
             "scraped_at": "2026-07-04 00:11:31"
+          },
+          {
+            "incident_text": "Rahul Gandhi refused to wear a 'gamosa' presented by President Murmu at a Republic Day reception.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
+            "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
+            "scraped_at": "2026-01-30 03:15:03"
           }
         ]
       },
@@ -8978,6 +8990,16 @@
       "source_title": "Kuppam to be developed as major industrial hub, says Chandrababu Naidu - The Hindu",
       "scraped_at": "2026-01-31 09:02:34",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "that this refusal was an isolated incident and that the BJP would not tolerate any disrespect of the region's culture",
+      "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
+      "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
+      "scraped_at": "2026-01-30 03:15:03",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
