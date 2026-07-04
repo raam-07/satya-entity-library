@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5310,7 +5310,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 19,
+        "criminal_cases_in_news": 21,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5451,6 +5451,20 @@
             "source_title": "Former SI gets 4 years imprisonment for taking bribe - The Hindu",
             "scraped_at": "2026-01-31 08:18:08",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "500 crore scam: EOW arrests three, over 11,000 investors cheated in Maharashtra - The Hindu **The Economic Offences Wing (EOW)** of the Thane police arrested a couple and their associate in Gujarat fo",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/500-crore-scam-eow-arrests-three-over-11000-investors-cheated-in-maharashtra/article70573669.ece",
+            "source_title": "500 crore scam: EOW arrests three, over 11,000 investors cheated in Maharashtra - The Hindu",
+            "scraped_at": "2026-01-31 04:28:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Firing at Pune businessman's office: Suspected Bishnoi gang member apprehended from Rajasthan - The Hindu **Pune police** have detained a suspect, Pawan Ram, in connection with the June 18th shooting ",
+            "source_url": "https://www.thehindu.com/news/national/firing-at-pune-businessmans-office-suspected-bishnoi-gang-member-apprehended-from-rajasthan/article71181717.ece",
+            "source_title": "Firing at Pune businessman's office: Suspected Bishnoi gang member apprehended from Rajasthan - The Hindu",
+            "scraped_at": "2026-07-04 04:15:48",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-04",
