@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -3182,6 +3182,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/r-ashok-questions-silence-of-karnataka-deputy-cm-dk-shivakumar-on-brand-bengaluru-absence-from-house/article70582652.ece",
             "source_title": "R. Ashok questions silence of Karnataka Deputy CM D.K. Shivakumar on Brand Bengaluru, absence from House - The Hindu",
             "scraped_at": "2026-02-02 06:15:02"
+          },
+          {
+            "incident_text": "D.K. Shivakumar was accused of causing political infighting within the Congress government.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dharmasthala-case-suresh-kumar-asks-govt-to-make-sit-report-public/article70570122.ece",
+            "source_title": "Dharmasthala case: Suresh Kumar asks govt. to make SIT report public - The Hindu",
+            "scraped_at": "2026-01-30 07:36:50"
           }
         ]
       },
@@ -4528,6 +4534,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/governor-rn-ravi-chief-minister-mk-stalin-pay-tributes-to-mahatma-gandhi/article70569649.ece",
             "source_title": "Governor R.N. Ravi, Chief Minister M.K. Stalin pay tributes to Mahatma Gandhi - The Hindu",
             "scraped_at": "2026-01-30 14:06:50"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed that accusations of dynasty politics are made by those who lack grassroots support.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-denies-charges-of-dynastic-politics-corruption-and-anti-hindu-bias-levelled-against-dmk/article70569626.ece",
+            "source_title": "T.N. CM Stalin denies charges of dynastic politics, corruption, and anti-Hindu bias levelled against DMK - The Hindu",
+            "scraped_at": "2026-01-30 07:35:38"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5176,6 +5188,18 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/a-calm-siddaramaiah-keeps-everyone-guessing/article71179550.ece",
             "source_title": "A ‘calm’ Siddaramaiah keeps everyone guessing - The Hindu",
             "scraped_at": "2026-07-03 16:57:17"
+          },
+          {
+            "incident_text": "Siddaramaiah was accused of wasting a year on political infighting.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dharmasthala-case-suresh-kumar-asks-govt-to-make-sit-report-public/article70570122.ece",
+            "source_title": "Dharmasthala case: Suresh Kumar asks govt. to make SIT report public - The Hindu",
+            "scraped_at": "2026-01-30 07:36:50"
+          },
+          {
+            "incident_text": "Siddaramaiah was asked if he would accept allegations of 'doubling of commission' against his government.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/yatnal-asks-congress-to-respond-to-contractors-doubling-commission-charge/article70570300.ece",
+            "source_title": "Yatnal asks Congress to respond to contractors’ ‘doubling commission’ charge - The Hindu",
+            "scraped_at": "2026-01-30 08:36:10"
           }
         ]
       },
