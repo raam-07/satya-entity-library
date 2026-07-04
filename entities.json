@@ -1,14 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-03",
+    "last_updated": "2026-07-04",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 2,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -5258,7 +5258,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5301,9 +5301,16 @@
             "source_title": "Puducherry court asks T.N. Minister to appear on July 5 in assault case - The Hindu",
             "scraped_at": "2026-07-03 21:19:33",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bengaluru woman murdered, domestic help found dead at home in Mico Layout - The Hindu A 65-year-old woman was found dead in her residence at Mico Layout police station, with a male domestic help later",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bengaluru-woman-murdered-domestic-help-found-dead-at-home-in-mico-layout/article70577306.ece",
+            "source_title": "Bengaluru woman murdered, domestic help found dead at home in Mico Layout - The Hindu",
+            "scraped_at": "2026-02-01 03:10:25",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-03",
+        "criminal_last_updated": "2026-07-04",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -6086,7 +6093,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-03"
+        "cm_last_updated": "2026-07-04"
       },
       {
         "name": "Maharashtra",
@@ -6146,9 +6153,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-03",
+        "party_last_updated": "2026-07-04",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-03"
+        "cm_last_updated": "2026-07-04"
       },
       {
         "name": "Rajasthan",
@@ -6176,7 +6183,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-03"
+        "party_last_updated": "2026-07-04"
       },
       {
         "name": "Telangana",
@@ -8617,6 +8624,26 @@
       "source_title": "Free health tests for 72 lakh under Sanjeevani digital drive: Naidu - The Hindu",
       "scraped_at": "2026-02-01 10:04:05",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nirmala Sitharaman",
+      "promise_text": "the establishment of turtle trails along key nesting sites in the coastal areas of Odisha",
+      "source_url": "https://www.thehindu.com/business/budget/budget-2026-mountain-trails-turtle-trails-birdwatching-trails-to-come-odisha-karnataka-kerala/article70577059.ece",
+      "source_title": "Union Budget 2026: Mountain, turtle, birdwatching trails to come up in Himachal, Jammu & Kashmir, Odisha, Karnataka, Kerala, Tamil Nadu - The Hindu",
+      "scraped_at": "2026-02-01 02:32:34",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "the installation of a statue of former Madras presidency premier Omandur Ramasamy Reddiyar on the campus of the Government Medical College",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/statue-of-ramasamy-reddiyar-to-be-installed-on-omandurar-govt-medical-college-campus-stalin/article70577252.ece",
+      "source_title": "Statue of Ramasamy Reddiyar to be installed on Omandurar Govt. Medical College campus: Stalin - The Hindu",
+      "scraped_at": "2026-02-01 04:09:27",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
