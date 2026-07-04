@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -494,6 +494,12 @@
             "source_url": "https://www.thehindu.com/news/national/pm-modi-took-full-credit-for-ram-temple-now-must-break-silence-on-donation-theft-congress/article71179030.ece",
             "source_title": "Ram temple row: Congress wants PM to break silence, questions SIT probe - The Hindu",
             "scraped_at": "2026-07-03 17:01:09"
+          },
+          {
+            "incident_text": "Narendra Modi hailed Jhulan Goswami as 'India's pride' in 2017.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/sir-in-bengal-ex-india-women-cricketer-jhulan-goswami-summoned-for-sir-hearing/article70571938.ece",
+            "source_title": "SIR in Bengal: Ex-India women cricketer Jhulan Goswami summoned for SIR hearing - The Hindu",
+            "scraped_at": "2026-01-30 14:08:36"
           }
         ]
       },
@@ -4516,6 +4522,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/centre-gives-a-pittance-to-tn-despite-state-ranking-2ndon-economic-front-cm/article70591442.ece",
             "source_title": "Centre gives a pittance to T.N. despite State ranking 2nd on economic front: CM - The Hindu",
             "scraped_at": "2026-02-04 14:02:28"
+          },
+          {
+            "incident_text": "M.K. Stalin stated that Mahatma Gandhi, who was shot by Godse, would continue to live in the lives of the people.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/governor-rn-ravi-chief-minister-mk-stalin-pay-tributes-to-mahatma-gandhi/article70569649.ece",
+            "source_title": "Governor R.N. Ravi, Chief Minister M.K. Stalin pay tributes to Mahatma Gandhi - The Hindu",
+            "scraped_at": "2026-01-30 14:06:50"
           }
         ],
         "criminal_cases_in_news": 2,
