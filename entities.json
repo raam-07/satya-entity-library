@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -500,6 +500,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/sir-in-bengal-ex-india-women-cricketer-jhulan-goswami-summoned-for-sir-hearing/article70571938.ece",
             "source_title": "SIR in Bengal: Ex-India women cricketer Jhulan Goswami summoned for SIR hearing - The Hindu",
             "scraped_at": "2026-01-30 14:08:36"
+          },
+          {
+            "incident_text": "Narendra Modi, according to Congress, avoids all-party meetings and legislative scrutiny, prioritizing election rallies.",
+            "source_url": "https://www.thehindu.com/news/national/congress-leader-jairam-ramesh-slams-pm-modi-remarks-before-budget-session/article70564164.ece",
+            "source_title": "Hypocrisy-laden message to nation: Congress slams PM Modi's remarks ahead of Budget session - The Hindu",
+            "scraped_at": "2026-01-29 01:49:52"
           }
         ]
       },
