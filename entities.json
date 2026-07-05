@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5418,7 +5418,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 34,
+        "criminal_cases_in_news": 36,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5663,6 +5663,20 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-theft-row-in-monday-meeting-trust-to-take-call-on-resignations-of-champat-rai-anil-mishra-10771868/",
             "source_title": "Ram Temple ‘theft’ row: In Monday meeting, Trust to take call on resignations of Champat Rai, Anil Mishra | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-04 23:37:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Nabbed with stolen mobile phones, 2 sentenced to 10 years in jail by Gujarat court | Ahmedabad News - The Indian Express **Two youths**, aged 24 and 20, were sentenced to 10 years in prison each by a ",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-court-10-years-imprisonment-mobile-snatching-10772004/",
+            "source_title": "Nabbed with stolen mobile phones, 2 sentenced to 10 years in jail by Gujarat court | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-07-05 03:48:59",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "A ‘supari’ from ex-employer in Fiji: Two men who shot at Vadodara trader arrested | Ahmedabad News - The Indian Express Two men, Vikram Pratap Singh and Gurjeet Singh, were arrested in connection with",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/fiji-vadodara-traders-arrested-supari-ex-employer-10771989/",
+            "source_title": "A ‘supari’ from ex-employer in Fiji: Two men who shot at Vadodara trader arrested | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-07-05 03:49:41",
             "incident_type": "broad"
           }
         ],
