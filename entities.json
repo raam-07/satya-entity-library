@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-04",
+    "last_updated": "2026-07-05",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5242,6 +5242,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/yatnal-asks-congress-to-respond-to-contractors-doubling-commission-charge/article70570300.ece",
             "source_title": "Yatnal asks Congress to respond to contractors’ ‘doubling commission’ charge - The Hindu",
             "scraped_at": "2026-01-30 08:36:10"
+          },
+          {
+            "incident_text": "Siddaramaiah claimed the current Governor was receiving instructions from Delhi and acting at the Centre's behest.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/is-karnataka-governors-phone-being-tapped-asks-bjp/article70560642.ece",
+            "source_title": "Is Karnataka Governor’s phone being tapped, asks BJP - The Hindu",
+            "scraped_at": "2026-01-28 06:23:56"
           }
         ]
       },
@@ -6532,7 +6538,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-04"
+        "cm_last_updated": "2026-07-05"
       },
       {
         "name": "Maharashtra",
@@ -6592,9 +6598,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-04",
+        "party_last_updated": "2026-07-05",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-04"
+        "cm_last_updated": "2026-07-05"
       },
       {
         "name": "Rajasthan",
@@ -6622,7 +6628,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-04"
+        "party_last_updated": "2026-07-05"
       },
       {
         "name": "Telangana",
