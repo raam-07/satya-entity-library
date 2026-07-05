@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5303,6 +5303,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-legislators-stage-dharna-in-front-of-mahatma-gandhi-statue-in-bengaluru-seeking-resignation-of-excise-minister-action-against-those-who-misbehaved-with-karnataka-governor/article70555843.ece",
             "source_title": "BJP-JDS stage dharna seeking resignation of Excise Minister, action against those who ‘misbehaved’ with Karnataka Governor - The Hindu",
             "scraped_at": "2026-01-27 04:10:18"
+          },
+          {
+            "incident_text": "Siddaramaiah claimed those opposing the Constitution are against social and economic justice for marginalized groups.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/those-who-have-realized-that-it-is-not-an-easy-task-to-change-or-remove-the-existing-constitution-are-attempting-to-slowly-weaken-it-cm/article70552597.ece",
+            "source_title": "Attempts being made to weaken Constitution: Siddaramaiah - The Hindu",
+            "scraped_at": "2026-01-26 08:23:55"
           }
         ]
       },
