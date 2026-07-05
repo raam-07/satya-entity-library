@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 4
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5870,6 +5870,12 @@
             "source_url": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
             "source_title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
             "scraped_at": "2026-01-26 15:03:00"
+          },
+          {
+            "incident_text": "On Saturday, Trump mixed partisan politics with patriotic appeals while commemorating the 250th anniversary of American independence.",
+            "source_url": "https://www.ndtv.com/world-news/us-250th-anniversary-july-4-celebrations-president-donald-trumps-patriotism-vs-partisan-politics-goof-up-at-us-250th-birthday-celebrations-11729238#publisher=newsstand",
+            "source_title": "US 250th anniversary July 4 celebrations President Donald Trump's Patriotism vs Partisan Politics Goof-Up At US 250th Birthday Celebrations",
+            "scraped_at": "2026-07-05 09:57:21"
           }
         ]
       }
