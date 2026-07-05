@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5479,7 +5479,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 39,
+        "criminal_cases_in_news": 42,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5759,6 +5759,27 @@
             "source_url": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
             "source_title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
             "scraped_at": "2026-01-26 04:09:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "9,550 kg of explosives seized in Rajasthan, man arrested; Central agencies likely to get involved - The Hindu **Police** in Rajasthan's Nagaur district seized 9,550 kg of ammonium nitrate and arrested",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/9550-kg-of-explosives-seized-in-rajasthan-man-arrested-central-agencies-likely-to-get-involved/article70551711.ece",
+            "source_title": "9,550 kg of explosives seized in Rajasthan, man arrested; Central agencies likely to get involved - The Hindu",
+            "scraped_at": "2026-01-25 22:37:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Six booked for CO2 gas leak killing 2 workers in Pune | Pune News - The Indian Express **Police** have registered an offence against six officials and others connected to the **Schaeffler India Ltd** ",
+            "source_url": "https://indianexpress.com/article/cities/pune/schaeffler-india-pune-co2-gas-leak-fir-booked-officials-negligence-talegaon-midc-10772729/",
+            "source_title": "Six booked for CO2 gas leak killing 2 workers in Pune | Pune News - The Indian Express",
+            "scraped_at": "2026-07-05 15:21:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Karachi shopping centre fire: 11-year-old named accused in chargesheet over blaze that killed 72 - The Times of India **Huzaifa**, an 11-year-old boy, has been named as one of six accused in the charg",
+            "source_url": "https://timesofindia.indiatimes.com/world/pakistan/karachi-shopping-centre-fire-11-year-old-named-accused-in-chargesheet-over-blaze-that-killed-72/articleshow/132195756.cms",
+            "source_title": "Karachi shopping centre fire: 11-year-old named accused in chargesheet over blaze that killed 72 - The Times of India",
+            "scraped_at": "2026-07-05 15:21:37",
             "incident_type": "broad"
           }
         ],
