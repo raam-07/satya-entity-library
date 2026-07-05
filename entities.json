@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2917,6 +2917,12 @@
             "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
             "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
             "scraped_at": "2026-07-04 00:11:31"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma demanded an apology from Rahul Gandhi for not wearing a Gamosa, calling it insulting to the northeast.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-insulted-northeast-by-not-wearing-gamosa-at-reception-hosted-by-president-bjp/article70554186.ece",
+            "source_title": "Rahul ‘insulted’ northeast by not wearing Gamosa at reception hosted by President: BJP - The Hindu",
+            "scraped_at": "2026-01-26 14:18:06"
           }
         ]
       },
@@ -5834,6 +5840,12 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-theft-row-in-monday-meeting-trust-to-take-call-on-resignations-of-champat-rai-anil-mishra-10771868/",
             "source_title": "Ram Temple ‘theft’ row: In Monday meeting, Trust to take call on resignations of Champat Rai, Anil Mishra | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-04 23:37:40"
+          },
+          {
+            "incident_text": "On Saturday, the White House blamed Democrats for the shooting of Alex Pretti in Minneapolis.",
+            "source_url": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
+            "scraped_at": "2026-01-26 15:03:00"
           }
         ]
       }
