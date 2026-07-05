@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1278,7 +1278,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 12,
+        "criminal_cases_in_news": 13,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1363,9 +1363,16 @@
             "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
             "scraped_at": "2026-02-12 14:08:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kerala court detains Congress MP Shafi Parambil, fines him ₹1,000 in NH blockade case - The Hindu **Shafi Parambil**, MP, was sentenced to imprisonment until the court adjourned and fined ₹1,000 by th",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-court-detains-congress-mp-shafi-parambil-fines-him-1000-in-nh-blockade-case/article70556217.ece",
+            "source_title": "Kerala court detains Congress MP Shafi Parambil, fines him ₹1,000 in NH blockade case - The Hindu",
+            "scraped_at": "2026-01-27 05:32:20",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-06-28",
+        "criminal_last_updated": "2026-07-05",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -1786,6 +1793,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
             "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
             "scraped_at": "2026-01-30 03:15:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi is being petitioned by the excise vendors' association regarding alleged ₹6,000 crore corruption.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-legislators-stage-dharna-in-front-of-mahatma-gandhi-statue-in-bengaluru-seeking-resignation-of-excise-minister-action-against-those-who-misbehaved-with-karnataka-governor/article70555843.ece",
+            "source_title": "BJP-JDS stage dharna seeking resignation of Excise Minister, action against those who ‘misbehaved’ with Karnataka Governor - The Hindu",
+            "scraped_at": "2026-01-27 04:10:18"
           }
         ]
       },
@@ -5254,6 +5267,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/is-karnataka-governors-phone-being-tapped-asks-bjp/article70560642.ece",
             "source_title": "Is Karnataka Governor’s phone being tapped, asks BJP - The Hindu",
             "scraped_at": "2026-01-28 06:23:56"
+          },
+          {
+            "incident_text": "Siddaramaiah, if he fails to sack the Minister, we may have to conclude he is behind the corruption.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-legislators-stage-dharna-in-front-of-mahatma-gandhi-statue-in-bengaluru-seeking-resignation-of-excise-minister-action-against-those-who-misbehaved-with-karnataka-governor/article70555843.ece",
+            "source_title": "BJP-JDS stage dharna seeking resignation of Excise Minister, action against those who ‘misbehaved’ with Karnataka Governor - The Hindu",
+            "scraped_at": "2026-01-27 04:10:18"
           }
         ]
       },
@@ -9171,6 +9190,16 @@
       "source_url": "https://www.thehindu.com/news/cities/Coimbatore/tn-govt-to-support-modernisation-of-textile-sector-stalin/article70565122.ece",
       "source_title": "T.N. govt. to support modernisation of textile sector: Stalin - The Hindu",
       "scraped_at": "2026-01-29 13:46:48",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Ashwini Vaishnaw",
+      "promise_text": "that this initiative aims to enable 70-75% of technology products to be designed and manufactured domestically by 2029",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/government-aims-to-make-3-nanometre-chips-by-2032-achieve-self-reliance-in-75-tech-categories-in-4-years/article70556212.ece",
+      "source_title": "Government aims to make 3-nanometre chips by 2032; achieve self-reliance in 75% tech categories in 4 years - The Hindu",
+      "scraped_at": "2026-01-27 05:02:35",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
