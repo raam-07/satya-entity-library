@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5443,7 +5443,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 36,
+        "criminal_cases_in_news": 38,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5702,6 +5702,20 @@
             "source_url": "https://indianexpress.com/article/cities/ahmedabad/fiji-vadodara-traders-arrested-supari-ex-employer-10771989/",
             "source_title": "A ‘supari’ from ex-employer in Fiji: Two men who shot at Vadodara trader arrested | Ahmedabad News - The Indian Express",
             "scraped_at": "2026-07-05 03:49:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"Quit Immediately\": Pakistan Deputy PM Faces Flak After Grandson Arrested For Rape A Pakistani senator, **Faisal Vawda**, demanded the resignation of Deputy Prime Minister **Ishaq Dar** following the ",
+            "source_url": "https://www.ndtv.com/world-news/quit-immediately-pak-deputy-pm-faces-flak-after-grandson-arrested-for-rape-11728814#publisher=newsstand",
+            "source_title": "\"Quit Immediately\": Pakistan Deputy PM Faces Flak After Grandson Arrested For Rape",
+            "scraped_at": "2026-07-05 07:32:46",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "2 Lawrence Bishnoi Gang Members With Rs 1 Lakh Reward Killed In Encounter **Delhi Police's** Special Cell and the **Haryana STF** conducted a joint operation in Bahadurgarh, resulting in the deaths of",
+            "source_url": "https://www.ndtv.com/india-news/2-lawrence-bishnoi-gang-members-with-rs-1-lakh-reward-killed-in-encounter-11728802#publisher=newsstand",
+            "source_title": "2 Lawrence Bishnoi Gang Members With Rs 1 Lakh Reward Killed In Encounter",
+            "scraped_at": "2026-07-05 07:33:22",
             "incident_type": "broad"
           }
         ],

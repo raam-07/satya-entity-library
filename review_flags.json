@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05 08:58:15.144719",
+  "generated_at": "2026-07-05 09:46:28.857037",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -88,8 +88,8 @@
       "type": "cm_detection",
       "state": "Uttar Pradesh",
       "candidate": "Yogi Adityanath",
-      "confidence": 0.5,
-      "mentions": 4,
+      "confidence": 0.56,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "villages for the first time.  **Adityanath** emphasized the importance of accurate census data for improving infrastructure, education, healthcare, social security, and welfare schemes. Uttar Pradesh "
     },
