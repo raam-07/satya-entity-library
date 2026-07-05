@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3136,6 +3136,12 @@
             "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
             "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
             "scraped_at": "2026-01-31 16:59:52"
+          },
+          {
+            "incident_text": "Hemant Soren stated that his father, Shibu Soren, will forever remain a Bharat Ratna in the hearts of the people.",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/shibu-soren-is-and-will-forever-remain-bharat-ratna-jharkhand-cm-on-padma-bhushan-to-father/article70550847.ece",
+            "source_title": "Shibu Soren is and will forever remain 'Bharat Ratna': Jharkhand CM on Padma Bhushan to father - The Hindu",
+            "scraped_at": "2026-01-25 14:12:44"
           }
         ],
         "criminal_cases_in_news": 0
@@ -5479,7 +5485,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 42,
+        "criminal_cases_in_news": 43,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5780,6 +5786,13 @@
             "source_url": "https://timesofindia.indiatimes.com/world/pakistan/karachi-shopping-centre-fire-11-year-old-named-accused-in-chargesheet-over-blaze-that-killed-72/articleshow/132195756.cms",
             "source_title": "Karachi shopping centre fire: 11-year-old named accused in chargesheet over blaze that killed 72 - The Times of India",
             "scraped_at": "2026-07-05 15:21:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Boy, 11, To Face Trial For Shopping Plaza Fire Which Killed 72 In Pakistan An 11-year-old boy, along with his father and four others, are facing charges in connection to the January fire at **Gul Plaz",
+            "source_url": "https://www.ndtv.com/world-news/boy-11-to-face-trial-for-shopping-plaza-fire-which-killed-72-in-pakistan-11730263#publisher=newsstand",
+            "source_title": "Boy, 11, To Face Trial For Shopping Plaza Fire Which Killed 72 In Pakistan",
+            "scraped_at": "2026-07-05 15:18:40",
             "incident_type": "broad"
           }
         ],
