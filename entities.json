@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -5479,7 +5479,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 38,
+        "criminal_cases_in_news": 39,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5753,6 +5753,13 @@
             "source_title": "2 Lawrence Bishnoi Gang Members With Rs 1 Lakh Reward Killed In Encounter",
             "scraped_at": "2026-07-05 07:33:22",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting The **National Rifle Association (NRA)** and other gun lobby groups are calling for a full investigation into the ",
+            "source_url": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
+            "source_title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
+            "scraped_at": "2026-01-26 04:09:40",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-05",
@@ -5882,6 +5889,12 @@
             "source_url": "https://www.ndtv.com/world-news/us-250th-anniversary-july-4-celebrations-president-donald-trumps-patriotism-vs-partisan-politics-goof-up-at-us-250th-birthday-celebrations-11729238#publisher=newsstand",
             "source_title": "US 250th anniversary July 4 celebrations President Donald Trump's Patriotism vs Partisan Politics Goof-Up At US 250th Birthday Celebrations",
             "scraped_at": "2026-07-05 09:57:21"
+          },
+          {
+            "incident_text": "Bill Essayli suggested carrying guns could justify officers shooting people.",
+            "source_url": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
+            "source_title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
+            "scraped_at": "2026-01-26 04:09:40"
           }
         ]
       }
