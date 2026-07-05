@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 2,
+      "new_promises": 0,
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -1811,6 +1811,18 @@
             "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
             "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
             "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "Rahul Gandhi promotes young leaders with no public support, according to Shakeel Ahmad.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-dictatorial-insecure-leader-says-former-congress-leader-shakeel-ahmad/article70548972.ece",
+            "source_title": "Rahul Gandhi ‘dictatorial, insecure leader’, says former Congress leader Shakeel Ahmad - The Hindu",
+            "scraped_at": "2026-01-25 01:57:30"
+          },
+          {
+            "incident_text": "Rahul Gandhi reprimanded the Congress leadership in Kerala for linking Sonia Gandhi to the scandal.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
+            "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
+            "scraped_at": "2026-01-25 02:16:23"
           }
         ]
       },
@@ -1828,7 +1840,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -1850,15 +1862,28 @@
             "source_title": "Sabarimala gold theft case: SIT questions Congress MP and UDF convenor Adoor Prakash - The Hindu",
             "scraped_at": "2026-02-07 02:26:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu The **Communist Party of India (Marxist)** [CPI(M)] criticized the **Congress** for its han",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
+            "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
+            "scraped_at": "2026-01-25 02:16:23",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-01",
+        "criminal_last_updated": "2026-07-05",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-vetoed-sonia-offer-to-make-me-cm-in-2014-himanta-biswa-sarma/article70643234.ece",
             "source_title": "Rahul Gandhi vetoed Sonia offer to make me CM in 2014: Himanta Biswa Sarma - The Hindu",
             "scraped_at": "2026-02-17 09:04:42"
+          },
+          {
+            "incident_text": "CPI(M) claims pictures show Sonia Gandhi with Sabarimala gold theft suspects.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
+            "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
+            "scraped_at": "2026-01-25 02:16:23"
           }
         ]
       },
@@ -3279,6 +3304,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/dharmasthala-case-suresh-kumar-asks-govt-to-make-sit-report-public/article70570122.ece",
             "source_title": "Dharmasthala case: Suresh Kumar asks govt. to make SIT report public - The Hindu",
             "scraped_at": "2026-01-30 07:36:50"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated that the Central leadership will decide on Cabinet expansion.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/remain-patient-karnataka-chief-minister-dk-shivakumar-tells-ministerial-aspirants/article71185669.ece",
+            "source_title": "Remain patient, Karnataka Chief Minister D.K. Shivakumar tells ministerial aspirants - The Hindu",
+            "scraped_at": "2026-07-05 21:08:52"
           }
         ]
       },
@@ -5503,7 +5534,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 48,
+        "criminal_cases_in_news": 50,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5847,6 +5878,20 @@
             "source_title": "Police seize 3.6 kg of ganja in Villupuram, two held - The Hindu",
             "scraped_at": "2026-07-05 18:07:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Accused held within 12 hours for professor’s murder at Mumbai’s Malad railway station - The Hindu **The Government Railway Police (GRP)** arrested a 27-year-old daily-wage labourer, **Omkar Eknath Shi",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/college-professor-stabbed-to-death-at-mumbais-malad-station-killer/article70548892.ece",
+            "source_title": "Accused held within 12 hours for professor’s murder at Mumbai’s Malad railway station - The Hindu",
+            "scraped_at": "2026-01-25 01:58:00",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "21 kg of ganja smuggled from Odisha seized, six held in Neyveli - The Hindu **Neyveli police** seized 21 kilograms of ganja and arrested six individuals, including a woman, in connection with the drug",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/21-kg-of-ganja-smuggled-from-odisha-seized-six-held-in-neyveli/article70549093.ece",
+            "source_title": "21 kg of ganja smuggled from Odisha seized, six held in Neyveli - The Hindu",
+            "scraped_at": "2026-01-25 03:02:59",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-05",
@@ -5988,6 +6033,18 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/vdsatheesan-slams-attack-on-congress-protestors-expresses-concerns-about-vizhinjam-port-project/article70549172.ece",
             "source_title": "V.D.Satheesan slams attack on Congress protestors; expresses concerns about Vizhinjam port project - The Hindu",
             "scraped_at": "2026-01-25 04:58:29"
+          },
+          {
+            "incident_text": "On Saturday, R. Dharmar met with Edappadi K. Palaniswami in a 'courtesy call'",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/rajya-sabha-mp-dharmar-panneerselvams-associate-meets-palaniswami/article70547110.ece",
+            "source_title": "Rajya Sabha MP Dharmar, Panneerselvam’s associate, meets Palaniswami - The Hindu",
+            "scraped_at": "2026-01-25 01:56:11"
+          },
+          {
+            "incident_text": "On Saturday claimed Rahul Gandhi promotes young leaders with no public support.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-dictatorial-insecure-leader-says-former-congress-leader-shakeel-ahmad/article70548972.ece",
+            "source_title": "Rahul Gandhi ‘dictatorial, insecure leader’, says former Congress leader Shakeel Ahmad - The Hindu",
+            "scraped_at": "2026-01-25 01:57:30"
           }
         ]
       }
