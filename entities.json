@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3375,6 +3375,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-row-ldf-in-kerala-questions-sonia-gandhi-link-to-put-congress-on-the-defensive/article70586519.ece",
             "source_title": "Sabarimala gold row: LDF in Kerala questions Sonia Gandhi link to put Congress on the defensive - The Hindu",
             "scraped_at": "2026-02-03 03:13:31"
+          },
+          {
+            "incident_text": "V.D. Satheesan claimed the CPI(M)'s tendency to violence signals the beginning of its end.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vdsatheesan-slams-attack-on-congress-protestors-expresses-concerns-about-vizhinjam-port-project/article70549172.ece",
+            "source_title": "V.D.Satheesan slams attack on Congress protestors; expresses concerns about Vizhinjam port project - The Hindu",
+            "scraped_at": "2026-01-25 04:58:29"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -5976,6 +5982,12 @@
             "source_url": "https://www.bbc.com/news/articles/cnvg812n01no?at_medium=RSS&at_campaign=rss",
             "source_title": "NRA and other US gun activists push back at Trump officials over Minneapolis shooting",
             "scraped_at": "2026-01-26 04:09:40"
+          },
+          {
+            "incident_text": "On Saturday warned that the CPI(M)'s tendency to use violence shows the beginning of the end of the party.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vdsatheesan-slams-attack-on-congress-protestors-expresses-concerns-about-vizhinjam-port-project/article70549172.ece",
+            "source_title": "V.D.Satheesan slams attack on Congress protestors; expresses concerns about Vizhinjam port project - The Hindu",
+            "scraped_at": "2026-01-25 04:58:29"
           }
         ]
       }
@@ -9386,6 +9398,16 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-planning-transport-grids-for-tier-2-and-3-cities-with-25-year-development-needs-in-mind-dks/article70549647.ece",
       "source_title": "Karnataka planning transport grids for tier 2 and 3 cities with 25-year development needs in mind: DKS - The Hindu",
       "scraped_at": "2026-01-25 09:18:51",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "C. Joseph Vijay",
+      "promise_text": "to provide a corruption-free government if his party was voted to power and said he would never compromise on corrupt practices",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/neither-evil-force-nor-corrupt-force-should-rule-tamil-nadu-says-tvk-president-vijay/article70549249.ece",
+      "source_title": "Neither ‘evil force’ nor ‘corrupt force’ should rule Tamil Nadu, says TVK president Vijay - The Hindu",
+      "scraped_at": "2026-01-25 04:58:01",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
