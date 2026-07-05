@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -5418,7 +5418,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 33,
+        "criminal_cases_in_news": 34,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5657,9 +5657,16 @@
             "source_title": "Pune court adjourns hearing in ‘Khashaba’ copyright dispute; writer cites teaser as evidence | The Indian Express",
             "scraped_at": "2026-07-04 21:06:12",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Ram Temple ‘theft’ row: In Monday meeting, Trust to take call on resignations of Champat Rai, Anil Mishra | Lucknow News - The Indian Express The **Shri Ram Janmbhoomi Teerth Kshetra Trust** will meet",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-theft-row-in-monday-meeting-trust-to-take-call-on-resignations-of-champat-rai-anil-mishra-10771868/",
+            "source_title": "Ram Temple ‘theft’ row: In Monday meeting, Trust to take call on resignations of Champat Rai, Anil Mishra | Lucknow News - The Indian Express",
+            "scraped_at": "2026-07-04 23:37:40",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-04",
+        "criminal_last_updated": "2026-07-05",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -5768,6 +5775,12 @@
             "source_url": "https://indianexpress.com/article/mumbai/raj-thackeray-bjp-devendra-fadnavis-ameet-satam-video-mumbai-monsoon-deaths-10771569/",
             "source_title": "‘BJP’s central leadership has become arrogant’: Raj Thackeray targets Fadnavis over leaders’ remarks | The Indian Express",
             "scraped_at": "2026-07-04 21:06:50"
+          },
+          {
+            "incident_text": "On Saturday, family members of Ram Mandir donations embezzlement case accused Lavkush Mishra arrived at Ayodhya District Jail.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-theft-row-in-monday-meeting-trust-to-take-call-on-resignations-of-champat-rai-anil-mishra-10771868/",
+            "source_title": "Ram Temple ‘theft’ row: In Monday meeting, Trust to take call on resignations of Champat Rai, Anil Mishra | Lucknow News - The Indian Express",
+            "scraped_at": "2026-07-04 23:37:40"
           }
         ]
       }
