@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -9256,6 +9256,16 @@
       "source_url": "https://www.thehindu.com/sci-tech/technology/government-aims-to-make-3-nanometre-chips-by-2032-achieve-self-reliance-in-75-tech-categories-in-4-years/article70556212.ece",
       "source_title": "Government aims to make 3-nanometre chips by 2032; achieve self-reliance in 75% tech categories in 4 years - The Hindu",
       "scraped_at": "2026-01-27 05:02:35",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "2026 as the Technology-Driven Decision Making Year and highlighted the growing acceptance of digital governance platforms like Mana Mitra WhatsApp Governance",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-pushes-technology-driven-governance-names-2026-decision-making-year/article70553155.ece",
+      "source_title": "Naidu pushes technology-driven governance, names 2026 decision-making year - The Hindu",
+      "scraped_at": "2026-01-26 09:34:20",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
