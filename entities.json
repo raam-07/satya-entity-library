@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -5315,6 +5315,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/those-who-have-realized-that-it-is-not-an-easy-task-to-change-or-remove-the-existing-constitution-are-attempting-to-slowly-weaken-it-cm/article70552597.ece",
             "source_title": "Attempts being made to weaken Constitution: Siddaramaiah - The Hindu",
             "scraped_at": "2026-01-26 08:23:55"
+          },
+          {
+            "incident_text": "Siddaramaiah stated the Governor can modify the speech but is obligated to deliver it.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/all-eyes-on-governors-address/article70550192.ece",
+            "source_title": "All eyes on Governor’s address - The Hindu",
+            "scraped_at": "2026-01-25 13:09:01"
           }
         ]
       },
@@ -5485,7 +5491,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 43,
+        "criminal_cases_in_news": 47,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5793,6 +5799,34 @@
             "source_url": "https://www.ndtv.com/world-news/boy-11-to-face-trial-for-shopping-plaza-fire-which-killed-72-in-pakistan-11730263#publisher=newsstand",
             "source_title": "Boy, 11, To Face Trial For Shopping Plaza Fire Which Killed 72 In Pakistan",
             "scraped_at": "2026-07-05 15:18:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Girl’s body found in pond in West Bengal; family alleges rape and murder - The Hindu A 12-year-old girl's mutilated body was found in a pond in Baruipur, South 24 Parganas, sparking protests and viole",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/girls-body-found-in-pond-in-west-bengal-family-alleges-rape-and-murder/article71186111.ece",
+            "source_title": "Girl’s body found in pond in West Bengal; family alleges rape and murder - The Hindu",
+            "scraped_at": "2026-07-05 16:37:47",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Complaint by actor Ansiba Hassan: Court directs registration of FIR against Lakshmipriya, SI - The Hindu **Ansiba Hassan**, a former joint secretary of the **Association of Malayalam Movie Artists (AM",
+            "source_url": "https://www.thehindu.com/news/national/kerala/complaint-by-actor-ansiba-hassan-court-directs-registration-of-fir-against-lakshmipriya-si/article71185714.ece",
+            "source_title": "Complaint by actor Ansiba Hassan: Court directs registration of FIR against Lakshmipriya, SI - The Hindu",
+            "scraped_at": "2026-07-05 16:39:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi man kills wife by hitting her with cooking pan, arrested: Police | The Indian Express A 48-year-old man from Southwest Delhi has been arrested for allegedly killing his wife with a cooking pan. ",
+            "source_url": "https://indianexpress.com/article/delhi/southwest-delhi-man-schizophrenia-kills-wife-cooking-pan-bns-103-10772817/",
+            "source_title": "Delhi man kills wife by hitting her with cooking pan, arrested: Police | The Indian Express",
+            "scraped_at": "2026-07-05 16:39:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher | India News - The Indian Express Following the withdrawal of two books from **Jammu and Kashmir",
+            "source_url": "https://indianexpress.com/article/india/jk-school-library-books-withdrawn-uapa-fir-publisher-premises-searched-separatism-row-10772815/",
+            "source_title": "School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher | India News - The Indian Express",
+            "scraped_at": "2026-07-05 16:40:22",
             "incident_type": "broad"
           }
         ],
@@ -9319,6 +9353,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-pushes-technology-driven-governance-names-2026-decision-making-year/article70553155.ece",
       "source_title": "Naidu pushes technology-driven governance, names 2026 decision-making year - The Hindu",
       "scraped_at": "2026-01-26 09:34:20",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "the introduction of a Bill in Parliament to secure legal sanctity for Amaravati as the capital of Andhra Pradesh during the Budget session beginning January 28th",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-bill-will-be-introduced-in-budget-session-of-parliament-says-chief-minister-chandrababu-naidu/article70550218.ece",
+      "source_title": "‘Amaravati Bill’ will be introduced in Budget session of Parliament, says Chief Minister Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-01-25 13:08:47",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
