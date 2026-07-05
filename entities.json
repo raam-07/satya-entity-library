@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3551,6 +3551,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
             "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
             "scraped_at": "2026-01-30 22:53:49"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated that Uddhav Thackeray's political decline resulted from abandoning 'Lord Ram's path'.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-retort-on-uddhav-thackerays-temple-theft-barbs-abandoned-rams-path-11730758#publisher=newsstand",
+            "source_title": "BJP Retort On Uddhav Thackeray's Temple Theft Barbs: Abandoned Ram's Path",
+            "scraped_at": "2026-07-05 18:07:18"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5491,7 +5497,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 47,
+        "criminal_cases_in_news": 48,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5827,6 +5833,13 @@
             "source_url": "https://indianexpress.com/article/india/jk-school-library-books-withdrawn-uapa-fir-publisher-premises-searched-separatism-row-10772815/",
             "source_title": "School library books ‘glorifying’ separatists: J-K minister vows strict action, police search publisher | India News - The Indian Express",
             "scraped_at": "2026-07-05 16:40:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Police seize 3.6 kg of ganja in Villupuram, two held - The Hindu **Police** in Villupuram seized 3.6 kg of ganja during a vehicle check at Sithani on Saturday.  The suspects, A. Mukilan and S. Soundar",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/police-seize-36-kg-of-ganja-in-villupuram-two-held/article71185598.ece",
+            "source_title": "Police seize 3.6 kg of ganja in Villupuram, two held - The Hindu",
+            "scraped_at": "2026-07-05 18:07:08",
             "incident_type": "broad"
           }
         ],
