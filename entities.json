@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -512,6 +512,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-president-nitin-nabin-visits-west-bengal/article70557036.ece",
             "source_title": "BJP president Nitin Nabin visits West Bengal - The Hindu",
             "scraped_at": "2026-01-27 12:06:42"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated the Constitution is every Indian's greatest weapon and shield.",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
           }
         ]
       },
@@ -1799,6 +1805,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-legislators-stage-dharna-in-front-of-mahatma-gandhi-statue-in-bengaluru-seeking-resignation-of-excise-minister-action-against-those-who-misbehaved-with-karnataka-governor/article70555843.ece",
             "source_title": "BJP-JDS stage dharna seeking resignation of Excise Minister, action against those who ‘misbehaved’ with Karnataka Governor - The Hindu",
             "scraped_at": "2026-01-27 04:10:18"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated the Constitution is every Indian's greatest weapon and shield.",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
           }
         ]
       },
@@ -1889,6 +1901,12 @@
             "source_url": "https://www.thehindu.com/news/national/did-not-abuse-anyone-says-priyanka-gandhi-rejects-rijijus-charge-of-instigating-mps/article70622994.ece",
             "source_title": "‘Did not abuse anyone,’ says Priyanka Gandhi, rejects Rijiju's charge of instigating MPs - The Hindu",
             "scraped_at": "2026-02-12 02:31:13"
+          },
+          {
+            "incident_text": "Priyanka Gandhi Vadra stated that the Constitution protects all 140 crore Indians.",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2042,6 +2060,12 @@
             "source_url": "https://www.thehindu.com/news/national/trade-deal-with-us-will-hurt-indian-farmers-govt-wants-to-destroy-agri-sector-kharge/article70591562.ece",
             "source_title": "Trade deal with U.S. will hurt Indian farmers, govt wants to destroy agri sector: Kharge - The Hindu",
             "scraped_at": "2026-02-04 07:39:08"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that the Constitution protects all 140 crore Indians.",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
           }
         ],
         "criminal_cases_in_news": 1,
