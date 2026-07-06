@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 1,
+      "criminal_updates": 0,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -5220,6 +5220,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawars-death-in-plane-crash-an-accident-dont-bring-politics-sharad-pawar/article70562713.ece",
             "source_title": "Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar - The Hindu",
             "scraped_at": "2026-01-28 22:55:35"
+          },
+          {
+            "incident_text": "Mamata Banerjee claimed the Election Commission's SIR process is designed to predetermine election results.",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/written-26-poems-already-on-sir-mamata-while-inaugurating-kolkata-book-fair/article70538141.ece",
+            "source_title": "Written 26 poems already on SIR: Mamata while inaugurating Kolkata Book Fair - The Hindu",
+            "scraped_at": "2026-01-22 22:18:29"
           }
         ],
         "criminal_cases_in_news": 24,
