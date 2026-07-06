@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -698,6 +698,12 @@
             "source_url": "https://www.thehindu.com/news/national/budget-session-of-parliament-rahul-gandhi-naravane-memoir-lok-sabha/article70582353.ece",
             "source_title": "Parliament uproar after Rahul Gandhi seeks to quote from former Army chief Naravane’s ‘memoir - The Hindu",
             "scraped_at": "2026-02-02 04:30:19"
+          },
+          {
+            "incident_text": "Rajnath Singh claimed Indian Armed Forces destroyed terrorists in Pakistan and PoK in response to the Pahalgam attack.",
+            "source_url": "https://www.thehindu.com/news/national/indias-youth-must-remain-prepared-to-take-on-every-challenge-rajnath/article70546698.ece",
+            "source_title": "India's youth must remain prepared to take on every challenge: Rajnath - The Hindu",
+            "scraped_at": "2026-01-24 11:54:04"
           }
         ],
         "criminal_cases_in_news": 0
@@ -5534,7 +5540,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 55,
+        "criminal_cases_in_news": 57,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5927,6 +5933,20 @@
             "source_title": "Palaniswami flays Stalin over bombs being thrown on police vehicle near Perambalur - The Hindu",
             "scraped_at": "2026-01-24 14:13:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Deputy Collector placed under suspension for dereliction of duty - The Hindu **C. Geetha**, a deputy collector with the **Revenue department** in Kerala, has been suspended following an investigation ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/deputy-collector-placed-under-suspension-for-dereliction-of-duty/article70547247.ece",
+            "source_title": "Deputy Collector placed under suspension for dereliction of duty - The Hindu",
+            "scraped_at": "2026-01-24 11:24:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi court acquits Medha Patkar in defamation case filed by L-G V.K. Saxena - The Hindu A Delhi court acquitted **Medha Patkar**, activist of the **Narmada Bachao Andolan**, in a defamation case file",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-acquits-medha-patkar-in-defamation-case-filed-by-l-g-vk-saxena/article70546715.ece",
+            "source_title": "Delhi court acquits Medha Patkar in defamation case filed by L-G V.K. Saxena - The Hindu",
+            "scraped_at": "2026-01-24 11:53:36",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-06",
@@ -6080,6 +6100,18 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-dictatorial-insecure-leader-says-former-congress-leader-shakeel-ahmad/article70548972.ece",
             "source_title": "Rahul Gandhi ‘dictatorial, insecure leader’, says former Congress leader Shakeel Ahmad - The Hindu",
             "scraped_at": "2026-01-25 01:57:30"
+          },
+          {
+            "incident_text": "On Saturday stated the applicant failed to prove the case beyond a reasonable doubt against the accused.",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-acquits-medha-patkar-in-defamation-case-filed-by-l-g-vk-saxena/article70546715.ece",
+            "source_title": "Delhi court acquits Medha Patkar in defamation case filed by L-G V.K. Saxena - The Hindu",
+            "scraped_at": "2026-01-24 11:53:36"
+          },
+          {
+            "incident_text": "On Saturday said India's youth must remain strong and prepared to take on every challenge.",
+            "source_url": "https://www.thehindu.com/news/national/indias-youth-must-remain-prepared-to-take-on-every-challenge-rajnath/article70546698.ece",
+            "source_title": "India's youth must remain prepared to take on every challenge: Rajnath - The Hindu",
+            "scraped_at": "2026-01-24 11:54:04"
           }
         ]
       }
