@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -4136,6 +4136,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cong-lacks-courage-to-take-action-against-phone-tapping-masterminds-bandi-sanjay/article70543021.ece",
             "source_title": "Cong. lacks courage to take action against phone tapping masterminds: Bandi Sanjay - The Hindu",
             "scraped_at": "2026-01-23 10:04:59"
+          },
+          {
+            "incident_text": "Revanth Reddy is allegedly working with BRS leader T. Harish Rao to divert attention from BC reservation demands.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-enquiry-is-a-staged-drama-of-congress-and-brs-kavitha/article70534506.ece",
+            "source_title": "Phone tapping enquiry is a staged drama of Congress and BRS: Kavitha - The Hindu",
+            "scraped_at": "2026-01-21 11:25:39"
           }
         ],
         "criminal_cases_in_news": 5,
@@ -9875,6 +9881,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-gears-up-for-ratha-saptami-on-january-25/article70537975.ece",
       "source_title": "Tirumala gears up for ‘Ratha Saptami’ on January 25 - The Hindu",
       "scraped_at": "2026-01-22 08:25:23",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "G. Kishan Reddy",
+      "promise_text": "the formation of a special committee to oversee the tender process for coal blocks at Singareni Collieries Company Limited (SCCL)",
+      "source_url": "https://www.thehindu.com/news/national/telangana/kishan-reddy-flags-urgent-need-for-reforms-in-sccl-seeks-tripartite-review/article70534386.ece",
+      "source_title": "Kishan Reddy flags ‘urgent need’ for reforms in SCCL, seeks tripartite review - The Hindu",
+      "scraped_at": "2026-01-21 10:08:38",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
