@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4099,6 +4099,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/union-budget-continuation-of-injustice-to-telangana-say-brs-leaders-ktr-harish-rao/article70579937.ece",
             "source_title": "Union Budget continuation of injustice to Telangana, say BRS leaders KTR, Harish Rao - The Hindu",
             "scraped_at": "2026-02-01 12:25:06"
+          },
+          {
+            "incident_text": "Revanth Reddy publicly stated his phones were tapped.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cong-lacks-courage-to-take-action-against-phone-tapping-masterminds-bandi-sanjay/article70543021.ece",
+            "source_title": "Cong. lacks courage to take action against phone tapping masterminds: Bandi Sanjay - The Hindu",
+            "scraped_at": "2026-01-23 10:04:59"
           }
         ],
         "criminal_cases_in_news": 4,
