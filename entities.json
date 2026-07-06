@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 3
+      "new_promises": 0,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5570,7 +5570,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 71,
+        "criminal_cases_in_news": 72,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6074,6 +6074,13 @@
             "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-steel-bridge-stolen-korba-police-arrests/article70545601.ece",
             "source_title": "10-tonne steel bridge on canal stolen overnight in Chhattisgarh's Korba; five held - The Hindu",
             "scraped_at": "2026-01-24 02:15:31",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW | New South Wales | The Guardian A gunman suspected of killing his pregnant former partner and two others in",
+            "source_url": "https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb",
+            "source_title": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW | New South Wales | The Guardian",
+            "scraped_at": "2026-01-23 17:55:47",
             "incident_type": "broad"
           }
         ],
