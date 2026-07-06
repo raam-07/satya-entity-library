@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 2,
-      "gaffe_updates": 2
+      "new_promises": 0,
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -518,6 +518,12 @@
             "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
             "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
             "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "Narendra Modi stated Nitin Nabin would be his 'boss' in party matters.",
+            "source_url": "https://www.thehindu.com/videos/watch-what-lies-ahead-for-bjps-newest-and-also-youngest-president-nitin-nabin-talking-politics/article70545907.ece",
+            "source_title": "Watch: What lies ahead for BJP’s newest and also youngest president Nitin Nabin? | Talking Politics - The Hindu",
+            "scraped_at": "2026-01-24 05:55:27"
           }
         ]
       },
@@ -1829,6 +1835,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
             "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
             "scraped_at": "2026-01-25 02:16:23"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly did not adequately acknowledge Shashi Tharoor's presence at a recent event.",
+            "source_url": "https://www.thehindu.com/news/national/kerala-literature-festival-shashi-tharoor-congress-disagreement/article70545643.ece",
+            "source_title": "Never violated party line, unapologetic over Operation Sindhoor stance, says Shashi Tharoor - The Hindu",
+            "scraped_at": "2026-01-24 03:04:03"
           }
         ]
       },
@@ -5546,7 +5558,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 63,
+        "criminal_cases_in_news": 69,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5995,6 +6007,48 @@
             "source_title": "Four minors arrested in temple theft case near Fox Sagar Lake - The Hindu",
             "scraped_at": "2026-01-24 08:58:51",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Minor blast damages railway track in Punjab; loco pilot injured - The Hindu A minor blast near Sirhind station in Punjab caused injuries to the loco pilot of a freight train and damage to the engine. ",
+            "source_url": "https://www.thehindu.com/news/national/punjab/minor-blast-damages-railway-track-in-punjab-loco-pilot-injured/article70545764.ece",
+            "source_title": "Minor blast damages railway track in Punjab; loco pilot injured - The Hindu",
+            "scraped_at": "2026-01-24 03:55:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Ballari model house fire: Eight detained, police say blaze triggered during eel shoot - The Hindu **Ballari Police** detained eight individuals, including two adults and six juveniles, in connection w",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/ballari-janardhan-reddy-model-house-fire-eight-detained-reel-shoot/article70545677.ece",
+            "source_title": "Ballari model house fire: Eight detained, police say blaze triggered during eel shoot - The Hindu",
+            "scraped_at": "2026-01-24 03:56:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Worker killed after falling into machine at GHMC dumpyard in Yousufguda - The Hindu A 40-year-old sanitation worker, Sudhakar, died after falling into a machine at the **GHMC** dumpyard in Yousufguda ",
+            "source_url": "https://www.thehindu.com/news/national/telangana/worker-killed-after-falling-into-machine-at-ghmc-dumpyard-in-yousufguda/article70545679.ece",
+            "source_title": "Worker killed after falling into machine at GHMC dumpyard in Yousufguda - The Hindu",
+            "scraped_at": "2026-01-24 03:27:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Direct assault on judicial independence: Congress slams BJP govt over transfer of Sambhal CJM - The Hindu The **Congress** party criticized the **BJP-led government** for transferring **Sambhal Chief ",
+            "source_url": "https://www.thehindu.com/news/national/direct-assault-on-judicial-independence-congress-slams-bjp-govt-over-transfer-of-sambhal-cjm/article70545744.ece",
+            "source_title": "Direct assault on judicial independence: Congress slams BJP govt over transfer of Sambhal CJM - The Hindu",
+            "scraped_at": "2026-01-24 03:27:03",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi court allows Engineer Rashid to attend Budget Session in custody - The Hindu **Engineer Rashid**, an Independent MP, was granted custody parole by a Delhi court to attend the upcoming Budget Ses",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-allows-engineer-rashid-to-attend-budget-session-in-custody/article70545806.ece",
+            "source_title": "Delhi court allows Engineer Rashid to attend Budget Session in custody - The Hindu",
+            "scraped_at": "2026-01-24 04:56:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sabarimala gold theft case: State’s stance helpful for accused, says V.D. Satheeshan - The Hindu **V.D. Satheeshan**, the **Opposition leader**, alleges that the **State government** and the **special",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-states-stance-helpful-for-accused-says-vd-satheeshan/article70545631.ece",
+            "source_title": "Sabarimala gold theft case: State’s stance helpful for accused, says V.D. Satheeshan - The Hindu",
+            "scraped_at": "2026-01-24 05:55:42",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-06",
@@ -6178,6 +6232,24 @@
             "source_url": "https://www.thehindu.com/news/national/if-we-lose-our-credibility-nothing-will-be-left-of-the-judiciary-justice-ujjal-bhuyan/article70546082.ece",
             "source_title": "If we lose our credibility, nothing will be left of the judiciary: Justice Ujjal Bhuyan - The Hindu",
             "scraped_at": "2026-01-24 08:09:00"
+          },
+          {
+            "incident_text": "On Saturday said he has never violated the party’s stated positions in Parliament.",
+            "source_url": "https://www.thehindu.com/news/national/kerala-literature-festival-shashi-tharoor-congress-disagreement/article70545643.ece",
+            "source_title": "Never violated party line, unapologetic over Operation Sindhoor stance, says Shashi Tharoor - The Hindu",
+            "scraped_at": "2026-01-24 03:04:03"
+          },
+          {
+            "incident_text": "On Saturday claimed the decision to join the NDA was made after consultations with party committees.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/consultations-within-party-favoured-joining-nda-claims-sabu-jacob/article70545673.ece",
+            "source_title": "Consultations within party favoured joining NDA, claims Sabu Jacob - The Hindu",
+            "scraped_at": "2026-01-24 03:56:32"
+          },
+          {
+            "incident_text": "On Saturday, posters branded V. Kunhikrishnan a 'traitor' for accusing an MLA of misappropriating funds.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/posters-target-cpim-leader-after-allegations-against-mla/article70545492.ece",
+            "source_title": "Posters target CPI(M) leader after allegations against MLA - The Hindu",
+            "scraped_at": "2026-01-24 06:14:31"
           }
         ]
       }
