@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4007,6 +4007,13 @@
             "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
             "scraped_at": "2026-02-08 04:06:33",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Never indulged in illegal activities in 10-years of BRS rule, says KTR - The Hindu **K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, accused **A. Revanth Reddy**, Telangana",
+            "source_url": "https://www.thehindu.com/news/national/telangana/never-indulged-in-illegal-activities-in-10-years-of-brs-rule-says-ktr/article70541141.ece",
+            "source_title": "Never indulged in illegal activities in 10-years of BRS rule, says KTR - The Hindu",
+            "scraped_at": "2026-01-23 01:11:37",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4119,8 +4126,8 @@
             "scraped_at": "2026-01-23 10:04:59"
           }
         ],
-        "criminal_cases_in_news": 4,
-        "criminal_last_updated": "2026-07-01"
+        "criminal_cases_in_news": 5,
+        "criminal_last_updated": "2026-07-06"
       },
       {
         "name": "Manik Saha",
