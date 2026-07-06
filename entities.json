@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 3
     },
     "rescan_history": {
@@ -678,6 +678,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-leaves-maharashtra-politics-in-turbulence/article70567410.ece",
             "source_title": "Ajit Pawar leaves Maharashtra politics in turbulence - The Hindu",
             "scraped_at": "2026-01-29 12:38:56"
+          },
+          {
+            "incident_text": "Amit Shah presented an award for Tamil Nadu's cooperative sector performance.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+            "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 03:03:30"
           }
         ]
       },
@@ -4698,6 +4704,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/other-states-look-up-to-tamil-nadu-as-a-model-cm-stalin/article70546188.ece",
             "source_title": "Other States look up to Tamil Nadu as a model: CM Stalin - The Hindu",
             "scraped_at": "2026-01-24 07:16:26"
+          },
+          {
+            "incident_text": "M.K. Stalin claimed the Union government adopted several DMK government schemes.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+            "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 03:03:30"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5558,7 +5570,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 69,
+        "criminal_cases_in_news": 71,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6049,6 +6061,20 @@
             "source_title": "Sabarimala gold theft case: State’s stance helpful for accused, says V.D. Satheeshan - The Hindu",
             "scraped_at": "2026-01-24 05:55:42",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Actor Kamaal R Khan held for firing at residential building in Mumbai - The Hindu **Kamaal Rashid Khan**, known as KRK, was arrested on Saturday for firing two rounds from his licensed firearm at a re",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/actor-kamaal-r-khan-held-for-firing-at-residential-building-in-mumbai/article70545256.ece",
+            "source_title": "Actor Kamaal R Khan held for firing at residential building in Mumbai - The Hindu",
+            "scraped_at": "2026-01-23 22:45:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "10-tonne steel bridge on canal stolen overnight in Chhattisgarh's Korba; five held - The Hindu **Local residents** and **police** in Chhattisgarh's Korba city are shocked after a 70-foot steel bridge,",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-steel-bridge-stolen-korba-police-arrests/article70545601.ece",
+            "source_title": "10-tonne steel bridge on canal stolen overnight in Chhattisgarh's Korba; five held - The Hindu",
+            "scraped_at": "2026-01-24 02:15:31",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-06",
@@ -6250,6 +6276,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/posters-target-cpim-leader-after-allegations-against-mla/article70545492.ece",
             "source_title": "Posters target CPI(M) leader after allegations against MLA - The Hindu",
             "scraped_at": "2026-01-24 06:14:31"
+          },
+          {
+            "incident_text": "On Saturday claimed the Union government adopted several schemes of the DMK government.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+            "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 03:03:30"
           }
         ]
       }
@@ -9711,6 +9743,16 @@
       "source_title": "ONGC announces ₹10,000 ex gratia for Mori-5 gas well blowout victims in A.P. - The Hindu",
       "scraped_at": "2026-01-24 08:58:07",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that part-time teachers will be awarded special marks during permanent teacher recruitment examinations based on their experience",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/special-marks-for-part-time-teachers-in-appointments-says-cm-stalin/article70545414.ece",
+      "source_title": "Special marks for part-time teachers in appointments, says CM Stalin - The Hindu",
+      "scraped_at": "2026-01-24 00:19:06",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
