@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -954,6 +954,12 @@
             "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-india-us-trade-deal-piyush-goyal-press-conference-congress/article70591137.ece",
             "source_title": "Congress says Commerce Minister's press conference during session breaches Parliament tradition - The Hindu",
             "scraped_at": "2026-02-04 05:17:29"
+          },
+          {
+            "incident_text": "Piyush Goyal accused the DMK of having an 'anti-Hindu' mindset.",
+            "source_url": "https://www.thehindu.com/news/national/after-hc-quashes-fir-against-amit-malviya-bjp-demands-removal-of-udhayanidhi-stalin-as-deputy-cm/article70533960.ece",
+            "source_title": "After HC quashes FIR against Amit Malviya, BJP demands removal of Udhayanidhi Stalin as Deputy CM - The Hindu",
+            "scraped_at": "2026-01-21 14:02:16"
           }
         ],
         "criminal_cases_in_news": 0
