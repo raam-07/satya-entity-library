@@ -5614,7 +5614,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 75,
+        "criminal_cases_in_news": 76,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6146,6 +6146,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/amma-row-actor-ansiba-hassan-to-approach-kerala-cm-vd-satheesan-seeking-fair-probe-in-case-against-tiny-tom/article71188300.ece",
             "source_title": "AMMA row: Actor Ansiba Hassan to approach Kerala CM V.D. Satheesan seeking fair probe in case against Tiny Tom - The Hindu",
             "scraped_at": "2026-07-06 09:04:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'Dowry, Belt Beatings': Delhi Woman Akriti Sutar's Mother On 72-Day Marriage Before Death **Akriti Sutar**, a 28-year-old woman, was found dead in Delhi after falling from a building. **Arastu Sikka**",
+            "source_url": "https://www.ndtv.com/india-news/dowry-demand-belt-beatings-delhi-woman-akriti-sutars-mother-on-her-72-day-marriage-11733136#publisher=newsstand",
+            "source_title": "'Dowry, Belt Beatings': Delhi Woman Akriti Sutar's Mother On 72-Day Marriage Before Death",
+            "scraped_at": "2026-07-06 13:08:54",
             "incident_type": "broad"
           }
         ],
