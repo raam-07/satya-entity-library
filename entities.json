@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5246,7 +5246,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Siddaramaiah",
         "image_placeholder": "siddaramaiah",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "No leadership change in Karnataka, clear signal from Congress high command: MLC Yathindra - The Hindu **Yathindra**, son of **Siddaramaiah**, the Chief Minister of Karnataka, expressed confidence that",
@@ -5254,9 +5254,16 @@
             "source_title": "No leadership change in Karnataka, clear signal from Congress high command: MLC Yathindra - The Hindu",
             "scraped_at": "2026-02-06 06:10:49",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "ED attaches ₹20.85 crore worth properties in MUDA case - The Hindu The **Directorate of Enforcement (ED)** has provisionally attached 10 immovable properties worth ₹20.85 crore in connection with the ",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/ed-attaches-2085-crore-worth-properties-in-muda-case/article70538797.ece",
+            "source_title": "ED attaches ₹20.85 crore worth properties in MUDA case - The Hindu",
+            "scraped_at": "2026-01-22 11:13:29",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-02",
+        "criminal_last_updated": "2026-07-06",
         "controversies": [
           {
             "incident_text": "Siddaramaiah has publicly disagreed with senior Congress leaders, including B.K. Hariprasad.",
