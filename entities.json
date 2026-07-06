@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "criminal_updates": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -9847,6 +9847,16 @@
       "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-refutes-allegations-of-domestic-mous-being-signed-at-davos/article70540826.ece",
       "source_title": "Fadnavis refutes allegations of domestic MoUs being signed at Davos - The Hindu",
       "scraped_at": "2026-01-22 23:18:47",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "that Lord Malayappa Swamy will be taken in procession on seven vahanams from 5:30 am to 9 pm along the four mada streets",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumala-gears-up-for-ratha-saptami-on-january-25/article70537975.ece",
+      "source_title": "Tirumala gears up for ‘Ratha Saptami’ on January 25 - The Hindu",
+      "scraped_at": "2026-01-22 08:25:23",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
