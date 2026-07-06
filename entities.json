@@ -5570,7 +5570,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 72,
+        "criminal_cases_in_news": 73,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6081,6 +6081,13 @@
             "source_url": "https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb",
             "source_title": "Manhunt widens for alleged triple murderer accused of shooting pregnant woman in remote NSW | New South Wales | The Guardian",
             "scraped_at": "2026-01-23 17:55:47",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "12-Year-Old's Body Found Stuffed In Sack In Bengal Horror, Suspect Lynched A 12-year-old girl's body was found in a sack near Kolkata, sparking protests and violence. **Four people** were arrested in ",
+            "source_url": "https://www.ndtv.com/india-news/12-year-olds-body-found-stuffed-in-sack-in-bengal-horror-suspect-lynched-11731849#publisher=newsstand",
+            "source_title": "12-Year-Old's Body Found Stuffed In Sack In Bengal Horror, Suspect Lynched",
+            "scraped_at": "2026-07-06 04:56:14",
             "incident_type": "broad"
           }
         ],
