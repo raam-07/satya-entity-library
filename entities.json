@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5595,7 +5595,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 73,
+        "criminal_cases_in_news": 74,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6114,6 +6114,13 @@
             "source_title": "12-Year-Old's Body Found Stuffed In Sack In Bengal Horror, Suspect Lynched",
             "scraped_at": "2026-07-06 04:56:14",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "25 booked in UP’s Balrampur for ‘holding both Indian, Nepali citizenships’ | Lucknow News - The Indian Express **Uttar Pradesh** police have filed an FIR against 25 residents of Balrampur for allegedl",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/up-balrampur-indian-nepali-citizenships-10773756/",
+            "source_title": "25 booked in UP’s Balrampur for ‘holding both Indian, Nepali citizenships’ | Lucknow News - The Indian Express",
+            "scraped_at": "2026-07-06 09:05:26",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-06",
@@ -6321,6 +6328,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
             "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
             "scraped_at": "2026-01-24 03:03:30"
+          },
+          {
+            "incident_text": "On Saturday, a group of women actors accused Shwetha Menon of attempting communal polarization and advancing corporate and political agendas.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/amma-crisis-women-actors-accuse-shwetha-menon-of-communal-polarisation-political-and-corporate-nexus/article71181887.ece",
+            "source_title": "AMMA crisis: Women actors accuse Shwetha Menon of communal polarisation, political and corporate nexus - The Hindu",
+            "scraped_at": "2026-07-06 09:05:10"
           }
         ]
       }
