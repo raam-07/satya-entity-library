@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -5534,7 +5534,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 50,
+        "criminal_cases_in_news": 55,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5892,9 +5892,44 @@
             "source_title": "21 kg of ganja smuggled from Odisha seized, six held in Neyveli - The Hindu",
             "scraped_at": "2026-01-25 03:02:59",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "171 kgs of ganja seized, two smugglers arrested in Krishna district - The Hindu **Hanuman Junction police** and **EAGLE**, a law enforcement group, seized 171 kilograms of ganja from a van in Athkur l",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/171-kgs-of-ganja-seized-two-smugglers-arrested-in-krishna-district/article70547018.ece",
+            "source_title": "171 kgs of ganja seized, two smugglers arrested in Krishna district - The Hindu",
+            "scraped_at": "2026-01-24 12:16:47",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Civil supplies officials seize 1.7 tonnes of PDS rice near Katpadi - The Hindu **Department of Civil Supplies** officials seized approximately 1.7 tonnes of rice intended for the Public Distribution S",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/civil-supplies-officials-seize-17-tonnes-of-pds-rice-near-katpadi/article70546066.ece",
+            "source_title": "Civil supplies officials seize 1.7 tonnes of PDS rice near Katpadi - The Hindu",
+            "scraped_at": "2026-01-24 13:52:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Six held for kidnapping 13-month-old baby - The Hindu **Tirupati East police** rescued a 13-month-old girl who was kidnapped from her home in Tirupati and sold for begging on trains. The girl, whose p",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/six-held-for-kidnapping-13-month-old-baby/article70546971.ece",
+            "source_title": "Six held for kidnapping 13-month-old baby - The Hindu",
+            "scraped_at": "2026-01-24 13:52:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three Youth Congress activists held for waving black flags at CM - The Hindu **Youth Congress** activists Akhil A.P., Deepuraj, and Ajay J.G. were arrested for waving black flags at **Chief Minister P",
+            "source_url": "https://www.thehindu.com/news/national/kerala/three-youth-congress-activists-held-for-waving-black-flags-at-cm/article70547482.ece",
+            "source_title": "Three Youth Congress activists held for waving black flags at CM - The Hindu",
+            "scraped_at": "2026-01-24 13:05:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Palaniswami flays Stalin over bombs being thrown on police vehicle near Perambalur - The Hindu **Edappadi K. Palaniswami**, general secretary of the **AIADMK**, criticized **Chief Minister M.K. Stalin",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-flays-stalin-over-bombs-being-thrown-on-police-vehicle-near-perambalur/article70547123.ece",
+            "source_title": "Palaniswami flays Stalin over bombs being thrown on police vehicle near Perambalur - The Hindu",
+            "scraped_at": "2026-01-24 14:13:52",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-05",
+        "criminal_last_updated": "2026-07-06",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -9465,6 +9500,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/neither-evil-force-nor-corrupt-force-should-rule-tamil-nadu-says-tvk-president-vijay/article70549249.ece",
       "source_title": "Neither ‘evil force’ nor ‘corrupt force’ should rule Tamil Nadu, says TVK president Vijay - The Hindu",
       "scraped_at": "2026-01-25 04:58:01",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Manik Saha",
+      "promise_text": "that the event aims to attract investment worth ₹1 lakh crores and create job opportunities",
+      "source_url": "https://www.thehindu.com/news/national/tripura/cm-highly-optimistic-about-destination-tripura-business-conclave-2026/article71187030.ece",
+      "source_title": "CM highly optimistic about ‘Destination Tripura Business Conclave 2026’ - The Hindu",
+      "scraped_at": "2026-07-05 22:33:24",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
