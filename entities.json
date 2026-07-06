@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 1
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4272,7 +4272,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -4336,9 +4336,16 @@
             "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
             "scraped_at": "2026-06-03 13:40:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Why Bengal rape-murder is BJP government’s first big test | Political Pulse News - The Indian Express The rape and murder of an 11-year-old girl in Baruipur, West Bengal has become a major law-and-ord",
+            "source_url": "https://indianexpress.com/article/political-pulse/baruipur-girl-murder-suvendu-adhikari-mamata-banerjee-protests-10774399/",
+            "source_title": "Why Bengal rape-murder is BJP government’s first big test | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-07-06 20:59:49",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-07-06",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
