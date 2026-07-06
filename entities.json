@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5540,7 +5540,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 57,
+        "criminal_cases_in_news": 59,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -5946,6 +5946,20 @@
             "source_url": "https://www.thehindu.com/news/national/delhi-court-acquits-medha-patkar-in-defamation-case-filed-by-l-g-vk-saxena/article70546715.ece",
             "source_title": "Delhi court acquits Medha Patkar in defamation case filed by L-G V.K. Saxena - The Hindu",
             "scraped_at": "2026-01-24 11:53:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court defers bail plea of Shimjitha Musthafa - The Hindu The **Kunamangalam Judicial First Class Magistrate Court** postponed the bail hearing for **Shimjitha Musthafa**, accused in the suicide case o",
+            "source_url": "https://www.thehindu.com/news/national/kerala/court-defers-bail-plea-of-shimjitha-musthafa/article70546781.ece",
+            "source_title": "Court defers bail plea of Shimjitha Musthafa - The Hindu",
+            "scraped_at": "2026-01-24 10:17:01",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "TN man allegedly dies in police custody - The Hindu **Baburaj**, a 50-year-old Tamil Nadu native, died in **Thrikkakara police station custody** on Saturday (January 24, 2026). He was reportedly taken",
+            "source_url": "https://www.thehindu.com/news/national/kerala/tn-man-allegedly-dies-in-police-custody/article70546855.ece",
+            "source_title": "TN man allegedly dies in police custody - The Hindu",
+            "scraped_at": "2026-01-24 10:17:20",
             "incident_type": "broad"
           }
         ],
@@ -9543,6 +9557,16 @@
       "source_title": "CM highly optimistic about ‘Destination Tripura Business Conclave 2026’ - The Hindu",
       "scraped_at": "2026-07-05 22:33:24",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Nitish Kumar",
+      "promise_text": "that this exercise, aimed at ensuring pure electoral rolls and removing ineligible names",
+      "source_url": "https://www.thehindu.com/news/national/sir-rollout-in-remaining-states-soon-cec-gyanesh-kumar/article70547320.ece",
+      "source_title": "SIR rollout in remaining States soon: CEC Gyanesh Kumar - The Hindu",
+      "scraped_at": "2026-01-24 11:00:22",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
