@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -524,6 +524,12 @@
             "source_url": "https://www.thehindu.com/videos/watch-what-lies-ahead-for-bjps-newest-and-also-youngest-president-nitin-nabin-talking-politics/article70545907.ece",
             "source_title": "Watch: What lies ahead for BJP’s newest and also youngest president Nitin Nabin? | Talking Politics - The Hindu",
             "scraped_at": "2026-01-24 05:55:27"
+          },
+          {
+            "incident_text": "Narendra Modi claimed previous governments attempted to erase Netaji Bose's contributions.",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-pays-tributes-to-netaji-bose-on-birth-anniversary/article70541015.ece",
+            "source_title": "PM Modi pays tributes to Netaji Bose on birth anniversary - The Hindu",
+            "scraped_at": "2026-01-23 00:26:40"
           }
         ]
       },
@@ -5595,7 +5601,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 74,
+        "criminal_cases_in_news": 75,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6120,6 +6126,13 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/up-balrampur-indian-nepali-citizenships-10773756/",
             "source_title": "25 booked in UP’s Balrampur for ‘holding both Indian, Nepali citizenships’ | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-06 09:05:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "AMMA row: Actor Ansiba Hassan to approach Kerala CM V.D. Satheesan seeking fair probe in case against Tiny Tom - The Hindu **Ansiba Hassan** is seeking an impartial police inquiry into the case agains",
+            "source_url": "https://www.thehindu.com/news/national/kerala/amma-row-actor-ansiba-hassan-to-approach-kerala-cm-vd-satheesan-seeking-fair-probe-in-case-against-tiny-tom/article71188300.ece",
+            "source_title": "AMMA row: Actor Ansiba Hassan to approach Kerala CM V.D. Satheesan seeking fair probe in case against Tiny Tom - The Hindu",
+            "scraped_at": "2026-07-06 09:04:16",
             "incident_type": "broad"
           }
         ],
@@ -9804,6 +9817,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/special-marks-for-part-time-teachers-in-appointments-says-cm-stalin/article70545414.ece",
       "source_title": "Special marks for part-time teachers in appointments, says CM Stalin - The Hindu",
       "scraped_at": "2026-01-24 00:19:06",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "circular economy model for Mumbai and India’s first Innovation City in the State",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-refutes-allegations-of-domestic-mous-being-signed-at-davos/article70540826.ece",
+      "source_title": "Fadnavis refutes allegations of domestic MoUs being signed at Davos - The Hindu",
+      "scraped_at": "2026-01-22 23:18:47",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
