@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5444,6 +5444,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/all-eyes-on-governors-address/article70550192.ece",
             "source_title": "All eyes on Governor’s address - The Hindu",
             "scraped_at": "2026-01-25 13:09:01"
+          },
+          {
+            "incident_text": "Siddaramaiah stated the governor acted as a puppet of the central government.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-joint-legislature-session-high-drama-after-governor-gehlot-two-lines-address-siddaramaiah-says-unconstitutional/article70536700.ece",
+            "source_title": "Karnataka Governor walks out of joint legislature session after two-line address, CM Siddaramaiah calls him 'Centre's puppet' - The Hindu",
+            "scraped_at": "2026-01-22 01:11:58"
           }
         ]
       },
