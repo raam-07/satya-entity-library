@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -554,6 +554,12 @@
             "source_url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-on-bjp-president-nitin-nabin/article70528492.ece",
             "source_title": "Nitin Nabin my boss in party matters, says PM Modi - The Hindu",
             "scraped_at": "2026-01-20 04:09:26"
+          },
+          {
+            "incident_text": "Narendra Modi said he received Indonesia's highest honor with 'immense affection'.",
+            "source_url": "https://www.thehindu.com/news/national/nehru-got-it-posthumously-without-having-to-wrangle-it-congress-dig-at-pm-on-indonesia-award/article71193345.ece",
+            "source_title": "Congress slams PM Modi for getting Indonesia award - The Hindu",
+            "scraped_at": "2026-07-07 13:43:12"
           }
         ]
       },
@@ -5757,7 +5763,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 76,
+        "criminal_cases_in_news": 77,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6297,9 +6303,16 @@
             "source_title": "'Dowry, Belt Beatings': Delhi Woman Akriti Sutar's Mother On 72-Day Marriage Before Death",
             "scraped_at": "2026-07-06 13:08:54",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order - The Hindu A Delhi court dismissed the bail applications of **Umar Khalid** and **Sharjeel Imam**, accused",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
+            "source_title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order - The Hindu",
+            "scraped_at": "2026-07-07 13:40:53",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-06",
+        "criminal_last_updated": "2026-07-07",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
