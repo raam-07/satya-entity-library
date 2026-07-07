@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "criminal_updates": 0,
+      "new_promises": 2,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10038,6 +10038,26 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/street-vendors-in-bengaluru-will-be-relocated-not-displaced-karnataka-chief-minister-shivakumar/article71190074.ece",
       "source_title": "Street vendors in Bengaluru will be relocated, not displaced: Karnataka Chief Minister Shivakumar - The Hindu",
       "scraped_at": "2026-07-07 07:49:36",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "a ₹50-crore corpus fund to boost industrial entrepreneurship in Andhra Pradesh",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-at-davos-announces-50-crore-fund-to-boost-entrepreneurship/article70526015.ece",
+      "source_title": "Naidu at Davos announces ₹50-crore fund to boost entrepreneurship - The Hindu",
+      "scraped_at": "2026-01-19 10:05:40",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "the creation of a ₹50-crore corpus fund",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-at-davos-announces-50-crore-fund-to-boost-entrepreneurship/article70526015.ece",
+      "source_title": "Naidu at Davos announces ₹50-crore fund to boost entrepreneurship - The Hindu",
+      "scraped_at": "2026-01-19 10:05:40",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
