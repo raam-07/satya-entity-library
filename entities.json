@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 2,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5569,6 +5569,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/country-is-in-a-dangerous-shift-from-cooperative-federalism-to-coercive-centralism-karnataka-chief-minister-siddaramaiah/article70530744.ece",
             "source_title": "Country is in a dangerous shift from cooperative federalism to coercive centralism: Karnataka CM - The Hindu",
             "scraped_at": "2026-01-20 23:19:32"
+          },
+          {
+            "incident_text": "Siddaramaiah stated that the Congress does not view the Election Commission's SIR as a political issue.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-does-not-view-eci-s-sir-as-political-says-chief-minister/article70525846.ece",
+            "source_title": "Congress does not view ECI ‘s SIR as political, says Chief Minister - The Hindu",
+            "scraped_at": "2026-01-19 09:31:25"
           }
         ]
       },

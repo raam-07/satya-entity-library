@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07 13:07:16.527080",
+  "generated_at": "2026-07-07 13:58:21.536718",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
-    "promises_extracted": 2,
+    "gaffe_updates_applied": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 12
@@ -17,10 +17,10 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "Siddaramaiah",
-      "confidence": 0.61,
-      "mentions": 11,
+      "confidence": 0.56,
+      "mentions": 9,
       "reason": "Below auto-update threshold",
-      "context": "Chief Minister Siddaramaiah accuses Election Commission of India of being ‘selective and complicit’ - The Hindu **Chief Minister Siddaramaiah** criticized the **Election Commission of India (ECI)** fo"
+      "context": "from the **Kalyana Karnataka Region Development Board (KKRDB)**, resumed on April 16th, 2023. Forest, Ecology and Environment Minister and Bidar district in charge Eshwar B. Khandre on Saturday urged "
     },
     {
       "type": "cm_detection",
