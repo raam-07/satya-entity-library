@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 04:33:14.664115",
+  "generated_at": "2026-07-07 05:07:32.245037",
   "summary": {
     "cm_updates_applied": 2,
     "party_updates_applied": 2,
@@ -13,15 +13,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Gujarat",
-      "candidate": "Bhupendra Patel",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "target of planting 5.50 crore trees across the state under the 'Ek Pad Maa Ke Naam' campaign. **Kamal Saiyed**, a correspondent for The Indian Express, reported on this event. SETTING ASIDE protocol, "
-    },
     {
       "type": "cm_detection",
       "state": "Karnataka",
@@ -101,6 +92,15 @@
       "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "s.  The party will hold a meeting in Mumbai on May 20th to address the internal issues. Nationalist Congress Party (NCP) MP, and Maharashtra Deputy Chief Minister Sunetra Pawar’s son, Parth Pawar met "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Gujarat",
+      "candidate": "Bhupendra Patel",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "target of planting 5.50 crore trees across the state under the 'Ek Pad Maa Ke Naam' campaign. **Kamal Saiyed**, a correspondent for The Indian Express, reported on this event. SETTING ASIDE protocol, "
     },
     {
       "type": "ruling_party",
