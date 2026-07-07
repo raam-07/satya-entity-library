@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 1
     },
     "rescan_history": {
@@ -1163,6 +1163,12 @@
             "source_url": "https://www.thehindu.com/news/national/political-reactions-on-supreme-court-stay-on-ugc-equity-rules-updates-january-29/article70565043.ece",
             "source_title": "Decision significant to protect Sanatan values, says Giriraj as Supreme Court stays UGC equity rules - The Hindu",
             "scraped_at": "2026-01-29 05:42:11"
+          },
+          {
+            "incident_text": "Giriraj Singh is accused of deliberately delaying the sanction of a Mega Power Loom Cluster for Sircilla.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/centres-delay-on-sircilla-power-loom-mega-cluster-is-political-vendetta-against-telangana-weavers-ktr/article70525018.ece",
+            "source_title": "Centre’s delay on Sircilla power loom mega cluster is political vendetta against Telangana weavers: KTR - The Hindu",
+            "scraped_at": "2026-01-19 07:30:07"
           }
         ]
       },
@@ -10064,6 +10070,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-at-davos-announces-50-crore-fund-to-boost-entrepreneurship/article70526015.ece",
       "source_title": "Naidu at Davos announces ₹50-crore fund to boost entrepreneurship - The Hindu",
       "scraped_at": "2026-01-19 10:05:40",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "the establishment of the award for works in Tamil",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/writer-imayam-thanks-stalin-for-instituting-semmozhi-literary-award/article70525686.ece",
+      "source_title": "Writer Imayam thanks Stalin for instituting Semmozhi Literary Award - The Hindu",
+      "scraped_at": "2026-01-19 08:24:01",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
