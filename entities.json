@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4079,6 +4079,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-stuck-in-disaster-under-tvk-rule-udhayanidhi-stalin/article71157521.ece",
             "source_title": "Tamil Nadu stuck in ‘disaster’ under TVK rule: Udhayanidhi Stalin - The Hindu",
             "scraped_at": "2026-06-28 13:02:11"
+          },
+          {
+            "incident_text": "C. Joseph Vijay allegedly blackmailed children to influence their families' votes.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-blackmailed-children-by-appealing-to-them-two-election-petitioners-allege-before-madras-high-court/article71192440.ece",
+            "source_title": "Chief Minister Vijay “blackmailed” children by appealing to them, two election petitioners allege before Madras High Court - The Hindu",
+            "scraped_at": "2026-07-07 21:10:28"
           }
         ]
       },
@@ -5793,7 +5799,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 81,
+        "criminal_cases_in_news": 82,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6367,6 +6373,13 @@
             "source_url": "https://www.thehindu.com/news/national/bijapur-chhattisgarh-maoist-encounter-death-toll/article70522158.ece",
             "source_title": "Two more Maoists killed on second day of operation in Bijapur; toll rises to six: Police - The Hindu",
             "scraped_at": "2026-01-18 08:03:34",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rape-Murder Of 11-Year-Old In Bengal Pre-Planned: Police After Three Arrests **Ananda Sardar**, **Pravash Mndal**, and **Dibakar Sardar** have been arrested for the pre-planned rape and murder of a 11",
+            "source_url": "https://www.ndtv.com/india-news/rape-murder-of-11-year-old-in-bengal-pre-planned-police-after-three-arrests-11741155#publisher=newsstand",
+            "source_title": "Rape-Murder Of 11-Year-Old In Bengal Pre-Planned: Police After Three Arrests",
+            "scraped_at": "2026-07-07 21:09:34",
             "incident_type": "broad"
           }
         ],
