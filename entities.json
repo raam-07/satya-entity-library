@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3394,6 +3394,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/remain-patient-karnataka-chief-minister-dk-shivakumar-tells-ministerial-aspirants/article71185669.ece",
             "source_title": "Remain patient, Karnataka Chief Minister D.K. Shivakumar tells ministerial aspirants - The Hindu",
             "scraped_at": "2026-07-05 21:08:52"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated that he should consider advice from opposition leaders in the interest of the state.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-dk-shivakumar-to-travel-to-davos/article70526461.ece",
+            "source_title": "Karnataka Deputy Chief Minister D.K. Shivakumar to travel to Davos - The Hindu",
+            "scraped_at": "2026-01-19 14:14:39"
           }
         ]
       },
