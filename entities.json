@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -530,6 +530,18 @@
             "source_url": "https://www.thehindu.com/news/national/pm-modi-pays-tributes-to-netaji-bose-on-birth-anniversary/article70541015.ece",
             "source_title": "PM Modi pays tributes to Netaji Bose on birth anniversary - The Hindu",
             "scraped_at": "2026-01-23 00:26:40"
+          },
+          {
+            "incident_text": "Narendra Modi claimed that 90% of West Bengal's population would be ineligible for Ayushman Bharat due to stringent eligibility conditions.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
+            "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
+            "scraped_at": "2026-01-21 07:27:14"
+          },
+          {
+            "incident_text": "Narendra Modi fulfilled his pledge by abrogating Article 370; today, Kashmir is an integral part of India.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
           }
         ]
       },
@@ -690,6 +702,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
             "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
             "scraped_at": "2026-01-24 03:03:30"
+          },
+          {
+            "incident_text": "Amit Shah stated that Kashmir is now an integral part of India due to the abrogation of Article 370.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
           }
         ]
       },
@@ -2688,6 +2706,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
             "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
             "scraped_at": "2026-06-23 16:37:06"
+          },
+          {
+            "incident_text": "Abhishek Banerjee claimed that 90% of West Bengal's population would be ineligible for Ayushman Bharat due to its eligibility criteria.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
+            "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
+            "scraped_at": "2026-01-21 07:27:14"
           }
         ]
       },
@@ -4412,6 +4436,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-approves-panel-to-examine-draft-uniform-civil-code-bill/article71175436.ece",
             "source_title": "West Bengal Cabinet approves panel to examine draft Uniform Civil Code Bill - The Hindu",
             "scraped_at": "2026-07-02 17:55:16"
+          },
+          {
+            "incident_text": "Suvendu Adhikari's government in West Bengal is fulfilling BJP promises, according to Amit Shah.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
           }
         ]
       },
