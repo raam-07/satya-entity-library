@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 4
     },
     "rescan_history": {
       "in_progress": false,
@@ -2905,6 +2905,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-lashes-out-at-jagan-for-changing-his-tune-on-state-capital/article71175011.ece",
             "source_title": "Chief Minister Chandrababu Naidu lashes out at Jagan for changing his tune on State capital - The Hindu",
             "scraped_at": "2026-07-02 15:43:37"
+          },
+          {
+            "incident_text": "Chandrababu Naidu repeatedly invokes NTR's legacy to deflect criticism, according to Lakshmi Parvathi.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
+            "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
+            "scraped_at": "2026-01-18 09:55:28"
           }
         ],
         "criminal_cases_in_news": 6,
@@ -3735,6 +3741,12 @@
             "source_url": "https://www.ndtv.com/india-news/bjp-retort-on-uddhav-thackerays-temple-theft-barbs-abandoned-rams-path-11730758#publisher=newsstand",
             "source_title": "BJP Retort On Uddhav Thackeray's Temple Theft Barbs: Abandoned Ram's Path",
             "scraped_at": "2026-07-05 18:07:18"
+          },
+          {
+            "incident_text": "Devendra Fadnavis stated that the BJP is not accepting new parties into its alliance in Maharashtra.",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/devendra-fadnavis-no-new-nda-allies-ncp-sp-speculation-10776156/",
+            "source_title": "BJP’s doors not open for any new party in Maharashtra, says CM Fadnavis | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-07 19:10:58"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5599,6 +5611,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/congress-does-not-view-eci-s-sir-as-political-says-chief-minister/article70525846.ece",
             "source_title": "Congress does not view ECI ‘s SIR as political, says Chief Minister - The Hindu",
             "scraped_at": "2026-01-19 09:31:25"
+          },
+          {
+            "incident_text": "Siddaramaiah claimed the BJP, during its rule, failed to hand over any cases to the CBI.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dismisses-demand-for-cbi-probe-into-ballari-violence/article70521969.ece",
+            "source_title": "Siddaramaiah dismisses demand for CBI probe into Ballari violence - The Hindu",
+            "scraped_at": "2026-01-18 08:53:04"
           }
         ]
       },
@@ -5775,7 +5793,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 79,
+        "criminal_cases_in_news": 80,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6336,6 +6354,13 @@
             "source_title": "Kochi City police register 111 NDPS cases in three weeks - The Hindu",
             "scraped_at": "2026-01-18 11:03:28",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two nabbed for selling illegally activated SIM cards in Hyderabad - The Hindu **Two individuals**, Nanevath Dinesh Kumar Naik and Parnapally Sai Pradeep, were arrested by the **Special Crime Team of t",
+            "source_url": "https://www.thehindu.com/news/national/telangana/two-nabbed-for-selling-illegally-activated-sim-cards-in-hyderabad/article70521911.ece",
+            "source_title": "Two nabbed for selling illegally activated SIM cards in Hyderabad - The Hindu",
+            "scraped_at": "2026-01-18 08:55:18",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-07",
@@ -6549,6 +6574,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/amma-crisis-women-actors-accuse-shwetha-menon-of-communal-polarisation-political-and-corporate-nexus/article71181887.ece",
             "source_title": "AMMA crisis: Women actors accuse Shwetha Menon of communal polarisation, political and corporate nexus - The Hindu",
             "scraped_at": "2026-07-06 09:05:10"
+          },
+          {
+            "incident_text": "On Saturday alleged that Naidu uses NTR's legacy to deflect criticism.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
+            "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
+            "scraped_at": "2026-01-18 09:55:28"
           }
         ]
       }
@@ -10140,6 +10171,16 @@
       "source_title": "Chief Minister announces Kumbh Mela-like arrangements for Sammakka-Saralamma Jatara - The Hindu",
       "scraped_at": "2026-01-18 13:03:58",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "an NTR statue at Neerukonda as early as 2014 but never delivered",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
+      "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
+      "scraped_at": "2026-01-18 09:55:28",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
