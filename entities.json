@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 2
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -548,6 +548,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/article-370-abrogation-fulfilled-dream-of-syama-prasad-mookerjee-pm-narendra-modi-10774662/",
             "source_title": "Article 370 abrogation fulfilled dream of Syama Prasad Mookerjee: PM Narendra Modi | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-06 23:40:05"
+          },
+          {
+            "incident_text": "Narendra Modi declared Nitin Nabin his 'boss' in party matters.",
+            "source_url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-on-bjp-president-nitin-nabin/article70528492.ece",
+            "source_title": "Nitin Nabin my boss in party matters, says PM Modi - The Hindu",
+            "scraped_at": "2026-01-20 04:09:26"
           }
         ]
       },
@@ -9992,6 +9998,16 @@
       "source_title": "Andhra Pradesh attracted 25% of FDI in India, Naidu says in Davos - The Hindu",
       "scraped_at": "2026-01-20 09:09:28",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "a solatium of ₹3 lakh to Kala's family and compensation for those who sustained injuries",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hydrogen-gas-cylinder-explosion-in-kallakurichi-balloon-seller-booked-for-negligence-cm-announces-solatium/article70528208.ece",
+      "source_title": "Hydrogen gas cylinder explosion in Kallakurichi: Balloon seller booked for negligence, CM announces solatium - The Hindu",
+      "scraped_at": "2026-01-20 04:09:08",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
