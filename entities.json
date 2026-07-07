@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -2279,7 +2279,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Akhilesh_Yadav",
         "image_placeholder": "akhilesh_yadav",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "18 detained for bid to stage protest at Manikarnika Ghat in Varanasi - The Hindu **Eighteen** individuals were detained on Monday, January 19, 2026, at the Manikarnika Ghat in Varanasi after attemptin",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18-detained-for-bid-to-stage-protest-at-manikarnika-ghat-in-varanasi/article70526108.ece",
+            "source_title": "18 detained for bid to stage protest at Manikarnika Ghat in Varanasi - The Hindu",
+            "scraped_at": "2026-01-19 11:07:29",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Akhilesh Yadav claimed to know which Congress members were speaking against him.",
@@ -2312,7 +2320,8 @@
             "scraped_at": "2026-02-14 02:08:28"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-07-07"
       },
       {
         "name": "Mayawati",
@@ -3056,6 +3065,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-insulted-northeast-by-not-wearing-gamosa-at-reception-hosted-by-president-bjp/article70554186.ece",
             "source_title": "Rahul ‘insulted’ northeast by not wearing Gamosa at reception hosted by President: BJP - The Hindu",
             "scraped_at": "2026-01-26 14:18:06"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma was accused in a fabricated letter of causing internal conflict within the Assam BJP.",
+            "source_url": "https://www.thehindu.com/news/national/assam/sonowals-office-denies-fake-letter-claiming-rift-in-assam-bjp-fir-lodged/article70526112.ece",
+            "source_title": "Sonowal’s office denies fake letter claiming rift in Assam BJP, FIR lodged - The Hindu",
+            "scraped_at": "2026-01-19 11:06:59"
           }
         ]
       },
