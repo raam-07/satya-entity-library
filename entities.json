@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3496,6 +3496,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/udf-demands-public-apology-from-ganesh-kumar-for-disparaging-oommen-chandy/article70542764.ece",
             "source_title": "UDF demands public apology from Ganesh Kumar for ‘disparaging’ Oommen Chandy - The Hindu",
             "scraped_at": "2026-01-23 09:04:47"
+          },
+          {
+            "incident_text": "V.D. Satheesan claimed the Governor's policy address contained 'half-truths and fake claims' of the LDF government.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/satheesan-slams-kerala-governors-policy-address-as-filled-with-half-truths-and-fake-claims-of-ldf-govt/article70528608.ece",
+            "source_title": "Satheesan slams Kerala Governor’s policy address as filled with ‘half-truths and fake claims’ of LDF govt - The Hindu",
+            "scraped_at": "2026-01-20 05:06:52"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -5680,6 +5686,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/at-ldfs-northern-region-development-rally-cm-pinarayi-vijayan-slams-centres-neglect-of-kerala/article70579334.ece",
             "source_title": "At LDF’s northern region development rally, CM Pinarayi Vijayan slams Centre’s neglect of Kerala - The Hindu",
             "scraped_at": "2026-02-01 10:00:42"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan and the Governor staged a scripted act regarding the policy address omissions.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/governor-chief-minister-row-an-electoral-theatrics-says-kc-venugopal/article70528940.ece",
+            "source_title": "Governor-Chief Minister row an electoral theatrics, says K.C. Venugopal - The Hindu",
+            "scraped_at": "2026-01-20 06:01:27"
           }
         ]
       },
