@@ -8,7 +8,7 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -9969,6 +9969,16 @@
       "source_url": "https://www.thehindu.com/news/national/pm-modi-indonesia-bilateral-visit-july-6-2026/article71189358.ece",
       "source_title": "Modi begins three-nation trip, starts with Indonesia to boost strategic ties - The Hindu",
       "scraped_at": "2026-07-06 23:41:29",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans for drone use in agriculture and healthcare",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-attracted-25-of-fdi-in-india-naidu-says-in-davos/article70529565.ece",
+      "source_title": "Andhra Pradesh attracted 25% of FDI in India, Naidu says in Davos - The Hindu",
+      "scraped_at": "2026-01-20 09:09:28",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
