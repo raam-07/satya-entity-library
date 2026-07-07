@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-07 01:06:54.602049",
+  "generated_at": "2026-07-07 02:03:32.714807",
   "summary": {
     "cm_updates_applied": 2,
-    "party_updates_applied": 2,
+    "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 4,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 2,
+    "promises_extracted": 1,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 12
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -101,14 +101,6 @@
       "mentions": 13,
       "reason": "Below auto-update threshold",
       "context": "s.  The party will hold a meeting in Mumbai on May 20th to address the internal issues. Nationalist Congress Party (NCP) MP, and Maharashtra Deputy Chief Minister Sunetra Pawar’s son, Parth Pawar met "
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.96,
-      "reason": "Gemma rejected",
-      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
     },
     {
       "type": "ruling_party",

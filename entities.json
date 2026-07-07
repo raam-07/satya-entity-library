@@ -6,10 +6,10 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 2,
+      "party_updates": 3,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 4
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -542,6 +542,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
             "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
             "scraped_at": "2026-07-06 22:17:29"
+          },
+          {
+            "incident_text": "Narendra Modi stated that abrogating Article 370 fulfilled Syama Prasad Mookerjee's dream.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/article-370-abrogation-fulfilled-dream-of-syama-prasad-mookerjee-pm-narendra-modi-10774662/",
+            "source_title": "Article 370 abrogation fulfilled dream of Syama Prasad Mookerjee: PM Narendra Modi | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-06 23:40:05"
           }
         ]
       },
@@ -3529,6 +3535,12 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/engine-of-plunder-running-at-full-speed-under-bjps-double-engine-govt-in-mp-congress/article71136515.ece",
             "source_title": "'Engine of plunder' running at full speed under BJP's double-engine govt in MP: Congress - The Hindu",
             "scraped_at": "2026-06-23 07:57:47"
+          },
+          {
+            "incident_text": "Mohan Yadav reconstituted the Waqf Board, including two Hindu members.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-waqf-board-reorganised-hindu-members-included/article71188097.ece",
+            "source_title": "Madhya Pradesh govt. reconstitutes Waqf Board under new law, inclusion of Hindu members draws criticism - The Hindu",
+            "scraped_at": "2026-07-06 23:41:16"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -7335,8 +7347,8 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.86,
-        "party_last_updated": "2026-06-25",
+        "party_confidence": 0.96,
+        "party_last_updated": "2026-07-07",
         "cm_confidence": 0.93,
         "cm_last_updated": "2026-06-16"
       },
@@ -9929,6 +9941,16 @@
       "source_title": "Kishan Reddy flags ‘urgent need’ for reforms in SCCL, seeks tripartite review - The Hindu",
       "scraped_at": "2026-01-21 10:08:38",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Narendra Modi",
+      "promise_text": "hold discussions with President Subianto “aimed at adding even more momentum to this partnership across diverse sectors",
+      "source_url": "https://www.thehindu.com/news/national/pm-modi-indonesia-bilateral-visit-july-6-2026/article71189358.ece",
+      "source_title": "Modi begins three-nation trip, starts with Indonesia to boost strategic ties - The Hindu",
+      "scraped_at": "2026-07-06 23:41:29",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
