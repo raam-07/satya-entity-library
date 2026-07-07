@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -4068,6 +4068,13 @@
             "source_title": "Never indulged in illegal activities in 10-years of BRS rule, says KTR - The Hindu",
             "scraped_at": "2026-01-23 01:11:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "SIT notice on Harish Rao is an attention diversion tactics: KTR - The Hindu **K.T. Rama Rao**, working president of the **Bharat Rashtra Samithi (BRS)**, accused **A. Revanth Reddy**, the Chief Minist",
+            "source_url": "https://www.thehindu.com/news/national/telangana/sit-notice-on-harish-rao-is-an-attention-diversion-tactics-ktr/article70529658.ece",
+            "source_title": "SIT notice on Harish Rao is an attention diversion tactics: KTR - The Hindu",
+            "scraped_at": "2026-01-20 20:28:59",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4186,8 +4193,8 @@
             "scraped_at": "2026-01-21 11:25:39"
           }
         ],
-        "criminal_cases_in_news": 5,
-        "criminal_last_updated": "2026-07-06"
+        "criminal_cases_in_news": 6,
+        "criminal_last_updated": "2026-07-07"
       },
       {
         "name": "Manik Saha",
@@ -5523,6 +5530,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-joint-legislature-session-high-drama-after-governor-gehlot-two-lines-address-siddaramaiah-says-unconstitutional/article70536700.ece",
             "source_title": "Karnataka Governor walks out of joint legislature session after two-line address, CM Siddaramaiah calls him 'Centre's puppet' - The Hindu",
             "scraped_at": "2026-01-22 01:11:58"
+          },
+          {
+            "incident_text": "Siddaramaiah claimed the BJP government is shifting India from cooperative federalism to coercive centralism.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/country-is-in-a-dangerous-shift-from-cooperative-federalism-to-coercive-centralism-karnataka-chief-minister-siddaramaiah/article70530744.ece",
+            "source_title": "Country is in a dangerous shift from cooperative federalism to coercive centralism: Karnataka CM - The Hindu",
+            "scraped_at": "2026-01-20 23:19:32"
           }
         ]
       },
