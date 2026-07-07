@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 1,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3427,6 +3427,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-dk-shivakumar-to-travel-to-davos/article70526461.ece",
             "source_title": "Karnataka Deputy Chief Minister D.K. Shivakumar to travel to Davos - The Hindu",
             "scraped_at": "2026-01-19 14:14:39"
+          },
+          {
+            "incident_text": "D.K. Shivakumar skipped Davos, claiming pressing engagements, which Vijayendra implied were related to a leadership change.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-takes-a-dig-at-karnataka-deputy-chief-minister-for-skipping-wef/article70522800.ece",
+            "source_title": "BJP takes a dig at Karnataka Deputy Chief Minister for skipping WEF - The Hindu",
+            "scraped_at": "2026-01-18 11:51:46"
           }
         ]
       },
@@ -4236,6 +4242,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-enquiry-is-a-staged-drama-of-congress-and-brs-kavitha/article70534506.ece",
             "source_title": "Phone tapping enquiry is a staged drama of Congress and BRS: Kavitha - The Hindu",
             "scraped_at": "2026-01-21 11:25:39"
+          },
+          {
+            "incident_text": "Revanth Reddy stated that his government prioritizes state interests over individual agendas.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-asks-media-not-to-drag-his-cabinet-colleagues-into-their-agenda/article70522654.ece",
+            "source_title": "Revanth asks media not to drag his Cabinet colleagues into their agenda - The Hindu",
+            "scraped_at": "2026-01-18 11:24:29"
           }
         ],
         "criminal_cases_in_news": 6,
@@ -5763,7 +5775,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 78,
+        "criminal_cases_in_news": 79,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6316,6 +6328,13 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-rape-murder-suvendu-adhikari-demands-dgp-report-mob-lynching-10776110/",
             "source_title": "Bengal CM seeks report on ‘police lapses’ in Baruipur rape-murder probe, says lynched youth was ‘innocent’ | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-07 16:35:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kochi City police register 111 NDPS cases in three weeks - The Hindu **Kochi city police** have registered over 100 drug-related cases in the first three weeks of the year, with 31 new cases added on ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kochi-city-police-register-111-ndps-cases-in-three-weeks/article70522585.ece",
+            "source_title": "Kochi City police register 111 NDPS cases in three weeks - The Hindu",
+            "scraped_at": "2026-01-18 11:03:28",
             "incident_type": "broad"
           }
         ],
@@ -10110,6 +10129,16 @@
       "source_url": "https://www.ndtv.com/india-news/meghalaya-church-leaders-meet-amit-shah-over-change-in-foreign-exchange-act-11740367#publisher=newsstand",
       "source_title": "Meghalaya Church Leaders Meet Amit Shah Over Change In Foreign Exchange Act",
       "scraped_at": "2026-07-07 16:36:12",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "the completion of development works for the Medaram Sammakka-Saralamma Jatara",
+      "source_url": "https://www.thehindu.com/news/national/telangana/chief-minister-announces-kumbh-mela-like-arrangements-for-sammakka-saralamma-jatara/article70523157.ece",
+      "source_title": "Chief Minister announces Kumbh Mela-like arrangements for Sammakka-Saralamma Jatara - The Hindu",
+      "scraped_at": "2026-01-18 13:03:58",
       "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
