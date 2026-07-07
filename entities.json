@@ -6,10 +6,10 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 3,
+      "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -984,6 +984,12 @@
             "source_url": "https://www.thehindu.com/news/national/after-hc-quashes-fir-against-amit-malviya-bjp-demands-removal-of-udhayanidhi-stalin-as-deputy-cm/article70533960.ece",
             "source_title": "After HC quashes FIR against Amit Malviya, BJP demands removal of Udhayanidhi Stalin as Deputy CM - The Hindu",
             "scraped_at": "2026-01-21 14:02:16"
+          },
+          {
+            "incident_text": "Piyush Goyal expressed happiness over Dhinakaran's return to NDA, citing shared history and commitment to defeating the DMK.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ttv-dhinakarans-ammk-returns-to-nda-in-tamil-nadu-ahead-of-assembly-elections/article70532551.ece",
+            "source_title": "T.T.V. Dhinakaran’s AMMK returns to NDA in Tamil Nadu ahead of Assembly elections - The Hindu",
+            "scraped_at": "2026-01-21 02:26:52"
           }
         ],
         "criminal_cases_in_news": 0
