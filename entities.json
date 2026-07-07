@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10007,6 +10007,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hydrogen-gas-cylinder-explosion-in-kallakurichi-balloon-seller-booked-for-negligence-cm-announces-solatium/article70528208.ece",
       "source_title": "Hydrogen gas cylinder explosion in Kallakurichi: Balloon seller booked for negligence, CM announces solatium - The Hindu",
       "scraped_at": "2026-01-20 04:09:08",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "street vendors in Bengaluru that the ongoing road and footpath encroachment removal drive would not affect their livelihoods",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/street-vendors-in-bengaluru-will-be-relocated-not-displaced-karnataka-chief-minister-shivakumar/article71190074.ece",
+      "source_title": "Street vendors in Bengaluru will be relocated, not displaced: Karnataka Chief Minister Shivakumar - The Hindu",
+      "scraped_at": "2026-07-07 07:49:36",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
