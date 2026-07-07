@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -5763,7 +5763,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 77,
+        "criminal_cases_in_news": 78,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6309,6 +6309,13 @@
             "source_url": "https://www.thehindu.com/news/cities/Delhi/2020-delhi-riots-case-court-rejects-fresh-bail-pleas-of-umar-khalid-and-sharjeel-imam/article71182544.ece",
             "source_title": "Delhi court rejects Umar Khalid, Sharjeel Imam bail pleas, says bound by Supreme Court order - The Hindu",
             "scraped_at": "2026-07-07 13:40:53",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bengal CM seeks report on ‘police lapses’ in Baruipur rape-murder probe, says lynched youth was ‘innocent’ | Kolkata News - The Indian Express **Suvendu Adhikari**, **Chief Minister of West Bengal**, ",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-rape-murder-suvendu-adhikari-demands-dgp-report-mob-lynching-10776110/",
+            "source_title": "Bengal CM seeks report on ‘police lapses’ in Baruipur rape-murder probe, says lynched youth was ‘innocent’ | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-07 16:35:08",
             "incident_type": "broad"
           }
         ],
@@ -10094,6 +10101,16 @@
       "source_title": "Writer Imayam thanks Stalin for instituting Semmozhi Literary Award - The Hindu",
       "scraped_at": "2026-01-19 08:24:01",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "the delegation of another meeting with all stakeholders to address their concerns",
+      "source_url": "https://www.ndtv.com/india-news/meghalaya-church-leaders-meet-amit-shah-over-change-in-foreign-exchange-act-11740367#publisher=newsstand",
+      "source_title": "Meghalaya Church Leaders Meet Amit Shah Over Change In Foreign Exchange Act",
+      "scraped_at": "2026-07-07 16:36:12",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
