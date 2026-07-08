@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 1,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -5283,6 +5283,13 @@
             "source_title": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami - The Hindu",
             "scraped_at": "2026-01-15 07:24:11",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’ - The Hindu The **Supreme Court** has deemed the **Enforcement Directorate’s** (ED) allegations of obs",
+            "source_url": "https://www.thehindu.com/news/national/i-pac-raids-row-incident-reflects-very-shocking-pattern-ed-tells-supreme-court/article70512386.ece",
+            "source_title": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’ - The Hindu",
+            "scraped_at": "2026-01-15 03:07:09",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5479,7 +5486,7 @@
             "scraped_at": "2026-01-15 07:24:11"
           }
         ],
-        "criminal_cases_in_news": 26,
+        "criminal_cases_in_news": 27,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-07-08"
       },
@@ -10573,6 +10580,16 @@
       "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-speaks-to-jaishankar-on-jk-students-caught-in-iran-turmoil/article70512460.ece",
       "source_title": "Omar speaks to Jaishankar on J&K students caught in Iran turmoil - The Hindu",
       "scraped_at": "2026-01-15 04:02:36",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that senior legal experts will be appointed to expedite the hearing of the border case in the Supreme Court",
+      "source_url": "https://indianexpress.com/article/cities/mumbai/sharad-pawar-eknath-shinde-meeting-ncp-sp-nda-speculation-10777967/",
+      "source_title": "Sharad Pawar meets Eknath Shinde amid ‘talks’ in NCP(SP) over joining NDA | Mumbai News - The Indian Express",
+      "scraped_at": "2026-07-08 17:45:24",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
