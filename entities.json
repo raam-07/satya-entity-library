@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 3
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4272,6 +4272,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/revanth-asks-media-not-to-drag-his-cabinet-colleagues-into-their-agenda/article70522654.ece",
             "source_title": "Revanth asks media not to drag his Cabinet colleagues into their agenda - The Hindu",
             "scraped_at": "2026-01-18 11:24:29"
+          },
+          {
+            "incident_text": "Revanth Reddy stated he would meet Prime Minister Modi or Ministers as needed for state funds.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-says-meeting-modi-will-continue-in-states-interests/article70519457.ece",
+            "source_title": "Revanth says meeting Modi will continue in State’s interests - The Hindu",
+            "scraped_at": "2026-01-17 11:23:12"
           }
         ],
         "criminal_cases_in_news": 6,
@@ -5811,7 +5817,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 85,
+        "criminal_cases_in_news": 87,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6413,6 +6419,20 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/sit-expedites-probe-into-death-of-bihar-neet-aspirant/article70518745.ece",
             "source_title": "SIT expedites probe into death of Bihar NEET aspirant - The Hindu",
             "scraped_at": "2026-01-17 12:15:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man arrested for cultivating ganja in Vikarabad district - The Hindu **Vikarabad District Task Force** officers conducted a raid on Saturday in Vikarabad district, seizing 2.57 kilograms of dry ganja ",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/man-arrested-with-257-kg-of-dry-ganja/article70519046.ece",
+            "source_title": "Man arrested for cultivating ganja in Vikarabad district - The Hindu",
+            "scraped_at": "2026-01-17 09:57:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "VSSC report on Sabarimala artefacts handed over to SIT - The Hindu The **Kollam Vigilance Court** handed over a report from the **Vikram Sarabhai Space Centre (VSSC)** to the **Special Investigation T",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vssc-hands-over-report-on-sabarimala-artefacts-to-sit/article70519340.ece",
+            "source_title": "VSSC report on Sabarimala artefacts handed over to SIT - The Hindu",
+            "scraped_at": "2026-01-17 11:55:18",
             "incident_type": "broad"
           }
         ],
@@ -10263,6 +10283,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
       "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
       "scraped_at": "2026-01-18 09:55:28",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Chandrababu Naidu",
+      "promise_text": "plans to develop a satellite launching facility as part of the Space City project on Hope Island in Kakinada Bay",
+      "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/satellite-launching-facility-will-come-up-on-hope-island-in-the-kakinada-bay-says-andhra-pradesh-chief-minister-chandrababu-naidu/article70519056.ece",
+      "source_title": "Satellite launching facility will come up on Hope Island in the Kakinada Bay, says Andhra Pradesh Chief Minister Chandrababu Naidu - The Hindu",
+      "scraped_at": "2026-01-17 09:56:00",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
