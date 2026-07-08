@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10540,6 +10540,16 @@
       "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/focused-strategy-to-transform-andhra-pradesh-into-a-knowledge-hub-says-cm-naidu/article70513294.ece",
       "source_title": "Focused strategy to transform Andhra Pradesh into a knowledge hub, says CM Naidu - The Hindu",
       "scraped_at": "2026-01-16 00:02:11",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sukhvinder Singh Sukhu",
+      "promise_text": "that while MGNREGA was fully funded by the central government",
+      "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/scrapping-mgnrega-further-strains-himachal-pradeshs-already-limited-resources-cm-sukhu/article71197994.ece",
+      "source_title": "Scrapping MGNREGA further strains Himachal Pradesh’s already limited resources: CM Sukhu - The Hindu",
+      "scraped_at": "2026-07-08 13:08:09",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
