@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6772,6 +6772,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/bmc-poll-results-congress-leader-demands-mumbai-unit-chief-varsha-gaikwads-resignation/article70518313.ece",
             "source_title": "BMC poll results: Congress leader demands Mumbai unit chief Varsha Gaikwad's resignation - The Hindu",
             "scraped_at": "2026-01-17 05:18:21"
+          },
+          {
+            "incident_text": "On Saturday claimed the case against Shibu Baby John is political vendetta.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/case-against-rsp-leader-shibu-baby-john-and-family-is-political-vendetta-says-udf-convenor-adoor-prakash/article70518046.ece",
+            "source_title": "Case against RSP leader Shibu Baby John and family is political vendetta, says UDF convenor Adoor Prakash - The Hindu",
+            "scraped_at": "2026-01-17 03:56:11"
           }
         ]
       }
