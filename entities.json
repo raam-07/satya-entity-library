@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5276,6 +5276,13 @@
             "source_title": "CM Mamata protecting criminals, anarchists, she is close to bidding adieu to political career: Naqvi - The Hindu",
             "scraped_at": "2026-01-16 04:02:47",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami - The Hindu The **Supreme Court** has issued a stay on an FIR filed in West Bengal against ED offici",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/serious-indictment-of-mamata-bjp-over-supreme-court-observation-on-ed-plea-in-i-pac-raid-caseami/article70512625.ece",
+            "source_title": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami - The Hindu",
+            "scraped_at": "2026-01-15 07:24:11",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5464,9 +5471,15 @@
             "source_url": "https://www.thehindu.com/news/cities/kolkata/written-26-poems-already-on-sir-mamata-while-inaugurating-kolkata-book-fair/article70538141.ece",
             "source_title": "Written 26 poems already on SIR: Mamata while inaugurating Kolkata Book Fair - The Hindu",
             "scraped_at": "2026-01-22 22:18:29"
+          },
+          {
+            "incident_text": "Mamata Banerjee allegedly used state machinery to shield those accused of coal smuggling and money laundering.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/serious-indictment-of-mamata-bjp-over-supreme-court-observation-on-ed-plea-in-i-pac-raid-caseami/article70512625.ece",
+            "source_title": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami - The Hindu",
+            "scraped_at": "2026-01-15 07:24:11"
           }
         ],
-        "criminal_cases_in_news": 25,
+        "criminal_cases_in_news": 26,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-07-08"
       },
@@ -10550,6 +10563,16 @@
       "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/scrapping-mgnrega-further-strains-himachal-pradeshs-already-limited-resources-cm-sukhu/article71197994.ece",
       "source_title": "Scrapping MGNREGA further strains Himachal Pradesh’s already limited resources: CM Sukhu - The Hindu",
       "scraped_at": "2026-07-08 13:08:09",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "S. Jaishankar",
+      "promise_text": "Mr. Abdullah that the External Affairs Ministry is taking necessary steps to protect the interests of Indian nationals in Iran",
+      "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-speaks-to-jaishankar-on-jk-students-caught-in-iran-turmoil/article70512460.ece",
+      "source_title": "Omar speaks to Jaishankar on J&K students caught in Iran turmoil - The Hindu",
+      "scraped_at": "2026-01-15 04:02:36",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
