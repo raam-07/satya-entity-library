@@ -8,8 +8,8 @@
       "cm_updates": 2,
       "party_updates": 2,
       "criminal_updates": 1,
-      "new_promises": 1,
-      "gaffe_updates": 1
+      "new_promises": 0,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2917,6 +2917,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
             "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
             "scraped_at": "2026-01-18 09:55:28"
+          },
+          {
+            "incident_text": "Chandrababu Naidu was excessively focusing on Visakhapatnam and AI instead of prioritizing the capital city's construction.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-leader-k-narayana-slams-land-pooling-scheme-in-amaravati/article70519084.ece",
+            "source_title": "CPI leader K. Narayana slams land pooling scheme in Amaravati - The Hindu",
+            "scraped_at": "2026-01-17 09:18:26"
           }
         ],
         "criminal_cases_in_news": 6,
@@ -5817,7 +5823,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 87,
+        "criminal_cases_in_news": 91,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6434,6 +6440,34 @@
             "source_title": "VSSC report on Sabarimala artefacts handed over to SIT - The Hindu",
             "scraped_at": "2026-01-17 11:55:18",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "KAAPA accused arrested with hashish oil in Kollam - The Hindu **Pathanapuram Excise range** officials arrested Umesh Krishna (38), a habitual offender and listed accused under the Kerala Anti-Social A",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kaapa-accused-arrested-with-hashish-oil-in-kollam/article70518698.ece",
+            "source_title": "KAAPA accused arrested with hashish oil in Kollam - The Hindu",
+            "scraped_at": "2026-01-17 08:22:55",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Police quiz Maoists in remand - The Hindu **Krishna police** questioned three Maoists, including a woman, who were arrested in November 2022 at Penamaluru. **Inspector General of Police (Eluru range) ",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/police-quiz-maoists-in-remand/article70519059.ece",
+            "source_title": "Police quiz Maoists in remand - The Hindu",
+            "scraped_at": "2026-01-17 09:19:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Lokayukta traps Excise Deputy Commissioner and Superintendent accepting ₹25 lakh for liquor license clearance - The Hindu **Lokayukta Police** arrested **Jagadeesh Naik**, an Excise Deputy Commissione",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/lokayukta-traps-excise-deputy-commissioner-and-superintendent-accepting-25-lakh-for-liquor-license-clearance/article70518307.ece",
+            "source_title": "Lokayukta traps Excise Deputy Commissioner and Superintendent accepting ₹25 lakh for liquor license clearance - The Hindu",
+            "scraped_at": "2026-01-17 09:54:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Farmer commits suicide in Attappady - The Hindu **Gopalakrishnan**, a 57-year-old farmer from Puliyara in Attappady, committed suicide on Saturday after struggling to sell his land to repay a bank loa",
+            "source_url": "https://www.thehindu.com/news/national/kerala/farmer-commits-suicide-in-attappady/article70518706.ece",
+            "source_title": "Farmer commits suicide in Attappady - The Hindu",
+            "scraped_at": "2026-01-17 08:24:14",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-08",
@@ -6683,6 +6717,18 @@
             "source_url": "https://www.thehindu.com/news/national/modi-govt-communalising-education-says-congress/article70518943.ece",
             "source_title": "Modi govt. communalising education, says Congress - The Hindu",
             "scraped_at": "2026-01-17 12:16:11"
+          },
+          {
+            "incident_text": "On Saturday, the BJP claimed there is a complete breakdown of law and order in Karnataka.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-says-there-is-collapse-of-law-and-order-in-karnataka/article70518615.ece",
+            "source_title": "BJP says there is ‘collapse of law and order’ in Karnataka - The Hindu",
+            "scraped_at": "2026-01-17 08:23:27"
+          },
+          {
+            "incident_text": "K. Narayana alleged the Andhra Pradesh government was seizing land from farmers under the Land Pooling Scheme-II, echoing the YSRCP regime's practices.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-leader-k-narayana-slams-land-pooling-scheme-in-amaravati/article70519084.ece",
+            "source_title": "CPI leader K. Narayana slams land pooling scheme in Amaravati - The Hindu",
+            "scraped_at": "2026-01-17 09:18:26"
           }
         ]
       }
