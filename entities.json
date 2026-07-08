@@ -10620,6 +10620,16 @@
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "plans to invest Rs 1",
+      "source_url": "https://indianexpress.com/article/cities/bangalore/bengaluru-infrastructure-projects-double-far-tier-2-tier-3-cities-10777847/",
+      "source_title": "How Karnataka plans to tackle Bengaluru traffic with 40-km tunnels and 500-km metro lines | Bangalore News - The Indian Express",
+      "scraped_at": "2026-07-08 21:16:19",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
     }
   ]
 }
