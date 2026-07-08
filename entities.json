@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -5835,7 +5835,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 92,
+        "criminal_cases_in_news": 98,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6487,6 +6487,48 @@
             "source_title": "BRS leaders, party workers detained at Secunderabad station after rally permission denied - The Hindu",
             "scraped_at": "2026-01-17 08:04:40",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Four militants held for extortion activities in Manipur - The Hindu **Security forces** arrested four militants belonging to various proscribed outfits in Manipur for their alleged involvement in exto",
+            "source_url": "https://www.thehindu.com/news/national/manipur/four-militants-held-for-extortion-activities-in-manipur/article70517711.ece",
+            "source_title": "Four militants held for extortion activities in Manipur - The Hindu",
+            "scraped_at": "2026-01-17 00:17:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Case filed over ‘fake’ Facebook posts claiming former Kerala MLA Shanimol Usman will quit Congress - The Hindu **Alappuzha South Police** registered a case against **Facebook pages** named 'Communist ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/case-filed-over-fake-facebook-posts-claiming-former-kerala-mla-shanimol-usman-will-quit-congress/article70517738.ece",
+            "source_title": "Case filed over ‘fake’ Facebook posts claiming former Kerala MLA Shanimol Usman will quit Congress - The Hindu",
+            "scraped_at": "2026-01-17 01:06:51",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rape case: Kerala MLA Rahul Mamkootathil’s bail plea rejected, to remain in jail - The Hindu **Palakkad MLA Rahul Mamkootathil** was denied bail by the Judicial First Class Magistrate Court in Thiruva",
+            "source_url": "https://www.thehindu.com/news/national/kerala/rape-case-kerala-mla-rahul-mamkootathils-bail-plea-rejected-to-remain-in-jail/article70518011.ece",
+            "source_title": "Rape case: Kerala MLA Rahul Mamkootathil’s bail plea rejected, to remain in jail - The Hindu",
+            "scraped_at": "2026-01-17 03:03:00",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "53-year-old arrested after acid attack on minor girl in Kerala’s Wayanad - The Hindu A 14-year-old girl suffered severe burns after being attacked with acid by her neighbor, **Raju Jose** (53), in Way",
+            "source_url": "https://www.thehindu.com/news/national/kerala/53-year-old-arrested-after-acid-attack-on-minor-girl-in-keralas-wayanad/article70517575.ece",
+            "source_title": "53-year-old arrested after acid attack on minor girl in Kerala’s Wayanad - The Hindu",
+            "scraped_at": "2026-01-16 23:27:30",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Guru Tegh Bahadur row: Delhi Speaker says forensic analysis found video not tampered with - The Hindu **Delhi Assembly Speaker Vijender Gupta** stated that a forensic science laboratory report confirm",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/guru-tegh-bahadur-row-delhi-speaker-says-forensic-analysis-found-video-not-tampered-with/article70517675.ece",
+            "source_title": "Guru Tegh Bahadur row: Delhi Speaker says forensic analysis found video not tampered with - The Hindu",
+            "scraped_at": "2026-01-17 00:18:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "LFL 2026: Former CJI D.Y. Chandrachud on prolonged incarceration of Umar Khalid, why constitution matters and more - The Hindu Former Chief Justice of India, **Justice (Retired) D.Y. Chandrachud**, di",
+            "source_url": "https://www.thehindu.com/lit-for-life/no-area-of-the-constitution-should-be-immune-from-judicial-review-says-former-cji-dy-chandrachud/article70481697.ece",
+            "source_title": "LFL 2026: Former CJI D.Y. Chandrachud on prolonged incarceration of Umar Khalid, why constitution matters and more - The Hindu",
+            "scraped_at": "2026-01-17 02:14:02",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-08",
@@ -6778,6 +6820,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/case-against-rsp-leader-shibu-baby-john-and-family-is-political-vendetta-says-udf-convenor-adoor-prakash/article70518046.ece",
             "source_title": "Case against RSP leader Shibu Baby John and family is political vendetta, says UDF convenor Adoor Prakash - The Hindu",
             "scraped_at": "2026-01-17 03:56:11"
+          },
+          {
+            "incident_text": "Justice Chandrachud stated that national security laws often contradict the presumption of innocence.",
+            "source_url": "https://www.thehindu.com/lit-for-life/no-area-of-the-constitution-should-be-immune-from-judicial-review-says-former-cji-dy-chandrachud/article70481697.ece",
+            "source_title": "LFL 2026: Former CJI D.Y. Chandrachud on prolonged incarceration of Umar Khalid, why constitution matters and more - The Hindu",
+            "scraped_at": "2026-01-17 02:14:02"
           }
         ]
       }
