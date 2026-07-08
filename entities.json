@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -566,6 +566,12 @@
             "source_url": "https://www.thehindu.com/news/national/pm-modi-public-rally-malda-west-bengal-genz-mamata-banerjee-infiltration-bmc-victory-on-january-17-2026/article70518326.ece",
             "source_title": "PM Modi at Malda rally: People of India, especially Gen Z, have reposed faith in BJP’s development model - The Hindu",
             "scraped_at": "2026-01-17 05:17:55"
+          },
+          {
+            "incident_text": "Narendra Modi laid the foundation stone for beautification but destroyed the Ghat, according to Ajay Rai.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
+            "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
+            "scraped_at": "2026-01-16 12:22:55"
           }
         ]
       },
@@ -4403,6 +4409,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/kashi-redevelopment-manikarnika-ghat-temple-demolition-up-cm-yogi-adityanath/article70519054.ece",
             "source_title": "U.P. CM Adityanath accuses Congress of spreading ‘false propaganda’ on Kashi redevelopment - The Hindu",
             "scraped_at": "2026-01-17 12:14:22"
+          },
+          {
+            "incident_text": "Ajay Rai claimed the Yogi-Modi government is atheistic despite claiming to uphold Hindutva.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
+            "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
+            "scraped_at": "2026-01-16 12:22:55"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -5835,7 +5847,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 98,
+        "criminal_cases_in_news": 99,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6528,6 +6540,13 @@
             "source_url": "https://www.thehindu.com/lit-for-life/no-area-of-the-constitution-should-be-immune-from-judicial-review-says-former-cji-dy-chandrachud/article70481697.ece",
             "source_title": "LFL 2026: Former CJI D.Y. Chandrachud on prolonged incarceration of Umar Khalid, why constitution matters and more - The Hindu",
             "scraped_at": "2026-01-17 02:14:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "A missing girl, mob violence, and an encounter: What happened in West Bengal’s Baruipur? - The Hindu Following the discovery of a 12-year-old girl's body in a pond in Baruipur, **West Bengal**, on Sun",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/why-west-bengals-baruipur-is-on-the-boil-over-the-rape-and-murder-of-a-minor-explained/article71196612.ece",
+            "source_title": "A missing girl, mob violence, and an encounter: What happened in West Bengal’s Baruipur? - The Hindu",
+            "scraped_at": "2026-07-08 06:37:43",
             "incident_type": "broad"
           }
         ],
