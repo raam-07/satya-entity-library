@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-08 13:09:37.663322",
+  "generated_at": "2026-07-08 13:46:30.543032",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 3,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
-    "promises_extracted": 0,
+    "gaffe_updates_applied": 0,
+    "promises_extracted": 3,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 12
+    "items_needing_review": 11
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -86,18 +86,9 @@
     },
     {
       "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.74,
-      "mentions": 14,
-      "reason": "Below auto-update threshold",
-      "context": "s.  The party will hold a meeting in Mumbai on May 20th to address the internal issues. Nationalist Congress Party (NCP) MP, and Maharashtra Deputy Chief Minister Sunetra Pawar’s son, Parth Pawar met "
-    },
-    {
-      "type": "cm_detection",
       "state": "Gujarat",
       "candidate": "Bhupendra Patel",
-      "confidence": 0.6,
+      "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "target of planting 5.50 crore trees across the state under the 'Ek Pad Maa Ke Naam' campaign. **Kamal Saiyed**, a correspondent for The Indian Express, reported on this event. SETTING ASIDE protocol, "

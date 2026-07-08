@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 3,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7631,7 +7631,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-06-16"
+        "cm_last_updated": "2026-07-08"
       },
       {
         "name": "Manipur",
@@ -10471,6 +10471,36 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswamisrefusal-to-commit-himself-to-old-pension-scheme-shows-that-it-is-unfeasible/article70515606.ece",
       "source_title": "Palaniswami’s refusal to commit himself to Old Pension Scheme shows that it is unfeasible - The Hindu",
       "scraped_at": "2026-01-16 13:55:21",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "them of full central assistance in dealing with the rain-related challenges",
+      "source_url": "https://www.ndtv.com/india-news/amit-shah-speaks-to-maharashta-gujarat-j-k-chief-ministers-on-rain-situation-11743311#publisher=newsstand",
+      "source_title": "Amit Shah Speaks To Maharashta, Gujarat, J&K Chief Ministers On Rain Situation",
+      "scraped_at": "2026-07-08 11:29:01",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "full central assistance to states facing rain-related challenges",
+      "source_url": "https://www.ndtv.com/india-news/amit-shah-speaks-to-maharashta-gujarat-j-k-chief-ministers-on-rain-situation-11743311#publisher=newsstand",
+      "source_title": "Amit Shah Speaks To Maharashta, Gujarat, J&K Chief Ministers On Rain Situation",
+      "scraped_at": "2026-07-08 11:29:01",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Amit Shah",
+      "promise_text": "them of all possible assistance from the Centre in dealing with the rain-related situation",
+      "source_url": "https://www.ndtv.com/india-news/amit-shah-speaks-to-maharashta-gujarat-j-k-chief-ministers-on-rain-situation-11743311#publisher=newsstand",
+      "source_title": "Amit Shah Speaks To Maharashta, Gujarat, J&K Chief Ministers On Rain Situation",
+      "scraped_at": "2026-07-08 11:29:01",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
