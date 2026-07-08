@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3777,6 +3777,12 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/devendra-fadnavis-no-new-nda-allies-ncp-sp-speculation-10776156/",
             "source_title": "BJP’s doors not open for any new party in Maharashtra, says CM Fadnavis | Mumbai News - The Indian Express",
             "scraped_at": "2026-07-07 19:10:58"
+          },
+          {
+            "incident_text": "Devendra Fadnavis claimed the opposition was defaming Maharashtra by criticizing the Missing Link project.",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/pune-mumbai-missing-link-landslide-devendra-fadnavis-defends-project-10777354/",
+            "source_title": "‘Abuse me, not Maharashtra’: Fadnavis hits back over ‘Missing Link’ landslide row | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-08 11:30:52"
           }
         ],
         "criminal_cases_in_news": 2,
