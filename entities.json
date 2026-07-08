@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 0,
+      "criminal_updates": 1,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -5290,6 +5290,13 @@
             "source_title": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’ - The Hindu",
             "scraped_at": "2026-01-15 03:07:09",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Suvendu warns West Bengal CM of legal action over coal scam remarks - The Hindu **Suvendu Adhikari**, leader of the Opposition in West Bengal, threatened to file a defamation case against **Chief Mini",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-warns-west-bengal-cm-of-legal-action-over-coal-scam-remarks/article70510679.ece",
+            "source_title": "Suvendu warns West Bengal CM of legal action over coal scam remarks - The Hindu",
+            "scraped_at": "2026-01-14 14:57:25",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5486,7 +5493,7 @@
             "scraped_at": "2026-01-15 07:24:11"
           }
         ],
-        "criminal_cases_in_news": 27,
+        "criminal_cases_in_news": 28,
         "constituency": "Bhawanipur",
         "criminal_last_updated": "2026-07-08"
       },
@@ -10590,6 +10597,16 @@
       "source_url": "https://indianexpress.com/article/cities/mumbai/sharad-pawar-eknath-shinde-meeting-ncp-sp-nda-speculation-10777967/",
       "source_title": "Sharad Pawar meets Eknath Shinde amid ‘talks’ in NCP(SP) over joining NDA | Mumbai News - The Indian Express",
       "scraped_at": "2026-07-08 17:45:24",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that the location for Bengaluru's second airport will be in the Bengaluru South district",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/second-airport-location-will-be-in-bengaluru-south-says-karnataka-chief-minister/article71199488.ece",
+      "source_title": "Second airport location will be in Bengaluru South, says Karnataka Chief Minister - The Hindu",
+      "scraped_at": "2026-07-08 19:42:33",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
