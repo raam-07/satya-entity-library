@@ -8,8 +8,8 @@
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -572,6 +572,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
             "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
             "scraped_at": "2026-01-16 12:22:55"
+          },
+          {
+            "incident_text": "Narendra Modi greeted the film crew of *Parasakthi* at a Pongal celebration.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/parasakthi-team-celebrates-pongal-with-prime-minister-modi-in-new-delhi/article70510288.ece",
+            "source_title": "Parasakthi team celebrates Pongal with Prime Minister Modi in New Delhi - The Hindu",
+            "scraped_at": "2026-01-14 10:25:33"
           }
         ]
       },

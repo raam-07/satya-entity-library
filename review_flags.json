@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08 22:56:28.115267",
+  "generated_at": "2026-07-08 23:53:17.600919",
   "summary": {
     "cm_updates_applied": 3,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
-    "promises_extracted": 1,
+    "gaffe_updates_applied": 1,
+    "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
     "items_needing_review": 11
