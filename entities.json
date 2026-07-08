@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -560,6 +560,12 @@
             "source_url": "https://www.thehindu.com/news/national/nehru-got-it-posthumously-without-having-to-wrangle-it-congress-dig-at-pm-on-indonesia-award/article71193345.ece",
             "source_title": "Congress slams PM Modi for getting Indonesia award - The Hindu",
             "scraped_at": "2026-07-07 13:43:12"
+          },
+          {
+            "incident_text": "Narendra Modi claimed Gen Z in India trusts the BJP's development model.",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-public-rally-malda-west-bengal-genz-mamata-banerjee-infiltration-bmc-victory-on-january-17-2026/article70518326.ece",
+            "source_title": "PM Modi at Malda rally: People of India, especially Gen Z, have reposed faith in BJP’s development model - The Hindu",
+            "scraped_at": "2026-01-17 05:17:55"
           }
         ]
       },
@@ -3565,6 +3571,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/satheesan-slams-kerala-governors-policy-address-as-filled-with-half-truths-and-fake-claims-of-ldf-govt/article70528608.ece",
             "source_title": "Satheesan slams Kerala Governor’s policy address as filled with ‘half-truths and fake claims’ of LDF govt - The Hindu",
             "scraped_at": "2026-01-20 05:06:52"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated that social media claims the UDF discouraged CMDRF contributions were false.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-opposition-leader-says-udf-never-campaigned-against-making-contributions-to-cmdrf/article70518196.ece",
+            "source_title": "Kerala Opposition Leader says UDF never campaigned against making contributions to CMDRF - The Hindu",
+            "scraped_at": "2026-01-17 04:55:13"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -5823,7 +5835,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 91,
+        "criminal_cases_in_news": 92,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6468,6 +6480,13 @@
             "source_title": "Farmer commits suicide in Attappady - The Hindu",
             "scraped_at": "2026-01-17 08:24:14",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "BRS leaders, party workers detained at Secunderabad station after rally permission denied - The Hindu **Hyderabad police** detained **322 individuals**, including **Sanathnagar MLA T. Srinivas Yadav**",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/brs-leaders-party-workers-detained-at-secunderabad-station-after-rally-permission-denied/article70518542.ece",
+            "source_title": "BRS leaders, party workers detained at Secunderabad station after rally permission denied - The Hindu",
+            "scraped_at": "2026-01-17 08:04:40",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-08",
@@ -6729,6 +6748,30 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-leader-k-narayana-slams-land-pooling-scheme-in-amaravati/article70519084.ece",
             "source_title": "CPI leader K. Narayana slams land pooling scheme in Amaravati - The Hindu",
             "scraped_at": "2026-01-17 09:18:26"
+          },
+          {
+            "incident_text": "Phool Singh Baraiya claimed beauty can distract men, leading to rape.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-mla-links-beauty-to-rape-uses-teerth-phal-term-citing-scriptures-bjp-asks-rahul-gandhi-to-sack-him/article70518155.ece",
+            "source_title": "Congress MLA links beauty to rape; uses 'teerth phal' term citing scriptures; BJP asks Rahul Gandhi to sack him - The Hindu",
+            "scraped_at": "2026-01-17 04:15:24"
+          },
+          {
+            "incident_text": "On Saturday said the social media campaign alleging the UDF dissuaded contributions to the CMDRF was a lie.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-opposition-leader-says-udf-never-campaigned-against-making-contributions-to-cmdrf/article70518196.ece",
+            "source_title": "Kerala Opposition Leader says UDF never campaigned against making contributions to CMDRF - The Hindu",
+            "scraped_at": "2026-01-17 04:55:13"
+          },
+          {
+            "incident_text": "On Saturday claimed people of India, especially Gen Z, have faith in the BJP's development model.",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-public-rally-malda-west-bengal-genz-mamata-banerjee-infiltration-bmc-victory-on-january-17-2026/article70518326.ece",
+            "source_title": "PM Modi at Malda rally: People of India, especially Gen Z, have reposed faith in BJP’s development model - The Hindu",
+            "scraped_at": "2026-01-17 05:17:55"
+          },
+          {
+            "incident_text": "On Saturday demanded Varsha Gaikwad's resignation on moral grounds.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/bmc-poll-results-congress-leader-demands-mumbai-unit-chief-varsha-gaikwads-resignation/article70518313.ece",
+            "source_title": "BMC poll results: Congress leader demands Mumbai unit chief Varsha Gaikwad's resignation - The Hindu",
+            "scraped_at": "2026-01-17 05:18:21"
           }
         ]
       }
