@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -5799,7 +5799,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 82,
+        "criminal_cases_in_news": 84,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6381,9 +6381,23 @@
             "source_title": "Rape-Murder Of 11-Year-Old In Bengal Pre-Planned: Police After Three Arrests",
             "scraped_at": "2026-07-07 21:09:34",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "8 FIRs filed as ‘fake images’ of Manikarnika Ghat redevelopment surface online - The Hindu **Eight** cases have been filed in **Uttar Pradesh's Varanasi** against individuals and X handles accused of ",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/8-firs-filed-as-fake-images-of-manikarnika-ghat-redevelopment-surface-online/article70521175.ece",
+            "source_title": "8 FIRs filed as ‘fake images’ of Manikarnika Ghat redevelopment surface online - The Hindu",
+            "scraped_at": "2026-01-17 23:15:52",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Father, two sons drown in a lake near Cheyyar - The Hindu A **36-year-old man**, K. Thangaraj, and his two sons, T. Rajesh (7) and T. Latthesh (5), drowned in a lake near Cheyyar town in Tiruvannamala",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/father-two-sons-drown-in-lake-while-catching-fish/article70518868.ece",
+            "source_title": "Father, two sons drown in a lake near Cheyyar - The Hindu",
+            "scraped_at": "2026-01-17 13:04:47",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-07",
+        "criminal_last_updated": "2026-07-08",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -6606,6 +6620,18 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/former-maharashtra-bjp-minister-raj-purohit-passes-away-at-71/article70521351.ece",
             "source_title": "Former Maharashtra BJP Minister Raj Purohit passes away at 71 - The Hindu",
             "scraped_at": "2026-01-18 01:56:22"
+          },
+          {
+            "incident_text": "On Saturday said the leader of the alliance his party joins would announce the AMMK’s entry.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ammks-decision-on-alliance-to-be-revealed-by-leader-of-senior-partner-says-dhinakaran/article70519049.ece",
+            "source_title": "AMMK’s decision on alliance to be revealed by leader of senior partner, says Dhinakaran - The Hindu",
+            "scraped_at": "2026-01-17 13:49:13"
+          },
+          {
+            "incident_text": "On Saturday, the AICC president and Rahul Gandhi were authorized to decide on the alliance.",
+            "source_url": "https://www.thehindu.com/news/national/aicc-leaders-hold-talks-with-tncc-delegation-on-poll-alliance-in-state/article70519919.ece",
+            "source_title": "AICC leaders hold talks with TNCC delegation on poll alliance in State - The Hindu",
+            "scraped_at": "2026-01-17 14:11:11"
           }
         ]
       }
