@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6600,6 +6600,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
             "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
             "scraped_at": "2026-01-18 09:55:28"
+          },
+          {
+            "incident_text": "On Saturday said Raj K. Purohit breathed his last at a private hospital in Mumbai on Saturday.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/former-maharashtra-bjp-minister-raj-purohit-passes-away-at-71/article70521351.ece",
+            "source_title": "Former Maharashtra BJP Minister Raj Purohit passes away at 71 - The Hindu",
+            "scraped_at": "2026-01-18 01:56:22"
           }
         ]
       }
