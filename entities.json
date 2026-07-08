@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 1,
       "gaffe_updates": 0
     },
@@ -10607,6 +10607,16 @@
       "source_url": "https://www.thehindu.com/news/national/karnataka/second-airport-location-will-be-in-bengaluru-south-says-karnataka-chief-minister/article71199488.ece",
       "source_title": "Second airport location will be in Bengaluru South, says Karnataka Chief Minister - The Hindu",
       "scraped_at": "2026-07-08 19:42:33",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "plans to develop Lalbagh-style parks in Bengaluru North and South",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/lalbagh-style-parks-in-north-and-south-bluru-dks/article70510989.ece",
+      "source_title": "Lalbagh style parks in North and South B’luru: DKS - The Hindu",
+      "scraped_at": "2026-01-14 13:08:49",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
