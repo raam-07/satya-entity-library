@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4208,6 +4208,20 @@
             "source_title": "SIT notice on Harish Rao is an attention diversion tactics: KTR - The Hindu",
             "scraped_at": "2026-01-20 20:28:59",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Opposition, journalist bodies condemn arrest of NTV journalists - The Hindu **BRS** and **journalist associations** in **Telangana** criticized the detention of **NTV** journalists late Tuesday night,",
+            "source_url": "https://www.thehindu.com/news/national/telangana/opposition-journalist-bodies-condemn-arrest-of-ntv-journalists/article70509497.ece",
+            "source_title": "Opposition, journalist bodies condemn arrest of NTV journalists - The Hindu",
+            "scraped_at": "2026-01-14 08:16:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Emergency era mindset of Congress govt.: BJP - The Hindu **N. Ramchander Rao**, **Telangana BJP president**, condemned the midnight arrest of three journalists from a private news channel at the airpo",
+            "source_url": "https://www.thehindu.com/news/national/telangana/emergency-era-mindset-of-congress-govt-bjp/article70509341.ece",
+            "source_title": "Emergency era mindset of Congress govt.: BJP - The Hindu",
+            "scraped_at": "2026-01-14 08:18:16",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4338,8 +4352,8 @@
             "scraped_at": "2026-01-17 11:23:12"
           }
         ],
-        "criminal_cases_in_news": 6,
-        "criminal_last_updated": "2026-07-07"
+        "criminal_cases_in_news": 8,
+        "criminal_last_updated": "2026-07-09"
       },
       {
         "name": "Manik Saha",
