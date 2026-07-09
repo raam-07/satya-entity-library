@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3811,6 +3811,12 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/pune-mumbai-missing-link-landslide-devendra-fadnavis-defends-project-10777354/",
             "source_title": "‘Abuse me, not Maharashtra’: Fadnavis hits back over ‘Missing Link’ landslide row | Mumbai News - The Indian Express",
             "scraped_at": "2026-07-08 11:30:52"
+          },
+          {
+            "incident_text": "Devendra Fadnavis has the ability to lead us all, there is no vacancy for the Chief Minister’s post till he is here.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/we-are-firmly-with-nda-no-question-of-ncp-reunification-praful-patel/article70506920.ece",
+            "source_title": "We are firmly with NDA, no question of NCP reunification: Praful Patel - The Hindu",
+            "scraped_at": "2026-01-13 13:55:30"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -5767,6 +5773,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dismisses-demand-for-cbi-probe-into-ballari-violence/article70521969.ece",
             "source_title": "Siddaramaiah dismisses demand for CBI probe into Ballari violence - The Hindu",
             "scraped_at": "2026-01-18 08:53:04"
+          },
+          {
+            "incident_text": "Siddaramaiah prioritized meeting Rahul Gandhi over the German Chancellor's visit.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-takes-exception-to-cm-dycm-choosing-to-meet-rahul-over-german-chancellor/article70506403.ece",
+            "source_title": "BJP takes exception to CM, DyCM choosing to meet Rahul over German Chancellor - The Hindu",
+            "scraped_at": "2026-01-13 13:10:41"
           }
         ]
       },
