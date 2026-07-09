@@ -6,7 +6,7 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 3,
-      "party_updates": 2,
+      "party_updates": 3,
       "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
@@ -6065,7 +6065,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 103,
+        "criminal_cases_in_news": 104,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6793,6 +6793,13 @@
             "source_url": "https://www.thehindu.com/news/national/assam/bandh-in-assams-kokrajhar-over-mentally-challenged-womans-rape-accused-injured-in-police-firing/article70500075.ece",
             "source_title": "Bandh in Assam’s Kokrajhar over mentally-challenged woman’s rape; accused injured in police firing - The Hindu",
             "scraped_at": "2026-01-11 23:26:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Amid ongoing training to village guards in J&K, a volunteer’s son killed in ‘accidental firing’ - The Hindu A 16-year-old boy, Anuj Kumar, was killed in an accidental shooting while his father, a Vill",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amid-ongoing-training-to-village-guards-in-jk-a-volunteers-son-killed-in-accidental-firing/article70498728.ece",
+            "source_title": "Amid ongoing training to village guards in J&K, a volunteer’s son killed in ‘accidental firing’ - The Hindu",
+            "scraped_at": "2026-01-11 16:53:38",
             "incident_type": "broad"
           }
         ],
@@ -7959,7 +7966,9 @@
         "capital": "Hyderabad",
         "ruling_party": "INC",
         "cm": "Revanth Reddy",
-        "region": "South"
+        "region": "South",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-07-09"
       },
       {
         "name": "Tripura",
