@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 1,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10833,6 +10833,16 @@
       "source_url": "https://www.thehindu.com/news/national/tamil-nadu/50-lakh-mt-of-legacy-waste-cleared-through-bio-mining-in-chennai-cm-stalin/article70501121.ece",
       "source_title": "50 lakh MT of legacy waste cleared through bio mining in Chennai: CM Stalin - The Hindu",
       "scraped_at": "2026-01-12 11:05:24",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Bhajanlal Sharma",
+      "promise_text": "the youth that the upcoming State Budget will be youth-centric",
+      "source_url": "https://www.thehindu.com/news/national/rajasthan/target-set-to-give-four-lakh-govt-jobs-to-youth-in-rajasthan-says-cm/article70501822.ece",
+      "source_title": "Target set to give four lakh govt. jobs to youth in Rajasthan, says CM - The Hindu",
+      "scraped_at": "2026-01-12 10:04:11",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
