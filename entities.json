@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 2,
-      "new_promises": 1,
+      "criminal_updates": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -5943,7 +5943,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 99,
+        "criminal_cases_in_news": 100,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6644,9 +6644,16 @@
             "source_title": "A missing girl, mob violence, and an encounter: What happened in West Bengal’s Baruipur? - The Hindu",
             "scraped_at": "2026-07-08 06:37:43",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rape case: Police to examine Kerala MLA Rahul Mamkootathil’s phones for evidence after he declines to share passwords - The Hindu **Rahul Mamkootathil**, a former **Youth Congress State president**, w",
+            "source_url": "https://www.thehindu.com/news/national/kerala/rape-case-police-to-examine-kerala-mla-rahul-mamkootathils-phones-for-evidence-after-he-declines-to-share-passwords/article70508179.ece",
+            "source_title": "Rape case: Police to examine Kerala MLA Rahul Mamkootathil’s phones for evidence after he declines to share passwords - The Hindu",
+            "scraped_at": "2026-01-14 00:23:23",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-08",
+        "criminal_last_updated": "2026-07-09",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
