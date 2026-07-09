@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2889,6 +2889,13 @@
             "source_title": "YSRCP leader Ambati Rambabu arrested for ‘creating hurdles’ for police - The Hindu",
             "scraped_at": "2026-01-31 12:25:28",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court allows closure of APSSDC case against Naidu - The Hindu **Andhra Pradesh Crime Investigation Department (A.P.-CID)** successfully petitioned a court in Vijayawada to close the case against **Chi",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/court-allows-closure-of-apssdc-case-against-naidu/article70506550.ece",
+            "source_title": "Court allows closure of APSSDC case against Naidu - The Hindu",
+            "scraped_at": "2026-01-13 13:07:39",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2965,8 +2972,8 @@
             "scraped_at": "2026-01-17 09:18:26"
           }
         ],
-        "criminal_cases_in_news": 6,
-        "criminal_last_updated": "2026-07-04"
+        "criminal_cases_in_news": 7,
+        "criminal_last_updated": "2026-07-09"
       },
       {
         "name": "Pema Khandu",
