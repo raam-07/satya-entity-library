@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
-      "gaffe_updates": 3
+      "criminal_updates": 0,
+      "new_promises": 1,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4424,6 +4424,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/revanth-says-meeting-modi-will-continue-in-states-interests/article70519457.ece",
             "source_title": "Revanth says meeting Modi will continue in State’s interests - The Hindu",
             "scraped_at": "2026-01-17 11:23:12"
+          },
+          {
+            "incident_text": "Revanth Reddy released one DA to avoid legal action, not out of concern for employees.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-announced-just-one-da-for-state-government-employees-out-of-compulsion-bandi-sanjay/article70502363.ece",
+            "source_title": "CM announced just one DA for State government employees out of ‘compulsion’: Bandi Sanjay - The Hindu",
+            "scraped_at": "2026-01-12 11:04:52"
           }
         ],
         "criminal_cases_in_news": 8,
@@ -10818,6 +10824,16 @@
       "source_title": "Will firmly take up apple import duty concerns with Centre, says Himachal CM - The Hindu",
       "scraped_at": "2026-01-13 07:25:58",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "M.K. Stalin",
+      "promise_text": "that the Greater Chennai Corporation (GCC) has successfully cleared nearly 50 lakh metric tonnes of legacy waste through bio mining",
+      "source_url": "https://www.thehindu.com/news/national/tamil-nadu/50-lakh-mt-of-legacy-waste-cleared-through-bio-mining-in-chennai-cm-stalin/article70501121.ece",
+      "source_title": "50 lakh MT of legacy waste cleared through bio mining in Chennai: CM Stalin - The Hindu",
+      "scraped_at": "2026-01-12 11:05:24",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
