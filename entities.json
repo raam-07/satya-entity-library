@@ -8,7 +8,7 @@
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -10708,6 +10708,16 @@
       "source_title": "Centre to release first instalment of ₹260 cr to Telangana Gram Panchayats: Union Minister Kishan Reddy - The Hindu",
       "scraped_at": "2026-01-14 07:23:08",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "that civic polls would be held within the Supreme Court deadline and that the state government would provide necessary directions to the State Election Commission (SEC)",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/gba-elections-will-be-held-within-sc-deadline-dks/article70505114.ece",
+      "source_title": "GBA elections will be held within SC deadline: DKS - The Hindu",
+      "scraped_at": "2026-01-13 08:15:35",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
