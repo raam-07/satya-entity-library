@@ -8,8 +8,8 @@
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "new_promises": 2,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4430,6 +4430,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cm-announced-just-one-da-for-state-government-employees-out-of-compulsion-bandi-sanjay/article70502363.ece",
             "source_title": "CM announced just one DA for State government employees out of ‘compulsion’: Bandi Sanjay - The Hindu",
             "scraped_at": "2026-01-12 11:04:52"
+          },
+          {
+            "incident_text": "Revanth Reddy stated the previous government's district reorganization was unscientific.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-announces-commission-to-study-reorganisation-of-districts-and-mandals/article70501081.ece",
+            "source_title": "Telangana CM Revanth announces Commission to study reorganisation of districts and mandals - The Hindu",
+            "scraped_at": "2026-01-12 06:16:44"
           }
         ],
         "criminal_cases_in_news": 8,
@@ -10844,6 +10850,26 @@
       "source_title": "Target set to give four lakh govt. jobs to youth in Rajasthan, says CM - The Hindu",
       "scraped_at": "2026-01-12 10:04:11",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Revanth Reddy",
+      "promise_text": "the formation of a commission to review district reorganisation and rationalise existing ones",
+      "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-announces-commission-to-study-reorganisation-of-districts-and-mandals/article70501081.ece",
+      "source_title": "Telangana CM Revanth announces Commission to study reorganisation of districts and mandals - The Hindu",
+      "scraped_at": "2026-01-12 06:16:44",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Krishna Byre Gowda",
+      "promise_text": "that he is ready to face the fight in the upcoming election and has brought development works to the constituency during his tenure",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/congress-mla-invites-revanna-to-contest-for-assembly-from-arasikere-in-2028/article70501686.ece",
+      "source_title": "Congress MLA ‘invites’ Revanna to contest for Assembly from Arasikere in 2028 - The Hindu",
+      "scraped_at": "2026-01-12 09:28:01",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
