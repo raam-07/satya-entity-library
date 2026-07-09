@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 0
+      "criminal_updates": 1,
+      "new_promises": 2,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -101,9 +101,16 @@
             "source_title": "Parliament security breach case: police oppose bail to 3 - The Hindu",
             "scraped_at": "2026-02-02 20:48:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM degree defamation case: Gujarat HC dismisses Kejriwal, Sanjay Singh's pleas for separate trials - The Hindu The **Gujarat High Court** dismissed appeals by **Arvind Kejriwal** and **Sanjay Singh**,",
+            "source_url": "https://www.thehindu.com/news/national/gujarat/pm-degree-defamation-case-gujarat-hc-dismisses-kejriwal-sanjay-singhs-pleas-for-separate-trials/article70505005.ece",
+            "source_title": "PM degree defamation case: Gujarat HC dismisses Kejriwal, Sanjay Singh's pleas for separate trials - The Hindu",
+            "scraped_at": "2026-01-13 05:24:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-03",
+        "criminal_last_updated": "2026-07-09",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -756,6 +763,18 @@
             "source_url": "https://www.thehindu.com/news/national/anger-retaliation-vendetta-dominates-in-india-forgiveness-absent-gopalkrishna-gandhi/article70513497.ece",
             "source_title": "Anger, retaliation, vendetta dominates in India; forgiveness absent: Gopalkrishna Gandhi - The Hindu",
             "scraped_at": "2026-01-16 01:10:40"
+          },
+          {
+            "incident_text": "Amit Shah claimed Sanatan Dharma and culture are eternal and cannot be erased, citing the Somnath temple's resilience.",
+            "source_url": "https://www.thehindu.com/news/national/union-home-minister-amit-shah-in-gujarat-various-projects-sanatan-dharma-somnath-temple/article70504832.ece",
+            "source_title": "Not easy to erase Sanatan Dharma, culture: Amit Shah on Somnath temple rebuilding - The Hindu",
+            "scraped_at": "2026-01-13 05:01:23"
+          },
+          {
+            "incident_text": "Amit Shah stated that the Somnath temple's history of destruction and reconstruction reflects the resilience of India's Sanatana Dharma-rooted civilisational ethos.",
+            "source_url": "https://www.thehindu.com/news/national/gujarat/somnath-temples-rebuilding-reflects-resilience-of-sanatana-dharma-amit-shah/article70505048.ece",
+            "source_title": "Somnath temple’s rebuilding reflects resilience of Sanatana Dharma: Amit Shah - The Hindu",
+            "scraped_at": "2026-01-13 06:17:19"
           }
         ]
       },
@@ -3824,6 +3843,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/we-are-firmly-with-nda-no-question-of-ncp-reunification-praful-patel/article70506920.ece",
             "source_title": "We are firmly with NDA, no question of NCP reunification: Praful Patel - The Hindu",
             "scraped_at": "2026-01-13 13:55:30"
+          },
+          {
+            "incident_text": "Devendra Fadnavis argued that Adani brings employment to Maharashtra.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/i-oppose-growing-monopoly-of-adani-group-not-development-raj-thackeray/article70504731.ece",
+            "source_title": "I oppose growing monopoly of Adani group; not development: Raj Thackeray - The Hindu",
+            "scraped_at": "2026-01-13 04:59:31"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -10718,6 +10743,26 @@
       "source_title": "GBA elections will be held within SC deadline: DKS - The Hindu",
       "scraped_at": "2026-01-13 08:15:35",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sukhvinder Singh Sukhu",
+      "promise_text": "apple producers that he would raise the issue with the Finance and Commerce Ministers",
+      "source_url": "https://www.thehindu.com/news/national/will-firmly-take-up-apple-import-duty-concerns-with-centre-says-himachal-cm/article70505144.ece",
+      "source_title": "Will firmly take up apple import duty concerns with Centre, says Himachal CM - The Hindu",
+      "scraped_at": "2026-01-13 07:25:58",
+      "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Sukhvinder Singh Sukhu",
+      "promise_text": "apple growers that he would raise the issue with the Centre to address their concerns",
+      "source_url": "https://www.thehindu.com/news/national/will-firmly-take-up-apple-import-duty-concerns-with-centre-says-himachal-cm/article70505144.ece",
+      "source_title": "Will firmly take up apple import duty concerns with Centre, says Himachal CM - The Hindu",
+      "scraped_at": "2026-01-13 07:25:58",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
