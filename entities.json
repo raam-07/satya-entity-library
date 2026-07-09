@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
-      "new_promises": 1,
-      "gaffe_updates": 2
+      "criminal_updates": 1,
+      "new_promises": 0,
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3891,6 +3891,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/we-agreed-on-friendly-fights-but-ajit-pawars-restraint-appears-shaken-devendra-fadnavis/article70500301.ece",
             "source_title": "We agreed on friendly fights, but Ajit Pawar’s restraint appears shaken: Devendra Fadnavis - The Hindu",
             "scraped_at": "2026-01-12 01:13:41"
+          },
+          {
+            "incident_text": "Devendra Fadnavis used insulting language instead of addressing concerns about the Missing Link landslide.",
+            "source_url": "https://indianexpress.com/article/cities/pune/raj-thackeray-uddhav-sena-criticise-devendra-fadnavis-missing-link-landslide-speech-10779518/",
+            "source_title": "Missing Link row: Raj Thackeray, Uddhav Sena criticise CM Fadnavis’s remarks in House | Pune News - The Indian Express",
+            "scraped_at": "2026-07-09 18:03:25"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -6059,7 +6065,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 101,
+        "criminal_cases_in_news": 102,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6773,6 +6779,13 @@
             "source_url": "https://timesofindia.indiatimes.com/world/us/mississippi-synagogue-fire-19-year-old-stephen-spencer-pittman-identified-as-suspect-called-it-satans-building/articleshow/126492149.cms",
             "source_title": "Mississippi synagogue fire: 19-year-old Stephen Spencer Pittman identified as suspect, called it 'Satan's building' - The Times of India",
             "scraped_at": "2026-01-12 15:55:47",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Probe launched after ‘drone’ sighted over Kannur Central Jail in Kerala - The Hindu **Kannur Town Police** have registered a case after a complaint from the **Joint Superintendent of the Kannur Centra",
+            "source_url": "https://www.thehindu.com/news/national/kerala/probe-launched-after-drone-sighted-over-kannur-central-jail-in-kerala/article70500347.ece",
+            "source_title": "Probe launched after ‘drone’ sighted over Kannur Central Jail in Kerala - The Hindu",
+            "scraped_at": "2026-01-12 01:13:24",
             "incident_type": "broad"
           }
         ],
