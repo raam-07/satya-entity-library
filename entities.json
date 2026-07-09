@@ -7,8 +7,8 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 1,
-      "new_promises": 0,
+      "criminal_updates": 2,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -4492,7 +4492,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 10,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -4563,9 +4563,16 @@
             "source_title": "Why Bengal rape-murder is BJP government’s first big test | Political Pulse News - The Indian Express",
             "scraped_at": "2026-07-06 20:59:49",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu **Suvendu Adhikari**, leader of the West Bengal opposition, warned **Chief Minister Mamata Banerjee** that he would take leg",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/adhikari-warns-mamata-of-legal-action-over-coal-scam-allegation/article70508891.ece",
+            "source_title": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu",
+            "scraped_at": "2026-01-14 04:04:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-06",
+        "criminal_last_updated": "2026-07-09",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
@@ -5317,6 +5324,13 @@
             "source_title": "Suvendu warns West Bengal CM of legal action over coal scam remarks - The Hindu",
             "scraped_at": "2026-01-14 14:57:25",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu **Suvendu Adhikari**, leader of the West Bengal opposition, warned **Chief Minister Mamata Banerjee** that he would take leg",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/adhikari-warns-mamata-of-legal-action-over-coal-scam-allegation/article70508891.ece",
+            "source_title": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu",
+            "scraped_at": "2026-01-14 04:04:36",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5513,9 +5527,9 @@
             "scraped_at": "2026-01-15 07:24:11"
           }
         ],
-        "criminal_cases_in_news": 28,
+        "criminal_cases_in_news": 29,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-07-08"
+        "criminal_last_updated": "2026-07-09"
       },
       {
         "name": "Siddaramaiah",
@@ -10658,6 +10672,16 @@
       "source_title": "Committed to attracting 500 new global capability centres to create 3.5 lakh jobs, says Karnataka Chief Minister - The Hindu",
       "scraped_at": "2026-07-08 22:36:18",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "G. Kishan Reddy",
+      "promise_text": "that the remaining ₹2",
+      "source_url": "https://www.thehindu.com/news/national/telangana/centre-to-release-first-instalment-of-260-cr-to-telangana-gram-panchayats-union-minister-kishan-reddy/article70509405.ece",
+      "source_title": "Centre to release first instalment of ₹260 cr to Telangana Gram Panchayats: Union Minister Kishan Reddy - The Hindu",
+      "scraped_at": "2026-01-14 07:23:08",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
