@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-08",
+    "last_updated": "2026-07-09",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 1
+      "new_promises": 1,
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7683,7 +7683,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-08"
+        "cm_last_updated": "2026-07-09"
       },
       {
         "name": "Maharashtra",
@@ -7693,7 +7693,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-08"
+        "cm_last_updated": "2026-07-09"
       },
       {
         "name": "Manipur",
@@ -7743,9 +7743,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-08",
+        "party_last_updated": "2026-07-09",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-08"
+        "cm_last_updated": "2026-07-09"
       },
       {
         "name": "Rajasthan",
@@ -7773,7 +7773,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-08"
+        "party_last_updated": "2026-07-09"
       },
       {
         "name": "Telangana",
@@ -10633,6 +10633,16 @@
       "source_url": "https://indianexpress.com/article/cities/bangalore/bengaluru-infrastructure-projects-double-far-tier-2-tier-3-cities-10777847/",
       "source_title": "How Karnataka plans to tackle Bengaluru traffic with 40-km tunnels and 500-km metro lines | Bangalore News - The Indian Express",
       "scraped_at": "2026-07-08 21:16:19",
+      "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "D.K. Shivakumar",
+      "promise_text": "his government's commitment to attracting 500 new GCCs to the state",
+      "source_url": "https://www.thehindu.com/news/national/karnataka/committed-to-attracting-500-new-global-capability-centres-to-create-35-lakh-jobs-says-karnataka-chief-minister/article71198869.ece",
+      "source_title": "Committed to attracting 500 new global capability centres to create 3.5 lakh jobs, says Karnataka Chief Minister - The Hindu",
+      "scraped_at": "2026-07-08 22:36:18",
       "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
