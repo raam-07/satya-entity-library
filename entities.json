@@ -8,8 +8,8 @@
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
-      "new_promises": 0,
-      "gaffe_updates": 0
+      "new_promises": 1,
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3885,6 +3885,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/bjp-complains-to-eci-over-illegal-hoardings-put-up-by-ncp-other-parties-in-pune/article70504051.ece",
             "source_title": "BJP complains to ECI over 'illegal' hoardings put up by NCP, other parties in Pune - The Hindu",
             "scraped_at": "2026-01-13 00:00:42"
+          },
+          {
+            "incident_text": "Devendra Fadnavis claimed the BJP and NCP agreed to 'friendly' contests despite separate campaigns.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/we-agreed-on-friendly-fights-but-ajit-pawars-restraint-appears-shaken-devendra-fadnavis/article70500301.ece",
+            "source_title": "We agreed on friendly fights, but Ajit Pawar’s restraint appears shaken: Devendra Fadnavis - The Hindu",
+            "scraped_at": "2026-01-12 01:13:41"
           }
         ],
         "criminal_cases_in_news": 2,
@@ -6021,6 +6027,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/governor-chief-minister-row-an-electoral-theatrics-says-kc-venugopal/article70528940.ece",
             "source_title": "Governor-Chief Minister row an electoral theatrics, says K.C. Venugopal - The Hindu",
             "scraped_at": "2026-01-20 06:01:27"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan blamed the Central government for Kerala's financial crisis, admitting his government's failure.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-cms-criticism-of-centre-amounts-to-admission-of-ldfs-failure-says-state-bjp-chief-rajeev-chandrasekhar/article70500757.ece",
+            "source_title": "Kerala CM’s criticism of Centre amounts to admission of LDF’s failure, says State BJP chief Rajeev Chandrasekhar - The Hindu",
+            "scraped_at": "2026-01-12 04:06:31"
           }
         ]
       },
@@ -10870,6 +10882,16 @@
       "source_title": "Congress MLA ‘invites’ Revanna to contest for Assembly from Arasikere in 2028 - The Hindu",
       "scraped_at": "2026-01-12 09:28:01",
       "gemma_confidence": "medium",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that both parties had agreed to \"friendly\" contests despite fighting separately",
+      "source_url": "https://www.thehindu.com/news/national/maharashtra/we-agreed-on-friendly-fights-but-ajit-pawars-restraint-appears-shaken-devendra-fadnavis/article70500301.ece",
+      "source_title": "We agreed on friendly fights, but Ajit Pawar’s restraint appears shaken: Devendra Fadnavis - The Hindu",
+      "scraped_at": "2026-01-12 01:13:41",
+      "gemma_confidence": "high",
       "status": "pending_review",
       "verified": false
     }
