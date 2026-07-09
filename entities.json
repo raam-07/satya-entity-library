@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -585,6 +585,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/parasakthi-team-celebrates-pongal-with-prime-minister-modi-in-new-delhi/article70510288.ece",
             "source_title": "Parasakthi team celebrates Pongal with Prime Minister Modi in New Delhi - The Hindu",
             "scraped_at": "2026-01-14 10:25:33"
+          },
+          {
+            "incident_text": "Narendra Modi, the I&B Ministry's attempt to block 'Jana Nayagan' is an attack on Tamil culture.",
+            "source_url": "https://www.thehindu.com/news/national/attack-on-tamil-culture-rahul-gandhi-accuses-ib-ministry-of-blocking-jana-nayagan/article70504566.ece",
+            "source_title": "‘Attack on Tamil culture’: Rahul Gandhi accuses I&B Ministry of blocking Jana Nayagan - The Hindu",
+            "scraped_at": "2026-01-13 03:05:15"
           }
         ]
       },
@@ -1962,6 +1968,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala-literature-festival-shashi-tharoor-congress-disagreement/article70545643.ece",
             "source_title": "Never violated party line, unapologetic over Operation Sindhoor stance, says Shashi Tharoor - The Hindu",
             "scraped_at": "2026-01-24 03:04:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that the I&B Ministry's attempt to block 'Jana Nayagan' is an attack on Tamil culture.",
+            "source_url": "https://www.thehindu.com/news/national/attack-on-tamil-culture-rahul-gandhi-accuses-ib-ministry-of-blocking-jana-nayagan/article70504566.ece",
+            "source_title": "‘Attack on Tamil culture’: Rahul Gandhi accuses I&B Ministry of blocking Jana Nayagan - The Hindu",
+            "scraped_at": "2026-01-13 03:05:15"
           }
         ]
       },
