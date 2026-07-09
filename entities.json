@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -2242,6 +2242,12 @@
             "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
             "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
             "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that Siddaramaiah and Shivakumar will be called to Delhi for discussions when necessary regarding the leadership issue.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dk-shivakumar-will-be-called-to-delhi-when-necessary-says-kharge/article70502053.ece",
+            "source_title": "Siddaramaiah, D.K. Shivakumar will be called to Delhi ‘when necessary’, says Kharge - The Hindu",
+            "scraped_at": "2026-01-12 15:01:59"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -3529,6 +3535,18 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-takes-a-dig-at-karnataka-deputy-chief-minister-for-skipping-wef/article70522800.ece",
             "source_title": "BJP takes a dig at Karnataka Deputy Chief Minister for skipping WEF - The Hindu",
             "scraped_at": "2026-01-18 11:51:46"
+          },
+          {
+            "incident_text": "D.K. Shivakumar is pushing for elevation based on a power rotation agreement.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dk-shivakumar-will-be-called-to-delhi-when-necessary-says-kharge/article70502053.ece",
+            "source_title": "Siddaramaiah, D.K. Shivakumar will be called to Delhi ‘when necessary’, says Kharge - The Hindu",
+            "scraped_at": "2026-01-12 15:01:59"
+          },
+          {
+            "incident_text": "D.K. Shivakumar stated that fake news is causing societal problems, including law and order disturbances.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-to-take-steps-to-stop-fake-news/article71201786.ece",
+            "source_title": "Karnataka government to take steps to stop fake news - The Hindu",
+            "scraped_at": "2026-07-09 12:18:03"
           }
         ]
       },
@@ -4769,6 +4787,12 @@
             "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-omar-abdullah-session/article71064526.ece",
             "source_title": "Abrogation of Article 370 was the biggest policy mistake by the government: Omar Abdullah - The Hindu",
             "scraped_at": "2026-06-17 07:37:36"
+          },
+          {
+            "incident_text": "Omar Abdullah stated that regional balance concerns were absent when IITs and IIMs were established in Jammu.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-rebuffs-bjp-demand-to-set-up-national-law-university-in-jammu-instead-of-kashmir/article70502190.ece",
+            "source_title": "Omar Abdullah rebuffs BJP demand to set up National Law University in Jammu instead of Kashmir - The Hindu",
+            "scraped_at": "2026-01-12 16:16:22"
           }
         ]
       },
@@ -6011,7 +6035,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 100,
+        "criminal_cases_in_news": 101,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6718,6 +6742,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/rape-case-police-to-examine-kerala-mla-rahul-mamkootathils-phones-for-evidence-after-he-declines-to-share-passwords/article70508179.ece",
             "source_title": "Rape case: Police to examine Kerala MLA Rahul Mamkootathil’s phones for evidence after he declines to share passwords - The Hindu",
             "scraped_at": "2026-01-14 00:23:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mississippi synagogue fire: 19-year-old Stephen Spencer Pittman identified as suspect, called it 'Satan's building' - The Times of India **Stephen Spencer Pittman**, a 19-year-old from Madison, Missis",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/mississippi-synagogue-fire-19-year-old-stephen-spencer-pittman-identified-as-suspect-called-it-satans-building/articleshow/126492149.cms",
+            "source_title": "Mississippi synagogue fire: 19-year-old Stephen Spencer Pittman identified as suspect, called it 'Satan's building' - The Times of India",
+            "scraped_at": "2026-01-12 15:55:47",
             "incident_type": "broad"
           }
         ],
