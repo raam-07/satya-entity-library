@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 5,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2115,6 +2115,13 @@
             "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
             "scraped_at": "2026-03-16 18:57:35.364172",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu **Congress** members demanded a time-bound and independent investigation by the **CBI** into the Ankita Bhandari murder, cal",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/congress-seeks-time-bound-cbi-probe-into-ankita-bhandari-murder/article70495171.ece",
+            "source_title": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu",
+            "scraped_at": "2026-01-10 10:17:11",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2257,8 +2264,8 @@
             "scraped_at": "2026-01-12 15:01:59"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-07-10"
       },
       {
         "name": "Arvind Kejriwal",
@@ -2610,6 +2617,13 @@
             "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
             "scraped_at": "2026-01-16 03:05:17",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC scam case: Delhi HC asks CBI to reply to Tejashwi Yadav’s plea against charge framing order - The Hindu The **Delhi High Court** issued a notice to the **CBI** regarding a plea by RJD leader **T",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-cbi-tejashwi-yadav/article70476945.ece",
+            "source_title": "IRCTC scam case: Delhi HC asks CBI to reply to Tejashwi Yadav’s plea against charge framing order - The Hindu",
+            "scraped_at": "2026-01-06 02:01:05",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2632,8 +2646,8 @@
             "scraped_at": "2026-06-20 23:14:35"
           }
         ],
-        "criminal_cases_in_news": 4,
-        "criminal_last_updated": "2026-07-08"
+        "criminal_cases_in_news": 5,
+        "criminal_last_updated": "2026-07-10"
       },
       {
         "name": "Tejashwi Yadav",
@@ -4580,15 +4594,24 @@
         "state": "Uttarakhand",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
         "image_placeholder": "pushkar_singh_dhami",
         "auto_added": true,
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
+        "criminal_incidents": [
+          {
+            "incident_text": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu **Congress** members demanded a time-bound and independent investigation by the **CBI** into the Ankita Bhandari murder, cal",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/congress-seeks-time-bound-cbi-probe-into-ankita-bhandari-murder/article70495171.ece",
+            "source_title": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu",
+            "scraped_at": "2026-01-10 10:17:11",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [],
+        "criminal_last_updated": "2026-07-10"
       },
       {
         "name": "Suvendu Adhikari",
@@ -6072,7 +6095,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 114,
+        "criminal_cases_in_news": 115,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6878,6 +6901,13 @@
             "source_title": "FIR filed to identify 'VIPs' in Ankita Bhandari murder case - The Hindu",
             "scraped_at": "2026-01-10 23:22:49",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "11 arrested in two cases, 4.4 kg of ganja seized in Guntur - The Hindu **Guntur district police** arrested 11 individuals in two separate ganja cases, seizing a total of 4.4 kilograms of contraband. T",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/11-arrested-in-two-cases-44-kg-of-ganja-seized-in-guntur/article70494415.ece",
+            "source_title": "11 arrested in two cases, 4.4 kg of ganja seized in Guntur - The Hindu",
+            "scraped_at": "2026-01-10 09:17:07",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-10",
