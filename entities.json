@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 138,
+        "criminal_cases_in_news": 142,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7096,6 +7096,34 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/two-karnataka-men-arrested-stolen-property-worth-70-lakh-recovered/article70443374.ece",
             "source_title": "Two Karnataka men arrested, stolen property worth ₹70 lakh recovered - The Hindu",
             "scraped_at": "2025-12-27 08:19:51",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CEO among three held for gang rape of woman IT firm manager in Udaipur - The Hindu **Jitesh Sisodia**, CEO of a private IT company, and two other individuals have been arrested in Udaipur, Rajasthan f",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/ceo-among-three-held-for-gang-rape-of-woman-it-firm-manager-in-udaipur/article70438992.ece",
+            "source_title": "CEO among three held for gang rape of woman IT firm manager in Udaipur - The Hindu",
+            "scraped_at": "2025-12-26 01:06:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two killed as BJP youth wing leader crashes car into people in Morena district in Madhya Pradesh - The Hindu **Dipendra Bhadoria**, a leader of the **Bharatiya Janata Yuva Morcha (BJYM)**, was driving",
+            "source_url": "https://www.thehindu.com/news/national/two-killed-as-bjp-youth-wing-leader-crashes-car-into-people-in-morena-district-in-madhya-pradesh/article70444425.ece",
+            "source_title": "Two killed as BJP youth wing leader crashes car into people in Morena district in Madhya Pradesh - The Hindu",
+            "scraped_at": "2025-12-27 13:24:46",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Main accused in police recruitment scam booked for misconduct in jail - The Hindu **Rudragowda Patil**, the main accused in the Police Sub-Inspector recruitment scam, was booked again for creating dis",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/main-accused-in-police-recruitment-scam-booked-for-misconduct-in-jail/article70446382.ece",
+            "source_title": "Main accused in police recruitment scam booked for misconduct in jail - The Hindu",
+            "scraped_at": "2025-12-28 08:25:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Navi Mumbai police bust illegal overseas recruitment agency; seven booked - The Hindu The **Navi Mumbai police** have arrested seven individuals associated with the illegal recruitment agency \"Goodwil",
+            "source_url": "https://www.thehindu.com/news/cities/mumbai/navi-mumbai-police-bust-illegal-overseas-recruitment-agency-seven-booked/article70448817.ece",
+            "source_title": "Navi Mumbai police bust illegal overseas recruitment agency; seven booked - The Hindu",
+            "scraped_at": "2025-12-29 03:06:42",
             "incident_type": "broad"
           }
         ],
