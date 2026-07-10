@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 5,
+      "criminal_updates": 3,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 10,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -108,9 +108,16 @@
             "source_title": "PM degree defamation case: Gujarat HC dismisses Kejriwal, Sanjay Singh's pleas for separate trials - The Hindu",
             "scraped_at": "2026-01-13 05:24:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man arrested in Bihar's Muzaffarpur for circulating AI-generated fake videos of PM, President - The Hindu **Pramod Kumar Raj**, a resident of Bihar's Muzaffarpur district, was arrested on Friday for a",
+            "source_url": "https://www.thehindu.com/news/national/bihar/man-arrested-in-bihars-muzaffarpur-for-circulating-ai-generated-fake-videos-of-pm-president/article70466445.ece",
+            "source_title": "Man arrested in Bihar's Muzaffarpur for circulating AI-generated fake videos of PM, President - The Hindu",
+            "scraped_at": "2026-01-02 21:55:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-09",
+        "criminal_last_updated": "2026-07-10",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -2670,11 +2677,25 @@
             "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
             "scraped_at": "2026-01-16 03:05:17",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC ‘scam’ case: Delhi HC to hear Lalu Prasad’s petition against framing charges on Jan. 5 - The Hindu The **Delhi High Court** is scheduled to hear on January 5, 2026, a petition filed by RJD leade",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-to-hear-lalu-prasads-petition-against-framing-charges-on-jan-5/article70470243.ece",
+            "source_title": "IRCTC ‘scam’ case: Delhi HC to hear Lalu Prasad’s petition against framing charges on Jan. 5 - The Hindu",
+            "scraped_at": "2026-01-04 01:55:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu The **Delhi High Court** sought a response from the **CBI** on a plea by RJD leader Lalu Prasad Yadav chall",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-asks-cbi-to-reply-to-lalu-prasads-plea-against-charge-framing-order/article70473137.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
+            "scraped_at": "2026-01-05 02:04:04",
+            "incident_type": "broad"
           }
         ],
         "controversies": [],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-07-08"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-07-10"
       },
       {
         "name": "Thol. Thirumavalavan",
@@ -6095,7 +6116,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 115,
+        "criminal_cases_in_news": 125,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6908,6 +6929,76 @@
             "source_title": "11 arrested in two cases, 4.4 kg of ganja seized in Guntur - The Hindu",
             "scraped_at": "2026-01-10 09:17:07",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two held for raping children of tribal labourers in Maharashtra - The Hindu **Maharashtra** police arrested two men, Ganesh Rajebhau Ghatul and Ashok Bhaskar Pawar, for allegedly raping two minor girl",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/two-held-for-raping-children-of-tribal-labourers-in-maharashtra/article70465105.ece",
+            "source_title": "Two held for raping children of tribal labourers in Maharashtra - The Hindu",
+            "scraped_at": "2026-01-02 13:06:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man dies after shooting in Melbourne’s inner north | Melbourne | The Guardian **Homicide detectives** are investigating the death of a man who was shot in Fitzroy, Melbourne. The incident occurred at ",
+            "source_url": "https://www.theguardian.com/australia-news/2026/jan/03/man-dies-after-shooting-in-melbournes-inner-north-ntwnfb",
+            "source_title": "Man dies after shooting in Melbourne’s inner north | Melbourne | The Guardian",
+            "scraped_at": "2026-01-02 17:52:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mob attacks police for arresting TMC worker in Bengal's Sandeshkhali, six cops injured - The Hindu Six **police officers** were injured in a mob attack after they arrested a **TMC activist**, **Musa M",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mob-attacks-police-for-arresting-tmc-worker-in-bengals-sandeshkhali-six-cops-injured/article70467003.ece",
+            "source_title": "Mob attacks police for arresting TMC worker in Bengal's Sandeshkhali, six cops injured - The Hindu",
+            "scraped_at": "2026-01-03 04:14:58",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Inter-State ATM diversion gang arrested in Hyderabad, cash and cards recovered - The Hindu **Four men**, including Aamir Suhel, Mustakeem, Mubarik, and Md Amer, were arrested in Hyderabad for allegedl",
+            "source_url": "https://www.thehindu.com/news/national/telangana/inter-state-atm-diversion-gang-arrested-in-hyderabad-cash-and-cards-recovered/article70467619.ece",
+            "source_title": "Inter-State ATM diversion gang arrested in Hyderabad, cash and cards recovered - The Hindu",
+            "scraped_at": "2026-01-03 08:04:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Swiss prosecutors place bar managers under investigation after deadly fire | Crans-Montana fire | The Guardian **Swiss** prosecutors have opened a criminal investigation into the managers of **Le Cons",
+            "source_url": "https://www.theguardian.com/world/2026/jan/03/swiss-prosecutors-place-bar-managers-investigation-deadly-fire",
+            "source_title": "Swiss prosecutors place bar managers under investigation after deadly fire | Crans-Montana fire | The Guardian",
+            "scraped_at": "2026-01-03 09:52:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "DGP Ramachandra Rao visits Inam Honnapur village - The Hindu **K. Ramachandra Rao**, Director General of Police (DGP) of the **Directorate of Civil Rights Enforcement**, stated that a chargesheet woul",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dgp-ramachandra-rao-visits-inam-honnapur-village/article70467642.ece",
+            "source_title": "DGP Ramachandra Rao visits Inam Honnapur village - The Hindu",
+            "scraped_at": "2026-01-03 09:55:34",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Quack arrested after girl’s death in Kumram Bheem Asifabad district - The Hindu **Kagaznagar** rural police arrested **Bikshapathi**, a 44-year-old unqualified medical practitioner, for allegedly admi",
+            "source_url": "https://www.thehindu.com/news/national/telangana/quack-arrested-after-girls-death-in-kumram-bheem-asifabad-district/article70468426.ece",
+            "source_title": "Quack arrested after girl’s death in Kumram Bheem Asifabad district - The Hindu",
+            "scraped_at": "2026-01-03 11:01:27",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Barber held for playing 'anti-national' songs at his shop in Palghar district - The Hindu **Abdul Rehman Shah**, a 25-year-old barber from Azamgarh, Uttar Pradesh, was arrested by the **MBVV Police** ",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/barber-held-for-playing-anti-national-songs-at-his-shop-in-palghar-district/article70468240.ece",
+            "source_title": "Barber held for playing 'anti-national' songs at his shop in Palghar district - The Hindu",
+            "scraped_at": "2026-01-03 12:14:15",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Lab technician held for death of welder in Tirupattur - The Hindu **K. Parthiban**, a 35-year-old former laboratory technician, was arrested for the death of **S. Sakthivel**, a 34-year-old welder, wh",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/lab-technician-held-for-death-of-welder-in-tirupattur/article70467849.ece",
+            "source_title": "Lab technician held for death of welder in Tirupattur - The Hindu",
+            "scraped_at": "2026-01-03 12:15:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three-year jail term for Kerala MLA Antony Raju in tampering with evidence case - The Hindu A **Kerala** court sentenced former transport minister Antony Raju to three years' imprisonment for tamperin",
+            "source_url": "https://www.thehindu.com/news/national/kerala/three-year-jail-term-for-kerala-mla-antony-raju-in-tampering-with-evidence-case/article70467570.ece",
+            "source_title": "Three-year jail term for Kerala MLA Antony Raju in tampering with evidence case - The Hindu",
+            "scraped_at": "2026-01-03 12:16:09",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-07-10",
