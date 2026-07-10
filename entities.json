@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 127,
+        "criminal_cases_in_news": 130,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7019,6 +7019,27 @@
             "source_url": "https://www.thehindu.com/news/national/rajasthan/neemrana-hotel-firing-case-nia-charge-sheet-against-khalistani-terrorist-main-shooters/article70470559.ece",
             "source_title": "Neemrana hotel firing case: NIA charges main shooters in Khalistani-terrorist linked attack - The Hindu",
             "scraped_at": "2026-01-04 05:50:30",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman charged with murder over fatal Melbourne house fire | Melbourne | The Guardian A 29-year-old woman has been charged with murder and attempted murder following a fatal house fire in Clyde North, ",
+            "source_url": "https://www.theguardian.com/australia-news/2026/jan/02/woman-charged-over-fatal-melbourne-house-fire-ntwnfb",
+            "source_title": "Woman charged with murder over fatal Melbourne house fire | Melbourne | The Guardian",
+            "scraped_at": "2026-01-02 03:58:00",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Evidence tampering case: Kerala MLA and former Minister Antony Raju found guilty - The Hindu A **Judicial First Class Magistrate Court** in Nedumangadu, Kerala found former **Kerala Transport Minister",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-mla-and-former-minister-antony-raju-found-guilty-in-evidence-tampering-case/article70466685.ece",
+            "source_title": "Evidence tampering case: Kerala MLA and former Minister Antony Raju found guilty - The Hindu",
+            "scraped_at": "2026-01-03 01:55:10",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Forest official among two arrested by ACB in ₹3.51 lakh bribe case in Kothagudem - The Hindu **Thadi Rajender**, Plantation Manager, and **Chennam Gopala Krishna**, a private person, were arrested by ",
+            "source_url": "https://www.thehindu.com/news/national/telangana/forest-official-among-two-arrested-by-acb-in-351-lakh-bribe-case-in-kothagudem/article70467925.ece",
+            "source_title": "Forest official among two arrested by ACB in ₹3.51 lakh bribe case in Kothagudem - The Hindu",
+            "scraped_at": "2026-01-03 09:56:37",
             "incident_type": "broad"
           }
         ],
