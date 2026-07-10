@@ -4657,7 +4657,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 11,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -4735,9 +4735,16 @@
             "source_title": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu",
             "scraped_at": "2026-01-14 04:04:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu The **Calcutta High Court** will hear three public interest litigation (PIL) petitions seeking investigations by C",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-to-hear-pils-on-violence-at-messi-event-five-spectators-held/article70399688.ece",
+            "source_title": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu",
+            "scraped_at": "2025-12-15 12:00:44",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-09",
+        "criminal_last_updated": "2026-07-10",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
@@ -6132,7 +6139,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 152,
+        "criminal_cases_in_news": 162,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7203,6 +7210,76 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/singapore-tourist-held-for-filming-inside-padmanabhaswamy-temple-using-camera-fitted-glasses/article70420537.ece",
             "source_title": "Singapore tourist held for filming inside Padmanabhaswamy temple using camera-fitted glasses - The Hindu",
             "scraped_at": "2025-12-20 12:13:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Indian-origin millionaire arrested in US; Vikram Beri tried setting California winery on fire; crashed Tesla into two cars - The Times of India **Beri Vikram**, 42, an Indian-origin entrepreneur and f",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/indian-origin-millionaire-arrested-in-us-vikram-beri-tried-setting-california-winery-on-fire-crashed-tesla-into-two-cars/articleshow/125943450.cms",
+            "source_title": "Indian-origin millionaire arrested in US; Vikram Beri tried setting California winery on fire; crashed Tesla into two cars - The Times of India",
+            "scraped_at": "2025-12-12 23:07:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man held for selling adulterated ghee in Secunderabad - The Hindu **Acting on credible information**, **the Commissioner’s Task Force (North Zone)** and Market police apprehended a man, Annamali Saina",
+            "source_url": "https://www.thehindu.com/news/national/telangana/man-held-for-selling-adulterated-ghee-in-secunderabad/article70392487.ece",
+            "source_title": "Man held for selling adulterated ghee in Secunderabad - The Hindu",
+            "scraped_at": "2025-12-13 09:14:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Five arrested with ₹70 lakh worth hash oil and ganja in Hyderabad - The Hindu **Hyderabad Narcotics Enforcement Wing (H-NEW)** and **Langar Houz police** arrested five individuals in connection with a",
+            "source_url": "https://www.thehindu.com/news/national/telangana/five-arrested-with-70-lakh-worth-hash-oil-and-ganja-in-hyderabad/article70392438.ece",
+            "source_title": "Five arrested with ₹70 lakh worth hash oil and ganja in Hyderabad - The Hindu",
+            "scraped_at": "2025-12-13 09:17:58",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "SC saves Karate teacher from arrest in POCSO case filed by former student - The Hindu The **Supreme Court** granted protection from arrest to a 46-year-old karate instructor in a case filed under the ",
+            "source_url": "https://www.thehindu.com/news/national/sc-saves-karate-teacher-from-arrest-in-pocso-case-filed-by-former-student/article70393291.ece",
+            "source_title": "SC saves Karate teacher from arrest in POCSO case filed by former student - The Hindu",
+            "scraped_at": "2025-12-13 11:23:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "J&K court issues proclamation notice against brother of arrested Kashmir doctor in terror case - The Hindu A **Srinagar** court issued a proclamation notice against Dr. Muzaffar Ahmad Rather, brother ",
+            "source_url": "https://www.thehindu.com/news/national/jk-court-issues-proclamation-notice-against-brother-of-arrested-kashmir-doctor-in-terror-case/article70392925.ece",
+            "source_title": "J&K court issues proclamation notice against brother of arrested Kashmir doctor in terror case - The Hindu",
+            "scraped_at": "2025-12-13 13:00:27",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Brown University shooting: Manhunt continues after two killed and nine injured A mass shooting at **Brown University** in Providence, Rhode Island left two students dead and nine others injured. The g",
+            "source_url": "https://www.bbc.com/news/articles/cre329w709qo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Brown University shooting: Manhunt continues after two killed and nine injured",
+            "scraped_at": "2025-12-14 01:51:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sivaganga man booked under Passport Act - The Hindu A 65-year-old man from Sivaganga district was arrested for forgery and passport violations. **Airport Immigration officials** discovered inconsisten",
+            "source_url": "https://www.thehindu.com/news/cities/Madurai/sivaganga-man-booked-under-passport-act/article70395015.ece",
+            "source_title": "Sivaganga man booked under Passport Act - The Hindu",
+            "scraped_at": "2025-12-14 06:11:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Brown University shooting: Did ‘person of interest’ Benjamin Erickson serve in the army? Here’s what you need to know - The Times of India A 24-year-old man, **Benjamin Erickson**, was arrested in Rho",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/brown-university-shooting-did-person-of-interest-benjamin-erickson-serve-in-the-army-heres-what-you-need-to-know/articleshow/125968466.cms",
+            "source_title": "Brown University shooting: Did ‘person of interest’ Benjamin Erickson serve in the army? Here’s what you need to know - The Times of India",
+            "scraped_at": "2025-12-14 22:15:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Brown University shooting: Second victim identified as Uzbek national MuhammadAziz Umurzakov, JD Vance reacts - The Times of India **MuhammadAziz Umurzakov**, a student aspiring to become a surgeon, h",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/brown-university-shooting-second-victim-identified-as-uzbek-national-muhammadaziz-umurzakov-jd-vance-reacts/articleshow/125988780.cms",
+            "source_title": "Brown University shooting: Second victim identified as Uzbek national MuhammadAziz Umurzakov, JD Vance reacts - The Times of India",
+            "scraped_at": "2025-12-15 14:15:15",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rob Reiner’s son Nick arrested on suspicion of homicide; source says father and son argued at party before deaths - The Times of India **Rob Reiner** and his wife, **Michele Singer Reiner**, were foun",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/rob-reiners-son-nick-arrested-on-suspicion-of-homicide-source-says-father-and-son-argued-at-party-before-deaths/articleshow/125986770.cms",
+            "source_title": "Rob Reiner’s son Nick arrested on suspicion of homicide; source says father and son argued at party before deaths - The Times of India",
+            "scraped_at": "2025-12-15 14:15:58",
             "incident_type": "broad"
           }
         ],
