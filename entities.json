@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1033,7 +1033,15 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Piyush_Goyal",
         "known_promises": [],
         "image_placeholder": "piyush_goyal",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Couple detained as video of differently abled boy being beaten goes viral - The Hindu **Bagalkot Police** have detained a couple, Akshay and Anandi, who run the **Divya Jyoti School for Differently Ab",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/couple-detained-as-video-of-differently-abled-boy-being-beaten-goes-viral/article70420524.ece",
+            "source_title": "Couple detained as video of differently abled boy being beaten goes viral - The Hindu",
+            "scraped_at": "2025-12-21 08:02:24",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Piyush Goyal stated that any future trade deal would be mutually beneficial, reciprocal, and equitable.",
@@ -1066,7 +1074,8 @@
             "scraped_at": "2026-01-21 02:26:52"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-07-10"
       },
       {
         "name": "Dharmendra Pradhan",
