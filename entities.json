@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 133,
+        "criminal_cases_in_news": 135,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7061,6 +7061,20 @@
             "source_url": "https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss",
             "source_title": "Suriname: Nine people, including five children, stabbed to death",
             "scraped_at": "2025-12-28 14:10:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Unnao rape case: Police detain Congress leader, activists protesting near Parliament - The Hindu **Delhi Police** detained activist Yogita Bhayana, Congress leader Mumtaz Patel, and several other prot",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/unnao-rape-case-police-detain-congress-leader-activists-protesting-near-parliament/article70443570.ece",
+            "source_title": "Unnao rape case: Police detain Congress leader, activists protesting near Parliament - The Hindu",
+            "scraped_at": "2025-12-27 08:21:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Gangster dies of gunshot wounds in Uttarakhand; family alleges police connivance to grab property - The Hindu **Vinay Tyagi**, a notorious gangster, died from bullet wounds on Saturday, December 27, 2",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/gangster-dies-of-gunshot-wounds-in-uttarakhand-family-alleges-police-connivance-to-grab-property/article70445462.ece",
+            "source_title": "Gangster dies of gunshot wounds in Uttarakhand; family alleges police connivance to grab property - The Hindu",
+            "scraped_at": "2025-12-27 20:28:33",
             "incident_type": "broad"
           }
         ],
