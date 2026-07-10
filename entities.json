@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2691,10 +2691,17 @@
             "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
             "scraped_at": "2026-01-05 02:04:04",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu The **Delhi High Court** sought a response from the **CBI** on a plea by RJD leader Lalu Prasad Yadav chall",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-seeks-cbis-response-to-reply-to-lalu-prasads-plea/article70473137.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
+            "scraped_at": "2026-01-05 02:24:29",
+            "incident_type": "broad"
           }
         ],
         "controversies": [],
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 4,
         "criminal_last_updated": "2026-07-10"
       },
       {
@@ -6116,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 125,
+        "criminal_cases_in_news": 127,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6999,6 +7006,20 @@
             "source_title": "Three-year jail term for Kerala MLA Antony Raju in tampering with evidence case - The Hindu",
             "scraped_at": "2026-01-03 12:16:09",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Two Maoists gunned down in encounter with security forces in Chhattisgarh - The Hindu Two **Maoist** members were killed in a gun battle with **Chhattisgarh police** personnel in Bijapur district on S",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/maoists-gunned-down-in-encounter-with-security-forces-in-chhattisgarh/article70466599.ece",
+            "source_title": "Two Maoists gunned down in encounter with security forces in Chhattisgarh - The Hindu",
+            "scraped_at": "2026-01-03 00:18:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Neemrana hotel firing case: NIA charges main shooters in Khalistani-terrorist linked attack - The Hindu **The National Investigation Agency (NIA)** filed a charge sheet against two shooters, Puneet an",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/neemrana-hotel-firing-case-nia-charge-sheet-against-khalistani-terrorist-main-shooters/article70470559.ece",
+            "source_title": "Neemrana hotel firing case: NIA charges main shooters in Khalistani-terrorist linked attack - The Hindu",
+            "scraped_at": "2026-01-04 05:50:30",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-10",
