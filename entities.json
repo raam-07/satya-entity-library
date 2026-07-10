@@ -6132,7 +6132,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 149,
+        "criminal_cases_in_news": 152,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7182,6 +7182,27 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-police-warn-against-drawing-a-parallel-between-bangladesh-murder-and-murshidabad-lynching/article70423534.ece",
             "source_title": "Bengal police warn against drawing a parallel between Bangladesh murder and Murshidabad lynching - The Hindu",
             "scraped_at": "2025-12-21 11:50:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'This individual definitely targeted Brown University': Police release new footage and suspect details — here’s what we know - The Times of India The **Providence Police Department** released surveill",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/this-individual-definitely-targeted-brown-university-police-release-new-footage-and-suspect-details-heres-what-we-know/articleshow/125992848.cms",
+            "source_title": "'This individual definitely targeted Brown University': Police release new footage and suspect details — here’s what we know - The Times of India",
+            "scraped_at": "2025-12-15 21:58:59",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Goa nightclub fire: Police initiate process for Blue Corner Notice against Khosla who fled to U.K. - The Hindu **Goa Police** are seeking to issue a **Blue Corner Notice** against British national Sur",
+            "source_url": "https://www.thehindu.com/news/national/goa/goa-nightclub-fire-police-initiate-process-for-blue-corner-notice-against-khosla-who-fled-to-uk/article70418874.ece",
+            "source_title": "Goa nightclub fire: Police initiate process for Blue Corner Notice against Khosla who fled to U.K. - The Hindu",
+            "scraped_at": "2025-12-20 01:53:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Singapore tourist held for filming inside Padmanabhaswamy temple using camera-fitted glasses - The Hindu A **Singaporean** tourist, Thiruneepanar, was arrested for allegedly recording videos inside th",
+            "source_url": "https://www.thehindu.com/news/national/kerala/singapore-tourist-held-for-filming-inside-padmanabhaswamy-temple-using-camera-fitted-glasses/article70420537.ece",
+            "source_title": "Singapore tourist held for filming inside Padmanabhaswamy temple using camera-fitted glasses - The Hindu",
+            "scraped_at": "2025-12-20 12:13:14",
             "incident_type": "broad"
           }
         ],
