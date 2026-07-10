@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 142,
+        "criminal_cases_in_news": 147,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7124,6 +7124,41 @@
             "source_url": "https://www.thehindu.com/news/cities/mumbai/navi-mumbai-police-bust-illegal-overseas-recruitment-agency-seven-booked/article70448817.ece",
             "source_title": "Navi Mumbai police bust illegal overseas recruitment agency; seven booked - The Hindu",
             "scraped_at": "2025-12-29 03:06:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Meat shop owner in U.P. attacked on suspicion of carrying beef - The Hindu **Two** individuals were arrested in Aligarh, Uttar Pradesh on Sunday (December 21, 2025) following an attack on a meat shop ",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uproar-over-attack-on-meat-shop-owner-in-ups-aligarh/article70423259.ece",
+            "source_title": "Meat shop owner in U.P. attacked on suspicion of carrying beef - The Hindu",
+            "scraped_at": "2025-12-21 11:18:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Indian woman murdered in Toronto: Suspect identified, image released; what we know about Himanshi Khurana case - The Times of India **Toronto police** have launched a manhunt for **Abdul Ghafoori**, 3",
+            "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-woman-murdered-in-toronto-suspect-identified-image-released-what-we-know-about-himanshi-khurana-case/articleshow/126155431.cms",
+            "source_title": "Indian woman murdered in Toronto: Suspect identified, image released; what we know about Himanshi Khurana case - The Times of India",
+            "scraped_at": "2025-12-24 04:17:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Defamatory post: Congress leader in police custody - The Hindu **N. Subramanian**, a senior Congress leader, was arrested by **Chevayur police** on Saturday for sharing an AI-generated photograph of K",
+            "source_url": "https://www.thehindu.com/news/cities/kozhikode/defamatory-post-congress-leader-in-police-custody/article70442631.ece",
+            "source_title": "Defamatory post: Congress leader in police custody - The Hindu",
+            "scraped_at": "2025-12-27 01:07:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Zero FIR filed, Bengal Police team sent to Odisha: Mamata on death of migrant worker - The Hindu **Mamata Banerjee**, Chief Minister of West Bengal, condemned the alleged killing of a 30-year-old migr",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/zero-fir-filed-bengal-police-team-sent-to-odisha-mamata-on-death-of-migrant-worker/article70443211.ece",
+            "source_title": "Zero FIR filed, Bengal Police team sent to Odisha: Mamata on death of migrant worker - The Hindu",
+            "scraped_at": "2025-12-27 07:15:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "WCC slams Kerala government over molestation case against filmmaker Kunhi Muhammed - The Hindu The **Women in Cinema Collective (WCC)**, a group of women professionals in the Malayalam film industry, ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/wcc-slams-kerala-government-over-molestation-case-against-filmmaker-kunhi-muhammed/article70444413.ece",
+            "source_title": "WCC slams Kerala government over molestation case against filmmaker Kunhi Muhammed - The Hindu",
+            "scraped_at": "2025-12-28 04:54:55",
             "incident_type": "broad"
           }
         ],
