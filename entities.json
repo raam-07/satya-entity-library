@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 135,
+        "criminal_cases_in_news": 136,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7075,6 +7075,13 @@
             "source_url": "https://www.thehindu.com/news/national/uttarakhand/gangster-dies-of-gunshot-wounds-in-uttarakhand-family-alleges-police-connivance-to-grab-property/article70445462.ece",
             "source_title": "Gangster dies of gunshot wounds in Uttarakhand; family alleges police connivance to grab property - The Hindu",
             "scraped_at": "2025-12-27 20:28:33",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three arrested for harassing woman scooterist - The Hindu **Sudduguntepalya police** arrested three young men for harassing a woman on her scooter in BTM Layout. The incident, captured on video and sh",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/three-arrested-for-harassing-woman-scooterist/article70443372.ece",
+            "source_title": "Three arrested for harassing woman scooterist - The Hindu",
+            "scraped_at": "2025-12-27 09:17:14",
             "incident_type": "broad"
           }
         ],
