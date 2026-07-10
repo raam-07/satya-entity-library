@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 130,
+        "criminal_cases_in_news": 133,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7040,6 +7040,27 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/forest-official-among-two-arrested-by-acb-in-351-lakh-bribe-case-in-kothagudem/article70467925.ece",
             "source_title": "Forest official among two arrested by ACB in ₹3.51 lakh bribe case in Kothagudem - The Hindu",
             "scraped_at": "2026-01-03 09:56:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two arrested, arms and ammunition seized in Manipur - The Hindu **Police** in Manipur's Imphal East district arrested two individuals, Rebanta Kshetrimayum and Aribam Gunindro Sharma, on Saturday (Dec",
+            "source_url": "https://www.thehindu.com/news/national/manipur/two-arrested-arms-and-ammunition-seized-in-manipur/article70445637.ece",
+            "source_title": "Two arrested, arms and ammunition seized in Manipur - The Hindu",
+            "scraped_at": "2025-12-28 01:07:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sigachi Industries’ CEO arrested six months after blast which killed over 50 - The Hindu **Sigachi Industries Limited** Chief Executive Officer Amit Raj Sinha was arrested by the **BDL-Bhanur police**",
+            "source_url": "https://www.thehindu.com/news/national/telangana/sigachi-industries-ceo-arrested-six-months-after-blast-which-killed-over-50/article70445948.ece",
+            "source_title": "Sigachi Industries’ CEO arrested six months after blast which killed over 50 - The Hindu",
+            "scraped_at": "2025-12-28 05:51:53",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Suriname: Nine people, including five children, stabbed to death **Suriname** police are investigating a horrific attack on the outskirts of Paramaribo, where nine people were killed, including five c",
+            "source_url": "https://www.bbc.com/news/articles/cp8966ew7y7o?at_medium=RSS&at_campaign=rss",
+            "source_title": "Suriname: Nine people, including five children, stabbed to death",
+            "scraped_at": "2025-12-28 14:10:16",
             "incident_type": "broad"
           }
         ],
