@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 147,
+        "criminal_cases_in_news": 149,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7159,6 +7159,20 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/wcc-slams-kerala-government-over-molestation-case-against-filmmaker-kunhi-muhammed/article70444413.ece",
             "source_title": "WCC slams Kerala government over molestation case against filmmaker Kunhi Muhammed - The Hindu",
             "scraped_at": "2025-12-28 04:54:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Couple detained as video of differently abled boy being beaten goes viral - The Hindu **Bagalkot Police** have detained a couple, Akshay and Anandi, who run the **Divya Jyoti School for Differently Ab",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/couple-detained-as-video-of-differently-abled-boy-being-beaten-goes-viral/article70420524.ece",
+            "source_title": "Couple detained as video of differently abled boy being beaten goes viral - The Hindu",
+            "scraped_at": "2025-12-21 08:02:24",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bengal police warn against drawing a parallel between Bangladesh murder and Murshidabad lynching - The Hindu **The West Bengal Police** condemned attempts to draw parallels between the recent murder o",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-police-warn-against-drawing-a-parallel-between-bangladesh-murder-and-murshidabad-lynching/article70423534.ece",
+            "source_title": "Bengal police warn against drawing a parallel between Bangladesh murder and Murshidabad lynching - The Hindu",
+            "scraped_at": "2025-12-21 11:50:42",
             "incident_type": "broad"
           }
         ],
