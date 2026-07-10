@@ -1,13 +1,13 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-07-10",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 3,
-      "party_updates": 3,
-      "criminal_updates": 1,
+      "party_updates": 2,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1423,7 +1423,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 13,
+        "criminal_cases_in_news": 14,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1515,9 +1515,16 @@
             "source_title": "Kerala court detains Congress MP Shafi Parambil, fines him ₹1,000 in NH blockade case - The Hindu",
             "scraped_at": "2026-01-27 05:32:20",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "15 persons booked under POCSO Act for sexually assaulting a minor girl in Tiruchi - The Hindu **The Srirangam All Women Police Station (AWPS)** in **Tiruchi, India**, has registered a case under the P",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/15-persons-booked-under-pocso-act-for-sexually-assaulting-a-minor-girl-in-tiruchi/article70492122.ece",
+            "source_title": "15 persons booked under POCSO Act for sexually assaulting a minor girl in Tiruchi - The Hindu",
+            "scraped_at": "2026-01-09 13:54:28",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-05",
+        "criminal_last_updated": "2026-07-10",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -6065,7 +6072,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 104,
+        "criminal_cases_in_news": 114,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -6801,9 +6808,79 @@
             "source_title": "Amid ongoing training to village guards in J&K, a volunteer’s son killed in ‘accidental firing’ - The Hindu",
             "scraped_at": "2026-01-11 16:53:38",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Homebuyers duped: ED attaches land parcels worth ₹585 crore in Haryana, Uttar Pradesh - The Hindu The **Enforcement Directorate (ED)** has attached hundreds of acres of land in Haryana and Uttar Prade",
+            "source_url": "https://www.thehindu.com/news/national/haryana/homebuyers-duped-ed-attaches-land-parcels-worth-585-crore-in-haryana-uttar-pradesh/article70493941.ece",
+            "source_title": "Homebuyers duped: ED attaches land parcels worth ₹585 crore in Haryana, Uttar Pradesh - The Hindu",
+            "scraped_at": "2026-01-10 03:23:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "NIA chargesheets two more accused for involvement in plot to carry out IED blast in Assam - The Hindu **The National Investigation Agency (NIA)** has added two more individuals, **Bhargab Gogoi** and ",
+            "source_url": "https://www.thehindu.com/news/national/nia-chargesheets-two-more-accused-for-involvement-in-plot-to-carry-out-ied-blast-in-assam/article70494255.ece",
+            "source_title": "NIA chargesheets two more accused for involvement in plot to carry out IED blast in Assam - The Hindu",
+            "scraped_at": "2026-01-10 05:53:34",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Kozhikode city police anti-narcotic squads in action to net frequent offenders - The Hindu **Kozhikode city police** have intensified their anti-narcotics operations, focusing on frequent offenders ta",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kozhikode-city-police-anti-narcotic-squads-in-action-to-net-frequent-offenders/article70494355.ece",
+            "source_title": "Kozhikode city police anti-narcotic squads in action to net frequent offenders - The Hindu",
+            "scraped_at": "2026-01-10 07:15:15",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two arrested, five children rescued as police bust kidnapping racket in Warangal - The Hindu **Kazipet Police** and the **Task Force Police** arrested two individuals, **Kodupaka Naresh** and **Velpul",
+            "source_url": "https://www.thehindu.com/news/national/telangana/two-arrested-five-children-rescued-as-police-bust-kidnapping-racket-in-warangal/article70494397.ece",
+            "source_title": "Two arrested, five children rescued as police bust kidnapping racket in Warangal - The Hindu",
+            "scraped_at": "2026-01-10 08:22:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CWC orders probe into allegation of teacher’s sexual abuse of students - The Hindu **The Child Welfare Committee (CWC)** has launched an investigation into allegations of sexual abuse by a schoolteach",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cwc-orders-probe-into-allegation-of-teachers-sexual-abuse-of-students/article70495225.ece",
+            "source_title": "CWC orders probe into allegation of teacher’s sexual abuse of students - The Hindu",
+            "scraped_at": "2026-01-10 10:16:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu **Congress** members demanded a time-bound and independent investigation by the **CBI** into the Ankita Bhandari murder, cal",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/congress-seeks-time-bound-cbi-probe-into-ankita-bhandari-murder/article70495171.ece",
+            "source_title": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu",
+            "scraped_at": "2026-01-10 10:17:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "SIT conducts protracted search and seizure operation at Sabarimala senior Tantri’s private residence in Chengannur - The Hindu **The Special Investigation Team (SIT)** conducted a prolonged inspection",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sit-conducts-protracted-search-and-seizure-operation-at-sabarimala-senior-tantris-private-residence-in-chengannur/article70495307.ece",
+            "source_title": "SIT conducts protracted search and seizure operation at Sabarimala senior Tantri’s private residence in Chengannur - The Hindu",
+            "scraped_at": "2026-01-10 11:02:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Inter-State thief, wanted in multiple cases, arrested by Kalaburagi police - The Hindu **Kalaburagi City Police** arrested a 35-year-old inter-State thief, Shivakumar, for robbing an elderly woman's h",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/inter-state-thief-wanted-in-multiple-cases-arrested-by-kalaburagi-police/article70495224.ece",
+            "source_title": "Inter-State thief, wanted in multiple cases, arrested by Kalaburagi police - The Hindu",
+            "scraped_at": "2026-01-10 11:23:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man detained in Ayodhya for attempting to offer ‘namaz’ inside Ram Temple complex - The Hindu **Security agencies** detained an individual, Ahmed Sheikh from Shopian district of Jammu and Kashmir, at ",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/man-detained-in-ayodhya-for-attempting-to-offer-namaz-inside-ram-temple-complex/article70495328.ece",
+            "source_title": "Man detained in Ayodhya for attempting to offer ‘namaz’ inside Ram Temple complex - The Hindu",
+            "scraped_at": "2026-01-10 14:55:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "FIR filed to identify 'VIPs' in Ankita Bhandari murder case - The Hindu **Uttarakhand Police** filed an FIR to identify alleged \"VIPs\" in connection with the Ankita Bhandari murder case, following a c",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/fir-filed-to-identify-vips-in-ankita-bhandari-murder-case/article70496927.ece",
+            "source_title": "FIR filed to identify 'VIPs' in Ankita Bhandari murder case - The Hindu",
+            "scraped_at": "2026-01-10 23:22:49",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-07-09",
+        "criminal_last_updated": "2026-07-10",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -7868,7 +7945,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-09"
+        "cm_last_updated": "2026-07-10"
       },
       {
         "name": "Maharashtra",
@@ -7878,7 +7955,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-09"
+        "cm_last_updated": "2026-07-10"
       },
       {
         "name": "Manipur",
@@ -7928,9 +8005,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-09",
+        "party_last_updated": "2026-07-10",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-09"
+        "cm_last_updated": "2026-07-10"
       },
       {
         "name": "Rajasthan",
@@ -7958,7 +8035,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-09"
+        "party_last_updated": "2026-07-10"
       },
       {
         "name": "Telangana",
