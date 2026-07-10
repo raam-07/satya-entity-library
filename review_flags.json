@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 13:57:15.002390",
+  "generated_at": "2026-07-10 15:47:42.807943",
   "summary": {
     "cm_updates_applied": 3,
     "party_updates_applied": 2,
@@ -13,15 +13,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "Siddaramaiah",
-      "confidence": 0.56,
-      "mentions": 9,
-      "reason": "Below auto-update threshold",
-      "context": "from the **Kalyana Karnataka Region Development Board (KKRDB)**, resumed on April 16th, 2023. Forest, Ecology and Environment Minister and Bidar district in charge Eshwar B. Khandre on Saturday urged "
-    },
     {
       "type": "cm_detection",
       "state": "Bihar",
@@ -56,6 +47,15 @@
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "Union Home Minister. However, the party's victory has also sparked concerns about its impact on Assam's social fabric, particularly its divisive policies towards Bengali-speaking Muslim communities. H"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "Siddaramaiah",
+      "confidence": 0.53,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
     },
     {
       "type": "cm_detection",

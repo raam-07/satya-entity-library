@@ -6123,7 +6123,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 136,
+        "criminal_cases_in_news": 138,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7082,6 +7082,20 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/three-arrested-for-harassing-woman-scooterist/article70443372.ece",
             "source_title": "Three arrested for harassing woman scooterist - The Hindu",
             "scraped_at": "2025-12-27 09:17:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Jabalpur Agricultural University rape: Woman raped on campus in Madhya Pradesh; two held - The Hindu A 22-year-old woman was allegedly raped by a **clerk** at a **Jawaharlal Nehru Agricultural Univers",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/woman-raped-on-agri-university-campus-in-jabalpur-two-held/article70442715.ece",
+            "source_title": "Jabalpur Agricultural University rape: Woman raped on campus in Madhya Pradesh; two held - The Hindu",
+            "scraped_at": "2025-12-27 01:53:21",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two Karnataka men arrested, stolen property worth ₹70 lakh recovered - The Hindu **Anantapur police** arrested two men from Karnataka, **Yadavalli Manju** and **P. Ramadasu**, for property offences an",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/two-karnataka-men-arrested-stolen-property-worth-70-lakh-recovered/article70443374.ece",
+            "source_title": "Two Karnataka men arrested, stolen property worth ₹70 lakh recovered - The Hindu",
+            "scraped_at": "2025-12-27 08:19:51",
             "incident_type": "broad"
           }
         ],
