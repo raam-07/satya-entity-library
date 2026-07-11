@@ -8,7 +8,7 @@
       "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 3,
-      "new_promises": 1,
+      "new_promises": 0,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -6146,7 +6146,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 164,
+        "criminal_cases_in_news": 169,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7301,6 +7301,41 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/two-held-on-charge-of-robbing-us-citizen-of-cash-gold-in-kochi-hotel/article70400093.ece",
             "source_title": "Two held on charge of robbing US citizen of cash, gold in Kochi hotel - The Hindu",
             "scraped_at": "2025-12-15 12:00:03",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "At least 11 killed in South Africa mass shooting At least 11 people were killed and 14 others wounded in a mass shooting at a hostel in Saulsville township, west of Pretoria, South Africa. **Brigadier",
+            "source_url": "https://www.bbc.com/news/articles/cwyvkrkl2jlo?at_medium=RSS&at_campaign=rss",
+            "source_title": "At least 11 killed in South Africa mass shooting",
+            "scraped_at": "2025-12-06 05:50:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Cash, land documents seized from Hanamkonda Additional Collector’s residence - The Hindu **Anti-Corruption Bureau** officials conducted extensive searches at the residence of **A. Venkat Reddy**, an A",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/cash-land-documents-seized-from-hanamkonda-additional-collectors-residence/article70366619.ece",
+            "source_title": "Cash, land documents seized from Hanamkonda Additional Collector’s residence - The Hindu",
+            "scraped_at": "2025-12-06 11:20:10",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Goa government orders demolition of Vagator beach shack of Saurabh and Gaurav Luthra - The Hindu **Pramod Sawant**, Goa Chief Minister, ordered the demolition of an illegal beach shack in Vagator owne",
+            "source_url": "https://www.thehindu.com/news/national/goa/goa-government-orders-demolition-of-vagator-beach-shack-of-saurabh-and-gaurav-luthra/article70375899.ece",
+            "source_title": "Goa government orders demolition of Vagator beach shack of Saurabh and Gaurav Luthra - The Hindu",
+            "scraped_at": "2025-12-09 05:24:17",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Body, suspected to be of missing girl, found in Kalady - The Hindu **Kalady police** found a decomposed body in an isolated field near Manappattu Chira, suspected to be that of an 18-year-old student ",
+            "source_url": "https://www.thehindu.com/news/cities/Kochi/body-suspected-to-be-of-missing-girl-found-in-kalady/article70377562.ece",
+            "source_title": "Body, suspected to be of missing girl, found in Kalady - The Hindu",
+            "scraped_at": "2025-12-09 12:00:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Excise officials seize 2 kg ganja, MDMA and illicit liquor in multiple raids across Hyderabad, six arrested - The Hindu **Telangana** **Excise and Prohibition Department** officials conducted multiple",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/excise-officials-seize-2-kg-ganja-mdma-and-illicit-liquor-in-multiple-raids-across-hyderabad-six-arrested/article70392461.ece",
+            "source_title": "Excise officials seize 2 kg ganja, MDMA and illicit liquor in multiple raids across Hyderabad, six arrested - The Hindu",
+            "scraped_at": "2025-12-13 08:54:24",
             "incident_type": "broad"
           }
         ],
