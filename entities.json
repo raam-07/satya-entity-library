@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 6,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1439,7 +1439,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 15,
+        "criminal_cases_in_news": 16,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1544,6 +1544,13 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-to-hear-pils-on-violence-at-messi-event-five-spectators-held/article70399688.ece",
             "source_title": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu",
             "scraped_at": "2025-12-15 12:00:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu **Rahul Easwar**, a YouTuber, was denied bail by the **Thiruvananthapuram Additional Chief Judicial Magis",
+            "source_url": "https://www.thehindu.com/news/national/kerala/defaming-complainant-in-sexual-abuse-case-court-rejects-bail-plea-of-rahul-easwar/article70365757.ece",
+            "source_title": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu",
+            "scraped_at": "2025-12-06 09:13:54",
             "incident_type": "broad"
           }
         ],
@@ -3115,7 +3122,7 @@
         "state": "Assam",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
         "image_placeholder": "himanta_biswa_sarma",
@@ -3165,9 +3172,16 @@
             "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
             "scraped_at": "2026-02-10 02:35:04",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu **The Special Investigation Team (SIT)** probing the death of **Assamese cultural icon Zubeen Garg** in Singapore",
+            "source_url": "https://www.thehindu.com/news/national/charge-sheet-in-zubeen-death-case-to-be-filed-on-december-12-assam-police/article70365717.ece",
+            "source_title": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu",
+            "scraped_at": "2025-12-06 11:04:21",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-30",
+        "criminal_last_updated": "2026-07-11",
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -3289,11 +3303,18 @@
             "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
             "scraped_at": "2026-03-24 10:05:36.975630",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu A Delhi court postponed the decision on charges in the land-for-job scam involving **Lalu Pras",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
           }
         ],
         "controversies": [],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-06-15"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-07-11"
       },
       {
         "name": "Vishnu Deo Sai",
@@ -6169,7 +6190,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 188,
+        "criminal_cases_in_news": 194,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7492,6 +7513,48 @@
             "source_url": "https://www.thehindu.com/news/national/charge-sheet-in-zubeen-death-case-to-be-filed-on-december-12-assam-police/article70365717.ece",
             "source_title": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu",
             "scraped_at": "2025-12-06 11:04:21",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Worker engaged for watering plants killed in drunk driving accident on Kukatpally–Miyapur road - The Hindu A **44-year-old Santosh Kumar Ishwar**, a private tanker driver contracted by the **Metro Rai",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/worker-engaged-for-watering-plants-killed-in-drunk-driving-accident-on-kukatpallymiyapur-road/article70337776.ece",
+            "source_title": "Worker engaged for watering plants killed in drunk driving accident on Kukatpally–Miyapur road - The Hindu",
+            "scraped_at": "2025-11-29 01:55:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi court extends gangster Anmol Bishnoi's NIA custody till December 5 - The Hindu **Anmol Bishnoi**, the brother of deported gangster Lawrence Bishnoi, was extended his **NIA** custody for seven mo",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-extends-gangster-anmol-bishnois-nia-custody-till-december-5/article70338065.ece",
+            "source_title": "Delhi court extends gangster Anmol Bishnoi's NIA custody till December 5 - The Hindu",
+            "scraped_at": "2025-11-29 04:13:17",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "86 respondents bound over as Hyderabad Police act against ten rival gangs - The Hindu **Hyderabad Police** Commissioner V.C. Sajjanar held a special court on Saturday to bind over 86 individuals linke",
+            "source_url": "https://www.thehindu.com/news/national/telangana/86-respondents-bound-over-as-hyderabad-police-act-against-ten-rival-gangs/article70338582.ece",
+            "source_title": "86 respondents bound over as Hyderabad Police act against ten rival gangs - The Hindu",
+            "scraped_at": "2025-11-29 08:01:47",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Six motorists booked for drunk driving in Chittoor - The Hindu **Chittoor police** conducted a special enforcement drive on Saturday, resulting in the booking of six motorists for drunk driving. **Sup",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/six-motorists-booked-for-drunk-driving-in-chittoor/article70338473.ece",
+            "source_title": "Six motorists booked for drunk driving in Chittoor - The Hindu",
+            "scraped_at": "2025-11-29 08:02:18",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man gets life term for murdering elderly woman - The Hindu **Adam Ali**, 25, of West Bengal, was sentenced to life imprisonment for murdering 68-year-old **Manorama** in Kesavadasapuram.  He was found",
+            "source_url": "https://www.thehindu.com/news/national/kerala/man-gets-life-term-for-murdering-elderly-woman/article70339676.ece",
+            "source_title": "Man gets life term for murdering elderly woman - The Hindu",
+            "scraped_at": "2025-11-29 13:07:12",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "VACB arrests village officer on charge of accepting bribe - The Hindu **Ullasmon**, a village officer from Kothamangalam in Ernakulam, was arrested by the **Vigilance and Anti-Corruption Bureau (VACB)",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vacb-arrests-village-officer-on-charge-of-accepting-bribe/article70338966.ece",
+            "source_title": "VACB arrests village officer on charge of accepting bribe - The Hindu",
+            "scraped_at": "2025-11-29 23:09:55",
             "incident_type": "broad"
           }
         ],
