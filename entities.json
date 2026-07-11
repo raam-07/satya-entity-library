@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 3,
+      "criminal_updates": 4,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3312,15 +3312,24 @@
         "state": "Goa",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
+        "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pramod_Sawant",
         "image_placeholder": "pramod_sawant",
         "auto_added": true,
         "auto_added_on": "2026-06-05",
         "gemma_confidence": "high",
-        "criminal_incidents": [],
-        "controversies": []
+        "criminal_incidents": [
+          {
+            "incident_text": "Goa government orders demolition of Vagator beach shack of Saurabh and Gaurav Luthra - The Hindu **Pramod Sawant**, Goa Chief Minister, ordered the demolition of an illegal beach shack in Vagator owne",
+            "source_url": "https://www.thehindu.com/news/national/goa/goa-government-orders-demolition-of-vagator-beach-shack-of-saurabh-and-gaurav-luthra/article70375899.ece",
+            "source_title": "Goa government orders demolition of Vagator beach shack of Saurabh and Gaurav Luthra - The Hindu",
+            "scraped_at": "2025-12-09 05:24:17",
+            "incident_type": "broad"
+          }
+        ],
+        "controversies": [],
+        "criminal_last_updated": "2026-07-11"
       },
       {
         "name": "Bhupendra Patel",
@@ -6146,7 +6155,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 169,
+        "criminal_cases_in_news": 178,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7336,6 +7345,69 @@
             "source_url": "https://www.thehindu.com/news/cities/Hyderabad/excise-officials-seize-2-kg-ganja-mdma-and-illicit-liquor-in-multiple-raids-across-hyderabad-six-arrested/article70392461.ece",
             "source_title": "Excise officials seize 2 kg ganja, MDMA and illicit liquor in multiple raids across Hyderabad, six arrested - The Hindu",
             "scraped_at": "2025-12-13 08:54:24",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "12 held, jewellery worth ₹59 lakh recovered in Kakinada - The Hindu **Kakinada District Superintendent of Police G. Bindu Madhav** announced the arrest of 12 individuals in connection with multiple th",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/12-held-jewellery-worth-59-lakh-recovered-in-kakinada/article70338697.ece",
+            "source_title": "12 held, jewellery worth ₹59 lakh recovered in Kakinada - The Hindu",
+            "scraped_at": "2025-11-29 08:54:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi blast: NIA team arrests 2 from Uttarakhand's - The Hindu **The National Investigation Agency (NIA)** arrested an imam, **Mohammad Asif**, and his associate, **Nazar Kamal**, in connection with a",
+            "source_url": "https://www.thehindu.com/news/national/delhi-blast-nia-team-arrests-2-from-uttarakhands/article70339772.ece",
+            "source_title": "Delhi blast: NIA team arrests 2 from Uttarakhand's - The Hindu",
+            "scraped_at": "2025-11-29 13:52:00",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Couple critical after being set on fire over family feud in Jaipur village - The Hindu A couple in Jaipur, India, suffered severe burn injuries after being allegedly set on fire by villagers following",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/couple-critical-after-being-set-on-fire-over-family-feud-in-jaipur-village/article70339195.ece",
+            "source_title": "Couple critical after being set on fire over family feud in Jaipur village - The Hindu",
+            "scraped_at": "2025-11-29 20:35:49",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man arrested for stabbing woman to death in Seshadripuram - The Hindu **Nagappa Poojari**, a 31-year-old labourer, was arrested by the **Seshadripuram police** for fatally stabbing **Sharanamma**, a 2",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/man-arrested-for-stabbing-woman-to-death-in-seshadripuram/article70342200.ece",
+            "source_title": "Man arrested for stabbing woman to death in Seshadripuram - The Hindu",
+            "scraped_at": "2025-11-30 11:03:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court grants three more days of custody of piracy accused - The Hindu **Emandi Ravi**, the alleged mastermind of a large Telugu film piracy network, was granted three days of custody by the Nampally c",
+            "source_url": "https://www.thehindu.com/news/national/telangana/court-grants-three-more-days-of-custody-of-piracy-accused/article70362642.ece",
+            "source_title": "Court grants three more days of custody of piracy accused - The Hindu",
+            "scraped_at": "2025-12-05 13:08:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kerala HC gives interim protection from arrest to MLA Rahul Mamkootathil in rape case - The Hindu The **Kerala High Court** granted interim protection from arrest to expelled Congress MLA Rahul Mamkoo",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-hc-gives-interim-protection-from-arrest-to-mla-rahul-mamkootathil-in-rape-case/article70364782.ece",
+            "source_title": "Kerala HC gives interim protection from arrest to MLA Rahul Mamkootathil in rape case - The Hindu",
+            "scraped_at": "2025-12-06 01:07:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Auto torched, lorry driver attacked in Annamayya district - The Hindu **Valmikipuram** and **Madanapalle** experienced separate incidents of tension on Saturday.  In **Valmikipuram**, a local resident",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/auto-rickshaw-torched-in-valmikipuram-lorry-driver-attacked-in-madanapalle/article70365447.ece",
+            "source_title": "Auto torched, lorry driver attacked in Annamayya district - The Hindu",
+            "scraped_at": "2025-12-06 07:17:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "South Africa shooting: Gunmen open fire at illegal Pretoria bar; 11 killed, including three children - The Times of India At least 11 people, including a three-year-old child and a 12-year-old boy, we",
+            "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-africa-shooting-gunmen-open-fire-at-illegal-pretoria-bar-11-killed-including-three-children/articleshow/125805174.cms",
+            "source_title": "South Africa shooting: Gunmen open fire at illegal Pretoria bar; 11 killed, including three children - The Times of India",
+            "scraped_at": "2025-12-06 08:17:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Eight arrested with nearly 16 kg ganja across raids in Hyderabad - The Hindu **Telangana Excise and Prohibition Department** officials conducted a series of coordinated raids across Hyderabad, resulti",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/eight-arrested-with-nearly-16-kg-ganja-across-raids-in-hyderabad/article70365523.ece",
+            "source_title": "Eight arrested with nearly 16 kg ganja across raids in Hyderabad - The Hindu",
+            "scraped_at": "2025-12-06 08:17:57",
             "incident_type": "broad"
           }
         ],
