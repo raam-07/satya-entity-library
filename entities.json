@@ -1,14 +1,14 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-10",
+    "last_updated": "2026-07-11",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 2,
-      "new_promises": 0,
+      "criminal_updates": 3,
+      "new_promises": 1,
       "gaffe_updates": 0
     },
     "rescan_history": {
@@ -1439,7 +1439,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 15,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1538,9 +1538,16 @@
             "source_title": "15 persons booked under POCSO Act for sexually assaulting a minor girl in Tiruchi - The Hindu",
             "scraped_at": "2026-01-09 13:54:28",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu The **Calcutta High Court** will hear three public interest litigation (PIL) petitions seeking investigations by C",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-to-hear-pils-on-violence-at-messi-event-five-spectators-held/article70399688.ece",
+            "source_title": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu",
+            "scraped_at": "2025-12-15 12:00:44",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-10",
+        "criminal_last_updated": "2026-07-11",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -4744,7 +4751,7 @@
             "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-10",
+        "criminal_last_updated": "2026-07-11",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
@@ -6139,7 +6146,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 162,
+        "criminal_cases_in_news": 164,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7281,9 +7288,23 @@
             "source_title": "Rob Reiner’s son Nick arrested on suspicion of homicide; source says father and son argued at party before deaths - The Times of India",
             "scraped_at": "2025-12-15 14:15:58",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Goa nightclub fire: Interpol issues Blue Notice against 2 owners - The Hindu **Interpol** has issued a Blue Notice against the owners of the Goa nightclub where a massive fire killed 25 people, **Saur",
+            "source_url": "https://www.thehindu.com/news/national/goa/goa-nightclub-fire-interpol-issues-blue-notice-against-2-owners/article70377239.ece",
+            "source_title": "Goa nightclub fire: Interpol issues Blue Notice against 2 owners - The Hindu",
+            "scraped_at": "2025-12-09 10:21:27",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two held on charge of robbing US citizen of cash, gold in Kochi hotel - The Hindu **Ernakulam Central police** arrested two youths, Adarsh and Akash, for allegedly assaulting a 53-year-old US citizen ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/two-held-on-charge-of-robbing-us-citizen-of-cash-gold-in-kochi-hotel/article70400093.ece",
+            "source_title": "Two held on charge of robbing US citizen of cash, gold in Kochi hotel - The Hindu",
+            "scraped_at": "2025-12-15 12:00:03",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-10",
+        "criminal_last_updated": "2026-07-11",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -8348,7 +8369,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-10"
+        "cm_last_updated": "2026-07-11"
       },
       {
         "name": "Maharashtra",
@@ -8358,7 +8379,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-10"
+        "cm_last_updated": "2026-07-11"
       },
       {
         "name": "Manipur",
@@ -8408,9 +8429,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-10",
+        "party_last_updated": "2026-07-11",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-10"
+        "cm_last_updated": "2026-07-11"
       },
       {
         "name": "Rajasthan",
@@ -8438,7 +8459,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-10"
+        "party_last_updated": "2026-07-11"
       },
       {
         "name": "Telangana",
@@ -11401,6 +11422,16 @@
       "source_title": "We agreed on friendly fights, but Ajit Pawar’s restraint appears shaken: Devendra Fadnavis - The Hindu",
       "scraped_at": "2026-01-12 01:13:41",
       "gemma_confidence": "high",
+      "status": "pending_review",
+      "verified": false
+    },
+    {
+      "person": "Devendra Fadnavis",
+      "promise_text": "that while a loan waiver is not a permanent solution",
+      "source_url": "https://indianexpress.com/article/cities/mumbai/cm-rs-2-lakh-waiver-mahatma-phule-scheme-farmers-10780941/",
+      "source_title": "Maharashtra CM Fadnavis announces Rs 2 lakh waiver for Mahatma Phule scheme farmers | Mumbai News - The Indian Express",
+      "scraped_at": "2026-07-10 22:12:01",
+      "gemma_confidence": "medium",
       "status": "pending_review",
       "verified": false
     }
