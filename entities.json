@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 4,
+      "criminal_updates": 3,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2647,6 +2647,13 @@
             "source_title": "IRCTC scam case: Delhi HC asks CBI to reply to Tejashwi Yadav’s plea against charge framing order - The Hindu",
             "scraped_at": "2026-01-06 02:01:05",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu A Delhi court postponed the decision on charges in the land-for-job scam involving **Lalu Pras",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2669,8 +2676,8 @@
             "scraped_at": "2026-06-20 23:14:35"
           }
         ],
-        "criminal_cases_in_news": 5,
-        "criminal_last_updated": "2026-07-10"
+        "criminal_cases_in_news": 6,
+        "criminal_last_updated": "2026-07-11"
       },
       {
         "name": "Tejashwi Yadav",
@@ -2714,11 +2721,18 @@
             "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
             "scraped_at": "2026-01-05 02:24:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu A Delhi court postponed the decision on charges in the land-for-job scam involving **Lalu Pras",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
           }
         ],
         "controversies": [],
-        "criminal_cases_in_news": 4,
-        "criminal_last_updated": "2026-07-10"
+        "criminal_cases_in_news": 5,
+        "criminal_last_updated": "2026-07-11"
       },
       {
         "name": "Thol. Thirumavalavan",
@@ -6155,7 +6169,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 178,
+        "criminal_cases_in_news": 188,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7408,6 +7422,76 @@
             "source_url": "https://www.thehindu.com/news/cities/Hyderabad/eight-arrested-with-nearly-16-kg-ganja-across-raids-in-hyderabad/article70365523.ece",
             "source_title": "Eight arrested with nearly 16 kg ganja across raids in Hyderabad - The Hindu",
             "scraped_at": "2025-12-06 08:17:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two drug peddlers arrested by excise officials; over 750 gm ganja seized - The Hindu **State Task Force (STF)** teams of the **Telangana Excise and Prohibition department** arrested two drug peddlers ",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/two-drug-peddlers-arrested-by-excise-officials-over-750-gm-ganja-seized/article70339042.ece",
+            "source_title": "Two drug peddlers arrested by excise officials; over 750 gm ganja seized - The Hindu",
+            "scraped_at": "2025-11-29 09:56:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rigorous prison term for official held on bribery charge - The Hindu **Martin Antony**, a former Assistant Engineer for the Kottayam municipality, was sentenced to seven years in prison by the **Kotta",
+            "source_url": "https://www.thehindu.com/news/national/kerala/rigorous-prison-term-for-official-held-on-bribery-charge/article70339228.ece",
+            "source_title": "Rigorous prison term for official held on bribery charge - The Hindu",
+            "scraped_at": "2025-11-29 11:23:22",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Gunmen open fire at bar in central Mexico; seven killed, five critically injured; probe launched - The Times of India **At least seven people were killed and five others critically injured in a shooti",
+            "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/gunmen-open-fire-at-bar-in-central-mexico-seven-killed-five-critically-injured-probe-launched/articleshow/125667474.cms",
+            "source_title": "Gunmen open fire at bar in central Mexico; seven killed, five critically injured; probe launched - The Times of India",
+            "scraped_at": "2025-11-29 20:39:30",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Four killed in shooting at child's birthday party in California A mass shooting at a child's birthday party in Stockton, California, left four people dead and ten injured. The incident occurred shortl",
+            "source_url": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Four killed in shooting at child's birthday party in California",
+            "scraped_at": "2025-11-30 01:06:45",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Punjab Vigilance Bureau arrests close aide of jailed Akali leader Bikram Majithia - The Hindu **The Punjab Vigilance Bureau** arrested **Harpreet Singh Gulati**, a liquor trader, who allegedly facilit",
+            "source_url": "https://www.thehindu.com/news/national/punjab/punjab-vigilance-bureau-arrests-close-aide-of-jailed-akali-leader-bikram-majithia/article70344211.ece",
+            "source_title": "Punjab Vigilance Bureau arrests close aide of jailed Akali leader Bikram Majithia - The Hindu",
+            "scraped_at": "2025-12-01 01:11:55",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Coimbatore burglaries: Arrested trio from U.P. planned more loot, reserved AC train tickets for return, say police - The Hindu **Three men** from Uttar Pradesh, I. Asif (45), Kallu Arif (60), and A. I",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/coimbatore-burglaries-arrested-trio-from-up-planned-more-loot-reserved-ac-train-tickets-for-return-say-police/article70345000.ece",
+            "source_title": "Coimbatore burglaries: Arrested trio from U.P. planned more loot, reserved AC train tickets for return, say police - The Hindu",
+            "scraped_at": "2025-12-01 07:27:46",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Student missing from junior college in Krishna district - The Hindu **K. Venkata Prakash Babu**, principal of a private junior college in Kankipadu village, filed a missing person report with **Penama",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/student-missing-from-junior-college-in-krishna-district/article70346203.ece",
+            "source_title": "Student missing from junior college in Krishna district - The Hindu",
+            "scraped_at": "2025-12-01 10:01:52",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "ED files chargesheet against Reliance Power, subsidiaries in 'bogus' bank guarantee case - The Hindu The **Directorate of Enforcement (ED)** filed a supplementary prosecution complaint against **Relia",
+            "source_url": "https://www.thehindu.com/news/national/ed-files-chargesheet-against-reliance-power-subsidiaries-in-bogus-bank-guarantee-case/article70364720.ece",
+            "source_title": "ED files chargesheet against Reliance Power, subsidiaries in 'bogus' bank guarantee case - The Hindu",
+            "scraped_at": "2025-12-05 23:55:30",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu **Rahul Easwar**, a YouTuber, was denied bail by the **Thiruvananthapuram Additional Chief Judicial Magis",
+            "source_url": "https://www.thehindu.com/news/national/kerala/defaming-complainant-in-sexual-abuse-case-court-rejects-bail-plea-of-rahul-easwar/article70365757.ece",
+            "source_title": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu",
+            "scraped_at": "2025-12-06 09:13:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu **The Special Investigation Team (SIT)** probing the death of **Assamese cultural icon Zubeen Garg** in Singapore",
+            "source_url": "https://www.thehindu.com/news/national/charge-sheet-in-zubeen-death-case-to-be-filed-on-december-12-assam-police/article70365717.ece",
+            "source_title": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu",
+            "scraped_at": "2025-12-06 11:04:21",
             "incident_type": "broad"
           }
         ],
