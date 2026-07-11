@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 6,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6190,7 +6190,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 194,
+        "criminal_cases_in_news": 196,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7555,6 +7555,20 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/vacb-arrests-village-officer-on-charge-of-accepting-bribe/article70338966.ece",
             "source_title": "VACB arrests village officer on charge of accepting bribe - The Hindu",
             "scraped_at": "2025-11-29 23:09:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Security forces launch search operations in Manipur after two Assam Rifles personnel killed - The Hindu On July 10, 2026, **Assam Rifles**, in coordination with the Border Security Force and Manipur P",
+            "source_url": "https://www.thehindu.com/news/national/manipur/security-forces-launch-search-operations-in-manipur-after-two-assam-rifles-personnel-killed/article71209613.ece",
+            "source_title": "Security forces launch search operations in Manipur after two Assam Rifles personnel killed - The Hindu",
+            "scraped_at": "2026-07-11 08:02:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Suspect Arrested In Ex-UK MP Ann Widdecombe Murder Case Released: No Longer Part Of Probe On Thursday, **Ann Widdecombe**, 78, was found dead at her home in rural southwest England after suffering ser",
+            "source_url": "https://www.ndtv.com/world-news/suspect-arrested-in-ex-uk-mp-ann-widdecombe-murder-case-released-no-longer-part-of-probe-11757188#publisher=newsstand",
+            "source_title": "Suspect Arrested In Ex-UK MP Ann Widdecombe Murder Case Released: No Longer Part Of Probe",
+            "scraped_at": "2026-07-11 08:02:29",
             "incident_type": "broad"
           }
         ],
