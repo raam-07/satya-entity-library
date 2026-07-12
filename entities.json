@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-11",
+    "last_updated": "2026-07-12",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -8637,7 +8637,7 @@
         "cm": "Mohan Yadav",
         "region": "Central",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-11"
+        "cm_last_updated": "2026-07-12"
       },
       {
         "name": "Maharashtra",
@@ -8647,7 +8647,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-11"
+        "cm_last_updated": "2026-07-12"
       },
       {
         "name": "Manipur",
@@ -8697,9 +8697,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-11",
+        "party_last_updated": "2026-07-12",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-11"
+        "cm_last_updated": "2026-07-12"
       },
       {
         "name": "Rajasthan",
@@ -8727,7 +8727,7 @@
         "cm": "C. Joseph Vijay",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-11"
+        "party_last_updated": "2026-07-12"
       },
       {
         "name": "Telangana",
