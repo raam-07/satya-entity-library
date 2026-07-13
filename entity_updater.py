@@ -45,9 +45,14 @@ WINDOW_NEW_ENTITIES_DAYS = 30
 AUTO_UPDATE_THRESHOLD   = 0.75
 REVIEW_THRESHOLD        = 0.40
 NEW_ENTITY_MIN_MENTIONS = 20
-MAX_ARTICLES_PER_RUN    = 500
+# 100 per run: smaller chunks + the existing has_more self-loop = same daily
+# throughput, but a failed run loses at most 100 articles' work, not 500.
+MAX_ARTICLES_PER_RUN    = 100
 
-MODEL_PATH = "./models/gemma-2-9b-it-Q6_K.gguf"
+# Qwen 14B — same gate model (and same GHA cache) as the timeline and promise
+# pipelines. Entity canonicalization is upstream of everything; it deserves
+# the strongest judgment we run anywhere.
+MODEL_PATH = os.environ.get('MODEL_GATE_PATH', "./models/Qwen2.5-14B-Instruct-Q5_K_M.gguf")
 
 NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
 
@@ -572,22 +577,22 @@ def canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm):
             resolved = name  # safe default if Gemma unavailable or fails
             if llm is not None and article_text:
                 options_str = ', '.join(f'"{c}"' for c in candidates)
-                prompt = f"""<start_of_turn>user
+                prompt = f"""<|im_start|>user
 Article: {article_text[:1800]}
 
 The article mentions "{name}". Based only on the article text above, which of these people is being referred to?
 Options: {options_str}
 
 Reply with ONLY the exact name from the options. No explanation.
-<end_of_turn>
-<start_of_turn>model
+<|im_end|>
+<|im_start|>assistant
 """
                 try:
                     response = llm(
                         prompt,
                         max_tokens=20,
                         temperature=0.0,
-                        stop=["<end_of_turn>", "<start_of_turn>", "\n"],
+                        stop=["<|im_end|>", "<|im_start|>", "\n"],
                         echo=False
                     )
                     answer = response['choices'][0].get('text', '').strip().strip('"').strip("'")
@@ -653,29 +658,59 @@ Reply with ONLY the exact name from the options. No explanation.
 def commit_sheet_updates(conn, batch_updates):
     """
     Writes a list of batch updates back to the SQLite/Turso database.
+
+    Chunked commits with reconnect-retry: one long transaction over a remote
+    Hrana stream dies after a few minutes ("stream not found") and rolls back
+    everything. Small transactions commit as we go; a dropped stream costs one
+    chunk retry, not the whole batch. Returns the (possibly new) connection.
     """
     if not batch_updates:
         logging.info("No updates to commit to Database.")
-        return
+        return conn
 
     logging.info(f"Committing {len(batch_updates)} updates to Database...")
-    try:
-        cursor = conn.cursor()
-        for update in batch_updates:
-            article_id = update['id']
-            ministers = json.dumps(update['ministers_mentioned'])
-            cursor.execute("""
-                UPDATE articles 
-                SET ministers_mentioned = ?, status = 'entity_processed' 
-                WHERE id = ?
-            """, (ministers, article_id))
-            refresh_bridge_rows(cursor, article_id, 'minister', update['ministers_mentioned'], slugify)
-        conn.commit()
-    except Exception as e:
-        logging.error(f"Failed to commit database updates: {e}")
-        raise e
-    
+    CHUNK = 50
+    committed = 0
+    for i in range(0, len(batch_updates), CHUNK):
+        chunk = batch_updates[i:i + CHUNK]
+        last_err = None
+        for attempt in range(3):
+            try:
+                cursor = conn.cursor()
+                for update in chunk:
+                    article_id = update['id']
+                    ministers = json.dumps(update['ministers_mentioned'])
+                    cursor.execute("""
+                        UPDATE articles
+                        SET ministers_mentioned = ?, status = 'entity_processed'
+                        WHERE id = ?
+                    """, (ministers, article_id))
+                    refresh_bridge_rows(cursor, article_id, 'minister', update['ministers_mentioned'], slugify)
+                conn.commit()
+                committed += len(chunk)
+                last_err = None
+                logging.info(f"Committed {committed}/{len(batch_updates)} updates...")
+                break
+            except Exception as e:
+                last_err = e
+                logging.error(f"Chunk commit attempt {attempt + 1} failed: {e}")
+                try:
+                    conn.rollback()
+                except Exception:
+                    pass
+                if attempt < 2:
+                    logging.info("Reconnecting database and retrying chunk...")
+                    try:
+                        conn.close()
+                    except Exception:
+                        pass
+                    conn = get_db_connection()
+        if last_err is not None:
+            logging.error(f"Giving up after 3 attempts at chunk starting index {i} ({committed} updates already committed and safe).")
+            raise last_err
+
     logging.info("Successfully committed all updates to Database.")
+    return conn
 
 # ==============================================================================
 # --- spaCy NER SETUP ---
@@ -701,30 +736,54 @@ def load_spacy():
 # ==============================================================================
 
 def load_gemma():
+    # Name kept for call-site compatibility; loads the Qwen gate model.
     try:
         from llama_cpp import Llama
         if not os.path.exists(MODEL_PATH):
-            raise FileNotFoundError(f"Gemma model not found at {MODEL_PATH}")
-        logging.info("Loading Gemma model...")
+            raise FileNotFoundError(f"Gate model not found at {MODEL_PATH}")
+        logging.info(f"Loading gate model from {MODEL_PATH}...")
         llm = Llama(
             model_path=MODEL_PATH,
-            n_ctx=4096,
+            n_ctx=8192,
             n_batch=512,
-            n_threads=2,
+            n_threads=int(os.environ.get('LLM_THREADS', 4)),  # match promise tracker; runner reports 4 vCPUs
             verbose=False
         )
-        logging.info("Gemma loaded.")
+        logging.info("Gate model loaded.")
         return llm
     except Exception as e:
-        logging.error(f"Failed to load Gemma: {e}. Validation will be skipped.")
+        logging.error(f"Failed to load gate model: {e}. Validation will be skipped.")
         return None
+
+
+def benchmark_threads():
+    """Time identical short generations at n_threads=2 vs 4 on this runner,
+    so the thread setting is decided by measurement, not Azure SMT guesswork."""
+    from llama_cpp import Llama
+    prompt = ("<|im_start|>user\nName the capital of India and one neighbouring "
+              "country. Answer in one short sentence.<|im_end|>\n<|im_start|>assistant\n")
+    results = {}
+    for threads in (2, 4):
+        llm = Llama(model_path=MODEL_PATH, n_ctx=2048, n_batch=512, n_threads=threads, verbose=False)
+        t0 = time.time()
+        for _ in range(3):
+            llm(prompt, max_tokens=40, temperature=0.0, stop=["<|im_end|>"])
+        results[threads] = (time.time() - t0) / 3
+        del llm
+        import gc
+        gc.collect()
+    for threads, secs in results.items():
+        logging.info(f"[BENCH] n_threads={threads}: {secs:.1f}s per call (avg of 3)")
+    faster = min(results, key=results.get)
+    logging.info(f"[BENCH] Winner: n_threads={faster} "
+                 f"({results[max(results, key=results.get)] / results[faster]:.2f}x faster than the other)")
 
 
 def gemma_validate(llm, question, context):
     if llm is None:
         return True, "unvalidated"
 
-    prompt = f"""<start_of_turn>user
+    prompt = f"""<|im_start|>user
 Read the text below and answer the question with ONLY a JSON object.
 
 Text: {context[:2000]}
@@ -733,15 +792,15 @@ Question: {question}
 
 Return ONLY: {{"answer": "yes" or "no", "confidence": "high" or "medium" or "low", "evidence": "for yes answers, the EXACT phrase copied verbatim from the text that proves it; empty string for no"}}
 No explanation. No extra text.
-<end_of_turn>
-<start_of_turn>model
+<|im_end|>
+<|im_start|>assistant
 """
     try:
         response = llm(
             prompt,
             max_tokens=140,
             temperature=0.1,
-            stop=["<end_of_turn>", "<start_of_turn>"],
+            stop=["<|im_end|>", "<|im_start|>"],
             echo=False
         )
         raw    = response['choices'][0].get('text', '').strip()
@@ -1288,7 +1347,7 @@ def extract_controversy_statement(llm, canonical_name, context):
     if llm is None:
         return "Controversial statement reported in the news."
 
-    prompt = f"""<start_of_turn>user
+    prompt = f"""<|im_start|>user
 Analyze the news text below. Find the controversial statement, unscientific claim, or verbal gaffe directly made by "{canonical_name}".
 Extract and rephrase it into a single, highly concise, objective sentence (maximum 15 words) starting with their name.
 (Example: "Narendra Modi claimed cloud cover could help jets evade radar.")
@@ -1298,15 +1357,15 @@ Text: {context[:1800]}
 Return ONLY a JSON object with this exact field:
 {{"statement": "the single concise sentence summary"}}
 No explanation. No extra text.
-<end_of_turn>
-<start_of_turn>model
+<|im_end|>
+<|im_start|>assistant
 """
     try:
         response = llm(
             prompt,
             max_tokens=100,
             temperature=0.1,
-            stop=["<end_of_turn>", "<start_of_turn>"],
+            stop=["<|im_end|>", "<|im_start|>"],
             echo=False
         )
         raw    = response['choices'][0].get('text', '').strip()
@@ -1549,7 +1608,7 @@ def discover_new_entities(articles, entities, nlp, llm):
             })
             continue
 
-        extraction_prompt = f"""<start_of_turn>user
+        extraction_prompt = f"""<|im_start|>user
 You are extracting a profile for ONE specific person named "{name}".
 Use ONLY facts about {name} themselves — never facts about people they meet, criticise,
 attack, succeed, praise, or merely refer to.
@@ -1582,15 +1641,15 @@ Return ONLY this JSON (no extra text):
   "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader" or "generic_politician",
   "confidence": "high" or "medium" or "low"
 }}
-<end_of_turn>
-<start_of_turn>model
+<|im_end|>
+<|im_start|>assistant
 """
         try:
             response = llm(
                 extraction_prompt,
                 max_tokens=200,
                 temperature=0.0,
-                stop=["<end_of_turn>", "<start_of_turn>"],
+                stop=["<|im_end|>", "<|im_start|>"],
                 echo=False
             )
             raw    = response['choices'][0].get('text', '').strip()
@@ -2205,8 +2264,13 @@ def main():
     import sys
     args = sys.argv[1:]
     
-    # Process mode options: "--process", "--commit-sheet", "--only-consistency", or default (both)
+    # Process mode options: "--process", "--commit-sheet", "--only-consistency",
+    # "--benchmark-threads", or default (both)
     mode = "both"
+    if "--benchmark-threads" in args:
+        logging.info("--- Thread benchmark only ---")
+        benchmark_threads()
+        return
     if "--process" in args:
         mode = "process"
     elif "--commit-sheet" in args:
@@ -2242,7 +2306,7 @@ def main():
             with open(pending_file, 'r') as f:
                 batch_updates = json.load(f)
             logging.info(f"Loaded {len(batch_updates)} pending updates from disk.")
-            commit_sheet_updates(conn, batch_updates)
+            conn = commit_sheet_updates(conn, batch_updates)
             # Remove the file so we don't apply it again
             os.remove(pending_file)
             logging.info("Removed pending_sheet_updates.json")
@@ -2421,7 +2485,7 @@ def main():
                 logging.warning(f"Failed to write GITHUB_OUTPUT: {e}")
     elif mode == "both":
         # Commit immediately for manual/local testing
-        commit_sheet_updates(conn, batch_updates)
+        conn = commit_sheet_updates(conn, batch_updates)
 
     conn.close()
     elapsed = round(time.time() - start_time, 2)

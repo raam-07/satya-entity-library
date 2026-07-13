@@ -55,22 +55,27 @@ jobs:
         run: |
           python scratch/test_bridge_sync.py
 
-      - name: Cache Gemma Model
+      - name: Free disk space (Qwen needs ~11GB)
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup /opt/hostedtoolcache/CodeQL
+          df -h /
+
+      - name: Cache Gate Model
         id: cache-model
         uses: actions/cache@v4
         with:
           path: ./models
-          key: gemma-2-9b-it-Q6_K
+          key: qwen-14b-local-models-v3-q5km  # same key as timeline/promise repos would use; per-repo cache but consistent naming
 
-      - name: Download Gemma Model
+      - name: Download Gate Model (Qwen 14B)
         if: steps.cache-model.outputs.cache-hit != 'true'
         run: |
           mkdir -p ./models
           python -c "
           from huggingface_hub import hf_hub_download
           hf_hub_download(
-            repo_id='bartowski/gemma-2-9b-it-GGUF',
-            filename='gemma-2-9b-it-Q6_K.gguf',
+            repo_id='bartowski/Qwen2.5-14B-Instruct-GGUF',
+            filename='Qwen2.5-14B-Instruct-Q5_K_M.gguf',
             local_dir='./models'
           )
           "
