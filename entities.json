@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6190,7 +6190,7 @@
         "state": "West Bengal",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 196,
+        "criminal_cases_in_news": 201,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7570,9 +7570,44 @@
             "source_title": "Suspect Arrested In Ex-UK MP Ann Widdecombe Murder Case Released: No Longer Part Of Probe",
             "scraped_at": "2026-07-11 08:02:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "NSW fires: arson squad investigating whether bushfire that destroyed 16 homes was deliberately lit | Bushfires | The Guardian **NSW Rural Fire Service (RFS)** commissioner Trent Curtin stated that the",
+            "source_url": "https://www.theguardian.com/australia-news/2025/dec/09/nsw-fires-bushfire-arson-squad-investigating-koolewong-fire",
+            "source_title": "NSW fires: arson squad investigating whether bushfire that destroyed 16 homes was deliberately lit | Bushfires | The Guardian",
+            "scraped_at": "2025-12-08 20:29:34",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Lionel Messi event organiser detained, trying to ensure refunds for fans: West Bengal DGP - The Hindu **Shatadru Dutta**, the organizer of a football event featuring **Lionel Messi** in Kolkata, has b",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/lionel-messi-event-organiser-detained-trying-to-ensure-refunds-for-fans-west-bengal-dgp/article70392077.ece",
+            "source_title": "Lionel Messi event organiser detained, trying to ensure refunds for fans: West Bengal DGP - The Hindu",
+            "scraped_at": "2025-12-13 04:53:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Messi event chaos: Inquiry panel members reach Salt Lake stadium to carry out inspection - The Hindu **Mamata Banerjee**, West Bengal Chief Minister, formed a committee to investigate the chaos that o",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/messi-event-chaos-inquiry-panel-members-salt-lake-stadium-inspection-justice-ashim-kumar-ray/article70395082.ece",
+            "source_title": "Messi event chaos: Inquiry panel members reach Salt Lake stadium to carry out inspection - The Hindu",
+            "scraped_at": "2025-12-14 01:52:24",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'I don't know': Brown University president draws flak for cluelessness after shooting; 'Her yearly salary is $3.1 million' - The Times of India **Christina H Paxson**, president of **Brown University*",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/i-dont-know-brown-university-president-draws-flak-for-cluelessness-after-shooting-her-yearly-salary-is-3-1-million/articleshow/125961185.cms",
+            "source_title": "'I don't know': Brown University president draws flak for cluelessness after shooting; 'Her yearly salary is $3.1 million' - The Times of India",
+            "scraped_at": "2025-12-14 08:16:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Office boy falls off bike, run over by college bus - The Hindu **Sanjay alias Nimai Bakti**, a 39-year-old office boy from Assam, was killed in a road accident on December 13th.  The incident occurred",
+            "source_url": "https://www.thehindu.com/news/cities/Hyderabad/office-boy-falls-off-bike-run-over-by-college-bus/article70396215.ece",
+            "source_title": "Office boy falls off bike, run over by college bus - The Hindu",
+            "scraped_at": "2025-12-14 11:18:30",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-11",
+        "criminal_last_updated": "2026-07-13",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
