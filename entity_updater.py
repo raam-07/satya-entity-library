@@ -196,9 +196,16 @@ def fetch_articles(conn):
                        party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
                        topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
                        classified_at, status 
-                FROM articles 
-                WHERE status = 'classified' 
-                   OR (status IN ('entity_processed', 'processed') AND scraped_at >= ?)
+                FROM articles INDEXED BY idx_articles_status_scraped
+                WHERE status = 'classified'
+                UNION ALL
+                SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
+                       category, sentiment, sentiment_target, rephrased_article, 
+                       party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
+                       topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
+                       classified_at, status 
+                FROM articles INDEXED BY idx_articles_scraped
+                WHERE status IN ('entity_processed', 'processed') AND scraped_at >= ?
             """, (cutoff_timestamp,))
         rows = cursor.fetchall()
     except Exception as e:
