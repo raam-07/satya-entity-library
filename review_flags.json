@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 06:50:31.701498",
+  "generated_at": "2026-07-13 06:14:37.434443",
   "summary": {
     "cm_updates_applied": 3,
     "party_updates_applied": 2,
@@ -17,7 +17,7 @@
       "type": "cm_detection",
       "state": "Bihar",
       "candidate": "Samrat Choudhary",
-      "confidence": 0.42,
+      "confidence": 0.56,
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "p 11 new satellite townships in the state, prohibiting land sales and construction until a Master Plan is prepared. In his first Cabinet meeting after assuming the post on Wednesday (April 22, 2026), "
