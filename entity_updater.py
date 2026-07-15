@@ -37,7 +37,7 @@ ENTITIES_OUTPUT_PATH    = './entities.json'
 REVIEW_FLAGS_PATH       = './review_flags.json'
 CANONICALIZE_AUDIT_PATH = './canonicalize_audit.json'
 
-WINDOW_CM_PARTY_DAYS     = 90
+WINDOW_CM_PARTY_DAYS     = 30
 WINDOW_PROMISES_DAYS     = 180
 WINDOW_CRIMINAL_DAYS     = 9999
 WINDOW_NEW_ENTITIES_DAYS = 30
@@ -192,9 +192,9 @@ def fetch_articles(conn):
                 WHERE status IN ('classified', 'entity_processed', 'processed')
             """)
         else:
-            # Optimize: Only fetch unprocessed articles OR processed articles from the last 90 days
+            # Optimize: Only fetch unprocessed articles OR processed articles from the last 30 days
             import time
-            cutoff_timestamp = int(time.time()) - 90 * 24 * 3600
+            cutoff_timestamp = int(time.time()) - 30 * 24 * 3600
             cursor.execute("""
                 SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
                        category, sentiment, sentiment_target, rephrased_article, 
@@ -202,7 +202,7 @@ def fetch_articles(conn):
                        topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
                        classified_at, status 
                 FROM articles INDEXED BY idx_articles_status_scraped
-                WHERE status = 'classified'
+                WHERE status = 'classified' AND scraped_at >= ?
                 UNION ALL
                 SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
                        category, sentiment, sentiment_target, rephrased_article, 
@@ -211,7 +211,7 @@ def fetch_articles(conn):
                        classified_at, status 
                 FROM articles INDEXED BY idx_articles_scraped
                 WHERE status IN ('entity_processed', 'processed') AND scraped_at >= ?
-            """, (cutoff_timestamp,))
+            """, (cutoff_timestamp, cutoff_timestamp))
         rows = cursor.fetchall()
     except Exception as e:
         logging.error(f"Failed to query articles from database: {e}")
