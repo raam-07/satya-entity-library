@@ -2783,8 +2783,8 @@ def main():
         # Returns batch updates list.
         batch_updates = canonicalize_ministers_in_sheet(conn, unprocessed_chunk, entities, llm)
 
-        # Step 3: Run promise extraction on newly canonicalized chunk
-        new_promises = extract_promises(unprocessed_chunk, entities, nlp, llm)
+        # Step 3: Run promise extraction on newly canonicalized chunk (Disabled: redundant legacy step)
+        new_promises = []
 
     # Step 3.5: Criminal/controversy detection.
     # Normally scans only the new chunk (incidents now MERGE, so history persists).
