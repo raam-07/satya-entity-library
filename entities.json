@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 3,
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7960,6 +7960,24 @@
             "scraped_at": "2026-01-17 02:14:02"
           }
         ]
+      },
+      {
+        "name": "Sumit Kapoor",
+        "role": "Former Chief Minister of Karnataka",
+        "party": "",
+        "state": "Karnataka",
+        "aliases": [
+          "Kapoor"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sumit_Kapoor",
+        "image_placeholder": "sumit_kapoor",
+        "auto_added": true,
+        "auto_added_on": "2026-07-15",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
       }
     ],
     "parties": [

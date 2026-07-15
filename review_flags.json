@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-07-15 21:12:30.045536",
+  "generated_at": "2026-07-15 22:17:00.272142",
   "summary": {
-    "cm_updates_applied": 4,
+    "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
-    "entities_enriched": 23,
+    "entities_enriched": 1,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.69,
+      "mentions": 9,
+      "reason": "Below auto-update threshold",
+      "context": "ailway General Manager, and other officials were also present. Click here to join Express Pune WhatsApp channel and get a curated list of our stories Railway Minister Ashwini Vaishnaw and Maharashtra "
+    },
     {
       "type": "cm_detection",
       "state": "Delhi",
