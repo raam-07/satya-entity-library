@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-13",
+    "last_updated": "2026-07-15",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 3,
+      "cm_updates": 4,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1384,7 +1384,9 @@
         "role": "Union Minister for Coal & Mines",
         "party": "BJP",
         "state": null,
-        "aliases": [],
+        "aliases": [
+          "G. Reddy"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -2746,7 +2748,9 @@
         "role": "leader of the VCK",
         "party": "VCK",
         "state": "Tamil Nadu",
-        "aliases": [],
+        "aliases": [
+          "Thirumavalavan"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "auto_added": true,
@@ -2761,7 +2765,9 @@
         "role": "Trinamool Congress general secretary",
         "party": "TMC",
         "state": "West Bengal",
-        "aliases": [],
+        "aliases": [
+          "Banerjee"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 17,
         "auto_added": true,
@@ -2928,7 +2934,9 @@
         "role": "President of Peoples Democratic Party",
         "party": "PDP",
         "state": "Jammu and Kashmir",
-        "aliases": [],
+        "aliases": [
+          "Mufti"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3103,7 +3111,9 @@
         "role": "Chief Minister of Arunachal Pradesh",
         "party": "BJP",
         "state": "Arunachal Pradesh",
-        "aliases": [],
+        "aliases": [
+          "Khandu"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3120,7 +3130,10 @@
         "role": "Chief Minister of Assam",
         "party": "BJP",
         "state": "Assam",
-        "aliases": [],
+        "aliases": [
+          "Himanta Sarma",
+          "Sarma"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 7,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3321,7 +3334,9 @@
         "role": "Chief Minister of Chhattisgarh",
         "party": "BJP",
         "state": "Chhattisgarh",
-        "aliases": [],
+        "aliases": [
+          "Vishnu Sai"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3345,7 +3360,9 @@
         "role": "Chief Minister of Goa",
         "party": "BJP",
         "state": "Goa",
-        "aliases": [],
+        "aliases": [
+          "Sawant"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3388,7 +3405,10 @@
         "role": "Chief Minister of Haryana",
         "party": "BJP",
         "state": "Haryana",
-        "aliases": [],
+        "aliases": [
+          "Nayab Saini",
+          "Saini"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3498,7 +3518,9 @@
         "role": "Chief Minister of Karnataka",
         "party": "INC",
         "state": "Karnataka",
-        "aliases": [],
+        "aliases": [
+          "Shivakumar"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -3664,7 +3686,9 @@
         "role": "Chief Minister of Kerala",
         "party": "INC",
         "state": "Kerala",
-        "aliases": [],
+        "aliases": [
+          "Satheesan"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 1,
         "auto_added": true,
@@ -4016,7 +4040,9 @@
         "role": "Chief Minister of Manipur",
         "party": "BJP",
         "state": "Manipur",
-        "aliases": [],
+        "aliases": [
+          "N. Singh"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4042,7 +4068,9 @@
         "role": "Chief Minister of Meghalaya",
         "party": "NPP",
         "state": "Meghalaya",
-        "aliases": [],
+        "aliases": [
+          "Sangma"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4093,7 +4121,9 @@
         "role": "Chief Minister of Odisha",
         "party": "BJP",
         "state": "Odisha",
-        "aliases": [],
+        "aliases": [
+          "Majhi"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4244,7 +4274,10 @@
         "role": "Chief Minister of Sikkim",
         "party": "SKM",
         "state": "Sikkim",
-        "aliases": [],
+        "aliases": [
+          "Prem Tamang",
+          "Tamang"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4344,6 +4377,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-blackmailed-children-by-appealing-to-them-two-election-petitioners-allege-before-madras-high-court/article71192440.ece",
             "source_title": "Chief Minister Vijay “blackmailed” children by appealing to them, two election petitioners allege before Madras High Court - The Hindu",
             "scraped_at": "2026-07-07 21:10:28"
+          },
+          {
+            "incident_text": "C. Joseph Vijay termed the DMK the 'vending machine' of corruption.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-karur-visit-live-updates-stampede-victim-families-meet-tvk-party-meeting-job-order/article71205273.ece",
+            "source_title": "Vijay Karur visit LIVE: Chief Minister announces memorial for stampede victims on behalf of TVK - The Hindu",
+            "scraped_at": "2026-07-10 09:56:58"
           }
         ]
       },
@@ -4680,7 +4719,10 @@
         "role": "Chief Minister of Uttarakhand",
         "party": "BJP",
         "state": "Uttarakhand",
-        "aliases": [],
+        "aliases": [
+          "Pushkar Dhami",
+          "Dhami"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 1,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4706,7 +4748,9 @@
         "role": "Chief Minister of West Bengal",
         "party": "BJP",
         "state": "West Bengal",
-        "aliases": [],
+        "aliases": [
+          "Adhikari"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 11,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -4950,7 +4994,9 @@
         "role": "Chief Minister of Puducherry",
         "party": "AINRC",
         "state": "Puducherry",
-        "aliases": [],
+        "aliases": [
+          "Rangasamy"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -5013,7 +5059,9 @@
         "role": "MLA",
         "party": "AIADMK",
         "state": "Tamil Nadu",
-        "aliases": [],
+        "aliases": [
+          "Velumani"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -5046,7 +5094,9 @@
         "role": "Rajya Sabha candidate",
         "party": "INC",
         "state": null,
-        "aliases": [],
+        "aliases": [
+          "Natarajan"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 3,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -5278,7 +5328,9 @@
         "role": "Union Minister of State / MP",
         "party": "BJP",
         "state": "Assam",
-        "aliases": [],
+        "aliases": [
+          "Margherita"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -6172,7 +6224,9 @@
         "role": "Former Chief Minister of Jammu",
         "party": "",
         "state": "Jammu",
-        "aliases": [],
+        "aliases": [
+          "Abdullah"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -6188,7 +6242,9 @@
         "role": "Former Chief Minister of West Bengal",
         "party": "",
         "state": "West Bengal",
-        "aliases": [],
+        "aliases": [
+          "Saturday"
+        ],
         "criminal_cases": 0,
         "criminal_cases_in_news": 201,
         "affidavit_url": "https://affidavit.eci.gov.in",
@@ -8612,7 +8668,9 @@
         "cm": "Bhupendra Patel",
         "region": "West",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-05-23"
+        "party_last_updated": "2026-05-23",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-07-15"
       },
       {
         "name": "Haryana",
@@ -8682,7 +8740,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-13"
+        "cm_last_updated": "2026-07-15"
       },
       {
         "name": "Manipur",
@@ -8733,8 +8791,8 @@
         "region": "North",
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-13",
-        "cm_confidence": 0.78,
-        "cm_last_updated": "2026-07-13"
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-07-15"
       },
       {
         "name": "Rajasthan",
@@ -8772,7 +8830,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-09"
+        "party_last_updated": "2026-07-15"
       },
       {
         "name": "Tripura",
@@ -8811,10 +8869,10 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.96,
-        "party_last_updated": "2026-07-07",
-        "cm_confidence": 0.93,
-        "cm_last_updated": "2026-06-16"
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-07-15",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-07-15"
       },
       {
         "name": "Delhi",

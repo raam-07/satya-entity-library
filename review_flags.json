@@ -1,105 +1,29 @@
 {
-  "generated_at": "2026-07-13 07:19:10.239968",
+  "generated_at": "2026-07-15 21:12:30.045536",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 4,
+    "central_updates_applied": 0,
+    "role_updates_applied": 0,
+    "entities_enriched": 23,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 0,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 11
+    "items_needing_review": 3
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Bihar",
-      "candidate": "Samrat Choudhary",
-      "confidence": 0.56,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "p 11 new satellite townships in the state, prohibiting land sales and construction until a Master Plan is prepared. In his first Cabinet meeting after assuming the post on Wednesday (April 22, 2026), "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Tamil Nadu",
-      "candidate": "C. Joseph Vijay",
-      "confidence": 0.4,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "eting with **Governor Rajendra Vishwanath Arlekar** and receiving unconditional support from the **VCK** and the **IUML**. This marks the fourth time Mr. Vijay has met with the Governor in four days. "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Haryana",
-      "candidate": "Bhagwant Mann",
-      "confidence": 0.75,
-      "reason": "Gemma rejected",
-      "context": "AP) government in Punjab, Haryana Chief Minister Nayab Singh Saini on Friday (May 8, 2026) declared that Punjab had descended into a condition “worse than West Bengal”, accusing the government led by "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.54,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "Union Home Minister. However, the party's victory has also sparked concerns about its impact on Assam's social fabric, particularly its divisive policies towards Bengali-speaking Muslim communities. H"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "Siddaramaiah",
-      "confidence": 0.53,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "rom the Public Works Department and the India Meteorological Department consulted. A day after seven people were killed when a compound wall of the Bowring and Lady Curzon Hospital collapsed on them, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
+      "state": "Delhi",
+      "candidate": "Rekha Gupta",
       "confidence": 0.5,
       "mentions": 4,
       "reason": "Below auto-update threshold",
-      "context": "global R&D center in the city in 1998, attracting other tech giants like Oracle, Google, Amazon, and Cognizant. This success has been a cornerstone of Naidu's political campaigns since then. In 1995, "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Uttar Pradesh",
-      "candidate": "Yogi Adityanath",
-      "confidence": 0.56,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "villages for the first time.  **Adityanath** emphasized the importance of accurate census data for improving infrastructure, education, healthcare, social security, and welfare schemes. Uttar Pradesh "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Rajasthan",
-      "candidate": "Mohan Yadav",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "Madhya Pradesh Removes Two-Child Norm For Government Employees **Madhya Pradesh**'s government has reversed its two-child restriction policy for government servants.  Chief Minister Dr Mohan Yadav ord"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Gujarat",
-      "candidate": "Bhupendra Patel",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "target of planting 5.50 crore trees across the state under the 'Ek Pad Maa Ke Naam' campaign. **Kamal Saiyed**, a correspondent for The Indian Express, reported on this event. SETTING ASIDE protocol, "
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.96,
-      "reason": "Gemma rejected",
-      "context": "Narendra Modi’s BJP wins election in West Bengal for the first time | India | The Guardian The **Bharatiya Janata Party** (BJP) has won a resounding victory in West Bengal, marking the first time the "
+      "context": "Delhi Unveils Health Scheme For 2.7 Lakh Construction Workers **Delhi's** Chief Minister Rekha Gupta announced the launch of a new 'Delhi Building and Construction Workers Health Scheme' to provide he"
     },
     {
       "type": "ruling_party",
@@ -107,7 +31,15 @@
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "Congress government spending more time to solve its internal dispute rather than people’s problems, says Prime Minister Narendra Modi - The Hindu **Prime Minister Narendra Modi** criticized the **Cong"
+      "context": "is attributed to strategic vote management and potential cross-voting from both the **BJP** and **JDS**.  This outcome has been hailed as a major political victory for the **Congress** leadership. - C"
+    },
+    {
+      "type": "entity_enrichment",
+      "person": "On Saturday",
+      "candidate_party": "INC",
+      "mentions": 35,
+      "share": 0.32,
+      "reason": "Party evidence below auto threshold"
     }
   ]
 }
