@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6246,7 +6246,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 201,
+        "criminal_cases_in_news": 203,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7661,9 +7661,23 @@
             "source_title": "Office boy falls off bike, run over by college bus - The Hindu",
             "scraped_at": "2025-12-14 11:18:30",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "SUV used by Gurgaon shooters changed hands 3 times in 4 years: Police | Delhi News - The Indian Express On Thursday night, **Gurgaon police** killed four and injured one of five suspected members of t",
+            "source_url": "https://indianexpress.com/article/cities/delhi/gurgaon-encounter-suv-trail-deepak-nandal-gang-10781813/",
+            "source_title": "SUV used by Gurgaon shooters changed hands 3 times in 4 years: Police | Delhi News - The Indian Express",
+            "scraped_at": "2026-07-11 10:03:51",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "State won’t oppose Kamduni rape-murder victim’s kin in Supreme Court, will give them legal aid: Bengal CM - The Hindu On July 11, 2026, **Suvendu Adhikari**, West Bengal Chief Minister, alleged that t",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/state-wont-oppose-kamduni-rape-murder-victims-kin-in-supreme-court-will-give-them-legal-aid-bengal-cm/article71210128.ece",
+            "source_title": "State won’t oppose Kamduni rape-murder victim’s kin in Supreme Court, will give them legal aid: Bengal CM - The Hindu",
+            "scraped_at": "2026-07-11 11:16:36",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-07-13",
+        "criminal_last_updated": "2026-07-15",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -8889,7 +8903,7 @@
         "region": "East",
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-15",
-        "cm_confidence": 0.75,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-07-15"
       },
       {
