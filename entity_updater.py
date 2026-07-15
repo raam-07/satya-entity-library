@@ -1136,6 +1136,371 @@ def detect_ruling_parties(articles, entities, nlp, llm):
     return party_updates, party_flags
 
 
+# --- 2b. Central Government Detection (PM / President) ---
+# A national office change is rare and saturates the news, so the evidence bar
+# is deliberately much higher than for state CMs: more mentions, higher
+# consensus, and multi-context LLM validation. Unknown candidates are never
+# auto-added at this level — they go to review.
+CENTRAL_MIN_MENTIONS   = 10    # vs 3 for state CMs
+CENTRAL_AUTO_THRESHOLD = 0.85  # vs 0.75 for state CMs
+CENTRAL_VALIDATE_CONTEXTS = 3  # distinct contexts sampled; majority must pass
+
+# Strictly capitalized person-name capture (patterns run WITHOUT IGNORECASE so
+# 'was'/'of India' can never be swallowed into a name). Office keywords use
+# explicit case classes instead.
+_NM = r'((?:[A-Z]\.\s*)*[A-Z][a-z]+(?:\s+(?:[A-Z]\.\s*)*[A-Z][a-z]+){1,3})'
+_PM = r'[Pp]rime\s+[Mm]inister'
+_PR = r'[Pp]resident\s+of\s+India'
+_SW = r'(?:was\s+)?(?:sworn\s+in|[Tt]akes?\s+oath|took\s+oath)\s+as\s+(?:the\s+)?(?:new\s+)?'
+
+CENTRAL_OFFICES = {
+    "prime_minister": {
+        "label": "Prime Minister of India",
+        "keywords": ["prime minister"],
+        "patterns": [
+            _NM + r'\s+' + _SW + _PM,
+            r'[Nn]ew\s+' + _PM + r'\s+' + _NM,
+            _NM + r'\s*,\s*(?:the\s+)?' + _PM + r'\s+of\s+India',
+            _PM + r'\s+' + _NM + r'\s+of\s+India',
+        ],
+    },
+    "president": {
+        "label": "President of India",
+        "keywords": ["president of india", "rashtrapati"],
+        "patterns": [
+            _NM + r'\s+' + _SW + _PR,
+            _NM + r'\s*,\s*(?:the\s+)?' + _PR,
+        ],
+    },
+}
+
+_CAPTURE_STOPWORDS = {'of', 'india', 'the', 'new', 'was', 'at', 'in', 'as',
+                      'minister', 'president', 'prime', 'rashtrapati', 'bhavan'}
+
+def _valid_person_capture(person):
+    words = person.split()
+    if not (2 <= len(words) <= 4):
+        return False
+    return not any(w.lower().strip('.') in _CAPTURE_STOPWORDS for w in words)
+
+def _lookup_person_party(entities, person):
+    groups = (
+        entities['india'].get('cabinet_ministers', []) +
+        entities['india'].get('opposition_leaders', []) +
+        entities['india'].get('state_chief_ministers', []) +
+        entities['india'].get('generic_politicians', [])
+    )
+    for m in groups:
+        names = [m.get('name', '')] + m.get('aliases', [])
+        if any(n and n.lower() == person.lower() for n in names):
+            return m.get('party', '') or None
+    return None
+
+def detect_central_government(articles, entities, nlp, llm):
+    logging.info("--- Detecting central government (PM / President) ---")
+    window_articles = filter_by_window(articles, WINDOW_CM_PARTY_DAYS)
+
+    minister_lookup = build_minister_lookup(entities)
+    office_candidates = {office: defaultdict(int) for office in CENTRAL_OFFICES}
+    office_contexts   = {office: defaultdict(list) for office in CENTRAL_OFFICES}
+
+    for article in window_articles:
+        if article.get('source') in NON_INDIAN_SOURCES:
+            continue
+        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1200]}"
+        text_lower = text.lower()
+
+        # Foreign-leader guard: a US/foreign 'president/PM' story must not vote.
+        if re.search(r'\bus president\b|\bu\.s\. president\b|white house|president of the united states|president of (?:pakistan|china|russia|france|sri lanka|nepal|bangladesh)', text_lower):
+            continue
+
+        for office, cfg in CENTRAL_OFFICES.items():
+            if not any(k in text_lower for k in cfg['keywords']):
+                continue
+            for pattern in cfg['patterns']:
+                for match in re.finditer(pattern, text):
+                    full_match_lower = match.group(0).lower()
+                    pre_text = text[max(0, match.start()-30):match.start()].lower()
+                    if any(w in full_match_lower or w in pre_text for w in ['former', 'ex-', ' ex ', 'late', 'previous', 'past', 'outgoing']):
+                        continue
+                    person = match.group(1).strip() if match.lastindex >= 1 else None
+                    if not person or len(person) < 5 or not _valid_person_capture(person):
+                        continue
+                    canonical = minister_lookup.get(person.lower())
+                    if not canonical:
+                        person_lower = person.lower()
+                        for alias, name in minister_lookup.items():
+                            if re.search(r'\b' + re.escape(alias) + r'\b', person_lower) or \
+                               re.search(r'\b' + re.escape(person_lower) + r'\b', alias):
+                                canonical = name
+                                break
+                    # National office: unknown people are review-only, but still
+                    # counted under their raw name so the flag carries evidence.
+                    key = canonical or person
+                    start_idx = max(0, match.start() - 200)
+                    end_idx = min(len(text), match.end() + 200)
+                    office_candidates[office][key] += 1
+                    office_contexts[office][key].append(text[start_idx:end_idx].strip())
+
+    central_updates = []
+    central_flags   = []
+
+    for office, candidates in office_candidates.items():
+        if not candidates:
+            continue
+        label          = CENTRAL_OFFICES[office]['label']
+        total_mentions = sum(candidates.values())
+        top_candidate  = max(candidates, key=candidates.get)
+        top_count      = candidates[top_candidate]
+        confidence     = top_count / total_mentions if total_mentions > 0 else 0
+        contexts       = office_contexts[office][top_candidate]
+
+        current = (entities['india'].get('central_government', {}) or {}).get(office, '')
+        if current and current.strip().lower() == top_candidate.strip().lower():
+            continue  # no change — nothing to do
+
+        if top_count < CENTRAL_MIN_MENTIONS:
+            if top_count >= 3:
+                central_flags.append({
+                    "type": "central_government", "office": office, "candidate": top_candidate,
+                    "confidence": round(confidence, 2), "mentions": top_count,
+                    "reason": f"Below {CENTRAL_MIN_MENTIONS}-mention floor for a national office",
+                    "context": contexts[0][:200] if contexts else "",
+                })
+            continue
+
+        known = top_candidate.lower() in minister_lookup or any(
+            top_candidate.lower() == v.lower() for v in minister_lookup.values())
+
+        if confidence >= CENTRAL_AUTO_THRESHOLD and known:
+            # Majority vote across up to 3 distinct contexts — one lucky
+            # sentence must not change the PM of record.
+            sample = contexts[:CENTRAL_VALIDATE_CONTEXTS]
+            passes = 0
+            for ctx in sample:
+                ok, _conf = gemma_validate(
+                    llm,
+                    f"Is '{top_candidate}' explicitly described as currently serving as (or newly sworn in as) the {label} in this text?",
+                    ctx
+                )
+                if ok:
+                    passes += 1
+            if passes * 2 > len(sample):
+                central_updates.append({
+                    "office": office, "person": top_candidate,
+                    "confidence": round(confidence, 2), "mentions": top_count,
+                    "validated_contexts": f"{passes}/{len(sample)}",
+                })
+                logging.info(f"CENTRAL UPDATE: {label} → {top_candidate} (confidence {confidence:.2f}, {top_count} mentions, {passes}/{len(sample)} contexts validated)")
+            else:
+                central_flags.append({
+                    "type": "central_government", "office": office, "candidate": top_candidate,
+                    "confidence": round(confidence, 2), "mentions": top_count,
+                    "reason": f"LLM validated only {passes}/{len(sample)} contexts",
+                    "context": sample[0][:200] if sample else "",
+                })
+        else:
+            central_flags.append({
+                "type": "central_government", "office": office, "candidate": top_candidate,
+                "confidence": round(confidence, 2), "mentions": top_count,
+                "reason": "Unknown candidate (needs manual add)" if not known else "Below auto-update consensus threshold",
+                "context": contexts[0][:200] if contexts else "",
+            })
+
+    return central_updates, central_flags
+
+
+# --- 2c. Union Cabinet Portfolio Changes (reshuffles) ---
+PORTFOLIO_MIN_MENTIONS   = 5
+PORTFOLIO_AUTO_THRESHOLD = 0.70
+
+_PORTFOLIO = r'([A-Z][A-Za-z]+(?:\s+(?:and\s+|&\s+)?[A-Z][A-Za-z]+){0,3})'
+
+PORTFOLIO_PATTERNS = [
+    _NM + r'\s+' + _SW + r'(?:Union\s+)?[Mm]inister\s+(?:of|for)\s+' + _PORTFOLIO,
+    _NM + r'\s+takes?\s+charge\s+(?:of|as)\s+(?:the\s+)?(?:Union\s+)?' + _PORTFOLIO + r'\s+[Mm]inist(?:ry|er)',
+    _NM + r'\s+(?:was\s+)?appointed\s+(?:as\s+)?(?:the\s+)?(?:new\s+)?(?:Union\s+)?' + _PORTFOLIO + r'\s+[Mm]inister',
+    _NM + r'\s+(?:gets|was\s+allocated|was\s+assigned)\s+(?:the\s+)?' + _PORTFOLIO + r'\s+portfolio',
+]
+
+def detect_portfolio_changes(articles, entities, nlp, llm):
+    """Cabinet reshuffles: an EXISTING minister's role changes. Only people
+    already in the entity library are eligible — new faces are the job of
+    discover_new_entities. Same evidence-aggregation discipline as CM/PM."""
+    logging.info("--- Detecting Union cabinet portfolio changes ---")
+    window_articles = filter_by_window(articles, WINDOW_CM_PARTY_DAYS)
+    minister_lookup = build_minister_lookup(entities)
+
+    pairs    = defaultdict(int)            # (person, portfolio) -> mentions
+    contexts = defaultdict(list)
+
+    for article in window_articles:
+        if article.get('source') in NON_INDIAN_SOURCES or article.get('category') == 'international':
+            continue
+        text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1200]}"
+        low = text.lower()
+        if 'minister' not in low and 'portfolio' not in low:
+            continue
+        for pattern in PORTFOLIO_PATTERNS:
+            for match in re.finditer(pattern, text):
+                pre = text[max(0, match.start()-30):match.start()].lower()
+                if any(w in match.group(0).lower() or w in pre for w in ['former', 'ex-', ' ex ', 'late', 'previous', 'outgoing']):
+                    continue
+                person = (match.group(1) or '').strip()
+                portfolio = (match.group(2) or '').strip() if match.lastindex >= 2 else ''
+                if not person or not portfolio or not _valid_person_capture(person):
+                    continue
+                # Chief/Prime ministers are handled by their own detectors.
+                if portfolio.lower() in ('chief', 'prime', 'union', 'state'):
+                    continue
+                canonical = minister_lookup.get(person.lower())
+                if not canonical:
+                    person_lower = person.lower()
+                    for alias, name in minister_lookup.items():
+                        if re.search(r'\b' + re.escape(alias) + r'\b', person_lower) or \
+                           re.search(r'\b' + re.escape(person_lower) + r'\b', alias):
+                            canonical = name
+                            break
+                if not canonical:
+                    continue  # unknown people: not this detector's job
+                key = (canonical, portfolio.title())
+                pairs[key] += 1
+                s, e = max(0, match.start()-200), min(len(text), match.end()+200)
+                contexts[key].append(text[s:e].strip())
+
+    # Consolidate per person: strongest portfolio must dominate that person's evidence
+    per_person = defaultdict(dict)
+    for (person, portfolio), count in pairs.items():
+        per_person[person][portfolio] = count
+
+    role_updates, role_flags = [], []
+    for person, folios in per_person.items():
+        total = sum(folios.values())
+        top = max(folios, key=folios.get)
+        count = folios[top]
+        confidence = count / total if total else 0
+        if count < PORTFOLIO_MIN_MENTIONS:
+            continue
+        new_role = f"Union Minister of {top}"
+        ctxs = contexts[(person, top)][:2]
+        if confidence >= PORTFOLIO_AUTO_THRESHOLD:
+            passes = 0
+            for ctx in ctxs:
+                ok, _c = gemma_validate(
+                    llm,
+                    f"Does this text explicitly say that '{person}' now holds (was sworn in, appointed, or took charge of) the {top} ministry/portfolio in the Union government?",
+                    ctx)
+                if ok:
+                    passes += 1
+            if passes * 2 > len(ctxs):
+                role_updates.append({"person": person, "role": new_role,
+                                     "confidence": round(confidence, 2), "mentions": count})
+                logging.info(f"PORTFOLIO UPDATE: {person} → {new_role} ({count} mentions, conf {confidence:.2f})")
+                continue
+        role_flags.append({"type": "portfolio_change", "person": person, "candidate_role": new_role,
+                           "confidence": round(confidence, 2), "mentions": count,
+                           "reason": "Below threshold or LLM validation failed",
+                           "context": ctxs[0][:200] if ctxs else ""})
+    return role_updates, role_flags
+
+
+# --- 2d. Enrich auto-added entities (party + safe aliases) ---
+COMMON_SURNAMES = {'singh', 'kumar', 'sharma', 'yadav', 'khan', 'patel', 'reddy',
+                   'gandhi', 'shah', 'rao', 'das', 'devi', 'verma', 'gupta',
+                   'joshi', 'mishra', 'pandey', 'nair', 'menon', 'iyer'}
+
+def enrich_auto_added_entities(articles, entities, llm):
+    """Fill in empty party/aliases on auto-discovered politicians using the
+    same news evidence that discovered them. Party needs >=3 co-mentions and a
+    70% share, validated by the LLM; aliases are mechanical and collision-safe."""
+    logging.info("--- Enriching auto-added entities (party/aliases) ---")
+    groups = (entities['india'].get('cabinet_ministers', []) +
+              entities['india'].get('opposition_leaders', []) +
+              entities['india'].get('state_chief_ministers', []) +
+              entities['india'].get('generic_politicians', []))
+    targets = [m for m in groups if m.get('auto_added') and (not m.get('party') or not m.get('aliases'))]
+    if not targets:
+        return 0, []
+
+    # Party alias map from the canonical party list
+    party_aliases = {}
+    for p in entities['india'].get('parties', []):
+        for alias in [p.get('name', '')] + p.get('aliases', []):
+            if alias:
+                party_aliases[alias.lower()] = p.get('name', alias)
+
+    minister_lookup = build_minister_lookup(entities)
+    window_articles = filter_by_window(articles, WINDOW_CM_PARTY_DAYS)
+    enriched, flags = 0, []
+
+    for m in targets:
+        name = m.get('name', '')
+        if not name:
+            continue
+        name_re = re.compile(r'\b' + re.escape(name) + r'\b', re.IGNORECASE)
+
+        # --- Party inference from co-mentions near the name ---
+        if not m.get('party'):
+            votes = defaultdict(int)
+            sample_ctx = {}
+            for article in window_articles:
+                text = f"{article.get('title', '')} {article.get('rephrased_article', '')} {article.get('content', '')[:1200]}"
+                for hit in name_re.finditer(text):
+                    nearby = text[max(0, hit.start()-120):hit.end()+120]
+                    nearby_lower = nearby.lower()
+                    for alias_lower, canonical in party_aliases.items():
+                        if len(alias_lower) < 3:
+                            continue
+                        if re.search((r'\b' + re.escape(alias_lower) + r'\b') if alias_lower.isupper() else r'\b' + re.escape(alias_lower) + r'\b', nearby_lower):
+                            votes[canonical] += 1
+                            sample_ctx.setdefault(canonical, nearby)
+            if votes:
+                total = sum(votes.values())
+                top = max(votes, key=votes.get)
+                share = votes[top] / total
+                if votes[top] >= 3 and share >= 0.70:
+                    ok, _c = gemma_validate(
+                        llm,
+                        f"Does this text indicate that '{name}' belongs to or represents the party '{top}'?",
+                        sample_ctx.get(top, ''))
+                    if ok:
+                        m['party'] = top
+                        m['party_source'] = 'auto_evidence'
+                        enriched += 1
+                        logging.info(f"ENRICHED: {name} party → {top} ({votes[top]} co-mentions, {share:.0%} share)")
+                    else:
+                        flags.append({"type": "entity_enrichment", "person": name, "candidate_party": top,
+                                      "reason": "LLM rejected party evidence", "context": sample_ctx.get(top, '')[:200]})
+                elif votes[top] >= 2:
+                    flags.append({"type": "entity_enrichment", "person": name, "candidate_party": top,
+                                  "mentions": votes[top], "share": round(share, 2),
+                                  "reason": "Party evidence below auto threshold"})
+
+        # --- Mechanical, collision-safe aliases ---
+        if not m.get('aliases'):
+            aliases = []
+            words = name.split()
+            def safe(alias):
+                a = alias.lower()
+                return (len(a) >= 5 and a != name.lower()
+                        and a not in COMMON_SURNAMES
+                        and a not in minister_lookup)
+            if len(words) >= 3:
+                short = f"{words[0]} {words[-1]}"      # drop middle names
+                if safe(short):
+                    aliases.append(short)
+            if len(words) >= 2 and safe(words[-1]):     # bare surname, only if rare
+                aliases.append(words[-1])
+            if aliases:
+                m['aliases'] = aliases
+                for a in aliases:
+                    minister_lookup[a.lower()] = name
+                enriched += 1
+                logging.info(f"ENRICHED: {name} aliases → {aliases}")
+
+    return enriched, flags
+
+
 # --- 3. Promise Extraction (Canonicalised) ---
 def extract_promises(articles, entities, nlp, llm):
     logging.info("--- Extracting promises ---")
@@ -2164,7 +2529,43 @@ def enforce_database_consistency(entities):
     logging.info("--- Referential Integrity Enforced successfully ---")
 
 
-def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates=None):
+def apply_updates(entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates=None, central_updates=None, role_updates=None):
+    for update in (role_updates or []):
+        groups = (entities['india'].get('cabinet_ministers', []) +
+                  entities['india'].get('opposition_leaders', []) +
+                  entities['india'].get('state_chief_ministers', []) +
+                  entities['india'].get('generic_politicians', []))
+        for m in groups:
+            if m.get('name', '').lower() == update['person'].lower():
+                old_role = m.get('role', 'Unknown')
+                m['role'] = update['role']
+                m['role_confidence']   = update['confidence']
+                m['role_last_updated'] = str(datetime.now().date())
+                if old_role != update['role']:
+                    logging.info(f"APPLIED ROLE UPDATE: {update['person']} — {old_role} → {update['role']}")
+                break
+
+    for update in (central_updates or []):
+        cg = entities['india'].setdefault('central_government', {})
+        office = update['office']
+        old = cg.get(office, 'Unknown')
+        cg[office] = update['person']
+        cg[f'{office}_confidence']   = update['confidence']
+        cg[f'{office}_last_updated'] = str(datetime.now().date())
+        if old != update['person']:
+            logging.info(f"APPLIED CENTRAL UPDATE: {office} — {old} → {update['person']}")
+        # A new PM implies the ruling party at the Centre follows their party.
+        if office == 'prime_minister':
+            pm_party = _lookup_person_party(entities, update['person'])
+            if pm_party:
+                old_rp = cg.get('ruling_party', 'Unknown')
+                cg['ruling_party'] = pm_party
+                cg['ruling_party_last_updated'] = str(datetime.now().date())
+                if old_rp != pm_party:
+                    logging.info(f"APPLIED CENTRAL UPDATE: ruling_party — {old_rp} → {pm_party} (derived from new PM)")
+            else:
+                logging.warning("New PM applied but party unknown — ruling_party left unchanged, review recommended.")
+
     for update in cm_updates:
         for state in entities['india']['states']:
             if state['name'] == update['state']:
@@ -2434,8 +2835,18 @@ def main():
     party_updates, party_flags = detect_ruling_parties(cm_party_articles, entities, nlp, llm)
     all_flags.extend(party_flags)
 
+    central_updates, central_flags = detect_central_government(cm_party_articles, entities, nlp, llm)
+    all_flags.extend(central_flags)
+
+    role_updates, role_flags = detect_portfolio_changes(cm_party_articles, entities, nlp, llm)
+    all_flags.extend(role_flags)
+
+    enriched_count, enrich_flags = enrich_auto_added_entities(cm_party_articles, entities, llm)
+    all_flags.extend(enrich_flags)
+
     updated_entities = apply_updates(
-        entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates
+        entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates,
+        central_updates=central_updates, role_updates=role_updates
     )
 
     with open(ENTITIES_OUTPUT_PATH, 'w', encoding='utf-8') as f:
@@ -2446,6 +2857,9 @@ def main():
         "generated_at": str(datetime.now()),
         "summary": {
             "cm_updates_applied":        len(cm_updates),
+            "central_updates_applied":   len(central_updates),
+            "role_updates_applied":      len(role_updates),
+            "entities_enriched":         enriched_count,
             "party_updates_applied":     len(party_updates),
             "criminal_updates_applied":  len(criminal_updates),
             "gaffe_updates_applied":     len(gaffe_updates),
