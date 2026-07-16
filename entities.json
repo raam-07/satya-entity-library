@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2769,7 +2769,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 19,
+        "criminal_cases_in_news": 20,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -2906,6 +2906,13 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
             "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
             "scraped_at": "2026-07-15 09:15:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Calcutta High Court asks state for report on complaints against Abhishek Banerjee | Kolkata News - The Indian Express **Tanusree Bose** reported that **Abhishek Banerjee**, TMC MP, moved the Calcutta ",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/calcutta-high-court-asks-state-for-report-on-complaints-against-abhishek-banerjee-10788491/",
+            "source_title": "Calcutta High Court asks state for report on complaints against Abhishek Banerjee | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-15 20:36:52",
             "incident_type": "broad"
           }
         ],
@@ -4747,6 +4754,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
             "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
             "scraped_at": "2026-01-16 12:22:55"
+          },
+          {
+            "incident_text": "Yogi Adityanath said donation theft hurt devotees but should not defame Ayodhya.",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-donation-theft-has-hurt-rambhakts-but-using-it-to-defame-ayodhya-is-not-justified-yogi-10788561/",
+            "source_title": "Ram Temple donation ‘theft’ has hurt Rambhakts, but using it to defame Ayodhya is not justified: Yogi | Lucknow News - The Indian Express",
+            "scraped_at": "2026-07-15 23:34:36"
           }
         ],
         "criminal_cases_in_news": 1,
