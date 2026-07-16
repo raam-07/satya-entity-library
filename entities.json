@@ -2769,7 +2769,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 17,
+        "criminal_cases_in_news": 18,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -2893,9 +2893,16 @@
             "source_title": "West Bengal Govt to bring in law to auction properties of those involved in corruption, says Suvendu - The Hindu",
             "scraped_at": "2026-06-23 22:50:09",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "TMC's Abhishek Banerjee booked after woman loses leg, blames treatment at Sebaashray health camp - The Hindu On July 12, 2026, **Abhishek Banerjee**, a TMC MP from Diamond Harbour, was booked in a thi",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-booked-after-woman-loses-leg-blames-treatment-at-sebaashray-health-camp/article71213678.ece",
+            "source_title": "TMC's Abhishek Banerjee booked after woman loses leg, blames treatment at Sebaashray health camp - The Hindu",
+            "scraped_at": "2026-07-12 10:57:38",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-24",
+        "criminal_last_updated": "2026-07-16",
         "controversies": [
           {
             "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
