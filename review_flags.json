@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-16 20:31:24.596138",
+  "generated_at": "2026-07-16 21:10:21.037846",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 1,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -24,15 +24,6 @@
       "mentions": 9,
       "reason": "Below auto-update threshold",
       "context": "ailway General Manager, and other officials were also present. Click here to join Express Pune WhatsApp channel and get a curated list of our stories Railway Minister Ashwini Vaishnaw and Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Delhi",
-      "candidate": "Rekha Gupta",
-      "confidence": 0.4,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "Delhi Unveils Health Scheme For 2.7 Lakh Construction Workers **Delhi's** Chief Minister Rekha Gupta announced the launch of a new 'Delhi Building and Construction Workers Health Scheme' to provide he"
     },
     {
       "type": "cm_detection",
