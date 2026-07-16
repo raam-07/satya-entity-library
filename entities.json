@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -3685,6 +3685,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-to-take-steps-to-stop-fake-news/article71201786.ece",
             "source_title": "Karnataka government to take steps to stop fake news - The Hindu",
             "scraped_at": "2026-07-09 12:18:03"
+          },
+          {
+            "incident_text": "D K Shivakumar proposed allowing Karnataka lawmakers in Tirupati temple's first aarti.",
+            "source_url": "https://indianexpress.com/article/cities/bangalore/tirupati-aarti-row-ttd-rejects-dk-shivakumar-karnataka-proposal-10784920/",
+            "source_title": "‘Don’t make it a political arena’: Tirupati official slams Shivakumar’s ‘aarti’ plan | Bangalore News - The Indian Express",
+            "scraped_at": "2026-07-13 21:12:06"
           }
         ]
       },
@@ -5030,6 +5036,12 @@
             "source_url": "https://www.ndtv.com/india-news/omar-abdullahs-hiding-behind-court-jibe-at-bjp-over-rs-100-crore-notice-11766122#publisher=newsstand",
             "source_title": "Omar Abdullah's \"Hiding Behind Court\" Jibe At BJP Over Rs 100 Crore Notice",
             "scraped_at": "2026-07-13 16:06:46"
+          },
+          {
+            "incident_text": "Omar Abdullah vowed to counter-sue BJP leaders for slander.",
+            "source_url": "https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/",
+            "source_title": "Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim | India News - The Indian Express",
+            "scraped_at": "2026-07-13 21:12:34"
           }
         ]
       },
@@ -8098,6 +8110,12 @@
             "source_url": "https://indianexpress.com/article/cities/pune/look-at-performance-over-gender-inclusivity-in-armed-forces-ex-coas-manoj-naravane-10782296/",
             "source_title": "Look at performance over gender inclusivity in armed forces: Ex-CoAS Manoj Naravane | Pune News - The Indian Express",
             "scraped_at": "2026-07-11 18:32:40"
+          },
+          {
+            "incident_text": "On Saturday, Omar Abdullah alleged BJP offered Rs 20-30 crore to a Jammu MLA for defection.",
+            "source_url": "https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/",
+            "source_title": "Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim | India News - The Indian Express",
+            "scraped_at": "2026-07-13 21:12:34"
           }
         ]
       },
