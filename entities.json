@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -911,7 +911,15 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Gadkari",
         "known_promises": [],
         "image_placeholder": "nitin_gadkari",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Nagpur Cyber Police register FIR against content creators over alleged defamatory campaign targeting Nitin Gadkari - The Hindu The **Nagpur Cyber Police** registered FIR No. 0092/2026 against several ",
+            "source_url": "https://www.thehindu.com/news/national/nagpur-cyber-police-register-fir-against-content-creators-over-alleged-defamatory-campaign-targeting-nitin-gadkari/article71228312.ece",
+            "source_title": "Nagpur Cyber Police register FIR against content creators over alleged defamatory campaign targeting Nitin Gadkari - The Hindu",
+            "scraped_at": "2026-07-16 07:29:20",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Nitin Gadkari announced a 450-kilometer Coastal Highway from Gopalpur to Digha in 2015.",
@@ -920,7 +928,8 @@
             "scraped_at": "2026-06-05 23:19:52.181643"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-07-16"
       },
       {
         "name": "JP Nadda",
