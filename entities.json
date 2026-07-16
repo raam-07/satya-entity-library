@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2769,7 +2769,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 18,
+        "criminal_cases_in_news": 19,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -2900,6 +2900,13 @@
             "source_title": "TMC's Abhishek Banerjee booked after woman loses leg, blames treatment at Sebaashray health camp - The Hindu",
             "scraped_at": "2026-07-12 10:57:38",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu On July 15, 2026, **Abhishek Banerjee**, Trinamool Congress general secretary, appeared before a Bidhannagar court to s",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
+            "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
+            "scraped_at": "2026-07-15 09:15:02",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-16",
@@ -2933,6 +2940,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
             "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
             "scraped_at": "2026-01-21 07:27:14"
+          },
+          {
+            "incident_text": "Abhishek Banerjee submitted his voice sample to court.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
+            "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
+            "scraped_at": "2026-07-15 09:15:02"
           }
         ]
       },
@@ -3813,6 +3826,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-opposition-leader-says-udf-never-campaigned-against-making-contributions-to-cmdrf/article70518196.ece",
             "source_title": "Kerala Opposition Leader says UDF never campaigned against making contributions to CMDRF - The Hindu",
             "scraped_at": "2026-01-17 04:55:13"
+          },
+          {
+            "incident_text": "V.D. Satheesan asserted temple visits are personal rights, not soft Hindutva.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/mookambika-temple-visit-my-personal-right-not-soft-hindutva-says-kerala-cm-vd-satheesan/article71224714.ece",
+            "source_title": "Mookambika temple visit ‘my personal right, not soft Hindutva’, says Kerala CM V.D. Satheesan - The Hindu",
+            "scraped_at": "2026-07-15 09:18:04"
           }
         ],
         "criminal_last_updated": "2026-06-15"
