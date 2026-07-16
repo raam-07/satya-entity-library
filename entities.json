@@ -4197,7 +4197,7 @@
         "state": "Punjab",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
         "image_placeholder": "bhagwant_mann",
@@ -4295,9 +4295,16 @@
             "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
             "scraped_at": "2026-06-24 23:10:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Supreme Court not inclined to revive 2020 rioting case against Mann, other AAP leaders | Legal News - The Indian Express On Thursday, the Supreme Court indicated reluctance to hear a plea by the **Cha",
+            "source_url": "https://indianexpress.com/article/legal-news/supreme-court-bhagwant-mann-chandigarh-administration-rioting-case-naarebaazi-10789906/",
+            "source_title": "Supreme Court not inclined to revive 2020 rioting case against Mann, other AAP leaders | Legal News - The Indian Express",
+            "scraped_at": "2026-07-16 15:47:56",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-25"
+        "criminal_last_updated": "2026-07-16"
       },
       {
         "name": "Bhajanlal Sharma",
