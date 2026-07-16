@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15 23:09:31.886724",
+  "generated_at": "2026-07-16 00:24:42.813301",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -7,7 +7,7 @@
     "entities_enriched": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 0,
+    "gaffe_updates_applied": 2,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -46,8 +46,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 36,
-      "share": 0.32,
+      "mentions": 42,
+      "share": 0.35,
       "reason": "Party evidence below auto threshold"
     }
   ]

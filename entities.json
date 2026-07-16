@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-15",
+    "last_updated": "2026-07-16",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -4912,6 +4912,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
             "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
             "scraped_at": "2026-07-06 22:17:29"
+          },
+          {
+            "incident_text": "Suvendu Adhikari claimed Mondal was attacked after his identity was known, not during a mob lynching.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-murder-case-suvendu-adhikari-indrajeet-mondal-compensation-10782218/",
+            "source_title": "‘Attacked after being identified’: Suvendu rejects ‘lynching’ tag for man’s death in Baruipur violence | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-11 15:37:26"
           }
         ]
       },
@@ -6246,7 +6252,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 203,
+        "criminal_cases_in_news": 207,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7675,9 +7681,37 @@
             "source_title": "State won’t oppose Kamduni rape-murder victim’s kin in Supreme Court, will give them legal aid: Bengal CM - The Hindu",
             "scraped_at": "2026-07-11 11:16:36",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Manipur CM vows arrest of all accused in killing of six Naga civilians - The Hindu On July 11, 2026, **Manipur Chief Minister Y. Khemchand Singh** said his government is ensuring the arrest of those i",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-cm-vows-arrest-of-all-accused-in-killing-of-six-naga-civilians/article71210213.ece",
+            "source_title": "Manipur CM vows arrest of all accused in killing of six Naga civilians - The Hindu",
+            "scraped_at": "2026-07-11 12:31:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assets Worth Rs 1,021 Crore In Reliance Anil Ambani Group Case Attached By Probe Agency The **Enforcement Directorate (ED)** on Saturday attached properties worth Rs 1,021 crore in the Reliance Home F",
+            "source_url": "https://www.ndtv.com/india-news/probe-agency-attaches-assets-worth-rs-1-021-crore-in-reliance-anil-ambani-group-case-11758486#publisher=newsstand",
+            "source_title": "Assets Worth Rs 1,021 Crore In Reliance Anil Ambani Group Case Attached By Probe Agency",
+            "scraped_at": "2026-07-11 14:13:28",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "7-Year-Old Raped And Killed, Body Thrown In Basement Of Mall In Ghaziabad On Saturday, a seven-year-old girl was found dead in the basement of an under-construction mall in Ghaziabad. **Post-mortem** ",
+            "source_url": "https://www.ndtv.com/india-news/7-year-old-girl-found-dead-in-basement-of-under-construction-mall-several-detained-11757846#publisher=newsstand",
+            "source_title": "7-Year-Old Raped And Killed, Body Thrown In Basement Of Mall In Ghaziabad",
+            "scraped_at": "2026-07-11 14:14:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "UK police free suspect in ex-MP Ann Widdecombe murder investigation | Crime News | Al Jazeera Devon and Cornwall Police arrested a 26-year-old white British national in Newton Abbot on Friday, suspect",
+            "source_url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+            "source_title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation | Crime News | Al Jazeera",
+            "scraped_at": "2026-07-11 15:33:26",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-15",
+        "criminal_last_updated": "2026-07-16",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -7972,6 +8006,12 @@
             "source_url": "https://www.thehindu.com/lit-for-life/no-area-of-the-constitution-should-be-immune-from-judicial-review-says-former-cji-dy-chandrachud/article70481697.ece",
             "source_title": "LFL 2026: Former CJI D.Y. Chandrachud on prolonged incarceration of Umar Khalid, why constitution matters and more - The Hindu",
             "scraped_at": "2026-01-17 02:14:02"
+          },
+          {
+            "incident_text": "Suvendu Adhikari refused to label Indrajeet Mondal’s death as lynching, calling it murder by election losers.",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-murder-case-suvendu-adhikari-indrajeet-mondal-compensation-10782218/",
+            "source_title": "‘Attacked after being identified’: Suvendu rejects ‘lynching’ tag for man’s death in Baruipur violence | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-11 15:37:26"
           }
         ]
       },
@@ -8702,7 +8742,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-15"
+        "cm_last_updated": "2026-07-16"
       },
       {
         "name": "Haryana",
@@ -8824,7 +8864,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-13",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-07-15"
+        "cm_last_updated": "2026-07-16"
       },
       {
         "name": "Rajasthan",
@@ -8862,7 +8902,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-15"
+        "party_last_updated": "2026-07-16"
       },
       {
         "name": "Tripura",
@@ -8902,9 +8942,9 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-15",
+        "party_last_updated": "2026-07-16",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-07-15"
+        "cm_last_updated": "2026-07-16"
       },
       {
         "name": "Delhi",
