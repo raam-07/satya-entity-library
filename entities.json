@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6266,7 +6266,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 210,
+        "criminal_cases_in_news": 211,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7743,6 +7743,13 @@
             "source_url": "https://www.ndtv.com/india-news/delhi-techie-arrested-a-month-after-wife-p-radha-gayatri-found-dead-at-mussoorie-homestay-11759798#publisher=newsstand",
             "source_title": "Delhi Techie Arrested A Month After Wife P Radha Gayatri Found Dead At Mussoorie Homestay",
             "scraped_at": "2026-07-12 03:48:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "6-year-old girl on way to school dies in road mishap, PMPML bus driver booked | Pune News - The Indian Express On Saturday near Pavana bridge in Punawale, a **Pune Mahanagar Parivahan Mahamandal Limit",
+            "source_url": "https://indianexpress.com/article/cities/pune/6-year-old-girl-way-school-dies-road-mishap-pmpml-bus-driver-booked-10783413/",
+            "source_title": "6-year-old girl on way to school dies in road mishap, PMPML bus driver booked | Pune News - The Indian Express",
+            "scraped_at": "2026-07-12 17:03:50",
             "incident_type": "broad"
           }
         ],
