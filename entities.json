@@ -6266,7 +6266,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 211,
+        "criminal_cases_in_news": 213,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7751,6 +7751,20 @@
             "source_title": "6-year-old girl on way to school dies in road mishap, PMPML bus driver booked | Pune News - The Indian Express",
             "scraped_at": "2026-07-12 17:03:50",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Daughter-in-law says Uddhav Sena leader used black magic on her; ex-MP denies | Mumbai News - The Indian Express On July 12, **Vinayak Raut**, a senior Shiv Sena (UBT) leader and former MP, along with",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/former-shiv-sena-mp-vinayak-raut-family-booked-daughter-in-law-cruelty-marriage-fraud-10783047/",
+            "source_title": "Daughter-in-law says Uddhav Sena leader used black magic on her; ex-MP denies | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-12 21:57:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "NIA arrests two absconders in Praveen Nettaru murder case - The Hindu The **National Investigation Agency (NIA)** arrested Abdul Nasir P. from Kochi, Kerala, and Naushad from Hosur, Tamil Nadu, on Jul",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/nia-arrests-two-absconders-in-praveen-nettaru-murder-case/article71214440.ece",
+            "source_title": "NIA arrests two absconders in Praveen Nettaru murder case - The Hindu",
+            "scraped_at": "2026-07-12 22:55:50",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-07-16",
