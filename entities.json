@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5417,7 +5417,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
         "image_placeholder": "nitish_kumar",
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "criminal_incidents": [
           {
             "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
@@ -5425,9 +5425,16 @@
             "source_title": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu",
             "scraped_at": "2026-05-30 06:55:31.675098",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "FBI adds Indian-origin man to most wanted list over alleged organised crime links - The Times of India The **United States Federal Bureau of Investigation** added Indian-origin man **Nitish Kaushal** ",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/fbi-adds-indian-origin-man-to-most-wanted-list-over-alleged-organised-crime-links/articleshow/132404540.cms",
+            "source_title": "FBI adds Indian-origin man to most wanted list over alleged organised crime links - The Times of India",
+            "scraped_at": "2026-07-15 04:09:36",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-16",
+        "criminal_last_updated": "2026-07-16",
         "controversies": [
           {
             "incident_text": "Nitish Kumar filed nomination papers for the Rajya Sabha election.",
