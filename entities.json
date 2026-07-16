@@ -6363,7 +6363,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 213,
+        "criminal_cases_in_news": 214,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7862,6 +7862,13 @@
             "source_title": "NIA arrests two absconders in Praveen Nettaru murder case - The Hindu",
             "scraped_at": "2026-07-12 22:55:50",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Health dept. urges safe food habits after 3 shigellosis cases reported in Kochi - The Hindu On July 10, 2026, **Tony Peter** and others fell ill after eating at a hotel in Kochi; three tested positive",
+            "source_url": "https://www.thehindu.com/news/national/kerala/health-dept-urges-safe-food-habits-after-3-shigellosis-cases/article71230572.ece",
+            "source_title": "Health dept. urges safe food habits after 3 shigellosis cases reported in Kochi - The Hindu",
+            "scraped_at": "2026-07-16 20:06:52",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-16",
