@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16 12:23:55.359078",
+  "generated_at": "2026-07-16 12:55:43.349510",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -33,6 +33,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "Delhi Unveils Health Scheme For 2.7 Lakh Construction Workers **Delhi's** Chief Minister Rekha Gupta announced the launch of a new 'Delhi Building and Construction Workers Health Scheme' to provide he"
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "tailed report on the incident and plans to address the issue in the state assembly. In the wake of the collapse of a warehouse in Kolkata’s Taratala area, killing at least five labourers, West Bengal "
     },
     {
       "type": "ruling_party",
