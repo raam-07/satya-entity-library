@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -6259,7 +6259,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 208,
+        "criminal_cases_in_news": 210,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7722,6 +7722,20 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/three-more-held-in-bengal-lynching-case/article71210804.ece",
             "source_title": "Three more held in Bengal lynching case - The Hindu",
             "scraped_at": "2026-07-11 19:49:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Odisha govt. orders crime branch probe into errors in school textbooks - The Hindu On July 11, the **Odisha** government ordered a criminal investigation into over 1,678 errors in school textbooks for",
+            "source_url": "https://www.thehindu.com/news/national/odisha/odisha-cm-orders-criminal-investigation-into-errors-in-school-textbooks/article71210141.ece",
+            "source_title": "Odisha govt. orders crime branch probe into errors in school textbooks - The Hindu",
+            "scraped_at": "2026-07-11 20:58:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi Techie Arrested A Month After Wife P Radha Gayatri Found Dead At Mussoorie Homestay After a woman from Delhi was found dead at a homestay in Mussoorie, her husband, an IT firm employee, was arre",
+            "source_url": "https://www.ndtv.com/india-news/delhi-techie-arrested-a-month-after-wife-p-radha-gayatri-found-dead-at-mussoorie-homestay-11759798#publisher=newsstand",
+            "source_title": "Delhi Techie Arrested A Month After Wife P Radha Gayatri Found Dead At Mussoorie Homestay",
+            "scraped_at": "2026-07-12 03:48:20",
             "incident_type": "broad"
           }
         ],
