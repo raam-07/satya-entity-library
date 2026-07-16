@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -4932,6 +4932,12 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-murder-case-suvendu-adhikari-indrajeet-mondal-compensation-10782218/",
             "source_title": "‘Attacked after being identified’: Suvendu rejects ‘lynching’ tag for man’s death in Baruipur violence | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-11 15:37:26"
+          },
+          {
+            "incident_text": "Suvendu Adhikari prioritized national and airport security over mosque access.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-curbs-on-kolkata-airport-mosque-entry-cites-security-concerns/article71215981.ece",
+            "source_title": "Suvendu Adhikari backs curbs on Kolkata airport mosque entry, cites security concerns - The Hindu",
+            "scraped_at": "2026-07-13 07:03:21"
           }
         ]
       },
@@ -5006,6 +5012,12 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-rebuffs-bjp-demand-to-set-up-national-law-university-in-jammu-instead-of-kashmir/article70502190.ece",
             "source_title": "Omar Abdullah rebuffs BJP demand to set up National Law University in Jammu instead of Kashmir - The Hindu",
             "scraped_at": "2026-01-12 16:16:22"
+          },
+          {
+            "incident_text": "Omar Abdullah claimed BJP attempted to bribe legislators.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/prove-poaching-charge-or-face-100-crore-defamation-suit-bjp-to-omar-abdullah/article71216051.ece",
+            "source_title": "BJP issues ₹100 crore defamation notice to Omar Abdullah over ‘MLA poaching’ charges - The Hindu",
+            "scraped_at": "2026-07-13 07:02:15"
           }
         ]
       },
@@ -9005,7 +9017,7 @@
         "region": "East",
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-16",
-        "cm_confidence": 0.8,
+        "cm_confidence": 0.83,
         "cm_last_updated": "2026-07-16"
       },
       {
