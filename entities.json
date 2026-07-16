@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4603,6 +4603,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-announces-commission-to-study-reorganisation-of-districts-and-mandals/article70501081.ece",
             "source_title": "Telangana CM Revanth announces Commission to study reorganisation of districts and mandals - The Hindu",
             "scraped_at": "2026-01-12 06:16:44"
+          },
+          {
+            "incident_text": "Revanth Reddy suggested spraying opposition leaders' blood on crops for growth.",
+            "source_url": "https://www.ndtv.com/telangana-news/kaleshwaram-lift-irrigation-project-revanth-reddys-blood-belt-treatment-jibe-at-kcr-ignite-political-row-in-telangana-11764176#publisher=newsstand",
+            "source_title": "Kaleshwaram Lift Irrigation Project: Revanth Reddy's 'Blood', 'Belt Treatment' Jibe At KCR Ignite Political Row In Telangana",
+            "scraped_at": "2026-07-13 10:36:45"
           }
         ],
         "criminal_cases_in_news": 8,
