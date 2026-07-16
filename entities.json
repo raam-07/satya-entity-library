@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5042,6 +5042,12 @@
             "source_url": "https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/",
             "source_title": "Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim | India News - The Indian Express",
             "scraped_at": "2026-07-13 21:12:34"
+          },
+          {
+            "incident_text": "Omar Abdullah invoked Donald Trump as clickbait during his speech.",
+            "source_url": "https://indianexpress.com/article/opinion/editorials/on-jk-statehood-omar-abdullah-is-spot-on-he-doesnt-need-trump-clickbait-10785051/",
+            "source_title": "On J&K statehood, Omar Abdullah is spot on. He doesn’t need Trump clickbait | The Indian Express",
+            "scraped_at": "2026-07-14 00:59:03"
           }
         ]
       },
