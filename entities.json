@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -604,6 +604,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-says-pm-modi-must-break-silence-on-ram-temple-donation-row-in-parliament/article71233709.ece",
             "source_title": "PM Modi announced Ram Temple trust in Parliament, must break silence on floor of House: Congress - The Hindu",
             "scraped_at": "2026-07-17 12:14:47"
+          },
+          {
+            "incident_text": "Narendra Modi criticized Punjab government during an official event.",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-pm-modi-jalandhar-aap-defends-skip-kattar-beimaan-remark-10791663/",
+            "source_title": "AAP says PM turned official event into political platform, defends Mann’s absence | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-17 18:39:34"
           }
         ]
       },

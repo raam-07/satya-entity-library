@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17 19:00:12.021755",
+  "generated_at": "2026-07-17 19:31:28.264005",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -7,7 +7,7 @@
     "entities_enriched": 0,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -20,10 +20,10 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.69,
-      "mentions": 9,
+      "confidence": 0.67,
+      "mentions": 8,
       "reason": "Below auto-update threshold",
-      "context": "ailway General Manager, and other officials were also present. Click here to join Express Pune WhatsApp channel and get a curated list of our stories Railway Minister Ashwini Vaishnaw and Maharashtra "
+      "context": "meaningful loan waiver for farmers.  Fadnavis stated that his government was considering short-term and long-term measures for loan waivers, acknowledging the drought conditions and El Nino year. The "
     },
     {
       "type": "ruling_party",
