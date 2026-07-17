@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 3,
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3137,6 +3137,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-leader-k-narayana-slams-land-pooling-scheme-in-amaravati/article70519084.ece",
             "source_title": "CPI leader K. Narayana slams land pooling scheme in Amaravati - The Hindu",
             "scraped_at": "2026-01-17 09:18:26"
+          },
+          {
+            "incident_text": "Chandrababu Naidu criticized for repression, according to Jagan.",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raise-public-issues-during-monsoon-session-of-parliament-jagan-tells-ysrcp-mps/article71230550.ece",
+            "source_title": "Raise public issues during monsoon session of Parliament, Jagan tells YSRCP MPs - The Hindu",
+            "scraped_at": "2026-07-17 00:09:18"
           }
         ],
         "criminal_cases_in_news": 7,
@@ -9115,8 +9121,8 @@
         "region": "East",
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-17",
-        "cm_confidence": 0.83,
-        "cm_last_updated": "2026-07-16"
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-07-17"
       },
       {
         "name": "Delhi",
