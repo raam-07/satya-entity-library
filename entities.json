@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5471,7 +5471,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
         "image_placeholder": "nitish_kumar",
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 4,
         "criminal_incidents": [
           {
             "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
@@ -5486,9 +5486,23 @@
             "source_title": "FBI adds Indian-origin man to most wanted list over alleged organised crime links - The Times of India",
             "scraped_at": "2026-07-15 04:09:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Nitish Kaushal: FBI arrests gangster Nitish Kaushal days after adding him to most wanted list - The Times of India On Thursday, the **FBI** arrested **Nitish Kaushal**, an Indian-origin man, in Vermon",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/fbi-arrests-gangster-nitish-kaushal-days-after-adding-him-to-most-wanted-list/articleshow/132450883.cms",
+            "source_title": "Nitish Kaushal: FBI arrests gangster Nitish Kaushal days after adding him to most wanted list - The Times of India",
+            "scraped_at": "2026-07-17 03:49:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Gangster Nitish Kaushal, Member Of Jaggu Bhagwanpuria Gang, Arrested In US. FBI Had Put Him On Wanted List **Nitish Kaushal**, an Indian national and member of the Jaggu Bhagwanpuria Organized Crime G",
+            "source_url": "https://www.ndtv.com/world-news/gangster-nitish-kaushal-member-of-jaggu-bhagwanpuria-gang-arrested-in-us-fbi-had-put-him-on-wanted-list-11782389#publisher=newsstand",
+            "source_title": "Gangster Nitish Kaushal, Member Of Jaggu Bhagwanpuria Gang, Arrested In US. FBI Had Put Him On Wanted List",
+            "scraped_at": "2026-07-17 03:51:22",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-16",
+        "criminal_last_updated": "2026-07-17",
         "controversies": [
           {
             "incident_text": "Nitish Kumar filed nomination papers for the Rajya Sabha election.",
