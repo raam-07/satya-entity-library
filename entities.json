@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3878,6 +3878,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/mookambika-temple-visit-my-personal-right-not-soft-hindutva-says-kerala-cm-vd-satheesan/article71224714.ece",
             "source_title": "Mookambika temple visit ‘my personal right, not soft Hindutva’, says Kerala CM V.D. Satheesan - The Hindu",
             "scraped_at": "2026-07-15 09:18:04"
+          },
+          {
+            "incident_text": "V.D. Satheesan said government pleaders are appointed based on merit, not pressure.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-rift-between-ksu-kerala-cm-over-govt-pleader-appointment-ramesh-chennithala/article71237430.ece",
+            "source_title": "No rift between KSU, Kerala CM over govt pleader appointment: Ramesh Chennithala - The Hindu",
+            "scraped_at": "2026-07-18 11:17:30"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -6414,7 +6420,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 214,
+        "criminal_cases_in_news": 217,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7920,9 +7926,30 @@
             "source_title": "Health dept. urges safe food habits after 3 shigellosis cases reported in Kochi - The Hindu",
             "scraped_at": "2026-07-16 20:06:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Brazil-Argentina World Cup rivalry leads to violence in Kerala’s Kozhikode; two booked - The Hindu On July 16, 2026, an argument between **Brazil** and **Argentina** supporters in a WhatsApp group nam",
+            "source_url": "https://www.thehindu.com/news/national/kerala/brazil-argentina-world-cup-rivalry-leads-to-violence-in-keralas-kozhikode-two-booked/article71237432.ece",
+            "source_title": "Brazil-Argentina World Cup rivalry leads to violence in Kerala’s Kozhikode; two booked - The Hindu",
+            "scraped_at": "2026-07-18 10:03:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Ram temple donation theft: Police take custody of Tinnu, nephew Manish Yadav - The Hindu On July 18, 2026, **Ramashankar Yadav** alias Tinnu and his nephew Manish Yadav were taken into police custody ",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-donation-theft-police-take-custody-of-tinnu-nephew-manish-yadav/article71237184.ece",
+            "source_title": "Ram temple donation theft: Police take custody of Tinnu, nephew Manish Yadav - The Hindu",
+            "scraped_at": "2026-07-18 10:03:58",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Punjab Police arrests inspector linked to U.S. indictment allegations in extortion case - The Hindu On July 18, 2026, **Deputy Inspector General (DIG), Jalandhar Range, Naveen Singla**, confirmed the ",
+            "source_url": "https://www.thehindu.com/news/national/punjab/punjab-police-arrests-inspector-linked-to-us-indictment-allegations-in-extortion-case/article71237405.ece",
+            "source_title": "Punjab Police arrests inspector linked to U.S. indictment allegations in extortion case - The Hindu",
+            "scraped_at": "2026-07-18 11:15:59",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-16",
+        "criminal_last_updated": "2026-07-18",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
