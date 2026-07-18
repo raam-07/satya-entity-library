@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 219,
+        "criminal_cases_in_news": 220,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7972,6 +7972,13 @@
             "source_url": "https://www.ndtv.com/india-news/2-arrested-for-painting-sonam-wangchuks-portrait-in-guwahati-11788669#publisher=newsstand",
             "source_title": "2 Arrested For Painting Sonam Wangchuk's Portrait In Guwahati",
             "scraped_at": "2026-07-18 14:03:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "In 16-day crackdown on gangsters, Punjab Police arrests 3,949 individuals | The Indian Express On Saturday, **Director General of Police Gaurav Yadav** announced that during Operation Prahaar-3.0, a 1",
+            "source_url": "https://indianexpress.com/article/chandigarh/punjab-police-operation-prahaar-gangsters-drug-smugglers-arrested-10792894/",
+            "source_title": "In 16-day crackdown on gangsters, Punjab Police arrests 3,949 individuals | The Indian Express",
+            "scraped_at": "2026-07-18 16:33:10",
             "incident_type": "broad"
           }
         ],
