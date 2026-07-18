@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6426,7 +6426,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 217,
+        "criminal_cases_in_news": 219,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7952,6 +7952,20 @@
             "source_url": "https://www.thehindu.com/news/national/punjab/punjab-police-arrests-inspector-linked-to-us-indictment-allegations-in-extortion-case/article71237405.ece",
             "source_title": "Punjab Police arrests inspector linked to U.S. indictment allegations in extortion case - The Hindu",
             "scraped_at": "2026-07-18 11:15:59",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two more arrested in Manipur over killing of six Nagas - The Hindu On July 18, 2026, a joint team of the **National Investigation Agency (NIA)**, Manipur Police, and CRPF arrested Lungoulal Vaiphei fr",
+            "source_url": "https://www.thehindu.com/news/national/manipur/two-more-arrested-in-manipur-over-killing-of-six-nagas/article71237924.ece",
+            "source_title": "Two more arrested in Manipur over killing of six Nagas - The Hindu",
+            "scraped_at": "2026-07-18 14:02:05",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "2 Arrested For Painting Sonam Wangchuk's Portrait In Guwahati On Saturday, **Guwahati Police** arrested **Nakul Mili** and **Gaurav Singh** for painting portraits of activist Sonam Wangchuk without pe",
+            "source_url": "https://www.ndtv.com/india-news/2-arrested-for-painting-sonam-wangchuks-portrait-in-guwahati-11788669#publisher=newsstand",
+            "source_title": "2 Arrested For Painting Sonam Wangchuk's Portrait In Guwahati",
+            "scraped_at": "2026-07-18 14:03:48",
             "incident_type": "broad"
           }
         ],
