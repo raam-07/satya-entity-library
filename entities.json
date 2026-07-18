@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6396,6 +6396,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/kerala-cms-criticism-of-centre-amounts-to-admission-of-ldfs-failure-says-state-bjp-chief-rajeev-chandrasekhar/article70500757.ece",
             "source_title": "Kerala CM’s criticism of Centre amounts to admission of LDF’s failure, says State BJP chief Rajeev Chandrasekhar - The Hindu",
             "scraped_at": "2026-01-12 04:06:31"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claimed his government did not appoint non-Muslim members to the Waqf Board.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/wakf-case-petitioner-moves-caveat-in-sc/article71238082.ece",
+            "source_title": "Waqf case: petitioner moves caveat in SC - The Hindu",
+            "scraped_at": "2026-07-18 15:06:47"
           }
         ]
       },
