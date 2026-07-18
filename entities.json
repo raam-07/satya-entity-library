@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -610,6 +610,12 @@
             "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-pm-modi-jalandhar-aap-defends-skip-kattar-beimaan-remark-10791663/",
             "source_title": "AAP says PM turned official event into political platform, defends Mann’s absence | Chandigarh News - The Indian Express",
             "scraped_at": "2026-07-17 18:39:34"
+          },
+          {
+            "incident_text": "Narendra Modi alleged AAP was 'blatantly dishonest' and involved in corruption.",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/aap-corrupt-internal-turmoil-in-congress-and-sad-pm-modi-in-punjab-10791801/",
+            "source_title": "AAP corrupt, internal turmoil in Congress and SAD: PM Modi in Punjab | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-17 23:28:22"
           }
         ]
       },
