@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -838,6 +838,12 @@
             "source_url": "https://www.thehindu.com/news/national/indias-youth-must-remain-prepared-to-take-on-every-challenge-rajnath/article70546698.ece",
             "source_title": "India's youth must remain prepared to take on every challenge: Rajnath - The Hindu",
             "scraped_at": "2026-01-24 11:54:04"
+          },
+          {
+            "incident_text": "Rajnath Singh described RSS as a civilizational force needing no certification.",
+            "source_url": "https://www.ndtv.com/india-news/rss-is-civilizational-force-that-needs-no-certification-rajnath-singh-11786910#publisher=newsstand",
+            "source_title": "\"RSS Is Civilizational Force That Needs No Certification\": Rajnath Singh",
+            "scraped_at": "2026-07-18 04:08:33"
           }
         ],
         "criminal_cases_in_news": 0
