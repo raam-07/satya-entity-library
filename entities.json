@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 224,
+        "criminal_cases_in_news": 225,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8007,6 +8007,13 @@
             "source_url": "https://www.thehindu.com/news/national/chhattisgarh/five-of-family-found-dead-in-raipur-police-suspect-murder-suicide/article71238170.ece",
             "source_title": "Five of family found dead in Raipur; police suspect murder-suicide - The Hindu",
             "scraped_at": "2026-07-18 21:30:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Hospitalised till bail, then fit to leave’: HC questions Sena corporator’s release | The Indian Express On July 18, 2026, the **Bombay High Court** stayed bail granted to **Shiv Sena corporator Rames",
+            "source_url": "https://indianexpress.com/article/mumbai/bombay-high-court-stays-bail-shiv-sena-corporator-ramesh-mhatre-doctor-assault-10792594/",
+            "source_title": "‘Hospitalised till bail, then fit to leave’: HC questions Sena corporator’s release | The Indian Express",
+            "scraped_at": "2026-07-18 22:26:03",
             "incident_type": "broad"
           }
         ],
