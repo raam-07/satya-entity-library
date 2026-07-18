@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5495,7 +5495,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitish_Kumar",
         "image_placeholder": "nitish_kumar",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "criminal_incidents": [
           {
             "incident_text": "Hamirpur bridge collapse: Case lodged against executing agency, contractor - The Hindu **Police** have registered a case against the executing agency and contractor of the Betwa river bridge in Hamirp",
@@ -5524,9 +5524,16 @@
             "source_title": "Gangster Nitish Kaushal, Member Of Jaggu Bhagwanpuria Gang, Arrested In US. FBI Had Put Him On Wanted List",
             "scraped_at": "2026-07-17 03:51:22",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Nitish Kaushal, Jaggu Bhagwanpuria Gang, FBI Arrest: How FBI Arrested Gangster Nitish Kaushal Metres Away From Canada Border **Nitish Kaushal**, an Indian-origin gangster and member of the Jaggu Bhagw",
+            "source_url": "https://www.ndtv.com/world-news/nitish-kaushal-jaggu-bhagwanpuria-gang-fbi-arrest-changed-identity-phone-how-gangster-nitish-kaushal-tried-to-evade-fbi-11787241#publisher=newsstand",
+            "source_title": "Nitish Kaushal, Jaggu Bhagwanpuria Gang, FBI Arrest: How FBI Arrested Gangster Nitish Kaushal Metres Away From Canada Border",
+            "scraped_at": "2026-07-18 06:30:41",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-17",
+        "criminal_last_updated": "2026-07-18",
         "controversies": [
           {
             "incident_text": "Nitish Kumar filed nomination papers for the Rajya Sabha election.",
