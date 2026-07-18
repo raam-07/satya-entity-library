@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -3935,6 +3935,12 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-waqf-board-reorganised-hindu-members-included/article71188097.ece",
             "source_title": "Madhya Pradesh govt. reconstitutes Waqf Board under new law, inclusion of Hindu members draws criticism - The Hindu",
             "scraped_at": "2026-07-06 23:41:16"
+          },
+          {
+            "incident_text": "Mohan Yadav stated only those with one marriage can legally reside in Madhya Pradesh.",
+            "source_url": "https://www.ndtv.com/india-news/madhya-pradesh-chief-minister-mohan-yadav-on-uniform-civil-code-bill-those-with-one-marriage-will-stay-in-madhya-pradesh-11785503#publisher=newsstand",
+            "source_title": "Madhya Pradesh Chief Minister Mohan Yadav On Uniform Civil Code Bill: Those With One Marriage Will Stay In Madhya Pradesh",
+            "scraped_at": "2026-07-18 11:14:12"
           }
         ],
         "criminal_cases_in_news": 1,
