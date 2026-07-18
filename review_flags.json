@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-18 19:27:17.938857",
+  "generated_at": "2026-07-18 19:46:52.486111",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -31,7 +31,7 @@
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "is attributed to strategic vote management and potential cross-voting from both the **BJP** and **JDS**.  This outcome has been hailed as a major political victory for the **Congress** leadership. - C"
+      "context": "he appointment, arguing it was an example of favoritism and demanded its cancellation. The AIADMK's IT wing questioned the appointment, suggesting that **Venkata Narayana K** may be a \"proxy\" for the "
     },
     {
       "type": "entity_enrichment",
