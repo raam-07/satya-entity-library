@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 221,
+        "criminal_cases_in_news": 223,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -7987,6 +7987,20 @@
             "source_title": "UP Man Sentenced To 20 Years In Jail For Raping 16-Year-Old Niece",
             "scraped_at": "2026-07-18 17:35:20",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Shutdown over civilian ‘death’ during anti-militancy operation hits life in J&K’s Chenab Valley - The Hindu On July 18, 2026, **Arif Hussain**, a 30-year-old driver, was killed allegedly during an ant",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/shutdown-over-civilian-death-during-anti-militancy-operation-hits-life-in-jks-chenab-valley/article71239235.ece",
+            "source_title": "Shutdown over civilian ‘death’ during anti-militancy operation hits life in J&K’s Chenab Valley - The Hindu",
+            "scraped_at": "2026-07-18 20:24:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man held for smuggling ganja in government bus at Katpadi - The Hindu On Saturday, **Katpadi Police** arrested a 45-year-old man named K. Suriya Prakash from Theni after seizing 12 kg of ganja from hi",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/man-held-for-smuggling-ganja-in-government-bus-at-katpadi/article71238057.ece",
+            "source_title": "Man held for smuggling ganja in government bus at Katpadi - The Hindu",
+            "scraped_at": "2026-07-18 20:27:15",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-18",
