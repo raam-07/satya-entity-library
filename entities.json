@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -806,6 +806,12 @@
             "source_url": "https://www.thehindu.com/news/national/gujarat/somnath-temples-rebuilding-reflects-resilience-of-sanatana-dharma-amit-shah/article70505048.ece",
             "source_title": "Somnath temple’s rebuilding reflects resilience of Sanatana Dharma: Amit Shah - The Hindu",
             "scraped_at": "2026-01-13 06:17:19"
+          },
+          {
+            "incident_text": "Amit Shah said Bengal's political change was unmatched since Independence.",
+            "source_url": "https://www.ndtv.com/india-news/political-change-in-bengal-unlike-any-since-independence-amit-shah-11792733#publisher=newsstand",
+            "source_title": "'Political Change In Bengal Unlike Any Since Independence': Amit Shah",
+            "scraped_at": "2026-07-19 17:03:02"
           }
         ]
       },
