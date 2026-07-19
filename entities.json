@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6438,7 +6438,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 230,
+        "criminal_cases_in_news": 231,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8055,6 +8055,13 @@
             "source_url": "https://www.aljazeera.com/news/2026/7/19/why-were-andrew-and-tristan-tate-arrested-will-they-be-extradited-to-uk?traffic_source=rss",
             "source_title": "Why were Andrew and Tristan Tate arrested? Will they be extradited to UK? | Crime News | Al Jazeera",
             "scraped_at": "2026-07-19 14:03:34",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CJP protest: Protesters gather at Shivaji Park over Sonam Wangchuk detention Hundreds of students, civil society members, and political workers gathered outside Shivaji Park on Sunday to protest again",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/cjp-protest-protesters-gather-at-mumbais-shivaji-park-over-sonam-wangchuk-detention-10793948/",
+            "source_title": "CJP protest: Protesters gather at Shivaji Park over Sonam Wangchuk detention",
+            "scraped_at": "2026-07-19 19:49:38",
             "incident_type": "broad"
           }
         ],
