@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 228,
+        "criminal_cases_in_news": 229,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8035,6 +8035,13 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/rajarhat-bomb-blast-bengal-police-arrest-prime-suspect-nia-collects-forensic-samples-10793602/",
             "source_title": "Rajarhat bomb blast: Bengal Police arrest prime suspect, NIA collects forensic samples | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-19 09:34:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CJP protest in Mumbai: How Azad Maidan became the city’s site of agitations, with restrictions | Explained News - The Indian Express On July 18, **Mumbai Police** filed two FIRs against protestors at ",
+            "source_url": "https://indianexpress.com/article/explained/cjp-protest-mumbai-azad-maidan-restrictions-10793775/",
+            "source_title": "CJP protest in Mumbai: How Azad Maidan became the city’s site of agitations, with restrictions | Explained News - The Indian Express",
+            "scraped_at": "2026-07-19 12:06:34",
             "incident_type": "broad"
           }
         ],
