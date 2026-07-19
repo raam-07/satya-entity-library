@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6438,7 +6438,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 231,
+        "criminal_cases_in_news": 232,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8062,6 +8062,13 @@
             "source_url": "https://indianexpress.com/article/cities/mumbai/cjp-protest-protesters-gather-at-mumbais-shivaji-park-over-sonam-wangchuk-detention-10793948/",
             "source_title": "CJP protest: Protesters gather at Shivaji Park over Sonam Wangchuk detention",
             "scraped_at": "2026-07-19 19:49:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man arrested for killing woman who demanded repayment of money - The Hindu On Sunday, **Virinchipuram police** arrested 55-year-old R. Govindasamy in Vellore for allegedly killing S. Ellaiammal (65) a",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/man-arrested-for-killing-woman-who-demanded-repayment-of-money/article71241369.ece",
+            "source_title": "Man arrested for killing woman who demanded repayment of money - The Hindu",
+            "scraped_at": "2026-07-19 20:58:34",
             "incident_type": "broad"
           }
         ],
