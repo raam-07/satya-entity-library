@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 226,
+        "criminal_cases_in_news": 228,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8021,6 +8021,20 @@
             "source_url": "https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/",
             "source_title": "‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe | India News - The Indian Express",
             "scraped_at": "2026-07-19 07:34:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Doctors assault case: Bombay High Court cancels bail of Shiv Sena corporator - The Hindu On July 18, **Bombay High Court**, in a special Saturday sitting, cancelled the bail granted to **Ramesh Mhatre",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/doctors-assault-case-bombay-hc-stays-bail-granted-to-shiv-sena-corporator-asks-him-to-surrender/article71237921.ece",
+            "source_title": "Doctors assault case: Bombay High Court cancels bail of Shiv Sena corporator - The Hindu",
+            "scraped_at": "2026-07-19 09:31:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rajarhat bomb blast: Bengal Police arrest prime suspect, NIA collects forensic samples | Kolkata News - The Indian Express **Tanusree Bose** reported that the **Bengal Police** arrested Md Shamim and ",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/rajarhat-bomb-blast-bengal-police-arrest-prime-suspect-nia-collects-forensic-samples-10793602/",
+            "source_title": "Rajarhat bomb blast: Bengal Police arrest prime suspect, NIA collects forensic samples | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-19 09:34:56",
             "incident_type": "broad"
           }
         ],
