@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6432,7 +6432,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 225,
+        "criminal_cases_in_news": 226,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8015,9 +8015,16 @@
             "source_title": "‘Hospitalised till bail, then fit to leave’: HC questions Sena corporator’s release | The Indian Express",
             "scraped_at": "2026-07-18 22:26:03",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe | India News - The Indian Express On Saturday, **Rahul Gandhi** and **Mallikarjun Kharge**, leaders of the Oppositio",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/",
+            "source_title": "‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe | India News - The Indian Express",
+            "scraped_at": "2026-07-19 07:34:38",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-18",
+        "criminal_last_updated": "2026-07-19",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -8336,6 +8343,12 @@
             "source_url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
             "source_title": "German politician resigns over surrogacy child controversy - BBC News",
             "scraped_at": "2026-07-18 15:06:36"
+          },
+          {
+            "incident_text": "Rahul Gandhi and Mallikarjun Kharge said Narendra Modi's silence on Ram temple theft is unacceptable.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/",
+            "source_title": "‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe | India News - The Indian Express",
+            "scraped_at": "2026-07-19 07:34:38"
           }
         ]
       },
