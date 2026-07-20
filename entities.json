@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6444,7 +6444,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 233,
+        "criminal_cases_in_news": 235,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8083,6 +8083,20 @@
             "source_title": "UP Nurse Proposes 'Lover' Hospital Technician For Marriage. He Poisons Her",
             "scraped_at": "2026-07-20 04:26:35",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Andrew And Tristan Tate's Controversial Timeline: How The Brothers Became Internet's Most Polarising Figures On Saturday, **Andrew Tate** and his brother **Tristan Tate**, a kickboxer-turned-social me",
+            "source_url": "https://www.ndtv.com/world-news/andrew-and-tristan-tate-s-controversial-timeline-how-the-brothers-became-internets-most-polarising-figures-11794500#publisher=newsstand",
+            "source_title": "Andrew And Tristan Tate's Controversial Timeline: How The Brothers Became Internet's Most Polarising Figures",
+            "scraped_at": "2026-07-20 07:43:30",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Vilathikulam DMK MLA arrested for remarks against T.N. CM Vijay - The Hindu On July 20, 2026, the **Thoothukudi District Crime Branch police** arrested **Vilathikulam DMK MLA G.V. Markandayan** for ma",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/vilathikulam-dmk-mla-arrested-for-remarks-against-tn-cm-vijay/article71243773.ece",
+            "source_title": "Vilathikulam DMK MLA arrested for remarks against T.N. CM Vijay - The Hindu",
+            "scraped_at": "2026-07-20 07:46:46",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-20",
@@ -8410,6 +8424,12 @@
             "source_url": "https://indianexpress.com/article/india/rahul-gandhi-kharge-pm-modi-ram-temple-donation-theft-probe-10793449/",
             "source_title": "‘Silence unacceptable’: Rahul, Kharge press Modi for ‘independent’ Ram temple probe | India News - The Indian Express",
             "scraped_at": "2026-07-19 07:34:38"
+          },
+          {
+            "incident_text": "On Saturday, G.V. Markandayan made derogatory remarks against Chief Minister Joseph Vijay.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/vilathikulam-dmk-mla-arrested-for-remarks-against-tn-cm-vijay/article71243773.ece",
+            "source_title": "Vilathikulam DMK MLA arrested for remarks against T.N. CM Vijay - The Hindu",
+            "scraped_at": "2026-07-20 07:46:46"
           }
         ]
       },
