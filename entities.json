@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6438,7 +6438,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 232,
+        "criminal_cases_in_news": 233,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8070,9 +8070,16 @@
             "source_title": "Man arrested for killing woman who demanded repayment of money - The Hindu",
             "scraped_at": "2026-07-19 20:58:34",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "UP Nurse Proposes 'Lover' Hospital Technician For Marriage. He Poisons Her On Saturday, **Suresh Chand**, an OT technician at MCC Hospital, allegedly killed 26-year-old nurse Neha Rani using poison an",
+            "source_url": "https://www.ndtv.com/meerut-news/up-nurse-proposes-lover-hospital-technician-for-marriage-he-poisons-her-11793283#publisher=newsstand",
+            "source_title": "UP Nurse Proposes 'Lover' Hospital Technician For Marriage. He Poisons Her",
+            "scraped_at": "2026-07-20 04:26:35",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-19",
+        "criminal_last_updated": "2026-07-20",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
