@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1414,6 +1414,12 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/mallikarjun-kharge-rajya-sabha-oath-congress-kiren-rijiju-10763633/",
             "source_title": "Delhi Confidential: Missed Chance | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-06-30 00:11:51"
+          },
+          {
+            "incident_text": "Kiren Rijiju defended Nadda's constant smile.",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/john-brittas-jibe-bjp-all-party-meeting-10794275/",
+            "source_title": "Delhi Confidential: Smile, Swipes & Laughter | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-07-20 00:07:47"
           }
         ],
         "criminal_cases_in_news": 0
