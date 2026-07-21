@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6450,7 +6450,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 236,
+        "criminal_cases_in_news": 237,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8110,6 +8110,13 @@
             "source_title": "Police unearth network ‘smuggling cows from UP to Bengal for slaughter’, trace Rs 80-100 cr transactions | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-21 05:58:49",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "The Tate brothers fight extradition to the UK where they face rape and sex trafficking charges **Andrew and Tristan Tate**, social media influencers, appeared in Miami federal court on Monday to fight",
+            "source_url": "https://www.ndtv.com/world-news/the-tate-brothers-fight-extradition-to-the-uk-where-they-face-rape-and-sex-trafficking-charges-11799402#publisher=newsstand",
+            "source_title": "The Tate brothers fight extradition to the UK where they face rape and sex trafficking charges",
+            "scraped_at": "2026-07-21 08:36:26",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-07-21",
