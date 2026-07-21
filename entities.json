@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1486,7 +1486,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 16,
+        "criminal_cases_in_news": 18,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1599,9 +1599,23 @@
             "source_title": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu",
             "scraped_at": "2025-12-06 09:13:54",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sensitivity of protest venue, stature of LoP led to quicker talks, but Rahul changed goalposts: Govt - The Hindu On July 21, 2026, **Rahul Gandhi** demanded a discussion on the NEET paper leak and add",
+            "source_url": "https://www.thehindu.com/news/national/sensitivity-of-protest-venue-stature-of-lop-led-to-quicker-talks-but-rahul-changed-goalposts-govt/article71250102.ece",
+            "source_title": "Sensitivity of protest venue, stature of LoP led to quicker talks, but Rahul changed goalposts: Govt - The Hindu",
+            "scraped_at": "2026-07-21 17:00:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Revanth condemns detention of Rahul and Priyanka - The Hindu **Chief Minister A. Revanth Reddy** strongly condemned the detention of **Congress leader Rahul Gandhi**, **Priyanka Gandhi Vadra**, and ot",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-condemns-detention-of-rahul-and-priyanka/article71250948.ece",
+            "source_title": "Revanth condemns detention of Rahul and Priyanka - The Hindu",
+            "scraped_at": "2026-07-21 18:18:29",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-11",
+        "criminal_last_updated": "2026-07-21",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2142,7 +2156,29 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Priyanka_Gandhi_Vadra",
         "image_placeholder": "priyanka_gandhi",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Fresh Faces, Women Likely To Get Berths In Karnataka Cabinet Expansion The swearing-in of Karnataka cabinet ministers was postponed after **Rahul Gandhi** led a Congress protest march to Prime Ministe",
+            "source_url": "https://www.ndtv.com/india-news/karnataka-cabinet-expansion-tomorrow-new-faces-women-likely-to-get-berths-11802231#publisher=newsstand",
+            "source_title": "Fresh Faces, Women Likely To Get Berths In Karnataka Cabinet Expansion",
+            "scraped_at": "2026-07-21 16:58:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Revanth condemns detention of Rahul and Priyanka - The Hindu **Chief Minister A. Revanth Reddy** strongly condemned the detention of **Congress leader Rahul Gandhi**, **Priyanka Gandhi Vadra**, and ot",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-condemns-detention-of-rahul-and-priyanka/article71250948.ece",
+            "source_title": "Revanth condemns detention of Rahul and Priyanka - The Hindu",
+            "scraped_at": "2026-07-21 18:18:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Police detain Indian opposition leader Gandhi as protests continue to grow | Protests News | Al Jazeera On Tuesday, **Rahul Gandhi**, an Indian opposition leader, was detained by police while picketin",
+            "source_url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss",
+            "source_title": "Police detain Indian opposition leader Gandhi as protests continue to grow | Protests News | Al Jazeera",
+            "scraped_at": "2026-07-21 18:19:47",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Priyanka Gandhi Vadra stated Bordoloi's resignation was likely due to dissatisfaction with a ticket allocation.",
@@ -2175,7 +2211,8 @@
             "scraped_at": "2026-01-26 11:12:27"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-07-21"
       },
       {
         "name": "Mallikarjun Kharge",
