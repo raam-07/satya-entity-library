@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-21 10:36:55.357505",
+  "generated_at": "2026-07-21 13:05:01.692021",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -18,12 +18,12 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.67,
-      "mentions": 8,
+      "state": "Delhi",
+      "candidate": "Rekha Gupta",
+      "confidence": 0.4,
+      "mentions": 4,
       "reason": "Below auto-update threshold",
-      "context": "meaningful loan waiver for farmers.  Fadnavis stated that his government was considering short-term and long-term measures for loan waivers, acknowledging the drought conditions and El Nino year. The "
+      "context": "Delhi Unveils Health Scheme For 2.7 Lakh Construction Workers **Delhi's** Chief Minister Rekha Gupta announced the launch of a new 'Delhi Building and Construction Workers Health Scheme' to provide he"
     },
     {
       "type": "ruling_party",
