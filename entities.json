@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1486,7 +1486,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 18,
+        "criminal_cases_in_news": 20,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1612,6 +1612,20 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/revanth-condemns-detention-of-rahul-and-priyanka/article71250948.ece",
             "source_title": "Revanth condemns detention of Rahul and Priyanka - The Hindu",
             "scraped_at": "2026-07-21 18:18:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi Launching a protest against NEET paper leaks and other issues outside **Prime Minister Narendra Modi's** residence, **Congress**",
+            "source_url": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand",
+            "source_title": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi",
+            "scraped_at": "2026-07-21 20:03:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out Sources told NDTV that **Congress** MPs thought they were",
+            "source_url": "https://www.ndtv.com/india-news/congress-protest-outside-pms-house-pm-modi-rahul-gandhi-priyanka-gandhi-birthday-celebration-to-sit-in-how-congress-protest-played-out-11802931#publisher=newsstand",
+            "source_title": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out",
+            "scraped_at": "2026-07-21 20:04:29",
             "incident_type": "broad"
           }
         ],
@@ -2177,6 +2191,20 @@
             "source_title": "Police detain Indian opposition leader Gandhi as protests continue to grow | Protests News | Al Jazeera",
             "scraped_at": "2026-07-21 18:19:47",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi Launching a protest against NEET paper leaks and other issues outside **Prime Minister Narendra Modi's** residence, **Congress**",
+            "source_url": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand",
+            "source_title": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi",
+            "scraped_at": "2026-07-21 20:03:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out Sources told NDTV that **Congress** MPs thought they were",
+            "source_url": "https://www.ndtv.com/india-news/congress-protest-outside-pms-house-pm-modi-rahul-gandhi-priyanka-gandhi-birthday-celebration-to-sit-in-how-congress-protest-played-out-11802931#publisher=newsstand",
+            "source_title": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out",
+            "scraped_at": "2026-07-21 20:04:29",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2211,7 +2239,7 @@
             "scraped_at": "2026-01-26 11:12:27"
           }
         ],
-        "criminal_cases_in_news": 3,
+        "criminal_cases_in_news": 5,
         "criminal_last_updated": "2026-07-21"
       },
       {
