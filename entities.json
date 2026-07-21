@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-20",
+    "last_updated": "2026-07-21",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9280,9 +9280,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-20",
+        "party_last_updated": "2026-07-21",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-20"
+        "cm_last_updated": "2026-07-21"
       },
       {
         "name": "Rajasthan",
@@ -9320,7 +9320,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-20"
+        "party_last_updated": "2026-07-21"
       },
       {
         "name": "Tripura",
@@ -9360,9 +9360,9 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-20",
+        "party_last_updated": "2026-07-21",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-20"
+        "cm_last_updated": "2026-07-21"
       },
       {
         "name": "Delhi",
