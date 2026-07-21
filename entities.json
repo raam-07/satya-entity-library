@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2058,6 +2058,12 @@
             "source_url": "https://www.thehindu.com/news/national/attack-on-tamil-culture-rahul-gandhi-accuses-ib-ministry-of-blocking-jana-nayagan/article70504566.ece",
             "source_title": "‘Attack on Tamil culture’: Rahul Gandhi accuses I&B Ministry of blocking Jana Nayagan - The Hindu",
             "scraped_at": "2026-01-13 03:05:15"
+          },
+          {
+            "incident_text": "Rahul Gandhi added new demands after initial agreement.",
+            "source_url": "https://www.ndtv.com/india-news/congress-protest-cjp-neet-went-back-on-his-word-minister-jitendra-singh-on-rahul-gandhis-demands-11801635#publisher=newsstand",
+            "source_title": "\"Went Back On His Word\": Minister Jitendra Singh On Rahul Gandhi's 'Demands'",
+            "scraped_at": "2026-07-21 15:08:12"
           }
         ]
       },
