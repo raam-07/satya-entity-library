@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21 20:14:08.770841",
+  "generated_at": "2026-07-21 21:19:24.077843",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 1,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -24,6 +24,14 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "Delhi Unveils Health Scheme For 2.7 Lakh Construction Workers **Delhi's** Chief Minister Rekha Gupta announced the launch of a new 'Delhi Building and Construction Workers Health Scheme' to provide he"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.78,
+      "reason": "Gemma rejected",
+      "context": "Lohagad Fort Murder: 26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim Ketan Agarwal's Case **Maharashtra** Chief Minister Devendra Fadnavis met with the family of Ketan Agarwal, who was murde"
     },
     {
       "type": "ruling_party",
