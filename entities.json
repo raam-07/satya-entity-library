@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 3,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1486,7 +1486,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 20,
+        "criminal_cases_in_news": 21,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1627,9 +1627,16 @@
             "source_title": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out",
             "scraped_at": "2026-07-21 20:04:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu **Rajeev Chandrasekhar**, BJP Kerala president, stated on X that peaceful protests are ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
+            "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
+            "scraped_at": "2026-07-22 06:42:48",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-21",
+        "criminal_last_updated": "2026-07-22",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2205,6 +2212,13 @@
             "source_title": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out",
             "scraped_at": "2026-07-21 20:04:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu **Rajeev Chandrasekhar**, BJP Kerala president, stated on X that peaceful protests are ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
+            "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
+            "scraped_at": "2026-07-22 06:42:48",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2239,8 +2253,8 @@
             "scraped_at": "2026-01-26 11:12:27"
           }
         ],
-        "criminal_cases_in_news": 5,
-        "criminal_last_updated": "2026-07-21"
+        "criminal_cases_in_news": 6,
+        "criminal_last_updated": "2026-07-22"
       },
       {
         "name": "Mallikarjun Kharge",
@@ -2527,6 +2541,13 @@
             "source_title": "18 detained for bid to stage protest at Manikarnika Ghat in Varanasi - The Hindu",
             "scraped_at": "2026-01-19 11:07:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu **Rajeev Chandrasekhar**, BJP Kerala president, stated on X that peaceful protests are ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
+            "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
+            "scraped_at": "2026-07-22 06:42:48",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2561,8 +2582,8 @@
             "scraped_at": "2026-02-14 02:08:28"
           }
         ],
-        "criminal_cases_in_news": 1,
-        "criminal_last_updated": "2026-07-07"
+        "criminal_cases_in_news": 2,
+        "criminal_last_updated": "2026-07-22"
       },
       {
         "name": "Mayawati",
