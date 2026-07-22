@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3988,6 +3988,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/no-rift-between-ksu-kerala-cm-over-govt-pleader-appointment-ramesh-chennithala/article71237430.ece",
             "source_title": "No rift between KSU, Kerala CM over govt pleader appointment: Ramesh Chennithala - The Hindu",
             "scraped_at": "2026-07-18 11:17:30"
+          },
+          {
+            "incident_text": "VD Satheesan accused Vijayan of spreading communal propaganda.",
+            "source_url": "https://www.ndtv.com/kerala-news/trying-to-mislead-muslims-vd-satheesan-slams-pinarayi-vijayan-over-kerala-waqf-board-row-11804886#publisher=newsstand",
+            "source_title": "Trying To Mislead Muslims: VD Satheesan Slams Pinarayi Vijayan Over Kerala Waqf Board Row",
+            "scraped_at": "2026-07-22 11:29:59"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -6512,6 +6518,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/wakf-case-petitioner-moves-caveat-in-sc/article71238082.ece",
             "source_title": "Waqf case: petitioner moves caveat in SC - The Hindu",
             "scraped_at": "2026-07-18 15:06:47"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan accused of spreading communal propaganda.",
+            "source_url": "https://www.ndtv.com/kerala-news/trying-to-mislead-muslims-vd-satheesan-slams-pinarayi-vijayan-over-kerala-waqf-board-row-11804886#publisher=newsstand",
+            "source_title": "Trying To Mislead Muslims: VD Satheesan Slams Pinarayi Vijayan Over Kerala Waqf Board Row",
+            "scraped_at": "2026-07-22 11:29:59"
           }
         ]
       },

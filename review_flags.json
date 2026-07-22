@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 12:44:34.317488",
+  "generated_at": "2026-07-22 13:13:43.598360",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -7,7 +7,7 @@
     "entities_enriched": 0,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "gaffe_updates_applied": 2,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
