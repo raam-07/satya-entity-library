@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1486,7 +1486,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 21,
+        "criminal_cases_in_news": 22,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1633,6 +1633,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
             "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
             "scraped_at": "2026-07-22 06:42:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET **Vijay**, supporting **Rahul Gandhi's** NEET protest in Delhi, condemned police action against Congress leaders but opposed",
+            "source_url": "https://www.ndtv.com/india-news/vijays-2-pronged-stance-on-protest-support-for-rahul-gandhi-abolish-neet-11807294#publisher=newsstand",
+            "source_title": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET",
+            "scraped_at": "2026-07-22 16:58:57",
             "incident_type": "broad"
           }
         ],
@@ -2219,6 +2226,13 @@
             "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
             "scraped_at": "2026-07-22 06:42:48",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET **Vijay**, supporting **Rahul Gandhi's** NEET protest in Delhi, condemned police action against Congress leaders but opposed",
+            "source_url": "https://www.ndtv.com/india-news/vijays-2-pronged-stance-on-protest-support-for-rahul-gandhi-abolish-neet-11807294#publisher=newsstand",
+            "source_title": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET",
+            "scraped_at": "2026-07-22 16:58:57",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2253,7 +2267,7 @@
             "scraped_at": "2026-01-26 11:12:27"
           }
         ],
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 7,
         "criminal_last_updated": "2026-07-22"
       },
       {
