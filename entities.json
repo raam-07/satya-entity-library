@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1031,6 +1031,12 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/narendra-modi-ias-officers-statue-of-unity-10728831/",
             "source_title": "Delhi Confidential: Pep Talk | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-06-07 17:40:55"
+          },
+          {
+            "incident_text": "J.P. Nadda urged Rahul Gandhi not to exploit paper leak cases for political gain.",
+            "source_url": "https://www.thehindu.com/news/national/why-so-selective-on-paper-leaks-nadda-asks-rahul/article71255070.ece",
+            "source_title": "Why so selective on paper leaks, Nadda asks Rahul - The Hindu",
+            "scraped_at": "2026-07-22 19:57:33"
           }
         ],
         "criminal_cases_in_news": 3,
@@ -2106,6 +2112,12 @@
             "source_url": "https://www.ndtv.com/india-news/congress-protest-cjp-neet-went-back-on-his-word-minister-jitendra-singh-on-rahul-gandhis-demands-11801635#publisher=newsstand",
             "source_title": "\"Went Back On His Word\": Minister Jitendra Singh On Rahul Gandhi's 'Demands'",
             "scraped_at": "2026-07-21 15:08:12"
+          },
+          {
+            "incident_text": "Rahul Gandhi exploits paper leak cases for political gain.",
+            "source_url": "https://www.thehindu.com/news/national/why-so-selective-on-paper-leaks-nadda-asks-rahul/article71255070.ece",
+            "source_title": "Why so selective on paper leaks, Nadda asks Rahul - The Hindu",
+            "scraped_at": "2026-07-22 19:57:33"
           }
         ]
       },
