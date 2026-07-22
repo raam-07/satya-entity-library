@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 13:27:39.699043",
+  "generated_at": "2026-07-22 14:38:05.125772",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -20,8 +20,8 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Suvendu Adhikari",
-      "confidence": 0.6,
-      "mentions": 6,
+      "confidence": 0.64,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "tailed report on the incident and plans to address the issue in the state assembly. In the wake of the collapse of a warehouse in Kolkata’s Taratala area, killing at least five labourers, West Bengal "
     },
