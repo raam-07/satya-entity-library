@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6521,7 +6521,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 237,
+        "criminal_cases_in_news": 238,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8188,9 +8188,16 @@
             "source_title": "The Tate brothers fight extradition to the UK where they face rape and sex trafficking charges",
             "scraped_at": "2026-07-21 08:36:26",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "After Mumbai’s NEET protests, hundreds of youngsters get police notices on WhatsApp | Mumbai News - The Indian Express After registering seven FIRs against protesters over alleged NEET irregularities ",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/after-mumbais-neet-protests-hundreds-of-youngsters-get-police-notices-on-whatsapp-10797098/",
+            "source_title": "After Mumbai’s NEET protests, hundreds of youngsters get police notices on WhatsApp | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-21 23:04:50",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-21",
+        "criminal_last_updated": "2026-07-22",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
