@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 18:51:34.021852",
+  "generated_at": "2026-07-24 19:08:36.584344",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -11,11 +11,20 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.43,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "tivities in their jurisdictions will face departmental action. Speaking during a live interaction on social media on Tuesday, the minister said the crackdown has been initiated under the direction of "
+    },
     {
       "type": "cm_detection",
       "state": "West Bengal",
