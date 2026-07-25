@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6593,7 +6593,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 239,
+        "criminal_cases_in_news": 242,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8273,6 +8273,27 @@
             "source_url": "https://indianexpress.com/article/cities/kolkata/sebaashray-camp-is-a-scam-bengal-cm-targets-abhishek-banerjee-warns-of-strict-action-10803175/",
             "source_title": "‘Sebaashray camp is a scam’: Bengal CM targets Abhishek Banerjee, warns of strict action | Kolkata News - The Indian Express",
             "scraped_at": "2026-07-25 10:13:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Cockroach Janta Party withdraws protest after Centre accepts demands - The Hindu On July 25, 2026, the **Cockroach Janta Party (CJP)** agreed to withdraw its protest at Jantar Mantar after the Modi-le",
+            "source_url": "https://www.thehindu.com/news/national/cockroach-janta-party-withdraws-protest-after-centre-accepts-demands/article71266081.ece",
+            "source_title": "Cockroach Janta Party withdraws protest after Centre accepts demands - The Hindu",
+            "scraped_at": "2026-07-25 13:42:34",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "‘He spoke briefly, then fired’: Indian-origin woman shot dead in targeted Toronto attack | World News - The Times of India On Friday at 7.23am, **Navneet Kaur**, a 26-year-old Indian-origin woman, was",
+            "source_url": "https://timesofindia.indiatimes.com/world/rest-of-world/he-spoke-briefly-then-fired-indian-origin-woman-shot-dead-in-targeted-toronto-attack/articleshow/132626807.cms",
+            "source_title": "‘He spoke briefly, then fired’: Indian-origin woman shot dead in targeted Toronto attack | World News - The Times of India",
+            "scraped_at": "2026-07-25 13:42:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Centre Agrees To 2 More Demands, Says CJP In Joint Press Meet On Saturday, the **Cockroach Janta Party** (CJP) ended its student protest movement after **Education Minister Dharmendra Pradhan** resign",
+            "source_url": "https://www.ndtv.com/india-news/centre-agrees-to-2-more-demands-says-cjp-in-joint-press-meet-11820982#publisher=newsstand",
+            "source_title": "Centre Agrees To 2 More Demands, Says CJP In Joint Press Meet",
+            "scraped_at": "2026-07-25 13:43:47",
             "incident_type": "broad"
           }
         ],
