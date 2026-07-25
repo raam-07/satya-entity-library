@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-25 19:15:30.789539",
+  "generated_at": "2026-07-25 19:55:18.220664",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -18,21 +18,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.6,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "cleared by the Trinamool Congress government will be audited over the next four weeks. - Kalicharan Banerjee, former OSD to ex-Mayor Firhad Hakim, has been arrested over a warehouse collapse - Bengal "
-    },
-    {
-      "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
       "confidence": 0.7,
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "Lohagad Fort Murder: 26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim Ketan Agarwal's Case **Maharashtra** Chief Minister Devendra Fadnavis met with the family of Ketan Agarwal, who was murde"
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.56,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "rder and arrested. The chief minister also pledged to provide compensation and assistance to the families involved and promised to return to Baruipur within a week to address their needs. West Bengal "
     },
     {
       "type": "cm_detection",
