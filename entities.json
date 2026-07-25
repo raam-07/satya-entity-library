@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6593,7 +6593,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 242,
+        "criminal_cases_in_news": 243,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8294,6 +8294,13 @@
             "source_url": "https://www.ndtv.com/india-news/centre-agrees-to-2-more-demands-says-cjp-in-joint-press-meet-11820982#publisher=newsstand",
             "source_title": "Centre Agrees To 2 More Demands, Says CJP In Joint Press Meet",
             "scraped_at": "2026-07-25 13:43:47",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained | India News - The Indian Express On July 25, 2026, **Students’ Federation of India (SFI)** organized",
+            "source_url": "https://indianexpress.com/article/india/guwahati-protest-sfi-jantar-mantar-dispur-police-arrests-bns-charges-10803645/",
+            "source_title": "Assam Police arrest six over Guwahati protest backing Delhi demonstration; over two dozen detained | India News - The Indian Express",
+            "scraped_at": "2026-07-25 17:37:16",
             "incident_type": "broad"
           }
         ],
