@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -2251,6 +2251,13 @@
             "source_title": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET",
             "scraped_at": "2026-07-22 16:58:57",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case - The Hindu On July 6, **Elathur MLA Vidya Balakrishnan** received a call offering her a Cabinet Minister’s post f",
+            "source_url": "https://www.thehindu.com/news/national/kerala/two-held-for-impersonating-congress-leader-priyanka-gandhis-aide-in-cyber-fraud-case/article71269020.ece",
+            "source_title": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case - The Hindu",
+            "scraped_at": "2026-07-26 10:50:43",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2285,8 +2292,8 @@
             "scraped_at": "2026-01-26 11:12:27"
           }
         ],
-        "criminal_cases_in_news": 7,
-        "criminal_last_updated": "2026-07-22"
+        "criminal_cases_in_news": 8,
+        "criminal_last_updated": "2026-07-26"
       },
       {
         "name": "Mallikarjun Kharge",
