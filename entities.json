@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6600,7 +6600,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 245,
+        "criminal_cases_in_news": 246,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8322,6 +8322,13 @@
             "source_url": "https://www.ndtv.com/india-news/twisha-sharma-death-case-news-bhopal-court-rejects-bail-plea-of-ex-judge-giribala-singh-in-twisha-sharma-death-case-11822994#publisher=newsstand",
             "source_title": "Twisha Sharma death case news, Bhopal Court Rejects Bail Plea Of Ex-Judge Giribala Singh In Twisha Sharma Death Case",
             "scraped_at": "2026-07-26 06:25:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "UP Murder news Man Hacks 8-Month Pregnant Wife To Death. Children, 5 And 2, Bear Witness In a horrific incident in Bijrari village, Mahoba, **Hanif Mansoori** killed his eight-month pregnant wife, Man",
+            "source_url": "https://www.ndtv.com/india-news/up-murder-news-man-hacks-8-month-pregnant-wife-to-death-children-5-and-2-bear-witness-11824523#publisher=newsstand",
+            "source_title": "UP Murder news Man Hacks 8-Month Pregnant Wife To Death. Children, 5 And 2, Bear Witness",
+            "scraped_at": "2026-07-26 15:43:16",
             "incident_type": "broad"
           }
         ],
