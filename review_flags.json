@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 10:38:55.571883",
+  "generated_at": "2026-07-26 12:33:40.415548",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -20,10 +20,10 @@
       "type": "cm_detection",
       "state": "Maharashtra",
       "candidate": "Devendra Fadnavis",
-      "confidence": 0.7,
-      "mentions": 7,
+      "confidence": 0.62,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
-      "context": "Lohagad Fort Murder: 26/11 Prosecutor Ujjwal Nikam To Fight Pune Murder Victim Ketan Agarwal's Case **Maharashtra** Chief Minister Devendra Fadnavis met with the family of Ketan Agarwal, who was murde"
+      "context": "and assured strict action and fast-track court for justice - Nikam will begin his role after police file charges; investigation is still ongoing Senior advocate Ujjwal Nikam has said that Maharashtra "
     },
     {
       "type": "cm_detection",
