@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6402,6 +6402,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-takes-exception-to-cm-dycm-choosing-to-meet-rahul-over-german-chancellor/article70506403.ece",
             "source_title": "BJP takes exception to CM, DyCM choosing to meet Rahul over German Chancellor - The Hindu",
             "scraped_at": "2026-01-13 13:10:41"
+          },
+          {
+            "incident_text": "Siddaramaiah cited political pollution for not contesting 2028 polls.",
+            "source_url": "https://indianexpress.com/article/cities/bangalore/siddaramaiah-announces-electoral-retirement-says-wont-contest-2028-karnataka-polls-10804568/",
+            "source_title": "Siddaramaiah announces retirement from electoral politics, won’t contest 2028 polls | Bangalore News - The Indian Express",
+            "scraped_at": "2026-07-26 20:14:57"
           }
         ]
       },
