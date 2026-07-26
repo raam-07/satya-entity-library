@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6593,7 +6593,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 244,
+        "criminal_cases_in_news": 245,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8309,9 +8309,16 @@
             "source_title": "Lucknow fire: Month on, authorities raze ‘unsanctioned’ parts of building | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-25 22:32:46",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Twisha Sharma death case news, Bhopal Court Rejects Bail Plea Of Ex-Judge Giribala Singh In Twisha Sharma Death Case On Saturday, a special court in Bhopal rejected the bail plea of **Giribala Singh**",
+            "source_url": "https://www.ndtv.com/india-news/twisha-sharma-death-case-news-bhopal-court-rejects-bail-plea-of-ex-judge-giribala-singh-in-twisha-sharma-death-case-11822994#publisher=newsstand",
+            "source_title": "Twisha Sharma death case news, Bhopal Court Rejects Bail Plea Of Ex-Judge Giribala Singh In Twisha Sharma Death Case",
+            "scraped_at": "2026-07-26 06:25:07",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-25",
+        "criminal_last_updated": "2026-07-26",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
