@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6606,7 +6606,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 246,
+        "criminal_cases_in_news": 247,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8335,6 +8335,13 @@
             "source_url": "https://www.ndtv.com/india-news/up-murder-news-man-hacks-8-month-pregnant-wife-to-death-children-5-and-2-bear-witness-11824523#publisher=newsstand",
             "source_title": "UP Murder news Man Hacks 8-Month Pregnant Wife To Death. Children, 5 And 2, Bear Witness",
             "scraped_at": "2026-07-26 15:43:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two traffic police personnel caught on camera accepting bribes - The Hindu On Saturday, **Somashekhar**, a head constable from the Pulakeshinagar Traffic Police Station, was suspended after allegedly ",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/two-traffic-police-personnel-accepting-bribes-caught-on-camera/article71269352.ece",
+            "source_title": "Two traffic police personnel caught on camera accepting bribes - The Hindu",
+            "scraped_at": "2026-07-26 22:34:32",
             "incident_type": "broad"
           }
         ],
