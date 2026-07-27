@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -6606,7 +6606,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 247,
+        "criminal_cases_in_news": 248,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8343,9 +8343,16 @@
             "source_title": "Two traffic police personnel caught on camera accepting bribes - The Hindu",
             "scraped_at": "2026-07-26 22:34:32",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Inter-district vehicle-lifting gang busted; 10 arrested - The Hindu On Friday night, **Neradigonda police** in Adilabad district stopped a vehicle at Kupti check post and arrested five members of an i",
+            "source_url": "https://www.thehindu.com/news/national/telangana/inter-district-vehicle-lifting-gang-busted-10-arrested/article71269492.ece",
+            "source_title": "Inter-district vehicle-lifting gang busted; 10 arrested - The Hindu",
+            "scraped_at": "2026-07-27 00:07:52",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-26",
+        "criminal_last_updated": "2026-07-27",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -9465,7 +9472,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-26"
+        "party_last_updated": "2026-07-27"
       },
       {
         "name": "Kerala",
@@ -9547,7 +9554,7 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-26",
+        "party_last_updated": "2026-07-27",
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-07-21"
       },
@@ -9587,7 +9594,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-26"
+        "party_last_updated": "2026-07-27"
       },
       {
         "name": "Tripura",
@@ -9627,7 +9634,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-07-26",
+        "party_last_updated": "2026-07-27",
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-07-22"
       },
