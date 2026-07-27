@@ -6606,7 +6606,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 248,
+        "criminal_cases_in_news": 249,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8349,6 +8349,13 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/inter-district-vehicle-lifting-gang-busted-10-arrested/article71269492.ece",
             "source_title": "Inter-district vehicle-lifting gang busted; 10 arrested - The Hindu",
             "scraped_at": "2026-07-27 00:07:52",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Tejashwi Yadav threatens protest resumption if brother Tej Pratap, others not released in 24 hours - The Hindu On July 26, 2026, **Tejashwi Yadav**, Bihar's Leader of Opposition, demanded the release ",
+            "source_url": "https://www.thehindu.com/news/national/bihar/tejashwi-yadav-threatens-protest-resumption-if-brother-tej-pratap-others-not-relaesed-in-24-hours/article71269977.ece",
+            "source_title": "Tejashwi Yadav threatens protest resumption if brother Tej Pratap, others not released in 24 hours - The Hindu",
+            "scraped_at": "2026-07-27 00:07:10",
             "incident_type": "broad"
           }
         ],
