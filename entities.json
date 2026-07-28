@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2619,6 +2619,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/derogatory-language-against-shankaracharya-is-verbal-violence-akhilesh-yadav/article70631542.ece",
             "source_title": "Derogatory language against Shankaracharya is verbal violence: Akhilesh Yadav - The Hindu",
             "scraped_at": "2026-02-14 02:08:28"
+          },
+          {
+            "incident_text": "Akhilesh Yadav compared current police actions to the Emergency era.",
+            "source_url": "https://indianexpress.com/article/political-pulse/akhilesh-yadav-lok-sabha-paper-leak-bill-ayodhya-temple-donation-theft-10807550/",
+            "source_title": "Ram Temple to paper leak: Akhilesh Yadav’s stinging attack on BJP in Lok Sabha | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-07-28 12:25:02"
           }
         ],
         "criminal_cases_in_news": 2,
