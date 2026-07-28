@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2124,6 +2124,12 @@
             "source_url": "https://www.thehindu.com/news/national/why-so-selective-on-paper-leaks-nadda-asks-rahul/article71255070.ece",
             "source_title": "Why so selective on paper leaks, Nadda asks Rahul - The Hindu",
             "scraped_at": "2026-07-22 19:57:33"
+          },
+          {
+            "incident_text": "Rahul Gandhi called Pralhad Joshi a 'defender of rapists'.",
+            "source_url": "https://www.ndtv.com/india-news/cjp-protests-dharmendra-pradhan-paper-leak-protest-neet-protest-bjp-defender-of-rapists-is-education-minister-rahul-gandhi-slams-pralhad-joshi-11833464#publisher=newsstand",
+            "source_title": "CJP Protests, Dharmendra Pradhan, Paper Leak Protest, NEET Protest, BJP: \"Defender Of Rapists Is Education Minister\": Rahul Gandhi Slams Pralhad Joshi",
+            "scraped_at": "2026-07-28 15:02:37"
           }
         ]
       },
