@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 12:12:40.147051",
+  "generated_at": "2026-07-28 13:48:24.703470",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -16,15 +16,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.56,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "rder and arrested. The chief minister also pledged to provide compensation and assistance to the families involved and promised to return to Baruipur within a week to address their needs. West Bengal "
-    },
     {
       "type": "cm_detection",
       "state": "Maharashtra",
@@ -44,11 +35,20 @@
       "context": "tivities in their jurisdictions will face departmental action. Speaking during a live interaction on social media on Tuesday, the minister said the crackdown has been initiated under the direction of "
     },
     {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.62,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "rder and arrested. The chief minister also pledged to provide compensation and assistance to the families involved and promised to return to Baruipur within a week to address their needs. West Bengal "
+    },
+    {
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
       "mentions": 39,
-      "share": 0.26,
+      "share": 0.27,
       "reason": "Party evidence below auto threshold"
     }
   ]
