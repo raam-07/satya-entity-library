@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29 19:13:51.131109",
+  "generated_at": "2026-07-29 21:13:23.229806",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -38,8 +38,8 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Suvendu Adhikari",
-      "confidence": 0.67,
-      "mentions": 6,
+      "confidence": 0.7,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "rder and arrested. The chief minister also pledged to provide compensation and assistance to the families involved and promised to return to Baruipur within a week to address their needs. West Bengal "
     },
