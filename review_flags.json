@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29 22:31:29.648748",
+  "generated_at": "2026-07-29 22:56:50.539316",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -11,20 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 8
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.57,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "planned protest march by Ambedkarite organizations against the proposed sub-categorization. 3 min readMumbaiUpdated: Jun 29, 2026 10:16 PM IST An all party delegation of SC legislators on Monday met C"
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
