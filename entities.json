@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2136,6 +2136,18 @@
             "source_url": "https://www.ndtv.com/india-news/cjp-protests-dharmendra-pradhan-paper-leak-protest-neet-protest-bjp-defender-of-rapists-is-education-minister-rahul-gandhi-slams-pralhad-joshi-11833464#publisher=newsstand",
             "source_title": "CJP Protests, Dharmendra Pradhan, Paper Leak Protest, NEET Protest, BJP: \"Defender Of Rapists Is Education Minister\": Rahul Gandhi Slams Pralhad Joshi",
             "scraped_at": "2026-07-28 15:02:37"
+          },
+          {
+            "incident_text": "Rahul Gandhi accused Amit Shah of ordering firing on protesters.",
+            "source_url": "https://www.ndtv.com/india-news/lok-sabha-paper-leak-bill-what-happened-after-rahul-gandhis-remarks-on-amit-shah-inside-story-11838868#publisher=newsstand",
+            "source_title": "Lok Sabha, Paper Leak Bill: What Happened After Rahul Gandhi's Remarks On Amit Shah? Inside Story",
+            "scraped_at": "2026-07-29 14:57:05"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed Amit Shah was either culpable or incompetent over student crackdown.",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-amit-shah-chalo-sansad-cjp-protests-anti-paper-leak-bill-10809224/",
+            "source_title": "Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi | India News - The Indian Express",
+            "scraped_at": "2026-07-29 15:00:26"
           }
         ]
       },
