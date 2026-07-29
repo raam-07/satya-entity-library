@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2592,6 +2592,12 @@
             "source_url": "https://www.thehindu.com/news/cities/Delhi/with-discharge-in-excise-case-kejriwal-is-back-to-win-lost-turf-and-hearts/article70725104.ece",
             "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
             "scraped_at": "2026-03-10 00:05:49"
+          },
+          {
+            "incident_text": "Arvind Kejriwal claimed the Centre coerces car makers into silence on E20 petrol.",
+            "source_url": "https://www.thehindu.com/news/national/centre-coercing-vehicle-manufacturers-into-silence-on-e20-issue-kejriwal/article71282235.ece",
+            "source_title": "Centre ‘coercing’ vehicle manufacturers into silence on E20 issue: Kejriwal - The Hindu",
+            "scraped_at": "2026-07-29 20:34:35"
           }
         ]
       },
