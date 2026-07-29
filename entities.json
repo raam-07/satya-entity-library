@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1438,6 +1438,12 @@
             "source_url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand",
             "source_title": "parliament monsoon session 2026 live updates neet paper leak row anti paper leak bill lok sabha rajya sabha proceedings, rahul gandhi, pm modi, CJP protests",
             "scraped_at": "2026-07-29 04:24:14"
+          },
+          {
+            "incident_text": "Kiren Rijiju demanded Rahul Gandhi substantiate and apologize for his remarks.",
+            "source_url": "https://indianexpress.com/article/political-pulse/exam-leak-law-clears-lok-sabha-showdown-comments-deleted-rahul-gandhi-lok-sabha-10809375/",
+            "source_title": "Tougher exam leak law clears Lok Sabha amid showdown with comments deleted",
+            "scraped_at": "2026-07-29 16:30:15"
           }
         ],
         "criminal_cases_in_news": 0
@@ -6468,7 +6474,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 9,
+        "criminal_cases_in_news": 10,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -6532,9 +6538,16 @@
             "source_title": "Misrepresentation of facts by prosecutor led to bail for accused in officials’ assault case: ED - The Hindu",
             "scraped_at": "2026-06-29 21:13:31",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Attack on ED officials: Kerala HC seeks State govt.’s response in bail plea of accused - The Hindu The **Kerala High Court** has sought the State’s response to a bail petition by Kiran P.S., one of 25",
+            "source_url": "https://www.thehindu.com/news/national/kerala/attack-on-ed-officials-kerala-hc-seeks-state-govts-response-in-bail-plea-of-accused/article71282671.ece",
+            "source_title": "Attack on ED officials: Kerala HC seeks State govt.’s response in bail plea of accused - The Hindu",
+            "scraped_at": "2026-07-29 16:25:39",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-29",
+        "criminal_last_updated": "2026-07-29",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
