@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -1432,6 +1432,12 @@
             "source_url": "https://indianexpress.com/article/delhi-confidential/john-brittas-jibe-bjp-all-party-meeting-10794275/",
             "source_title": "Delhi Confidential: Smile, Swipes & Laughter | Delhi Confidential News - The Indian Express",
             "scraped_at": "2026-07-20 00:07:47"
+          },
+          {
+            "incident_text": "Kiren Rijiju criticised opposition for politicising competitive exams paper leak debate.",
+            "source_url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand",
+            "source_title": "parliament monsoon session 2026 live updates neet paper leak row anti paper leak bill lok sabha rajya sabha proceedings, rahul gandhi, pm modi, CJP protests",
+            "scraped_at": "2026-07-29 04:24:14"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2296,6 +2302,12 @@
             "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
             "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
             "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "Priyanka Gandhi referred to a committee member as a 'cow urine expert'.",
+            "source_url": "https://indianexpress.com/article/india/priyanka-gandhi-iit-professor-v-kamakoti-cow-urine-gaumutra-10808268/",
+            "source_title": "‘Cow urine expert’: Priyanka Gandhi mocks exam reforms panel member in Lok Sabha speech | India News - The Indian Express",
+            "scraped_at": "2026-07-29 04:25:25"
           }
         ],
         "criminal_cases_in_news": 8,
