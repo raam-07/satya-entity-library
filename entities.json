@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 11,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -115,9 +115,16 @@
             "source_title": "Man arrested in Bihar's Muzaffarpur for circulating AI-generated fake videos of PM, President - The Hindu",
             "scraped_at": "2026-01-02 21:55:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi | Chandigarh News - The Indian Express A **Chandigarh** court dismissed the second regul",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/court-dismisses-second-bail-plea-of-hyderabad-man-arrested-for-circulating-misleading-video-linked-to-pm-modi-10811163/",
+            "source_title": "Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-30 19:40:35",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-10",
+        "criminal_last_updated": "2026-07-30",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -2160,6 +2167,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-mp-anurag-thakur-files-privilege-notice-against-rahul-gandhi-over-remarks-on-amit-shah/article71286972.ece",
             "source_title": "BJP MP Anurag Thakur files privilege notice against Rahul Gandhi over remarks on Amit Shah - The Hindu",
             "scraped_at": "2026-07-30 15:34:20"
+          },
+          {
+            "incident_text": "Rahul Gandhi used terms like 'idiots' and 'blind devotees' in parliament.",
+            "source_url": "https://www.ndtv.com/india-news/anurag-thakur-files-contempt-notice-against-rahul-gandhi-in-parliament-11845220#publisher=newsstand",
+            "source_title": "BJP MP's Contempt Notice Against Rahul Gandhi Over Remarks In Parliament",
+            "scraped_at": "2026-07-30 19:40:32"
           }
         ]
       },
