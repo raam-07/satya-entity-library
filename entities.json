@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2154,6 +2154,12 @@
             "source_url": "https://indianexpress.com/article/india/rahul-gandhi-amit-shah-chalo-sansad-cjp-protests-anti-paper-leak-bill-10809224/",
             "source_title": "Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi | India News - The Indian Express",
             "scraped_at": "2026-07-29 15:00:26"
+          },
+          {
+            "incident_text": "Rahul Gandhi made unsubstantiated allegations during a debate.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-mp-anurag-thakur-files-privilege-notice-against-rahul-gandhi-over-remarks-on-amit-shah/article71286972.ece",
+            "source_title": "BJP MP Anurag Thakur files privilege notice against Rahul Gandhi over remarks on Amit Shah - The Hindu",
+            "scraped_at": "2026-07-30 15:34:20"
           }
         ]
       },
