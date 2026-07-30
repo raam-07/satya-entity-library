@@ -8791,6 +8791,25 @@
         "auto_added_on": "2026-07-21",
         "gemma_confidence": "high",
         "mentions_detected": 1
+      },
+      {
+        "name": "New Office Address",
+        "role": "Former Chief Minister of Maharashtra",
+        "party": "",
+        "state": "Maharashtra",
+        "aliases": [
+          "New Address",
+          "Address"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/New_Office_Address",
+        "image_placeholder": "new_office_address",
+        "auto_added": true,
+        "auto_added_on": "2026-07-30",
+        "gemma_confidence": "high",
+        "mentions_detected": 1
       }
     ],
     "parties": [
