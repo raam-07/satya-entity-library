@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5091,7 +5091,7 @@
           "Adhikari"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 13,
+        "criminal_cases_in_news": 14,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -5190,9 +5190,16 @@
             "source_title": "Two more held in violence at West Bengal students’ rally; CJP appeals CM for immediate release of protesters - The Hindu",
             "scraped_at": "2026-07-27 20:26:19",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CBI Arrests 2, Probes 'Political Angle' In Murder Of Suvendu Adhikari's Aide Chandranath Rath The **CBI** arrested Sagar and Sahib Sonkar, former Trinamool Congress (TMC) workers who joined the BJP be",
+            "source_url": "https://www.ndtv.com/india-news/cbi-arrests-2-probes-political-angle-in-murder-of-suvendu-adhikaris-aide-chandranath-rath-11849859#publisher=newsstand",
+            "source_title": "CBI Arrests 2, Probes 'Political Angle' In Murder Of Suvendu Adhikari's Aide Chandranath Rath",
+            "scraped_at": "2026-07-31 17:08:47",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-07-27",
+        "criminal_last_updated": "2026-07-31",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
