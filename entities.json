@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1530,7 +1530,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 22,
+        "criminal_cases_in_news": 23,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1685,9 +1685,16 @@
             "source_title": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET",
             "scraped_at": "2026-07-22 16:58:57",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu On Saturday, the Varanasi police registered an FIR against **Rahul Gandhi**, Pappu Yada",
+            "source_url": "https://www.thehindu.com/news/national/varanasi-police-book-mps-rahul-gandhi-pappu-yadav-and-awadesh-prasad-for-insulting-sanatan-dharma/article71294407.ece",
+            "source_title": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu",
+            "scraped_at": "2026-08-01 17:36:49",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-22",
+        "criminal_last_updated": "2026-08-01",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -6707,7 +6714,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 253,
+        "criminal_cases_in_news": 254,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8485,6 +8492,13 @@
             "source_url": "https://www.ndtv.com/india-news/mockery-of-sanatan-culture-bjp-seeks-fir-against-rahul-gandhi-pappu-yadav-11853250#publisher=newsstand",
             "source_title": "\"Mockery Of Sanatan Culture\": BJP Seeks Case Against Rahul Gandhi, Pappu Yadav",
             "scraped_at": "2026-08-01 16:05:53",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu On Saturday, the Varanasi police registered an FIR against **Rahul Gandhi**, Pappu Yada",
+            "source_url": "https://www.thehindu.com/news/national/varanasi-police-book-mps-rahul-gandhi-pappu-yadav-and-awadesh-prasad-for-insulting-sanatan-dharma/article71294407.ece",
+            "source_title": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu",
+            "scraped_at": "2026-08-01 17:36:49",
             "incident_type": "broad"
           }
         ],
