@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6707,7 +6707,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 249,
+        "criminal_cases_in_news": 250,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8458,9 +8458,16 @@
             "source_title": "Tejashwi Yadav threatens protest resumption if brother Tej Pratap, others not released in 24 hours - The Hindu",
             "scraped_at": "2026-07-27 00:07:10",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Group Of Men Drag Couple Into Forest, Rob Them, Attempt To Rape Woman In a **Guna district** of Madhya Pradesh, a group of men attacked and robbed a couple near Gader village on Thursday night. The vi",
+            "source_url": "https://www.ndtv.com/india-news/group-of-men-drag-couple-into-forest-rob-them-attempt-to-rape-woman-11853099#publisher=newsstand",
+            "source_title": "Group Of Men Drag Couple Into Forest, Rob Them, Attempt To Rape Woman",
+            "scraped_at": "2026-08-01 14:37:40",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-27",
+        "criminal_last_updated": "2026-08-01",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
