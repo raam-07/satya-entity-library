@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -8791,6 +8791,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/vilathikulam-dmk-mla-arrested-for-remarks-against-tn-cm-vijay/article71243773.ece",
             "source_title": "Vilathikulam DMK MLA arrested for remarks against T.N. CM Vijay - The Hindu",
             "scraped_at": "2026-07-20 07:46:46"
+          },
+          {
+            "incident_text": "On Saturday, Justice Bhuyan criticized the SC Collegium for lacking transparency in judicial appointments.",
+            "source_url": "https://www.thehindu.com/news/national/sc-collegiums-unexplained-recommendations-risk-bad-appointments-justice-bhuyan/article71294127.ece",
+            "source_title": "SC Collegium’s unexplained recommendations risk bad appointments: Justice Bhuyan - The Hindu",
+            "scraped_at": "2026-08-01 11:20:05"
           }
         ]
       },
