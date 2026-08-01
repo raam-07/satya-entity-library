@@ -6707,7 +6707,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 250,
+        "criminal_cases_in_news": 253,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8464,6 +8464,27 @@
             "source_url": "https://www.ndtv.com/india-news/group-of-men-drag-couple-into-forest-rob-them-attempt-to-rape-woman-11853099#publisher=newsstand",
             "source_title": "Group Of Men Drag Couple Into Forest, Rob Them, Attempt To Rape Woman",
             "scraped_at": "2026-08-01 14:37:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Police close in on kingpin behind synthetic drug trafficking case - The Hindu The **Kozhikode Rural** police's special investigation team (SIT) has identified a Wayanad native as a suspect in the Vada",
+            "source_url": "https://www.thehindu.com/news/national/kerala/police-close-in-on-kingpin-behind-synthetic-drug-trafficking-case/article71294755.ece",
+            "source_title": "Police close in on kingpin behind synthetic drug trafficking case - The Hindu",
+            "scraped_at": "2026-08-01 16:04:35",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Anil Ambani Charged For Causing Rs 1,800-Crore Loss To Provident Fund Body The **CBI** registered an FIR against **Reliance Capital Limited (RCL)** and its former chairman, **Anil D Ambani**, over Rs ",
+            "source_url": "https://www.ndtv.com/india-news/anil-ambani-charged-for-causing-rs-1-800-crore-loss-to-provident-fund-body-11853446#publisher=newsstand",
+            "source_title": "Anil Ambani Charged For Causing Rs 1,800-Crore Loss To Provident Fund Body",
+            "scraped_at": "2026-08-01 16:04:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"Mockery Of Sanatan Culture\": BJP Seeks Case Against Rahul Gandhi, Pappu Yadav On July 31, **Rahul Gandhi**, **Pappu Yadav**, and others performed a skit at Parliament protesting alleged misappropriat",
+            "source_url": "https://www.ndtv.com/india-news/mockery-of-sanatan-culture-bjp-seeks-fir-against-rahul-gandhi-pappu-yadav-11853250#publisher=newsstand",
+            "source_title": "\"Mockery Of Sanatan Culture\": BJP Seeks Case Against Rahul Gandhi, Pappu Yadav",
+            "scraped_at": "2026-08-01 16:05:53",
             "incident_type": "broad"
           }
         ],
