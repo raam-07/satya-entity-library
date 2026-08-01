@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6714,7 +6714,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 254,
+        "criminal_cases_in_news": 255,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8499,6 +8499,13 @@
             "source_url": "https://www.thehindu.com/news/national/varanasi-police-book-mps-rahul-gandhi-pappu-yadav-and-awadesh-prasad-for-insulting-sanatan-dharma/article71294407.ece",
             "source_title": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu",
             "scraped_at": "2026-08-01 17:36:49",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Gang held for assaulting commuter of government bus in Tiruvannamalai - The Hindu On Saturday, **Thanrampattu police** in Tiruvannamalai arrested five persons—K. Ragu (28), C. Santhosh (26), R. Asaith",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/gang-held-for-assaulting-commuter-of-government-bus-in-tiruvannamalai/article71293797.ece",
+            "source_title": "Gang held for assaulting commuter of government bus in Tiruvannamalai - The Hindu",
+            "scraped_at": "2026-08-01 19:18:20",
             "incident_type": "broad"
           }
         ],
