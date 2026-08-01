@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -8852,6 +8852,12 @@
             "source_url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
             "source_title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff | Donald Trump News | Al Jazeera",
             "scraped_at": "2026-08-01 19:14:50"
+          },
+          {
+            "incident_text": "On Saturday, Trump claimed vandalism occurred despite evidence to the contrary.",
+            "source_url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
+            "source_title": "Trump denounces Justice Department decision to drop Reflecting Pool charges | Donald Trump News | Al Jazeera",
+            "scraped_at": "2026-08-01 20:28:03"
           }
         ]
       },
