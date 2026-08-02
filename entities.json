@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5700,6 +5700,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
             "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
             "scraped_at": "2026-01-24 03:03:30"
+          },
+          {
+            "incident_text": "M.K. Stalin's family shares ties with Karnataka CM beyond politics.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-issue-tn-minister-nirmalkumar-says-karnataka-cm-shivakumar-dmk-share-ties-beyond-politics/article71297337.ece",
+            "source_title": "Cauvery issue: T.N. Minister Nirmalkumar says Karnataka CM Shivakumar, DMK share ties beyond politics - The Hindu",
+            "scraped_at": "2026-08-02 10:47:18"
           }
         ],
         "criminal_cases_in_news": 2,
