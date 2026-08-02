@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -8886,6 +8886,12 @@
             "source_url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
             "source_title": "Trump denounces Justice Department decision to drop Reflecting Pool charges | Donald Trump News | Al Jazeera",
             "scraped_at": "2026-08-01 20:28:03"
+          },
+          {
+            "incident_text": "Pawan Kalyan asked what new generation knows about struggles.",
+            "source_url": "https://www.ndtv.com/india-news/what-does-new-generation-know-pawan-kalyan-on-abuses-against-pm-modi-11853767#publisher=newsstand",
+            "source_title": "\"What Does New Generation Know?\" Pawan Kalyan On Abuses Against PM Modi",
+            "scraped_at": "2026-08-02 06:20:50"
           }
         ]
       },
