@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5104,7 +5104,7 @@
           "Adhikari"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 15,
+        "criminal_cases_in_news": 16,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -5216,6 +5216,13 @@
             "source_url": "https://www.ndtv.com/india-news/terror-suspect-planned-to-target-cjp-protest-worked-for-pak-handlers-bengal-task-force-11854771#publisher=newsstand",
             "source_title": "Terror Suspect Planned To Target CJP Protest, Worked For Pak Handlers: Bengal Task Force",
             "scraped_at": "2026-08-02 06:19:45",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "FIR Names Bengal Terror Suspect Hamim Mondal's Foreign Handlers: 'Rana, C9Uzhair, Abid Jutt' **Hamim Mondal**, linked to **Jaish-e-Mohammad**, was arrested in West Bengal's Purba Bardhaman district, a",
+            "source_url": "https://www.ndtv.com/india-news/fir-names-bengal-terror-suspect-hamim-mondals-foreign-handlers-rana-c9uzhair-abid-jutt-11856095#publisher=newsstand",
+            "source_title": "FIR Names Bengal Terror Suspect Hamim Mondal's Foreign Handlers: 'Rana, C9Uzhair, Abid Jutt'",
+            "scraped_at": "2026-08-02 15:41:54",
             "incident_type": "broad"
           }
         ],
