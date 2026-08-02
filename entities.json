@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5104,7 +5104,7 @@
           "Adhikari"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 15,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -5210,9 +5210,16 @@
             "source_title": "CBI Arrests 2, Probes 'Political Angle' In Murder Of Suvendu Adhikari's Aide Chandranath Rath",
             "scraped_at": "2026-07-31 17:08:47",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Terror Suspect Planned To Target CJP Protest, Worked For Pak Handlers: Bengal Task Force **Hamim Mondal**, linked to the **Jaish-e-Mohammad** terror group, was arrested in West Bengal for planning to ",
+            "source_url": "https://www.ndtv.com/india-news/terror-suspect-planned-to-target-cjp-protest-worked-for-pak-handlers-bengal-task-force-11854771#publisher=newsstand",
+            "source_title": "Terror Suspect Planned To Target CJP Protest, Worked For Pak Handlers: Bengal Task Force",
+            "scraped_at": "2026-08-02 06:19:45",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-31",
+        "criminal_last_updated": "2026-08-02",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
