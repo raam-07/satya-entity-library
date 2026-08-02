@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6727,7 +6727,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 258,
+        "criminal_cases_in_news": 259,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8540,6 +8540,13 @@
             "source_url": "https://timesofindia.indiatimes.com/world/us/3-killed-in-us-idaho-shopping-area-shooting-gunman-among-dead/articleshow/132799007.cms",
             "source_title": "US: 3 killed in Idaho shopping area shooting; gunman among dead - The Times of India",
             "scraped_at": "2026-08-02 03:19:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bihar: Municipal Executive Officer beaten to death, wife accuses LJP (RV) MLA - The Hindu On August 1, 2026, **Vimal Kumar**, Executive Officer of Dalmianagar Municipal Council, was beaten to death in",
+            "source_url": "https://www.thehindu.com/news/national/bihar/bihar-municipal-executive-officer-beaten-to-death-wife-accuses-ljp-rv-mla/article71298114.ece",
+            "source_title": "Bihar: Municipal Executive Officer beaten to death, wife accuses LJP (RV) MLA - The Hindu",
+            "scraped_at": "2026-08-02 14:12:21",
             "incident_type": "broad"
           }
         ],
