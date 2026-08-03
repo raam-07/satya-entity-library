@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6755,7 +6755,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 260,
+        "criminal_cases_in_news": 261,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8583,9 +8583,16 @@
             "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
             "scraped_at": "2026-08-02 18:31:58",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman, 60, Dies After Delhi Transport Bus Runs Over Her, Family Blocks Road A 60-year-old woman, **Indira**, was killed by a DTC cluster bus near Pooth Kalan bus stand in Delhi on Saturday. She died a",
+            "source_url": "https://www.ndtv.com/delhi-news/woman-60-dies-after-delhi-transport-bus-runs-over-her-family-blocks-road-11857378#publisher=newsstand",
+            "source_title": "Woman, 60, Dies After Delhi Transport Bus Runs Over Her, Family Blocks Road",
+            "scraped_at": "2026-08-03 03:21:54",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-08-02",
+        "criminal_last_updated": "2026-08-03",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
