@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6755,7 +6755,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 262,
+        "criminal_cases_in_news": 263,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8596,6 +8596,13 @@
             "source_url": "https://www.ndtv.com/india-news/assam-girl-15-allegedly-raped-bludgeoned-rod-inserted-in-private-parts-11857947#publisher=newsstand",
             "source_title": "Assam Girl, 15, Allegedly Raped, Face Smashed, Rod Inserted In Private Parts",
             "scraped_at": "2026-08-03 06:47:01",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bihar Panchayat Says Woman At Fault For Her Rape, Makes Her Lick Spit On Saturday, a 30-year-old woman from Begusarai in Bihar lodged an FIR against her neighbour and the village panchayat after being",
+            "source_url": "https://www.ndtv.com/india-news/bihar-panchayat-says-woman-at-fault-for-her-rape-makes-her-lick-spit-11861353#publisher=newsstand",
+            "source_title": "Bihar Panchayat Says Woman At Fault For Her Rape, Makes Her Lick Spit",
+            "scraped_at": "2026-08-03 18:21:25",
             "incident_type": "broad"
           }
         ],
