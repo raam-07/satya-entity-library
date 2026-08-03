@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6755,7 +6755,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 261,
+        "criminal_cases_in_news": 262,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8590,6 +8590,13 @@
             "source_title": "Woman, 60, Dies After Delhi Transport Bus Runs Over Her, Family Blocks Road",
             "scraped_at": "2026-08-03 03:21:54",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Assam Girl, 15, Allegedly Raped, Face Smashed, Rod Inserted In Private Parts In an alarming incident in Assam's Hailakandi district, a 15-year-old girl was allegedly raped and murdered at her home. He",
+            "source_url": "https://www.ndtv.com/india-news/assam-girl-15-allegedly-raped-bludgeoned-rod-inserted-in-private-parts-11857947#publisher=newsstand",
+            "source_title": "Assam Girl, 15, Allegedly Raped, Face Smashed, Rod Inserted In Private Parts",
+            "scraped_at": "2026-08-03 06:47:01",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-08-03",
