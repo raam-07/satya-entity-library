@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4141,6 +4141,12 @@
             "source_url": "https://www.ndtv.com/kerala-news/trying-to-mislead-muslims-vd-satheesan-slams-pinarayi-vijayan-over-kerala-waqf-board-row-11804886#publisher=newsstand",
             "source_title": "Trying To Mislead Muslims: VD Satheesan Slams Pinarayi Vijayan Over Kerala Waqf Board Row",
             "scraped_at": "2026-07-22 11:29:59"
+          },
+          {
+            "incident_text": "VD Satheesan asked if eating was a crime.",
+            "source_url": "https://www.ndtv.com/india-news/no-feiicitation-i-ate-lunch-vd-satheesan-on-flood-time-meal-row-11861607#publisher=newsstand",
+            "source_title": "\"No FeIicitation, I Had Lunch\": VD Satheesan On Meal During Flood Review",
+            "scraped_at": "2026-08-03 20:14:43"
           }
         ],
         "criminal_last_updated": "2026-06-15"
