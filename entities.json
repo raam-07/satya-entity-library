@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6573,7 +6573,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 10,
+        "criminal_cases_in_news": 11,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -6644,9 +6644,16 @@
             "source_title": "Attack on ED officials: Kerala HC seeks State govt.’s response in bail plea of accused - The Hindu",
             "scraped_at": "2026-07-29 16:25:39",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kerala High Court grants bail to four more accused of attacking ED officials - The Hindu On Tuesday, August 4, 2026, the **Kerala High Court** allowed bail for four more accused in an attack on **Enfo",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-grants-bail-to-four-more-accused-of-attacking-ed-officials/article71304676.ece",
+            "source_title": "Kerala High Court grants bail to four more accused of attacking ED officials - The Hindu",
+            "scraped_at": "2026-08-04 12:32:30",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-29",
+        "criminal_last_updated": "2026-08-04",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
