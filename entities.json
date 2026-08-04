@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 13,
+        "criminal_cases_in_news": 14,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -136,9 +136,16 @@
             "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
             "scraped_at": "2026-08-02 18:31:58",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Top Court Lawyer Withdraws Complaint Against Girl Who Abused PM Modi Supreme Court lawyer **Smriti Singh** withdrew her complaint against a 15-year-old girl who had made abusive remarks about Prime Mi",
+            "source_url": "https://www.ndtv.com/india-news/top-court-lawyer-withdraws-complaint-against-girl-who-abused-pm-modi-11866358#publisher=newsstand",
+            "source_title": "Top Court Lawyer Withdraws Complaint Against Girl Who Abused PM Modi",
+            "scraped_at": "2026-08-04 19:11:02",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-02",
+        "criminal_last_updated": "2026-08-04",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
