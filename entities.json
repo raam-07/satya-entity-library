@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5643,6 +5643,13 @@
             "source_title": "Palaniswami assures people of bringing back hawala money stashed abroad in the event of victory - The Hindu",
             "scraped_at": "2026-02-21 21:06:02",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Tamil Nadu, Vijay, Actor Trisha, Water Row: \"If You're Man Enough...\": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark **Khushbu Sundar**, BJP leader and actor, spoke to NDTV criticizi",
+            "source_url": "https://www.ndtv.com/india-news/tamil-nadu-vijay-actor-trisha-water-row-if-youre-man-enough-khushbu-sundar-slams-udhayanidhi-stalins-trisha-remark-11866402#publisher=newsstand",
+            "source_title": "Tamil Nadu, Vijay, Actor Trisha, Water Row: \"If You're Man Enough...\": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark",
+            "scraped_at": "2026-08-04 19:09:58",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5749,8 +5756,8 @@
             "scraped_at": "2026-08-02 10:47:18"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-24"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-08-04"
       },
       {
         "name": "Bhupesh Baghel",
