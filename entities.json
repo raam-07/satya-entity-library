@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5650,6 +5650,13 @@
             "source_title": "Tamil Nadu, Vijay, Actor Trisha, Water Row: \"If You're Man Enough...\": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark",
             "scraped_at": "2026-08-04 19:09:58",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu On August 5, 2026, **N. Marie Wilson**, Finance Minister of the Tamila",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
+            "source_title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu",
+            "scraped_at": "2026-08-05 02:46:59",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -5754,10 +5761,16 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-issue-tn-minister-nirmalkumar-says-karnataka-cm-shivakumar-dmk-share-ties-beyond-politics/article71297337.ece",
             "source_title": "Cauvery issue: T.N. Minister Nirmalkumar says Karnataka CM Shivakumar, DMK share ties beyond politics - The Hindu",
             "scraped_at": "2026-08-02 10:47:18"
+          },
+          {
+            "incident_text": "M.K. Stalin accused the government of political vendetta.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
+            "source_title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu",
+            "scraped_at": "2026-08-05 02:46:59"
           }
         ],
-        "criminal_cases_in_news": 3,
-        "criminal_last_updated": "2026-08-04"
+        "criminal_cases_in_news": 4,
+        "criminal_last_updated": "2026-08-05"
       },
       {
         "name": "Bhupesh Baghel",
