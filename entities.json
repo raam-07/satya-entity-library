@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2740,6 +2740,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/akhilesh-yadav-lok-sabha-paper-leak-bill-ayodhya-temple-donation-theft-10807550/",
             "source_title": "Ram Temple to paper leak: Akhilesh Yadav’s stinging attack on BJP in Lok Sabha | Political Pulse News - The Indian Express",
             "scraped_at": "2026-07-28 12:25:02"
+          },
+          {
+            "incident_text": "Akhilesh Yadav claimed Lord Ram would punish and prevent election wins for those stealing 'Ram Dhan'.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/those-who-stole-ram-dhan-wont-be-allowed-by-lord-ram-to-win-polls-says-akhilesh-yadav/article71309351.ece",
+            "source_title": "Those who stole ‘Ram Dhan’ won’t be allowed by Lord Ram to win polls, says Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-08-05 13:17:15"
           }
         ],
         "criminal_cases_in_news": 2,
