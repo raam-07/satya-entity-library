@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05 19:31:27.522421",
+  "generated_at": "2026-08-05 21:00:04.084012",
   "summary": {
     "cm_updates_applied": 1,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -42,6 +42,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "acrifices since 2019. Both ruling and opposition parties honored the martyrs, while BJP leaders rejected \"distorted narratives.\" 3 min readSrinagarUpdated: Jul 13, 2026 09:50 PM IST Jammu and Kashmir "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "g above the danger level at some places. Sivasagar, Charaideo, and Jorhat are the worst-hit districts with a total of 3.13 lakh people affected,” she said. CM says govt. departments are on high alert "
     },
     {
       "type": "ruling_party",
