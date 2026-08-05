@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -44,7 +44,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 15,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -143,9 +143,16 @@
             "source_title": "Top Court Lawyer Withdraws Complaint Against Girl Who Abused PM Modi",
             "scraped_at": "2026-08-04 19:11:02",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Is abusive language a criminal offence in India? | Explained - The Hindu Following protests by the **Cockroach Janta Party** at Jantar Mantar, multiple FIRs were registered against demonstrators for a",
+            "source_url": "https://www.thehindu.com/news/national/is-abusive-language-a-criminal-offence-in-india-explained/article71308544.ece",
+            "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
+            "scraped_at": "2026-08-05 11:25:52",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-04",
+        "criminal_last_updated": "2026-08-05",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
@@ -656,6 +663,12 @@
             "source_url": "https://www.thehindu.com/news/national/country-asking-him-to-apologise-but-he-has-forgiven-country-congress-dig-at-pm-over-new-video/article71292219.ece",
             "source_title": "Country asking him to apologise but he has forgiven country: Congress' dig at PM over new video - The Hindu",
             "scraped_at": "2026-07-31 20:22:51"
+          },
+          {
+            "incident_text": "Narendra Modi forgave children for using abusive language.",
+            "source_url": "https://www.thehindu.com/news/national/is-abusive-language-a-criminal-offence-in-india-explained/article71308544.ece",
+            "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
+            "scraped_at": "2026-08-05 11:25:52"
           }
         ]
       },
