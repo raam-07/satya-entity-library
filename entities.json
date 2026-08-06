@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -669,6 +669,12 @@
             "source_url": "https://www.thehindu.com/news/national/is-abusive-language-a-criminal-offence-in-india-explained/article71308544.ece",
             "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
             "scraped_at": "2026-08-05 11:25:52"
+          },
+          {
+            "incident_text": "Narendra Modi warned new MPs to avoid 'intrigues in Delhi'.",
+            "source_url": "https://www.thehindu.com/news/national/learn-from-senior-mps-stay-clear-of-delhi-intrigues-pm-to-new-nda-rs-mps/article71309401.ece",
+            "source_title": "Learn from senior MPs, stay clear of ‘Delhi intrigues’: PM to new NDA RS MPs - The Hindu",
+            "scraped_at": "2026-08-06 00:06:52"
           }
         ]
       },
