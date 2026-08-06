@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2578,6 +2578,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dk-shivakumar-will-be-called-to-delhi-when-necessary-says-kharge/article70502053.ece",
             "source_title": "Siddaramaiah, D.K. Shivakumar will be called to Delhi ‘when necessary’, says Kharge - The Hindu",
             "scraped_at": "2026-01-12 15:01:59"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge demanded Amit Shah provide a statement on police action against student protestors.",
+            "source_url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
+            "source_title": "Parliament Monsoon Session Day 14 LIVE: The Taxation and Other Laws (Amendment) Bill, 2026 passed in Lok Sabha - The Hindu",
+            "scraped_at": "2026-08-06 09:43:12"
           }
         ],
         "criminal_cases_in_news": 2,
