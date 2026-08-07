@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 21:21:50.385699",
+  "generated_at": "2026-08-07 22:53:53.836444",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -48,7 +48,7 @@
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "ves to “destroy” Mahatma Gandhi Rural Employment Guarantee Scheme by changing the Centre-State financial ratio and the Mekedatu dam issue despite Tamil Nadu Congress strongly opposing the move by the "
+      "context": "long-term residents to facilitate enrolment in electoral rolls during the Election Commission of India’s (ECI) door-to-door voter enumeration process as part of Special Intensive Revision (SIR). The C"
     },
     {
       "type": "entity_enrichment",
