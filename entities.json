@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6796,6 +6796,12 @@
             "source_url": "https://www.ndtv.com/kerala-news/trying-to-mislead-muslims-vd-satheesan-slams-pinarayi-vijayan-over-kerala-waqf-board-row-11804886#publisher=newsstand",
             "source_title": "Trying To Mislead Muslims: VD Satheesan Slams Pinarayi Vijayan Over Kerala Waqf Board Row",
             "scraped_at": "2026-07-22 11:29:59"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan termed the police revamp 'extremely undemocratic'.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-flays-move-to-politicise-police-in-kerala/article71280761.ece",
+            "source_title": "Pinarayi Vijayan flays ‘move to politicise’ police in Kerala - The Hindu",
+            "scraped_at": "2026-08-08 02:14:55"
           }
         ]
       },
