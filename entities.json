@@ -6,10 +6,10 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 2,
+      "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9038,6 +9038,12 @@
             "source_url": "https://www.ndtv.com/india-news/what-does-new-generation-know-pawan-kalyan-on-abuses-against-pm-modi-11853767#publisher=newsstand",
             "source_title": "\"What Does New Generation Know?\" Pawan Kalyan On Abuses Against PM Modi",
             "scraped_at": "2026-08-02 06:20:50"
+          },
+          {
+            "incident_text": "Akhilesh Yadav is pretending to be a well-wisher of the Brahmin community.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pretending-to-well-wisher-of-brahmins-deputy-cm-pathak/article71320825.ece",
+            "source_title": "Akhilesh pretending to be well-wisher of Brahmins: Deputy CM Pathak - The Hindu",
+            "scraped_at": "2026-08-08 07:56:26"
           }
         ]
       },
@@ -9988,7 +9994,9 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-06-28"
+        "cm_last_updated": "2026-06-28",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-08-08"
       },
       {
         "name": "Uttarakhand",
