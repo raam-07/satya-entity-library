@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 266,
+        "criminal_cases_in_news": 267,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8701,6 +8701,13 @@
             "source_url": "https://www.ndtv.com/india-news/chhattisgarh-man-65-arrested-for-rape-murder-of-woman-her-baby-daughter-11884102#publisher=newsstand",
             "source_title": "Chhattisgarh Man, 65, Arrested For Rape, Murder Of Woman, Her Baby Daughter",
             "scraped_at": "2026-08-08 16:39:39",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two men held for taking photographs inside Arunachaleswarar temple - The Hindu On Saturday, **Mounish**, 27, a software professional from Hyderabad, and his friend **Magesh** were detained at the Arun",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-men-held-for-taking-photographs-inside-arunachaleswarar-temple/article71321341.ece",
+            "source_title": "Two men held for taking photographs inside Arunachaleswarar temple - The Hindu",
+            "scraped_at": "2026-08-08 18:43:55",
             "incident_type": "broad"
           }
         ],
