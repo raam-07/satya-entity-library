@@ -6,7 +6,7 @@
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 2,
-      "party_updates": 3,
+      "party_updates": 2,
       "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 267,
+        "criminal_cases_in_news": 268,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8708,6 +8708,13 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-men-held-for-taking-photographs-inside-arunachaleswarar-temple/article71321341.ece",
             "source_title": "Two men held for taking photographs inside Arunachaleswarar temple - The Hindu",
             "scraped_at": "2026-08-08 18:43:55",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "UP Woman Smashes Husband To Death With Stone. Daughter, Her Boyfriend Helped **Naina Soni**, her daughter **Bhakti**, and Bhakti's boyfriend **Vimal Chaudhary** allegedly killed Naina’s husband Manoj ",
+            "source_url": "https://www.ndtv.com/india-news/up-woman-smashes-husband-to-death-with-stone-daughter-her-boyfriend-helped-11884610#publisher=newsstand",
+            "source_title": "UP Woman Smashes Husband To Death With Stone. Daughter, Her Boyfriend Helped",
+            "scraped_at": "2026-08-08 18:44:04",
             "incident_type": "broad"
           }
         ],
