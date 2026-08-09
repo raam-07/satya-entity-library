@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 272,
+        "criminal_cases_in_news": 273,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8743,6 +8743,13 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/man-killed-after-being-hit-by-vehicle-in-deputy-cms-cavalcade-in-jammu/article71324273.ece",
             "source_title": "Man killed after being hit by vehicle in deputy CM's cavalcade in Jammu - The Hindu",
             "scraped_at": "2026-08-09 07:35:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek’s aide appears before CID for second consecutive day for questioning in land fraud case - The Hindu On August 9, 2026, **Sumit Roy**, aide to **TMC** leader Abhishek Banerjee, went to the CID",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-leader-abhishek-banerjee-aide-sumit-roy-cid-questioning-in-land-fraud-case/article71324312.ece",
+            "source_title": "Abhishek’s aide appears before CID for second consecutive day for questioning in land fraud case - The Hindu",
+            "scraped_at": "2026-08-09 08:49:18",
             "incident_type": "broad"
           }
         ],
