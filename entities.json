@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 268,
+        "criminal_cases_in_news": 269,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8716,9 +8716,16 @@
             "source_title": "UP Woman Smashes Husband To Death With Stone. Daughter, Her Boyfriend Helped",
             "scraped_at": "2026-08-08 18:44:04",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Chhattisgarh Christian Forum office-bearer arrested for objectionable social media post - The Hindu On August 8, 2026, **Arun Pannalal**, a 75-year-old office bearer of the Chhattisgarh Christian Foru",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-christian-forum-office-bearer-arrested-for-objectionable-social-media-post/article71322241.ece",
+            "source_title": "Chhattisgarh Christian Forum office-bearer arrested for objectionable social media post - The Hindu",
+            "scraped_at": "2026-08-08 22:35:51",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-08",
+        "criminal_last_updated": "2026-08-09",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
