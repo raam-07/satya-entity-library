@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9086,6 +9086,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pretending-to-well-wisher-of-brahmins-deputy-cm-pathak/article71320825.ece",
             "source_title": "Akhilesh pretending to be well-wisher of Brahmins: Deputy CM Pathak - The Hindu",
             "scraped_at": "2026-08-08 07:56:26"
+          },
+          {
+            "incident_text": "On Saturday, Uddhav Thackeray accused Modi of meeting traitors while ignoring protesting youth.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/pm-modi-has-time-to-meet-traitors-but-not-protesting-youth-uddhav-thackeray/article71321458.ece",
+            "source_title": "PM Modi has time to meet traitors but not protesting youth: Uddhav Thackeray - The Hindu",
+            "scraped_at": "2026-08-09 05:12:07"
           }
         ]
       },
