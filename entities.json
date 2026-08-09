@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 271,
+        "criminal_cases_in_news": 272,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8736,6 +8736,13 @@
             "source_url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-four-arrested-for-assaulting-delivery-executive-in-yelahanka-new-town/article71322029.ece",
             "source_title": "Bengaluru: Four arrested for assaulting delivery executive in Yelahanka New Town - The Hindu",
             "scraped_at": "2026-08-09 06:14:53",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man killed after being hit by vehicle in deputy CM's cavalcade in Jammu - The Hindu On Saturday, August 8, 2026, **Bharat**, a resident of Bihar, was killed when he was hit by a vehicle reportedly par",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/man-killed-after-being-hit-by-vehicle-in-deputy-cms-cavalcade-in-jammu/article71324273.ece",
+            "source_title": "Man killed after being hit by vehicle in deputy CM's cavalcade in Jammu - The Hindu",
+            "scraped_at": "2026-08-09 07:35:06",
             "incident_type": "broad"
           }
         ],
