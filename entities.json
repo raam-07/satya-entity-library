@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2233,6 +2233,12 @@
             "source_url": "https://www.ndtv.com/india-news/anurag-thakur-files-contempt-notice-against-rahul-gandhi-in-parliament-11845220#publisher=newsstand",
             "source_title": "BJP MP's Contempt Notice Against Rahul Gandhi Over Remarks In Parliament",
             "scraped_at": "2026-07-30 19:40:32"
+          },
+          {
+            "incident_text": "Rahul Gandhi told students to end corruption with love and compassion.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/youth-indias-biggest-strength-its-potential-unmatched-rahul-gandhi-in-prayagraj/article71322354.ece",
+            "source_title": "End corrupt system with love and affection, Rahul Gandhi tells students - The Hindu",
+            "scraped_at": "2026-08-09 09:46:09"
           }
         ]
       },
@@ -9127,6 +9133,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/pm-modi-has-time-to-meet-traitors-but-not-protesting-youth-uddhav-thackeray/article71321458.ece",
             "source_title": "PM Modi has time to meet traitors but not protesting youth: Uddhav Thackeray - The Hindu",
             "scraped_at": "2026-08-09 05:12:07"
+          },
+          {
+            "incident_text": "On Saturday, Rahul Gandhi told students to end corruption with love and compassion.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/youth-indias-biggest-strength-its-potential-unmatched-rahul-gandhi-in-prayagraj/article71322354.ece",
+            "source_title": "End corrupt system with love and affection, Rahul Gandhi tells students - The Hindu",
+            "scraped_at": "2026-08-09 09:46:09"
           }
         ]
       },
