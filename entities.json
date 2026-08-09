@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -6832,7 +6832,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 269,
+        "criminal_cases_in_news": 271,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8722,6 +8722,20 @@
             "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-christian-forum-office-bearer-arrested-for-objectionable-social-media-post/article71322241.ece",
             "source_title": "Chhattisgarh Christian Forum office-bearer arrested for objectionable social media post - The Hindu",
             "scraped_at": "2026-08-08 22:35:51",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "BSP leader alleges assault, vehicle vandalism in Amethi - The Hindu On August 8, 2026, **Shashikant Tiwari**, a leader of the **Bahujan Samaj Party (BSP)**, filed a police complaint alleging that thre",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/bsp-leader-alleges-assault-vehicle-vandalism-in-amethi/article71324136.ece",
+            "source_title": "BSP leader alleges assault, vehicle vandalism in Amethi - The Hindu",
+            "scraped_at": "2026-08-09 06:11:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bengaluru: Four arrested for assaulting delivery executive in Yelahanka New Town - The Hindu On August 8, **Bengaluru** police arrested four people, including two women from Bihar in their mid-20s, fo",
+            "source_url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-four-arrested-for-assaulting-delivery-executive-in-yelahanka-new-town/article71322029.ece",
+            "source_title": "Bengaluru: Four arrested for assaulting delivery executive in Yelahanka New Town - The Hindu",
+            "scraped_at": "2026-08-09 06:14:53",
             "incident_type": "broad"
           }
         ],
