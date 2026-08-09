@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-09 13:06:56.099521",
+  "generated_at": "2026-08-09 13:40:08.322125",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -24,6 +24,15 @@
       "mentions": 8,
       "reason": "Below auto-update threshold",
       "context": "ngrape case. Adhikari blamed election losers for instigating violence and ordered a crackdown on drug dens. Both families expressed satisfaction with administrative actions post-incident. West Bengal "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "manding the cancellation of the JPSC Preliminary Test and review of TDPL-conducted exams. Five more protesters joined him, raising concerns over public confidence in the recruitment system. Jharkhand "
     },
     {
       "type": "cm_detection",
