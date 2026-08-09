@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6838,7 +6838,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 276,
+        "criminal_cases_in_news": 278,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8777,6 +8777,20 @@
             "source_url": "https://www.thehindu.com/news/national/ed-files-complaints-against-rinfra-rcom/article71324636.ece",
             "source_title": "ED files complaints against RInfra, RCom - The Hindu",
             "scraped_at": "2026-08-09 12:58:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman Raped By Guard On Ahmedabad Apartment Terrace. He Joined 4 Days Ago On Saturday night, **Dharam Singh**, a security guard who had started work just four days prior, allegedly raped a tenant on t",
+            "source_url": "https://www.ndtv.com/india-news/woman-raped-by-guard-on-ahmedabad-apartment-terrace-he-joined-4-days-ago-11887002#publisher=newsstand",
+            "source_title": "Woman Raped By Guard On Ahmedabad Apartment Terrace. He Joined 4 Days Ago",
+            "scraped_at": "2026-08-09 15:37:07",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case - The Hindu On Saturday night (August 8, 2026), **YSRCP** leaders including former Ministers Dharmana Prasada Rao and Dharmana Kr",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leaders-condemn-arrest-of-amadalavalasa-in-charge-in-ampolu-case/article71323966.ece",
+            "source_title": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case - The Hindu",
+            "scraped_at": "2026-08-09 15:38:17",
             "incident_type": "broad"
           }
         ],
