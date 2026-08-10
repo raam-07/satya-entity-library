@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 3,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6838,7 +6838,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 278,
+        "criminal_cases_in_news": 279,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8792,9 +8792,16 @@
             "source_title": "YSRCP leaders condemn arrest of Amadalavalasa in-charge in Ampolu case - The Hindu",
             "scraped_at": "2026-08-09 15:38:17",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Four detained for selling non-veg food on routes for Kanwariyas, shop razed in Bareilly - The Hindu On August 8, 2026, **police** detained four people after raiding two shops in Bahedi allegedly selli",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/four-detained-for-selling-non-veg-food-on-routes-for-kanwariyas-shop-razed-in-bareilly/article71326836.ece",
+            "source_title": "Four detained for selling non-veg food on routes for Kanwariyas, shop razed in Bareilly - The Hindu",
+            "scraped_at": "2026-08-10 04:14:41",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-09",
+        "criminal_last_updated": "2026-08-10",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
