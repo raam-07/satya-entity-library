@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3281,6 +3281,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
             "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
             "scraped_at": "2026-07-15 09:15:02"
+          },
+          {
+            "incident_text": "Abhishek Banerjee claims individuals have the right to choose their medical treatment abroad.",
+            "source_url": "https://www.ndtv.com/india-news/supreme-court-allows-trinamool-congress-mp-abhishek-banerjee-to-travel-abroad-for-eye-treatment-11889051#publisher=newsstand",
+            "source_title": "Supreme Court Allows Trinamool Congress MP Abhishek Banerjee To Travel Abroad For Eye Treatment",
+            "scraped_at": "2026-08-10 09:28:31"
           }
         ]
       },

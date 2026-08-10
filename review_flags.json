@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 10:01:07.061308",
+  "generated_at": "2026-08-10 10:31:42.464453",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -7,7 +7,7 @@
     "entities_enriched": 0,
     "party_updates_applied": 3,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -18,21 +18,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.73,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "ngrape case. Adhikari blamed election losers for instigating violence and ordered a crackdown on drug dens. Both families expressed satisfaction with administrative actions post-incident. West Bengal "
-    },
-    {
-      "type": "cm_detection",
       "state": "Jharkhand",
       "candidate": "Hemant Soren",
       "confidence": 0.6,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "manding the cancellation of the JPSC Preliminary Test and review of TDPL-conducted exams. Five more protesters joined him, raising concerns over public confidence in the recruitment system. Jharkhand "
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.7,
+      "mentions": 7,
+      "reason": "Below auto-update threshold",
+      "context": "urity over other concerns. Firming up the West Bengal government's stand on the emerging controversy over suspension of entry passes for congregational prayers at a mosque inside the Kolkata airport, "
     },
     {
       "type": "cm_detection",
@@ -63,7 +63,7 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 43,
+      "mentions": 44,
       "share": 0.27,
       "reason": "Party evidence below auto threshold"
     }
