@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-10 05:52:03.073342",
+  "generated_at": "2026-08-10 06:13:34.196853",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 3,
-    "criminal_updates_applied": 1,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -57,7 +57,7 @@
       "candidate": "INC",
       "confidence": 1.0,
       "reason": "Gemma rejected",
-      "context": "long-term residents to facilitate enrolment in electoral rolls during the Election Commission of India’s (ECI) door-to-door voter enumeration process as part of Special Intensive Revision (SIR). The C"
+      "context": "Ministers diverting public attention by focusing on irrelevant issues, says Pralhad Joshi - The Hindu On Sunday, **Pralhad Joshi**, a Union Minister and BJP leader, criticized the Congress government "
     },
     {
       "type": "entity_enrichment",
