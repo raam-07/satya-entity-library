@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3287,6 +3287,12 @@
             "source_url": "https://www.ndtv.com/india-news/supreme-court-allows-trinamool-congress-mp-abhishek-banerjee-to-travel-abroad-for-eye-treatment-11889051#publisher=newsstand",
             "source_title": "Supreme Court Allows Trinamool Congress MP Abhishek Banerjee To Travel Abroad For Eye Treatment",
             "scraped_at": "2026-08-10 09:28:31"
+          },
+          {
+            "incident_text": "Abhishek Banerjee petitioned to travel abroad for eye treatment despite criminal cases.",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-allows-abhishek-banerjee-to-travel-abroad-for-eye-treatment/article71327697.ece",
+            "source_title": "Supreme Court allows Abhishek Banerjee to travel abroad for eye treatment - The Hindu",
+            "scraped_at": "2026-08-10 10:47:38"
           }
         ]
       },
