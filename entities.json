@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4439,6 +4439,12 @@
             "source_url": "https://indianexpress.com/article/cities/pune/raj-thackeray-uddhav-sena-criticise-devendra-fadnavis-missing-link-landslide-speech-10779518/",
             "source_title": "Missing Link row: Raj Thackeray, Uddhav Sena criticise CM Fadnavis’s remarks in House | Pune News - The Indian Express",
             "scraped_at": "2026-07-09 18:03:25"
+          },
+          {
+            "incident_text": "Devendra Fadnavis said there was “Nothing wrong with meeting PM”.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/nothing-wrong-says-fadnavis-on-ncpsp-mps-meeting-pm-modi/article71329177.ece",
+            "source_title": "‘Nothing wrong’, says Fadnavis on NCP(SP) MPs meeting PM Modi - The Hindu",
+            "scraped_at": "2026-08-11 03:53:40"
           }
         ],
         "criminal_cases_in_news": 2,
