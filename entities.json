@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3882,6 +3882,12 @@
             "source_url": "https://www.thehindu.com/news/national/jharkhand/shibu-soren-is-and-will-forever-remain-bharat-ratna-jharkhand-cm-on-padma-bhushan-to-father/article70550847.ece",
             "source_title": "Shibu Soren is and will forever remain 'Bharat Ratna': Jharkhand CM on Padma Bhushan to father - The Hindu",
             "scraped_at": "2026-01-25 14:12:44"
+          },
+          {
+            "incident_text": "Hemant Soren called BJP a 'parasite'.",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-soren-calls-bjp-a-parasite/article71332841.ece",
+            "source_title": "Jharkhand CM Hemant Soren calls BJP a ‘parasite’ - The Hindu",
+            "scraped_at": "2026-08-11 17:31:04"
           }
         ],
         "criminal_cases_in_news": 0
