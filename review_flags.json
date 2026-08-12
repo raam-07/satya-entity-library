@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12 21:25:36.342589",
+  "generated_at": "2026-08-12 21:43:04.572848",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 1,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,19 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Jammu",
-      "candidate": "Omar Abdullah",
-      "confidence": 0.75,
-      "reason": "Gemma rejected",
-      "context": "acrifices since 2019. Both ruling and opposition parties honored the martyrs, while BJP leaders rejected \"distorted narratives.\" 3 min readSrinagarUpdated: Jul 13, 2026 09:50 PM IST Jammu and Kashmir "
-    },
     {
       "type": "cm_detection",
       "state": "West Bengal",
