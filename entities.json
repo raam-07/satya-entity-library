@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2590,6 +2590,12 @@
             "source_url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
             "source_title": "Parliament Monsoon Session Day 14 LIVE: The Taxation and Other Laws (Amendment) Bill, 2026 passed in Lok Sabha - The Hindu",
             "scraped_at": "2026-08-06 09:43:12"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge joked PM Modi had changed.",
+            "source_url": "https://www.ndtv.com/india-news/thoda-badal-gaye-ho-m-kharge-pm-modis-banter-at-wedding-reception-11899567#publisher=newsstand",
+            "source_title": "Thoda Badal Gaye Ho: M Kharge, PM Modi's Banter At Wedding Reception",
+            "scraped_at": "2026-08-12 10:36:49"
           }
         ],
         "criminal_cases_in_news": 2,
