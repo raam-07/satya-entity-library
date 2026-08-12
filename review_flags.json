@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 06:11:17.914841",
+  "generated_at": "2026-08-12 07:38:21.669252",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -18,20 +18,20 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.7,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "urity over other concerns. Firming up the West Bengal government's stand on the emerging controversy over suspension of entry passes for congregational prayers at a mosque inside the Kolkata airport, "
-    },
-    {
-      "type": "cm_detection",
       "state": "Jammu",
       "candidate": "Omar Abdullah",
       "confidence": 0.75,
       "reason": "Gemma rejected",
       "context": "acrifices since 2019. Both ruling and opposition parties honored the martyrs, while BJP leaders rejected \"distorted narratives.\" 3 min readSrinagarUpdated: Jul 13, 2026 09:50 PM IST Jammu and Kashmir "
+    },
+    {
+      "type": "cm_detection",
+      "state": "West Bengal",
+      "candidate": "Suvendu Adhikari",
+      "confidence": 0.67,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "August 1 before extending the programme to Nadia district and subsequently to the rest of the state. Reiterating the state government’s decision to involve ISKCON in the school midday meal programme, "
     },
     {
       "type": "cm_detection",
