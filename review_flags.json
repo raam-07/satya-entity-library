@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 14:47:26.997739",
+  "generated_at": "2026-08-13 15:18:25.899193",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -20,8 +20,8 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.57,
-      "mentions": 4,
+      "confidence": 0.5,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "g above the danger level at some places. Sivasagar, Charaideo, and Jorhat are the worst-hit districts with a total of 3.13 lakh people affected,” she said. CM says govt. departments are on high alert "
     },
