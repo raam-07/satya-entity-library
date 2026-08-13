@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 13:31:23.243573",
+  "generated_at": "2026-08-13 14:47:26.997739",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 3
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -33,6 +33,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
+    },
+    {
+      "type": "central_government",
+      "office": "prime_minister",
+      "candidate": "Andy Burnham",
+      "confidence": 0.75,
+      "mentions": 3,
+      "reason": "Below 10-mention floor for a national office",
+      "context": "tten alongside. It scored 3/10 and included the comment: “See me after class!”. Accompanying the post, the Conservatives wrote: “Labour’s new Education Secretary is off to a flying start.” On Monday, "
     },
     {
       "type": "entity_enrichment",
