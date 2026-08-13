@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 05:45:00.391322",
+  "generated_at": "2026-08-13 06:06:42.048548",
   "summary": {
     "cm_updates_applied": 1,
     "central_updates_applied": 0,
@@ -20,8 +20,8 @@
       "type": "cm_detection",
       "state": "West Bengal",
       "candidate": "Suvendu Adhikari",
-      "confidence": 0.67,
-      "mentions": 6,
+      "confidence": 0.7,
+      "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "August 1 before extending the programme to Nadia district and subsequently to the rest of the state. Reiterating the state government’s decision to involve ISKCON in the school midday meal programme, "
     },
