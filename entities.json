@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -10009,7 +10009,7 @@
         "cm": "Hemant Soren",
         "region": "East",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-08-12"
+        "cm_last_updated": "2026-08-13"
       },
       {
         "name": "Karnataka",
@@ -10021,7 +10021,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-12"
+        "party_last_updated": "2026-08-13"
       },
       {
         "name": "Kerala",
@@ -10143,7 +10143,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-12"
+        "party_last_updated": "2026-08-13"
       },
       {
         "name": "Tripura",
@@ -10165,7 +10165,7 @@
         "cm_confidence": 0.83,
         "cm_last_updated": "2026-06-28",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-12"
+        "party_last_updated": "2026-08-13"
       },
       {
         "name": "Uttarakhand",
@@ -10185,7 +10185,7 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.88,
-        "party_last_updated": "2026-08-12",
+        "party_last_updated": "2026-08-13",
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-08-06"
       },
