@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -4222,6 +4222,12 @@
             "source_url": "https://www.ndtv.com/india-news/no-feiicitation-i-ate-lunch-vd-satheesan-on-flood-time-meal-row-11861607#publisher=newsstand",
             "source_title": "\"No FeIicitation, I Had Lunch\": VD Satheesan On Meal During Flood Review",
             "scraped_at": "2026-08-03 20:14:43"
+          },
+          {
+            "incident_text": "V.D. Satheesan stated the government's stance on Vande Mataram will be clarified on Independence Day.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vande-mataram-row-kerala-govts-stance-will-be-made-clear-on-independence-day-says-cm-satheesan/article71340023.ece",
+            "source_title": "Vande Mataram row: Kerala govt’s stance will be ‘made clear’ on Independence Day, says CM Satheesan - The Hindu",
+            "scraped_at": "2026-08-13 09:21:24"
           }
         ],
         "criminal_last_updated": "2026-06-15"
@@ -6845,6 +6851,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-flays-move-to-politicise-police-in-kerala/article71280761.ece",
             "source_title": "Pinarayi Vijayan flays ‘move to politicise’ police in Kerala - The Hindu",
             "scraped_at": "2026-08-08 02:14:55"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan criticized singing the full Vande Mataram as unsecular.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vande-mataram-row-kerala-govts-stance-will-be-made-clear-on-independence-day-says-cm-satheesan/article71340023.ece",
+            "source_title": "Vande Mataram row: Kerala govt’s stance will be ‘made clear’ on Independence Day, says CM Satheesan - The Hindu",
+            "scraped_at": "2026-08-13 09:21:24"
           }
         ]
       },
