@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5049,6 +5049,12 @@
             "source_url": "https://www.ndtv.com/telangana-news/kaleshwaram-lift-irrigation-project-revanth-reddys-blood-belt-treatment-jibe-at-kcr-ignite-political-row-in-telangana-11764176#publisher=newsstand",
             "source_title": "Kaleshwaram Lift Irrigation Project: Revanth Reddy's 'Blood', 'Belt Treatment' Jibe At KCR Ignite Political Row In Telangana",
             "scraped_at": "2026-07-13 10:36:45"
+          },
+          {
+            "incident_text": "Revanth Reddy warned 21 percent of votes are at risk due to party negligence.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-expresses-displeasure-over-partys-handling-ongoing-sir/article71342104.ece",
+            "source_title": "CM expresses displeasure over party’s handling ongoing SIR - The Hindu",
+            "scraped_at": "2026-08-13 17:35:15"
           }
         ],
         "criminal_cases_in_news": 8,
@@ -10198,7 +10204,7 @@
         "region": "East",
         "party_confidence": 0.89,
         "party_last_updated": "2026-08-13",
-        "cm_confidence": 0.78,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-08-13"
       },
       {
