@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13 09:34:46.241864",
+  "generated_at": "2026-08-13 11:37:25.849087",
   "summary": {
-    "cm_updates_applied": 1,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,20 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 3
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "West Bengal",
-      "candidate": "Suvendu Adhikari",
-      "confidence": 0.7,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "August 1 before extending the programme to Nadia district and subsequently to the rest of the state. Reiterating the state government’s decision to involve ISKCON in the school midday meal programme, "
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -38,7 +29,7 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "V.D. Satheesan",
-      "confidence": 0.6,
+      "confidence": 0.5,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
@@ -47,7 +38,7 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 30,
+      "mentions": 31,
       "share": 0.24,
       "reason": "Party evidence below auto threshold"
     }
