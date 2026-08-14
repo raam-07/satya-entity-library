@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2257,6 +2257,12 @@
             "source_url": "https://www.thehindu.com/news/national/supreme-court-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-savarkar-remarks/article71344475.ece",
             "source_title": "Supreme Court quashes hate speech case against Rahul Gandhi over Savarkar remarks after U.P. govt. refuses sanction - The Hindu",
             "scraped_at": "2026-08-14 13:15:27"
+          },
+          {
+            "incident_text": "Rahul Gandhi was not charged with hate speech over Savarkar remarks.",
+            "source_url": "https://www.thehindu.com/videos/watch-karur-stampede-supreme-court-stay-on-govt-jobs-for-victims-families-above-the-fold-14082026/article71346645.ece",
+            "source_title": "Watch: Karur Stampede: Supreme Court stay on govt. jobs for victims’ families| Above the Fold| 14.08.2026 - The Hindu",
+            "scraped_at": "2026-08-14 15:59:02"
           }
         ]
       },
