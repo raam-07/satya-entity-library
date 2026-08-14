@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2251,6 +2251,12 @@
             "source_url": "https://www.ndtv.com/india-news/top-court-cancels-defamation-case-against-rahul-gandhi-over-savarkar-remarks-11908893#publisher=newsstand",
             "source_title": "Top Court Cancels Hate Speech Case Against Rahul Gandhi Over Savarkar Remarks",
             "scraped_at": "2026-08-14 07:42:51"
+          },
+          {
+            "incident_text": "Rahul Gandhi made alleged derogatory remarks about V.D. Savarkar.",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-savarkar-remarks/article71344475.ece",
+            "source_title": "Supreme Court quashes hate speech case against Rahul Gandhi over Savarkar remarks after U.P. govt. refuses sanction - The Hindu",
+            "scraped_at": "2026-08-14 13:15:27"
           }
         ]
       },
