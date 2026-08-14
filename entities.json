@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3912,7 +3912,15 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
         "image_placeholder": "hemant_soren",
-        "criminal_incidents": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "Man Arrested For Allegedly Threatening To Kill Jharkhand Chief Minister Hemant Soren On Friday, **Vishwajeet Kumar** of Bokaro district was arrested for allegedly threatening to kill **Jharkhand Chief",
+            "source_url": "https://www.ndtv.com/india-news/man-arrested-for-allegedly-threatening-to-kill-jharkhand-chief-minister-hemant-soren-11912010#publisher=newsstand",
+            "source_title": "Man Arrested For Allegedly Threatening To Kill Jharkhand Chief Minister Hemant Soren",
+            "scraped_at": "2026-08-14 20:36:08",
+            "incident_type": "broad"
+          }
+        ],
         "controversies": [
           {
             "incident_text": "Hemant Soren complained that Congress announced its candidate without consultation.",
@@ -3939,7 +3947,8 @@
             "scraped_at": "2026-08-11 17:31:04"
           }
         ],
-        "criminal_cases_in_news": 0
+        "criminal_cases_in_news": 1,
+        "criminal_last_updated": "2026-08-14"
       },
       {
         "name": "D.K. Shivakumar",
