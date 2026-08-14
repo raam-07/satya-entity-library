@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2263,6 +2263,12 @@
             "source_url": "https://www.thehindu.com/videos/watch-karur-stampede-supreme-court-stay-on-govt-jobs-for-victims-families-above-the-fold-14082026/article71346645.ece",
             "source_title": "Watch: Karur Stampede: Supreme Court stay on govt. jobs for victims’ families| Above the Fold| 14.08.2026 - The Hindu",
             "scraped_at": "2026-08-14 15:59:02"
+          },
+          {
+            "incident_text": "Rahul Gandhi made unparliamentary remarks against Amit Shah.",
+            "source_url": "https://www.ndtv.com/india-news/lok-sabha-seeks-rahul-gandhis-reply-on-privilege-notice-over-amit-shah-remark-11911748#publisher=newsstand",
+            "source_title": "Lok Sabha Seeks Rahul Gandhi's Reply On Privilege Notice Over Amit Shah Remark",
+            "scraped_at": "2026-08-14 19:55:12"
           }
         ]
       },
@@ -2794,6 +2800,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/those-who-stole-ram-dhan-wont-be-allowed-by-lord-ram-to-win-polls-says-akhilesh-yadav/article71309351.ece",
             "source_title": "Those who stole ‘Ram Dhan’ won’t be allowed by Lord Ram to win polls, says Akhilesh Yadav - The Hindu",
             "scraped_at": "2026-08-05 13:17:15"
+          },
+          {
+            "incident_text": "Akhilesh Yadav mocked the project as a step towards a one trillion economy.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhileshtakes-potshots-atupgovts-project-on-cow-urine-collection/article71347081.ece",
+            "source_title": "Akhilesh takes potshots at U.P. govt.’s project on cow urine collection - The Hindu",
+            "scraped_at": "2026-08-14 19:53:06"
           }
         ],
         "criminal_cases_in_news": 2,
