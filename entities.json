@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2245,6 +2245,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-scoffs-at-pms-foreign-policy-kharge-says-being-modi-bhakt-will-not-help-country/article71341568.ece",
             "source_title": "Rahul scoffs at PM’s foreign policy; Kharge says being ‘Modi bhakt’ will not help country - The Hindu",
             "scraped_at": "2026-08-13 18:34:10"
+          },
+          {
+            "incident_text": "Rahul Gandhi allegedly defamed VD Savarkar during a rally.",
+            "source_url": "https://www.ndtv.com/india-news/top-court-cancels-defamation-case-against-rahul-gandhi-over-savarkar-remarks-11908893#publisher=newsstand",
+            "source_title": "Top Court Cancels Hate Speech Case Against Rahul Gandhi Over Savarkar Remarks",
+            "scraped_at": "2026-08-14 07:42:51"
           }
         ]
       },
