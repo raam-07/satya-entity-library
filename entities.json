@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-14",
+    "last_updated": "2026-08-15",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2269,6 +2269,18 @@
             "source_url": "https://www.ndtv.com/india-news/lok-sabha-seeks-rahul-gandhis-reply-on-privilege-notice-over-amit-shah-remark-11911748#publisher=newsstand",
             "source_title": "Lok Sabha Seeks Rahul Gandhi's Reply On Privilege Notice Over Amit Shah Remark",
             "scraped_at": "2026-08-14 19:55:12"
+          },
+          {
+            "incident_text": "Rahul Gandhi used unparliamentary language during a debate.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-asked-to-respond-to-privilege-notice-by-august-28/article71346649.ece",
+            "source_title": "Rahul Gandhi asked to respond to privilege notice by August 28 - The Hindu",
+            "scraped_at": "2026-08-14 22:54:17"
+          },
+          {
+            "incident_text": "Rahul Gandhi made undignified remarks against PM Modi.",
+            "source_url": "https://www.thehindu.com/news/national/union-ministers-call-rahul-gandhis-remarks-on-pm-modi-undignified-undemocratic/article71346596.ece",
+            "source_title": "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’ - The Hindu",
+            "scraped_at": "2026-08-14 22:55:12"
           }
         ]
       },
@@ -10078,7 +10090,7 @@
         "cm": "Hemant Soren",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-08-14"
+        "cm_last_updated": "2026-08-15"
       },
       {
         "name": "Karnataka",
@@ -10090,7 +10102,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-14"
+        "party_last_updated": "2026-08-15"
       },
       {
         "name": "Kerala",
@@ -10212,7 +10224,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-14"
+        "party_last_updated": "2026-08-15"
       },
       {
         "name": "Tripura",
@@ -10234,7 +10246,7 @@
         "cm_confidence": 0.83,
         "cm_last_updated": "2026-06-28",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-14"
+        "party_last_updated": "2026-08-15"
       },
       {
         "name": "Uttarakhand",
@@ -10254,9 +10266,9 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.89,
-        "party_last_updated": "2026-08-14",
+        "party_last_updated": "2026-08-15",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-08-14"
+        "cm_last_updated": "2026-08-15"
       },
       {
         "name": "Delhi",
