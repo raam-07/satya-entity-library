@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3737,6 +3737,12 @@
             "source_url": "https://www.thehindu.com/news/national/assam/sonowals-office-denies-fake-letter-claiming-rift-in-assam-bjp-fir-lodged/article70526112.ece",
             "source_title": "Sonowal’s office denies fake letter claiming rift in Assam BJP, FIR lodged - The Hindu",
             "scraped_at": "2026-01-19 11:06:59"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma dismissed Gen Z and Alpha as Western concepts.",
+            "source_url": "https://www.ndtv.com/india-news/independence-day-2026-himanta-sarma-says-gen-z-alpha-labels-european-concept-says-call-them-son-daughter-11914025#publisher=newsstand",
+            "source_title": "Independence Day 2026: Himanta Sarma Says Gen Z, Alpha Labels European Concept, Says Call Them Son, Daughter",
+            "scraped_at": "2026-08-15 11:25:53"
           }
         ]
       },
@@ -9310,6 +9316,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-slams-pm-modi-over-dishonest-womens-reservation-pitch-calls-it-double-faced-hypocrisy/article71348920.ece",
             "source_title": "Congress slams PM Modi over ‘dishonest’ women’s reservation pitch, calls it ‘double-faced hypocrisy’ - The Hindu",
             "scraped_at": "2026-08-15 09:32:27"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma dismissed Gen Z and Alpha as Western concepts.",
+            "source_url": "https://www.ndtv.com/india-news/independence-day-2026-himanta-sarma-says-gen-z-alpha-labels-european-concept-says-call-them-son-daughter-11914025#publisher=newsstand",
+            "source_title": "Independence Day 2026: Himanta Sarma Says Gen Z, Alpha Labels European Concept, Says Call Them Son, Daughter",
+            "scraped_at": "2026-08-15 11:25:53"
           }
         ]
       },
