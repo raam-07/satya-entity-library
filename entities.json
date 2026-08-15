@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -6974,7 +6974,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 280,
+        "criminal_cases_in_news": 281,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8941,6 +8941,13 @@
             "source_url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
             "source_title": "Five injured in shooting at Virginia State University - BBC News",
             "scraped_at": "2026-08-15 14:51:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Man stabs parents to death in Kerala’s Idukki - The Hindu On August 12, **Ajeesh**, a 26-year-old resident of Ezhukumvayal near Nedumkandam, allegedly murdered his parents after a quarrel. He stabbed ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/man-stabs-parents-to-death-in-keralas-idukki/article71350048.ece",
+            "source_title": "Man stabs parents to death in Kerala’s Idukki - The Hindu",
+            "scraped_at": "2026-08-15 15:51:26",
             "incident_type": "broad"
           }
         ],
