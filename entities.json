@@ -6974,7 +6974,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 281,
+        "criminal_cases_in_news": 282,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8948,6 +8948,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/man-stabs-parents-to-death-in-keralas-idukki/article71350048.ece",
             "source_title": "Man stabs parents to death in Kerala’s Idukki - The Hindu",
             "scraped_at": "2026-08-15 15:51:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three suspected poachers killed in Hanur shoot-out; probe ordered amid tension - The Hindu On Saturday early morning, **Forest Department** personnel killed three suspected poachers in an alleged exch",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/three-suspected-poachers-killed-in-hanur-shoot-out-probe-ordered-amid-tension/article71350106.ece",
+            "source_title": "Three suspected poachers killed in Hanur shoot-out; probe ordered amid tension - The Hindu",
+            "scraped_at": "2026-08-15 15:51:59",
             "incident_type": "broad"
           }
         ],
