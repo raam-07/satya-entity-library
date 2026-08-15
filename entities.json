@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1582,7 +1582,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 23,
+        "criminal_cases_in_news": 24,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1744,9 +1744,16 @@
             "source_title": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu",
             "scraped_at": "2026-08-01 17:36:49",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rahul Gandhi demands justice for woman killed at Uttarakhand resort - The Hindu The **August 15, 2026e-Paper** features sections on world affairs from an Indian perspective, cinema and streaming news,",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-demands-justice-for-woman-killed-at-uttarakhand-resort/article71350262.ece",
+            "source_title": "Rahul Gandhi demands justice for woman killed at Uttarakhand resort - The Hindu",
+            "scraped_at": "2026-08-15 20:27:51",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-01",
+        "criminal_last_updated": "2026-08-15",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
