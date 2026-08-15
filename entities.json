@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 1,
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10267,7 +10267,7 @@
         "region": "East",
         "party_confidence": 0.89,
         "party_last_updated": "2026-08-15",
-        "cm_confidence": 0.8,
+        "cm_confidence": 0.82,
         "cm_last_updated": "2026-08-15"
       },
       {

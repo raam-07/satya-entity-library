@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15 00:12:31.616684",
+  "generated_at": "2026-08-15 00:33:24.546393",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 1,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 4,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -33,6 +33,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "manding the cancellation of the JPSC Preliminary Test and review of TDPL-conducted exams. Five more protesters joined him, raising concerns over public confidence in the recruitment system. Jharkhand "
     },
     {
       "type": "central_government",
