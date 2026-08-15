@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -675,6 +675,12 @@
             "source_url": "https://www.thehindu.com/news/national/learn-from-senior-mps-stay-clear-of-delhi-intrigues-pm-to-new-nda-rs-mps/article71309401.ece",
             "source_title": "Learn from senior MPs, stay clear of ‘Delhi intrigues’: PM to new NDA RS MPs - The Hindu",
             "scraped_at": "2026-08-06 00:06:52"
+          },
+          {
+            "incident_text": "Narendra Modi made a dishonest pitch for women's reservation.",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-pm-modi-over-dishonest-womens-reservation-pitch-calls-it-double-faced-hypocrisy/article71348920.ece",
+            "source_title": "Congress slams PM Modi over ‘dishonest’ women’s reservation pitch, calls it ‘double-faced hypocrisy’ - The Hindu",
+            "scraped_at": "2026-08-15 09:32:27"
           }
         ]
       },
@@ -9292,6 +9298,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/youth-indias-biggest-strength-its-potential-unmatched-rahul-gandhi-in-prayagraj/article71322354.ece",
             "source_title": "End corrupt system with love and affection, Rahul Gandhi tells students - The Hindu",
             "scraped_at": "2026-08-09 09:46:09"
+          },
+          {
+            "incident_text": "On Saturday, Congress accused PM Modi of dishonesty on women's reservation.",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-pm-modi-over-dishonest-womens-reservation-pitch-calls-it-double-faced-hypocrisy/article71348920.ece",
+            "source_title": "Congress slams PM Modi over ‘dishonest’ women’s reservation pitch, calls it ‘double-faced hypocrisy’ - The Hindu",
+            "scraped_at": "2026-08-15 09:32:27"
           }
         ]
       },
