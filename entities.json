@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6974,7 +6974,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 279,
+        "criminal_cases_in_news": 280,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8935,9 +8935,16 @@
             "source_title": "Four detained for selling non-veg food on routes for Kanwariyas, shop razed in Bareilly - The Hindu",
             "scraped_at": "2026-08-10 04:14:41",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Five injured in shooting at Virginia State University - BBC News Five people, one critically injured, were shot outside a residence hall at **Virginia State University** around 01:28 local time on Sat",
+            "source_url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+            "source_title": "Five injured in shooting at Virginia State University - BBC News",
+            "scraped_at": "2026-08-15 14:51:38",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-10",
+        "criminal_last_updated": "2026-08-15",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
@@ -9322,6 +9329,12 @@
             "source_url": "https://www.ndtv.com/india-news/independence-day-2026-himanta-sarma-says-gen-z-alpha-labels-european-concept-says-call-them-son-daughter-11914025#publisher=newsstand",
             "source_title": "Independence Day 2026: Himanta Sarma Says Gen Z, Alpha Labels European Concept, Says Call Them Son, Daughter",
             "scraped_at": "2026-08-15 11:25:53"
+          },
+          {
+            "incident_text": "Nainar Nagendran asked about the mother to reveal the father during debate.",
+            "source_url": "https://www.ndtv.com/india-news/tamil-nadu-after-vijays-father-remark-row-over-bjp-leaders-ask-mother-comment-11914709#publisher=newsstand",
+            "source_title": "Tamil Nadu: After Vijay's \"Father\" Remark, Row Over BJP Leader's \"Ask Mother\" Comment",
+            "scraped_at": "2026-08-15 13:34:17"
           }
         ]
       },
