@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9367,6 +9367,12 @@
             "source_url": "https://www.thehindu.com/news/national/bci-chairman-apologises-to-law-students-amid-enrolment-ban-controversy/article71350433.ece",
             "source_title": "BCI chairman apologises to law students amid enrolment ban controversy - The Hindu",
             "scraped_at": "2026-08-15 17:25:03"
+          },
+          {
+            "incident_text": "On Saturday, TVK leaders condemned Nagenthran’s remarks as unbecoming.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-leaders-condemn-nainar-nagenthrans-remarks-against-tn-chief-minister/article71349635.ece",
+            "source_title": "TVK leaders condemn Nainar Nagenthran’s remarks against T.N. Chief Minister - The Hindu",
+            "scraped_at": "2026-08-15 18:35:25"
           }
         ]
       },
