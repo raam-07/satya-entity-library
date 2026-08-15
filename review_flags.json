@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 05:59:52.870562",
+  "generated_at": "2026-08-15 06:48:51.556830",
   "summary": {
     "cm_updates_applied": 1,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -42,6 +42,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "manding the cancellation of the JPSC Preliminary Test and review of TDPL-conducted exams. Five more protesters joined him, raising concerns over public confidence in the recruitment system. Jharkhand "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ke while they were sleeping on the hostel floor. Three of them died, the youngest of them aged eight, while three others are undergoing treatment, officials had said. Facing flak from the Opposition, "
     },
     {
       "type": "central_government",
