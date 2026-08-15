@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9349,6 +9349,12 @@
             "source_url": "https://www.ndtv.com/india-news/tamil-nadu-after-vijays-father-remark-row-over-bjp-leaders-ask-mother-comment-11914709#publisher=newsstand",
             "source_title": "Tamil Nadu: After Vijay's \"Father\" Remark, Row Over BJP Leader's \"Ask Mother\" Comment",
             "scraped_at": "2026-08-15 13:34:17"
+          },
+          {
+            "incident_text": "Satish Jarkiholi stated there are no permanent enemies or friends in politics.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-permanent-enemies-in-politics-says-satish-jarkiholi/article71349404.ece",
+            "source_title": "No permanent enemies in politics, says Satish Jarkiholi - The Hindu",
+            "scraped_at": "2026-08-15 15:51:36"
           }
         ]
       },
