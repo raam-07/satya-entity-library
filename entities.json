@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2348,6 +2348,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
             "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
             "scraped_at": "2026-01-25 02:16:23"
+          },
+          {
+            "incident_text": "Sonia Gandhi objected to the full version of Vande Mataram at an event.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-claims-sonia-objected-to-full-version-of-vande-mataram-at-event-congress-denies-charge/article71349117.ece",
+            "source_title": "BJP claims Sonia 'objected' to full version of Vande Mataram at event, Congress denies charge - The Hindu",
+            "scraped_at": "2026-08-15 09:54:53"
           }
         ]
       },
