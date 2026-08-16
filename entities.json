@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -902,6 +902,12 @@
             "source_url": "https://www.ndtv.com/india-news/amit-shahs-sin-you-committed-swipe-at-sonia-gandhi-over-vande-mataram-row-11917245#publisher=newsstand",
             "source_title": "Amit Shah's \"Sin You Committed\" Swipe At Sonia Gandhi Over Vande Mataram Row",
             "scraped_at": "2026-08-16 12:46:52"
+          },
+          {
+            "incident_text": "Amit Shah accused Congress of insulting Vande Mataram.",
+            "source_url": "https://www.thehindu.com/news/national/congress-rejects-shahs-vande-mataram-charge-calls-it-a-political-diversion/article71353192.ece",
+            "source_title": "Congress rejects Shah’s Vande Mataram charge, calls it a ‘political diversion’ - The Hindu",
+            "scraped_at": "2026-08-16 17:48:24"
           }
         ]
       },
@@ -10426,7 +10432,7 @@
         "region": "East",
         "party_confidence": 0.89,
         "party_last_updated": "2026-08-16",
-        "cm_confidence": 0.8,
+        "cm_confidence": 0.82,
         "cm_last_updated": "2026-08-16"
       },
       {
