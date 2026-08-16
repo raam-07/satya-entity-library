@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6993,7 +6993,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 283,
+        "criminal_cases_in_news": 284,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8982,6 +8982,13 @@
             "source_title": "CBI re-registers BSP leader Armstrong murder case - The Hindu",
             "scraped_at": "2026-08-16 05:03:13",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Anisur Rahman: Congress Leader, Son Shot Dead In Bengal's Nadia. They Were Returning Home In Car On Saturday, **Anisur Rahman**, a Congress leader in West Bengal's Nadia district, and his son Abu Sufi",
+            "source_url": "https://www.ndtv.com/india-news/anisur-rahman-congress-leader-son-shot-dead-in-bengals-nadia-they-were-returning-home-in-car-11916531#publisher=newsstand",
+            "source_title": "Anisur Rahman: Congress Leader, Son Shot Dead In Bengal's Nadia. They Were Returning Home In Car",
+            "scraped_at": "2026-08-16 08:35:14",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-08-16",
