@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6987,7 +6987,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 282,
+        "criminal_cases_in_news": 283,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -8969,9 +8969,16 @@
             "source_title": "Three suspected poachers killed in Hanur shoot-out; probe ordered amid tension - The Hindu",
             "scraped_at": "2026-08-15 15:51:59",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CBI re-registers BSP leader Armstrong murder case - The Hindu On Saturday, August 15, 2026, a **CBI** team visited the scene of crime in Venugopal Samy Street, Perambur, where **K. Armstrong**, Bahuja",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cbi-re-registers-bsp-leader-armstrong-murder-case/article71350755.ece",
+            "source_title": "CBI re-registers BSP leader Armstrong murder case - The Hindu",
+            "scraped_at": "2026-08-16 05:03:13",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-08-15",
+        "criminal_last_updated": "2026-08-16",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
