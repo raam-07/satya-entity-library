@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9380,6 +9380,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-leaders-condemn-nainar-nagenthrans-remarks-against-tn-chief-minister/article71349635.ece",
             "source_title": "TVK leaders condemn Nainar Nagenthran’s remarks against T.N. Chief Minister - The Hindu",
             "scraped_at": "2026-08-15 18:35:25"
+          },
+          {
+            "incident_text": "Palaniswami claimed the TVK government's 100-day achievements were 'creating reels'.",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/creating-reels-is-100-day-achievement-of-tvk-led-government-says-palaniswami/article71349618.ece",
+            "source_title": "Creating reels is 100-day achievement of TVK-led government, says Palaniswami - The Hindu",
+            "scraped_at": "2026-08-16 01:34:46"
           }
         ]
       },
