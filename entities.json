@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-15",
+    "last_updated": "2026-08-16",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -10190,7 +10190,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-15"
+        "party_last_updated": "2026-08-16"
       },
       {
         "name": "Kerala",
@@ -10312,7 +10312,7 @@
         "cm": "Revanth Reddy",
         "region": "South",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-15"
+        "party_last_updated": "2026-08-16"
       },
       {
         "name": "Tripura",
@@ -10334,7 +10334,7 @@
         "cm_confidence": 0.83,
         "cm_last_updated": "2026-06-28",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-15"
+        "party_last_updated": "2026-08-16"
       },
       {
         "name": "Uttarakhand",
@@ -10354,9 +10354,9 @@
         "cm": "Suvendu Adhikari",
         "region": "East",
         "party_confidence": 0.89,
-        "party_last_updated": "2026-08-15",
+        "party_last_updated": "2026-08-16",
         "cm_confidence": 0.82,
-        "cm_last_updated": "2026-08-15"
+        "cm_last_updated": "2026-08-16"
       },
       {
         "name": "Delhi",
