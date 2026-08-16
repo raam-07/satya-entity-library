@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7030,7 +7030,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 287,
+        "criminal_cases_in_news": 288,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9047,6 +9047,13 @@
             "source_title": "1 Killed, Children Among 4 Injured In Shooting At Park In US' Kentucky",
             "scraped_at": "2026-08-16 19:24:40",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman held for stealing gold jewellery in Cuddalore - The Hindu On August 13, **Shamsad alias Mariam Biwi**, 36, allegedly broke into Selvaraj and Banumathi's house in Vadakupalayam after they left fo",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/woman-held-for-stealing-gold-jewellery-in-cuddalore/article71352674.ece",
+            "source_title": "Woman held for stealing gold jewellery in Cuddalore - The Hindu",
+            "scraped_at": "2026-08-16 20:51:36",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-08-16",
@@ -10437,7 +10444,7 @@
         "ruling_party": "BJP",
         "cm": "Suvendu Adhikari",
         "region": "East",
-        "party_confidence": 0.89,
+        "party_confidence": 0.88,
         "party_last_updated": "2026-08-16",
         "cm_confidence": 0.82,
         "cm_last_updated": "2026-08-16"
