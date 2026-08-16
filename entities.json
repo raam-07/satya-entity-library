@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7011,7 +7011,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 284,
+        "criminal_cases_in_news": 285,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9006,6 +9006,13 @@
             "source_url": "https://www.ndtv.com/india-news/anisur-rahman-congress-leader-son-shot-dead-in-bengals-nadia-they-were-returning-home-in-car-11916531#publisher=newsstand",
             "source_title": "Anisur Rahman: Congress Leader, Son Shot Dead In Bengal's Nadia. They Were Returning Home In Car",
             "scraped_at": "2026-08-16 08:35:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three arrested for illegal sale of mephentermine sulphate injections in Hyderabad - The Hindu On August 15, **Hyderabad Commissioner’s Task Force (Rajendranagar Zone)** arrested Mohammad Aejaz, Mohamm",
+            "source_url": "https://www.thehindu.com/news/national/telangana/three-arrested-for-illegal-sale-of-mephentermine-sulphate-injections-in-hyderabad/article71352863.ece",
+            "source_title": "Three arrested for illegal sale of mephentermine sulphate injections in Hyderabad - The Hindu",
+            "scraped_at": "2026-08-16 14:52:30",
             "incident_type": "broad"
           }
         ],
