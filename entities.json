@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2373,6 +2373,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-claims-sonia-objected-to-full-version-of-vande-mataram-at-event-congress-denies-charge/article71349117.ece",
             "source_title": "BJP claims Sonia 'objected' to full version of Vande Mataram at event, Congress denies charge - The Hindu",
             "scraped_at": "2026-08-15 09:54:53"
+          },
+          {
+            "incident_text": "Sonia Gandhi asked to stop Vande Mataram midway during Independence Day celebrations.",
+            "source_url": "https://www.thehindu.com/news/national/congress-should-apologise-for-insulting-vande-mataram-on-independence-day-amit-shah/article71352403.ece",
+            "source_title": "Congress should apologise for insulting Vande Mataram on Independence Day: Amit Shah - The Hindu",
+            "scraped_at": "2026-08-16 09:31:26"
           }
         ]
       },
