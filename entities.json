@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7030,7 +7030,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 286,
+        "criminal_cases_in_news": 287,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9039,6 +9039,13 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/three-arrested-after-bengal-cjp-volunteers-father-dies-in-attack/article71353154.ece",
             "source_title": "Three arrested after Bengal CJP volunteer’s father dies in attack - The Hindu",
             "scraped_at": "2026-08-16 16:31:28",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "1 Killed, Children Among 4 Injured In Shooting At Park In US' Kentucky Lexington police responded just before 7 pm on Saturday to a shooting at Charles Young Park, finding five victims. One person was",
+            "source_url": "https://www.ndtv.com/world-news/1-killed-children-among-4-injured-in-shooting-at-park-in-us-kentucky-11918445#publisher=newsstand",
+            "source_title": "1 Killed, Children Among 4 Injured In Shooting At Park In US' Kentucky",
+            "scraped_at": "2026-08-16 19:24:40",
             "incident_type": "broad"
           }
         ],
