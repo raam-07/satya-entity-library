@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -687,6 +687,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-backs-modis-intellectual-naxals-remark/article71349884.ece",
             "source_title": "Fadnavis backs Modi’s ‘intellectual Naxals’ remark - The Hindu",
             "scraped_at": "2026-08-15 16:57:21"
+          },
+          {
+            "incident_text": "Narendra Modi warned of 'dimagi naxals' entrenched in the system.",
+            "source_url": "https://www.thehindu.com/news/national/proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-at-pm/article71352058.ece",
+            "source_title": "Proud to be ‘dimagi Naxal’: Congress’ P. Chidambaram hits back at PM Modi - The Hindu",
+            "scraped_at": "2026-08-16 07:37:15"
           }
         ]
       },
