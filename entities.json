@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1528,6 +1528,12 @@
             "source_url": "https://indianexpress.com/article/political-pulse/exam-leak-law-clears-lok-sabha-showdown-comments-deleted-rahul-gandhi-lok-sabha-10809375/",
             "source_title": "Tougher exam leak law clears Lok Sabha amid showdown with comments deleted",
             "scraped_at": "2026-07-29 16:30:15"
+          },
+          {
+            "incident_text": "Kiren Rijiju said Congress only sings a party song now.",
+            "source_url": "https://www.ndtv.com/india-news/congress-only-sings-party-song-kiren-rijijus-dig-on-vande-mataram-row-11917929#publisher=newsstand",
+            "source_title": "\"Congress Only Sings Party Song\": Kiren Rijiju's Dig On Vande Mataram Row",
+            "scraped_at": "2026-08-16 15:49:32"
           }
         ],
         "criminal_cases_in_news": 0
