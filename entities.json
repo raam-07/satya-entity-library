@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -693,6 +693,12 @@
             "source_url": "https://www.thehindu.com/news/national/proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-at-pm/article71352058.ece",
             "source_title": "Proud to be ‘dimagi Naxal’: Congress’ P. Chidambaram hits back at PM Modi - The Hindu",
             "scraped_at": "2026-08-16 07:37:15"
+          },
+          {
+            "incident_text": "Narendra Modi referred to 'dimagi Naxals' in his speech.",
+            "source_url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
+            "source_title": "Chidambaram says he’s proud to be a ‘dimagi Naxal’; Rijiju says PM didn’t mean Opposition leaders - The Hindu",
+            "scraped_at": "2026-08-16 21:25:13"
           }
         ]
       },
