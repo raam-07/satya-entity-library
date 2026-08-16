@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -896,6 +896,12 @@
             "source_url": "https://www.ndtv.com/india-news/political-change-in-bengal-unlike-any-since-independence-amit-shah-11792733#publisher=newsstand",
             "source_title": "'Political Change In Bengal Unlike Any Since Independence': Amit Shah",
             "scraped_at": "2026-07-19 17:03:02"
+          },
+          {
+            "incident_text": "Amit Shah accused Sonia Gandhi of disrespecting Vande Mataram.",
+            "source_url": "https://www.ndtv.com/india-news/amit-shahs-sin-you-committed-swipe-at-sonia-gandhi-over-vande-mataram-row-11917245#publisher=newsstand",
+            "source_title": "Amit Shah's \"Sin You Committed\" Swipe At Sonia Gandhi Over Vande Mataram Row",
+            "scraped_at": "2026-08-16 12:46:52"
           }
         ]
       },
