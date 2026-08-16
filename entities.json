@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -4038,7 +4038,7 @@
           "Shivakumar"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
+        "criminal_cases_in_news": 2,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
         "image_placeholder": "dk_shivakumar",
@@ -4053,9 +4053,16 @@
             "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
             "scraped_at": "2026-03-15 15:02:18.550638",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Hanur shoot-out: Withdrawal of protest paves way for post-mortem - The Hindu The post-mortem of **Antony Swamy**, **John Rose Peter**, and **Kumar**—suspected poachers killed in a shoot-out at Cauvery",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/hanur-shoot-out-withdrawal-of-protest-paves-way-for-post-mortem/article71353481.ece",
+            "source_title": "Hanur shoot-out: Withdrawal of protest paves way for post-mortem - The Hindu",
+            "scraped_at": "2026-08-16 16:33:11",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-06-15",
+        "criminal_last_updated": "2026-08-16",
         "controversies": [
           {
             "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
@@ -7017,7 +7024,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 285,
+        "criminal_cases_in_news": 286,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9019,6 +9026,13 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/three-arrested-for-illegal-sale-of-mephentermine-sulphate-injections-in-hyderabad/article71352863.ece",
             "source_title": "Three arrested for illegal sale of mephentermine sulphate injections in Hyderabad - The Hindu",
             "scraped_at": "2026-08-16 14:52:30",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three arrested after Bengal CJP volunteer’s father dies in attack - The Hindu On August 13, 2026, **Janab Mafik**, father of **Cockroach Janta Party (CJP)** volunteer Shaik Abdul Hafeez, was attacked ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/three-arrested-after-bengal-cjp-volunteers-father-dies-in-attack/article71353154.ece",
+            "source_title": "Three arrested after Bengal CJP volunteer’s father dies in attack - The Hindu",
+            "scraped_at": "2026-08-16 16:31:28",
             "incident_type": "broad"
           }
         ],
