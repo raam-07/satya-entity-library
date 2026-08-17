@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2436,6 +2436,12 @@
             "source_url": "https://www.ndtv.com/india-news/congress-chief-present-vande-mataram-not-sung-in-full-at-goa-event-amid-row-11922097#publisher=newsstand",
             "source_title": "Congress Chief Present, Vande Mataram Not Sung In Full At Goa Event Amid Row",
             "scraped_at": "2026-08-17 15:30:03"
+          },
+          {
+            "incident_text": "Sonia Gandhi's behavior during Vande Mataram raised governance questions.",
+            "source_url": "https://www.ndtv.com/india-news/himanta-sarmas-anarchy-jibe-at-sonia-rahul-gandhi-over-vande-mataram-row-11922118#publisher=newsstand",
+            "source_title": "Himanta Sarma's 'Anarchy' Jibe At Sonia, Rahul Gandhi Over Vande Mataram Row",
+            "scraped_at": "2026-08-17 15:53:42"
           }
         ]
       },
@@ -3825,6 +3831,12 @@
             "source_url": "https://www.ndtv.com/india-news/independence-day-2026-himanta-sarma-says-gen-z-alpha-labels-european-concept-says-call-them-son-daughter-11914025#publisher=newsstand",
             "source_title": "Independence Day 2026: Himanta Sarma Says Gen Z, Alpha Labels European Concept, Says Call Them Son, Daughter",
             "scraped_at": "2026-08-15 11:25:53"
+          },
+          {
+            "incident_text": "Himanta Biswa Sarma claimed Congress's Vande Mataram conduct would lead to national instability.",
+            "source_url": "https://www.ndtv.com/india-news/himanta-sarmas-anarchy-jibe-at-sonia-rahul-gandhi-over-vande-mataram-row-11922118#publisher=newsstand",
+            "source_title": "Himanta Sarma's 'Anarchy' Jibe At Sonia, Rahul Gandhi Over Vande Mataram Row",
+            "scraped_at": "2026-08-17 15:53:42"
           }
         ]
       },
