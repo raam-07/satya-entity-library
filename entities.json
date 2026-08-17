@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2430,6 +2430,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-should-apologise-for-insulting-vande-mataram-on-independence-day-amit-shah/article71352403.ece",
             "source_title": "Congress should apologise for insulting Vande Mataram on Independence Day: Amit Shah - The Hindu",
             "scraped_at": "2026-08-16 09:31:26"
+          },
+          {
+            "incident_text": "Sonia Gandhi allegedly signalled to stop Vande Mataram after two stanzas.",
+            "source_url": "https://www.ndtv.com/india-news/congress-chief-present-vande-mataram-not-sung-in-full-at-goa-event-amid-row-11922097#publisher=newsstand",
+            "source_title": "Congress Chief Present, Vande Mataram Not Sung In Full At Goa Event Amid Row",
+            "scraped_at": "2026-08-17 15:30:03"
           }
         ]
       },
