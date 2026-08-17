@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1612,7 +1612,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 25,
+        "criminal_cases_in_news": 26,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1787,6 +1787,13 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/no-difference-between-jaish-e-mohammed-taliban-rss-kpccs-bk-hariprasad-says-all-three-not-registered-in-india/article71355455.ece",
             "source_title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu",
             "scraped_at": "2026-08-17 10:10:36",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "\"If It's So Serious...\": Supreme Court To Agencies In Rahul Gandhi Assets Case On Monday, the **Supreme Court** asked why **probe agencies**, including the CBI and Enforcement Directorate (ED), remain",
+            "source_url": "https://www.ndtv.com/india-news/if-its-so-serious-supreme-court-to-agencies-in-rahul-gandhi-assets-case-11920263#publisher=newsstand",
+            "source_title": "\"If It's So Serious...\": Supreme Court To Agencies In Rahul Gandhi Assets Case",
+            "scraped_at": "2026-08-17 10:09:38",
             "incident_type": "serious"
           }
         ],

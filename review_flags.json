@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-17 11:59:51.966554",
+  "generated_at": "2026-08-17 12:49:38.926257",
   "summary": {
     "cm_updates_applied": 1,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 4,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -29,7 +29,7 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "V.D. Satheesan",
-      "confidence": 0.57,
+      "confidence": 0.5,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
@@ -65,8 +65,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 46,
-      "share": 0.28,
+      "mentions": 44,
+      "share": 0.27,
       "reason": "Party evidence below auto threshold"
     }
   ]
