@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 20:13:57.569442",
+  "generated_at": "2026-08-17 21:03:26.637052",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -18,21 +18,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.58,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "g above the danger level at some places. Sivasagar, Charaideo, and Jorhat are the worst-hit districts with a total of 3.13 lakh people affected,” she said. CM says govt. departments are on high alert "
-    },
-    {
-      "type": "cm_detection",
       "state": "Kerala",
       "candidate": "V.D. Satheesan",
       "confidence": 0.5,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.67,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": "g above the danger level at some places. Sivasagar, Charaideo, and Jorhat are the worst-hit districts with a total of 3.13 lakh people affected,” she said. CM says govt. departments are on high alert "
     },
     {
       "type": "cm_detection",
@@ -66,7 +66,7 @@
       "person": "On Saturday",
       "candidate_party": "INC",
       "mentions": 39,
-      "share": 0.28,
+      "share": 0.3,
       "reason": "Party evidence below auto threshold"
     }
   ]
