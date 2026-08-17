@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 1,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1612,7 +1612,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 24,
+        "criminal_cases_in_news": 25,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1781,9 +1781,16 @@
             "source_title": "Rahul Gandhi demands justice for woman killed at Uttarakhand resort - The Hindu",
             "scraped_at": "2026-08-15 20:27:51",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu On August 17, 2026, **B.K. Hariprasad**, president of Karnataka Prades",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-difference-between-jaish-e-mohammed-taliban-rss-kpccs-bk-hariprasad-says-all-three-not-registered-in-india/article71355455.ece",
+            "source_title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu",
+            "scraped_at": "2026-08-17 10:10:36",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-08-15",
+        "criminal_last_updated": "2026-08-17",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2353,7 +2360,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 4,
+        "criminal_cases_in_news": 5,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -2382,9 +2389,16 @@
             "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
             "scraped_at": "2026-01-25 02:16:23",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu On August 17, 2026, **B.K. Hariprasad**, president of Karnataka Prades",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-difference-between-jaish-e-mohammed-taliban-rss-kpccs-bk-hariprasad-says-all-three-not-registered-in-india/article71355455.ece",
+            "source_title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu",
+            "scraped_at": "2026-08-17 10:10:36",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-07-05",
+        "criminal_last_updated": "2026-08-17",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
