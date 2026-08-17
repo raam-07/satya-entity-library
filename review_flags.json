@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 18:31:06.629304",
+  "generated_at": "2026-08-17 19:29:50.411205",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -65,8 +65,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 40,
-      "share": 0.27,
+      "mentions": 39,
+      "share": 0.28,
       "reason": "Party evidence below auto threshold"
     }
   ]
