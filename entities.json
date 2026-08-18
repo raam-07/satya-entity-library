@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -914,6 +914,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-rejects-shahs-vande-mataram-charge-calls-it-a-political-diversion/article71353192.ece",
             "source_title": "Congress rejects Shah’s Vande Mataram charge, calls it a ‘political diversion’ - The Hindu",
             "scraped_at": "2026-08-16 17:48:24"
+          },
+          {
+            "incident_text": "Amit Shah was a child when Mallikarjun Kharge first became MLA.",
+            "source_url": "https://www.ndtv.com/india-news/when-i-first-became-mla-amit-shah-was-a-child-mallikarjun-kharge-jabs-minister-11924358#publisher=newsstand",
+            "source_title": "\"When I First Became MLA, Amit Shah Was A Child\": Mallikarjun Kharge Jabs Minister",
+            "scraped_at": "2026-08-18 07:42:45"
           }
         ]
       },
