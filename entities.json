@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2863,6 +2863,12 @@
             "source_url": "https://www.thehindu.com/news/national/centre-coercing-vehicle-manufacturers-into-silence-on-e20-issue-kejriwal/article71282235.ece",
             "source_title": "Centre ‘coercing’ vehicle manufacturers into silence on E20 issue: Kejriwal - The Hindu",
             "scraped_at": "2026-07-29 20:34:35"
+          },
+          {
+            "incident_text": "Kejriwal claimed the case against Jain will be proven fake.",
+            "source_url": "https://www.ndtv.com/india-news/satyendar-jain-arrest-case-will-be-proven-fake-says-arvind-kejriwal-11927524#publisher=newsstand",
+            "source_title": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
+            "scraped_at": "2026-08-18 17:32:06"
           }
         ]
       },
@@ -7101,7 +7107,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 290,
+        "criminal_cases_in_news": 291,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9138,6 +9144,13 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/hanur-shoot-out-case-fourth-man-releases-video/article71361582.ece",
             "source_title": "Hanur shoot-out case: Fourth man releases video - The Hindu",
             "scraped_at": "2026-08-18 15:37:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Landlord arrested for sexually harassing tenant - The Hindu On August 17, 2026, the **Ashok Nagar Police** arrested **Kamlesh Kumar**, a 60-year-old landlord, for allegedly sexually harassing his tena",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/landlord-arrested-for-sexually-harassing-tenant/article71356303.ece",
+            "source_title": "Landlord arrested for sexually harassing tenant - The Hindu",
+            "scraped_at": "2026-08-18 16:40:23",
             "incident_type": "broad"
           }
         ],
