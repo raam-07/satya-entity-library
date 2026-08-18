@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 12:32:25.277933",
+  "generated_at": "2026-08-18 13:01:54.763624",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -20,8 +20,8 @@
       "type": "cm_detection",
       "state": "Kerala",
       "candidate": "V.D. Satheesan",
-      "confidence": 0.5,
-      "mentions": 4,
+      "confidence": 0.56,
+      "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "schools under the General Education Department as well as colleges, universities and professional institutions under the Higher Education Department. The decision was taken following directions from C"
     },
