@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1612,7 +1612,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 26,
+        "criminal_cases_in_news": 27,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1795,9 +1795,16 @@
             "source_title": "\"If It's So Serious...\": Supreme Court To Agencies In Rahul Gandhi Assets Case",
             "scraped_at": "2026-08-17 10:09:38",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu On August 17, 2026, **Delhi Police** said they were investigating a complaint filed at the IP Estate Polic",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
+            "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-08-17 23:27:37",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-17",
+        "criminal_last_updated": "2026-08-18",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2350,6 +2357,12 @@
             "source_url": "https://www.thehindu.com/news/national/raut-defends-rahul-over-his-remarks-against-amit-shah/article71352650.ece",
             "source_title": "Raut defends Rahul over his remarks against Amit Shah - The Hindu",
             "scraped_at": "2026-08-16 12:46:04"
+          },
+          {
+            "incident_text": "Rahul Gandhi was heard saying they were not singing Vande Mataram.",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
+            "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-08-17 23:27:37"
           }
         ]
       },
@@ -2367,7 +2380,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -2403,9 +2416,16 @@
             "source_title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu",
             "scraped_at": "2026-08-17 10:10:36",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu On August 17, 2026, **Delhi Police** said they were investigating a complaint filed at the IP Estate Polic",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
+            "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-08-17 23:27:37",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-17",
+        "criminal_last_updated": "2026-08-18",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
