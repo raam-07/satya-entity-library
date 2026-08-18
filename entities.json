@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7101,7 +7101,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 289,
+        "criminal_cases_in_news": 290,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9131,6 +9131,13 @@
             "source_url": "https://www.ndtv.com/india-news/bangladeshi-woman-re-enters-india-month-after-deportation-arrested-11923078#publisher=newsstand",
             "source_title": "Bangladeshi Woman Re-Enters India Month After Deportation, Arrested",
             "scraped_at": "2026-08-18 03:49:59",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Hanur shoot-out case: Fourth man releases video - The Hindu A video circulating on social media features **Mayima Das**, the fourth person who fled after an alleged exchange of fire between suspected ",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/hanur-shoot-out-case-fourth-man-releases-video/article71361582.ece",
+            "source_title": "Hanur shoot-out case: Fourth man releases video - The Hindu",
+            "scraped_at": "2026-08-18 15:37:54",
             "incident_type": "broad"
           }
         ],
