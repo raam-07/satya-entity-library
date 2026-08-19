@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -4532,6 +4532,13 @@
             "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
             "scraped_at": "2026-06-16 18:22:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Pune Horror: 9-Year-Old Girl Raped, Murdered. 25-Year-Old Neighbour Arrested A nine-year-old girl from Pune district was raped and murdered; a 25-year-old neighbor was arrested. Villagers blocked the ",
+            "source_url": "https://www.ndtv.com/india-news/pune-horror-9-year-old-girl-raped-murdered-25-year-old-neighbour-arrested-11929828#publisher=newsstand",
+            "source_title": "Pune Horror: 9-Year-Old Girl Raped, Murdered. 25-Year-Old Neighbour Arrested",
+            "scraped_at": "2026-08-19 09:39:55",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -4686,8 +4693,8 @@
             "scraped_at": "2026-08-11 03:53:40"
           }
         ],
-        "criminal_cases_in_news": 2,
-        "criminal_last_updated": "2026-06-16"
+        "criminal_cases_in_news": 3,
+        "criminal_last_updated": "2026-08-19"
       },
       {
         "name": "N. Biren Singh",
@@ -7107,7 +7114,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 291,
+        "criminal_cases_in_news": 292,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9152,9 +9159,16 @@
             "source_title": "Landlord arrested for sexually harassing tenant - The Hindu",
             "scraped_at": "2026-08-18 16:40:23",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Drunk US Couple Attacks Family On Cruise Over 'Keep Quiet' Request **Gannon Jacox** and his girlfriend **Brooklyn Hicks**, both from Ohio, were arrested Saturday evening at Port Canaveral in Florida a",
+            "source_url": "https://www.ndtv.com/world-news/drunk-us-couple-attacks-family-on-cruise-over-keep-quiet-request-11929004#publisher=newsstand",
+            "source_title": "Drunk US Couple Attacks Family On Cruise Over 'Keep Quiet' Request",
+            "scraped_at": "2026-08-19 09:38:26",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-18",
+        "criminal_last_updated": "2026-08-19",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
