@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 4,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7120,7 +7120,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 292,
+        "criminal_cases_in_news": 293,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9171,6 +9171,13 @@
             "source_url": "https://www.ndtv.com/world-news/drunk-us-couple-attacks-family-on-cruise-over-keep-quiet-request-11929004#publisher=newsstand",
             "source_title": "Drunk US Couple Attacks Family On Cruise Over 'Keep Quiet' Request",
             "scraped_at": "2026-08-19 09:38:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assam News Drug Overdose, Assault? Assam Woman Dies After Party At Friend's Home On August 15, **Anwesha Saikia** left home with a friend and later fell ill, dying at Jorhat Medical College and Hospit",
+            "source_url": "https://www.ndtv.com/india-news/assam-news-drug-overdose-assault-assam-woman-dies-after-party-at-friends-home-11931114#publisher=newsstand",
+            "source_title": "Assam News Drug Overdose, Assault? Assam Woman Dies After Party At Friend's Home",
+            "scraped_at": "2026-08-19 14:38:08",
             "incident_type": "broad"
           }
         ],
