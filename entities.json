@@ -9,7 +9,7 @@
       "party_updates": 4,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -699,6 +699,12 @@
             "source_url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
             "source_title": "Chidambaram says he’s proud to be a ‘dimagi Naxal’; Rijiju says PM didn’t mean Opposition leaders - The Hindu",
             "scraped_at": "2026-08-16 21:25:13"
+          },
+          {
+            "incident_text": "Narendra Modi assured students of stricter laws against paper leaks.",
+            "source_url": "https://www.ndtv.com/india-news/in-cabinet-meet-review-of-ministers-social-media-performance-inside-track-11931645#publisher=newsstand",
+            "source_title": "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
+            "scraped_at": "2026-08-19 13:48:57"
           }
         ]
       },
