@@ -9,7 +9,7 @@
       "party_updates": 3,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2375,6 +2375,12 @@
             "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
             "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
             "scraped_at": "2026-08-17 23:27:37"
+          },
+          {
+            "incident_text": "Rahul Gandhi made remarks about Savarkar that led to a defamation case.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/savarkar-defamation-case-high-court-plea-accuses-court-of-trying-to-determine-if-savarkar-brave-or-coward/article71365972.ece",
+            "source_title": "Savarkar defamation case: Plea in High Court accuses Special Court of trying to determine if Savarkar was ‘brave or coward’ - The Hindu",
+            "scraped_at": "2026-08-20 03:51:38"
           }
         ]
       },
