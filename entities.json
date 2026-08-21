@@ -10577,7 +10577,7 @@
         "region": "East",
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
-        "cm_confidence": 0.9,
+        "cm_confidence": 1.0,
         "cm_last_updated": "2026-08-21"
       },
       {

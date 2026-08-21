@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 09:36:35.779164",
+  "generated_at": "2026-08-21 10:12:15.609993",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
@@ -20,7 +20,7 @@
       "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.64,
+      "confidence": 0.7,
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "-25% of Sivasagar, Charaideo remain cut off - Seven people remain missing in Sivasagar and Charaideo as search operations continue - Around seven lakh people affected in the two districts, says Assam "
