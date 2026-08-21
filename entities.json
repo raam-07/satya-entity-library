@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 1
     },
@@ -4075,6 +4075,12 @@
             "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-asks-himachal-pradesh-govt-sec-to-hold-local-body-polls-by-may-31/article70627549.ece",
             "source_title": "Supreme Court asks Himachal Pradesh govt, SEC to hold local body polls by May 31 - The Hindu",
             "scraped_at": "2026-02-13 03:23:04"
+          },
+          {
+            "incident_text": "Sukhvinder Singh Sukhu accused the BJP of politicizing the Vande Mataram issue.",
+            "source_url": "https://www.ndtv.com/india-news/himachal-pradesh-assembly-adjourned-within-10-minutes-over-vande-mataram-row-11940150#publisher=newsstand",
+            "source_title": "Himachal Pradesh Assembly Adjourned Within 10 Minutes Over Vande Mataram Row",
+            "scraped_at": "2026-08-21 10:34:46"
           }
         ],
         "criminal_cases_in_news": 0
@@ -10403,7 +10409,9 @@
         "capital": "Shimla",
         "ruling_party": "INC",
         "cm": "Sukhvinder Singh Sukhu",
-        "region": "North"
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-08-21"
       },
       {
         "name": "Jharkhand",
