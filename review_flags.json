@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 15:21:54.732347",
+  "generated_at": "2026-08-21 15:44:22.781271",
   "summary": {
     "cm_updates_applied": 5,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 4
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -41,15 +41,6 @@
       "confidence": 1.0,
       "reason": "Gemma rejected",
       "context": "Amid SIR, another Cong govt eases paper trail: Telangana rolls out Family Register Certificate | Political Pulse News - The Indian Express On July 25, the **Revanth Reddy**-led Congress government in "
-    },
-    {
-      "type": "central_government",
-      "office": "prime_minister",
-      "candidate": "Andy Burnham",
-      "confidence": 0.75,
-      "mentions": 3,
-      "reason": "Below 10-mention floor for a national office",
-      "context": "tten alongside. It scored 3/10 and included the comment: “See me after class!”. Accompanying the post, the Conservatives wrote: “Labour’s new Education Secretary is off to a flying start.” On Monday, "
     },
     {
       "type": "entity_enrichment",
