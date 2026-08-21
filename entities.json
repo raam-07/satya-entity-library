@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 4,
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -10400,7 +10400,7 @@
         "cm": "Hemant Soren",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-08-20"
+        "cm_last_updated": "2026-08-21"
       },
       {
         "name": "Karnataka",
@@ -10443,8 +10443,8 @@
         "ruling_party": "BJP",
         "cm": "Devendra Fadnavis",
         "region": "West",
-        "cm_confidence": 0.8,
-        "cm_last_updated": "2026-07-21"
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-08-21"
       },
       {
         "name": "Manipur",
@@ -10577,7 +10577,7 @@
         "region": "East",
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
-        "cm_confidence": 0.82,
+        "cm_confidence": 0.9,
         "cm_last_updated": "2026-08-21"
       },
       {
