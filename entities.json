@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1636,7 +1636,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 27,
+        "criminal_cases_in_news": 28,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1826,9 +1826,16 @@
             "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
             "scraped_at": "2026-08-17 23:27:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi Police to register FIR over pellet injuries to youth during July 20 protest - The Hindu On August 21, 2026, **Rahul Gandhi**, accompanied by injured youth Sahil Lochab, demanded the registration",
+            "source_url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
+            "source_title": "Delhi Police to register FIR over pellet injuries to youth during July 20 protest - The Hindu",
+            "scraped_at": "2026-08-21 12:55:52",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-18",
+        "criminal_last_updated": "2026-08-21",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
