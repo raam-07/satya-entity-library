@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -976,6 +976,12 @@
             "source_url": "https://www.ndtv.com/india-news/extremely-regrettable-rajnath-singh-targets-congress-over-vande-mataram-row-11940123#publisher=newsstand",
             "source_title": "Extremely Regrettable: Rajnath Singh Targets Congress Over Vande Mataram Row",
             "scraped_at": "2026-08-21 11:59:09"
+          },
+          {
+            "incident_text": "Rajnath Singh claimed Congress opposing Vande Mataram is unconstitutional and unpatriotic.",
+            "source_url": "https://www.thehindu.com/news/national/cong-stance-on-vande-mataram-a-very-serious-issue-says-rajnath/article71374603.ece",
+            "source_title": "Cong. stance on Vande Mataram a very serious issue, says Rajnath - The Hindu",
+            "scraped_at": "2026-08-21 17:33:07"
           }
         ],
         "criminal_cases_in_news": 0
