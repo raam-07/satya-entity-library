@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-20",
+    "last_updated": "2026-08-21",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -10412,7 +10412,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-20"
+        "party_last_updated": "2026-08-21"
       },
       {
         "name": "Kerala",
@@ -10554,9 +10554,9 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-20",
+        "cm_last_updated": "2026-08-21",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-20"
+        "party_last_updated": "2026-08-21"
       },
       {
         "name": "Uttarakhand",
@@ -10578,7 +10578,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 0.82,
-        "cm_last_updated": "2026-08-20"
+        "cm_last_updated": "2026-08-21"
       },
       {
         "name": "Delhi",
