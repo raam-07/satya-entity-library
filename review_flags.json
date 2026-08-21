@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-21 10:12:15.609993",
+  "generated_at": "2026-08-21 11:34:41.713859",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 2,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "criminal_updates_applied": 1,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,

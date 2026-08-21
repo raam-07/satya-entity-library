@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 4,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -926,6 +926,12 @@
             "source_url": "https://www.ndtv.com/india-news/when-i-first-became-mla-amit-shah-was-a-child-mallikarjun-kharge-jabs-minister-11924358#publisher=newsstand",
             "source_title": "\"When I First Became MLA, Amit Shah Was A Child\": Mallikarjun Kharge Jabs Minister",
             "scraped_at": "2026-08-18 07:42:45"
+          },
+          {
+            "incident_text": "Amit Shah alleged Congress's decision to sing only two stanzas of Vande Mataram was anti-national.",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-row-congress-1937-resolution-explained/article71372599.ece",
+            "source_title": "Vande Mataram row: What is Congress's 1937 resolution? - The Hindu",
+            "scraped_at": "2026-08-21 09:44:19"
           }
         ]
       },
@@ -2553,6 +2559,13 @@
             "source_title": "Two held for impersonating Congress leader Priyanka Gandhi’s aide in cyber fraud case - The Hindu",
             "scraped_at": "2026-07-26 10:50:43",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rahul Gandhi dharna in Delhi LIVE: Congress leader demands FIR over pellet gun use in student protest - The Hindu On August 21, **Rahul Gandhi** and **Priyanka Gandhi**, along with pellet gun victim S",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-delhi-dharna-congress-cjp-protest-pellet-gun/article71372891.ece",
+            "source_title": "Rahul Gandhi dharna in Delhi LIVE: Congress leader demands FIR over pellet gun use in student protest - The Hindu",
+            "scraped_at": "2026-08-21 09:41:55",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2593,8 +2606,8 @@
             "scraped_at": "2026-07-29 04:25:25"
           }
         ],
-        "criminal_cases_in_news": 8,
-        "criminal_last_updated": "2026-07-26"
+        "criminal_cases_in_news": 9,
+        "criminal_last_updated": "2026-08-21"
       },
       {
         "name": "Mallikarjun Kharge",
