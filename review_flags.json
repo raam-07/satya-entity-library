@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 13:11:55.235441",
+  "generated_at": "2026-08-21 13:38:12.961892",
   "summary": {
     "cm_updates_applied": 5,
     "central_updates_applied": 0,
@@ -7,11 +7,11 @@
     "entities_enriched": 0,
     "party_updates_applied": 2,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -33,14 +33,6 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ion of a new mental health policy aligned with the Mental Healthcare Act 2017. The delegation also sought improvements in infrastructure, services, and funding for training and anti-stigma campaigns. "
-    },
-    {
-      "type": "ruling_party",
-      "state": "West Bengal",
-      "candidate": "BJP",
-      "confidence": 0.8,
-      "reason": "Gemma rejected",
-      "context": "After ‘Jai Maa Kali’, maach-bhaat planks in polls, why BJP steps up Bengali push **Suvendu Adhikari's** BJP government in West Bengal announced on Monday that Bengali would become mandatory for all st"
     },
     {
       "type": "ruling_party",
