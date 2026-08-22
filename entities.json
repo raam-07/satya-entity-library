@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 299,
+        "criminal_cases_in_news": 300,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9270,6 +9270,13 @@
             "source_url": "https://www.thehindu.com/news/national/ram-mandir-donations-row-lawyers-body-demands-fir-against-champat-rai-anil-mishra/article71377752.ece",
             "source_title": "Ram Mandir donations row: Lawyers' body demands FIR against Champat Rai, Anil Mishra - The Hindu",
             "scraped_at": "2026-08-22 14:31:33",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Professor held in Chhattisgarh paper leak case; police personnel say he inserted endoscopic camera in sealed envelope - The Hindu On August 22, 2026, **Smruthik Rajanala**, Deputy Commissioner of Poli",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/professor-held-in-chhattisgarh-paper-leak-case-police-personnel-say-he-inserted-endoscopic-camera-in-sealed-envelope/article71378237.ece",
+            "source_title": "Professor held in Chhattisgarh paper leak case; police personnel say he inserted endoscopic camera in sealed envelope - The Hindu",
+            "scraped_at": "2026-08-22 16:33:32",
             "incident_type": "broad"
           }
         ],
