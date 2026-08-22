@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 297,
+        "criminal_cases_in_news": 299,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9256,6 +9256,20 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-former-tdb-chief-denied-bail-co-accused-gets-relief-on-medical-grounds/article71377743.ece",
             "source_title": "Sabarimala gold theft: former TDB chief denied bail, co-accused gets relief on medical grounds - The Hindu",
             "scraped_at": "2026-08-22 13:35:43",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Former drug peddler arrested for illegal firearms trade in Malkajgiri, pistols and ammunition seized - The Hindu On Saturday around 5.50 a.m., **Malkajgiri Zone Special Operations Team (SOT)** and Bol",
+            "source_url": "https://www.thehindu.com/news/national/telangana/former-drug-peddler-arrested-for-illegal-firearms-trade-in-malkajgiri-pistols-and-ammunition-seized/article71377850.ece",
+            "source_title": "Former drug peddler arrested for illegal firearms trade in Malkajgiri, pistols and ammunition seized - The Hindu",
+            "scraped_at": "2026-08-22 14:28:59",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Ram Mandir donations row: Lawyers' body demands FIR against Champat Rai, Anil Mishra - The Hindu On August 22, 2026, the **Faizabad Bar Association** warned of further agitation if a First Information",
+            "source_url": "https://www.thehindu.com/news/national/ram-mandir-donations-row-lawyers-body-demands-fir-against-champat-rai-anil-mishra/article71377752.ece",
+            "source_title": "Ram Mandir donations row: Lawyers' body demands FIR against Champat Rai, Anil Mishra - The Hindu",
+            "scraped_at": "2026-08-22 14:31:33",
             "incident_type": "broad"
           }
         ],
