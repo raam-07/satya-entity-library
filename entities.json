@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -7134,6 +7134,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/vande-mataram-row-kerala-govts-stance-will-be-made-clear-on-independence-day-says-cm-satheesan/article71340023.ece",
             "source_title": "Vande Mataram row: Kerala govt’s stance will be ‘made clear’ on Independence Day, says CM Satheesan - The Hindu",
             "scraped_at": "2026-08-13 09:21:24"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan alleged his daughter was targeted due to their relationship.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
+            "source_title": "Keralam Opposition leader Pinarayi Vijayan rejects hawala allegations, claims family being targeted - The Hindu",
+            "scraped_at": "2026-08-22 11:48:56"
           }
         ]
       },
@@ -7164,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 294,
+        "criminal_cases_in_news": 295,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9229,6 +9235,13 @@
             "source_url": "https://www.ndtv.com/ghaziabad-news/ghaziabad-double-murder-man-kills-wife-teen-daughter-in-ghaziabad-after-fight-younger-daughter-hurt-11943728#publisher=newsstand",
             "source_title": "ghaziabad double murder, Man Kills Wife, Teen Daughter In Ghaziabad After Fight, Younger Daughter Hurt",
             "scraped_at": "2026-08-22 09:31:17",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi Police arrests man linked to Bishnoi-Malik gang - The Hindu On August 20, 2026, **Delhi Police** arrested Amarjeet alias Amar, a 40-year-old man linked to the Lawrence Bishnoi-Randeep Malik gang",
+            "source_url": "https://www.thehindu.com/news/national/delhi-police-arrests-man-linked-to-bishnoi-malik-gang/article71377439.ece",
+            "source_title": "Delhi Police arrests man linked to Bishnoi-Malik gang - The Hindu",
+            "scraped_at": "2026-08-22 11:48:32",
             "incident_type": "broad"
           }
         ],
