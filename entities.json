@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-21",
+    "last_updated": "2026-08-22",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -10430,7 +10430,7 @@
         "cm": "Sukhvinder Singh Sukhu",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-08-21"
+        "cm_last_updated": "2026-08-22"
       },
       {
         "name": "Jharkhand",
@@ -10440,7 +10440,7 @@
         "cm": "Hemant Soren",
         "region": "East",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-08-21"
+        "cm_last_updated": "2026-08-22"
       },
       {
         "name": "Karnataka",
@@ -10452,7 +10452,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-21"
+        "party_last_updated": "2026-08-22"
       },
       {
         "name": "Kerala",
@@ -10484,7 +10484,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-08-21"
+        "cm_last_updated": "2026-08-22"
       },
       {
         "name": "Manipur",
@@ -10594,9 +10594,9 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-21",
+        "cm_last_updated": "2026-08-22",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-21"
+        "party_last_updated": "2026-08-22"
       },
       {
         "name": "Uttarakhand",
@@ -10618,7 +10618,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-21"
+        "cm_last_updated": "2026-08-22"
       },
       {
         "name": "Delhi",
