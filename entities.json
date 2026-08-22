@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7164,7 +7164,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 293,
+        "criminal_cases_in_news": 294,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9223,9 +9223,16 @@
             "source_title": "Assam News Drug Overdose, Assault? Assam Woman Dies After Party At Friend's Home",
             "scraped_at": "2026-08-19 14:38:08",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "ghaziabad double murder, Man Kills Wife, Teen Daughter In Ghaziabad After Fight, Younger Daughter Hurt On Friday night, **Raja Ansari** killed his wife **Bibi Tabassum** and 15-year-old daughter **San",
+            "source_url": "https://www.ndtv.com/ghaziabad-news/ghaziabad-double-murder-man-kills-wife-teen-daughter-in-ghaziabad-after-fight-younger-daughter-hurt-11943728#publisher=newsstand",
+            "source_title": "ghaziabad double murder, Man Kills Wife, Teen Daughter In Ghaziabad After Fight, Younger Daughter Hurt",
+            "scraped_at": "2026-08-22 09:31:17",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-19",
+        "criminal_last_updated": "2026-08-22",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
