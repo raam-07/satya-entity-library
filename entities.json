@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 300,
+        "criminal_cases_in_news": 301,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9277,6 +9277,13 @@
             "source_url": "https://www.thehindu.com/news/national/chhattisgarh/professor-held-in-chhattisgarh-paper-leak-case-police-personnel-say-he-inserted-endoscopic-camera-in-sealed-envelope/article71378237.ece",
             "source_title": "Professor held in Chhattisgarh paper leak case; police personnel say he inserted endoscopic camera in sealed envelope - The Hindu",
             "scraped_at": "2026-08-22 16:33:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Markapuram police arrest man linked to two murder cases - The Hindu On Saturday, August 22, 2026, **Superintendent of Police V. Harshavardhan Raju** announced the arrest of an individual involved in t",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-police-arrest-man-linked-to-two-murder-cases/article71378030.ece",
+            "source_title": "Markapuram police arrest man linked to two murder cases - The Hindu",
+            "scraped_at": "2026-08-22 17:25:29",
             "incident_type": "broad"
           }
         ],
