@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 295,
+        "criminal_cases_in_news": 296,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9242,6 +9242,13 @@
             "source_url": "https://www.thehindu.com/news/national/delhi-police-arrests-man-linked-to-bishnoi-malik-gang/article71377439.ece",
             "source_title": "Delhi Police arrests man linked to Bishnoi-Malik gang - The Hindu",
             "scraped_at": "2026-08-22 11:48:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi Van Driver Kills Passenger With Bricks Over Rs 1,000 Fare Dispute On August 17, **Rajinder Kumar alias Annu** refused to pay a fare of around Rs 1,000 in a van and was beaten by driver Rajinder ",
+            "source_url": "https://www.ndtv.com/india-news/delhi-van-driver-kills-passenger-with-bricks-over-rs-1-000-fare-dispute-11944679#publisher=newsstand",
+            "source_title": "Delhi Van Driver Kills Passenger With Bricks Over Rs 1,000 Fare Dispute",
+            "scraped_at": "2026-08-22 12:46:32",
             "incident_type": "broad"
           }
         ],
