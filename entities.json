@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 296,
+        "criminal_cases_in_news": 297,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9249,6 +9249,13 @@
             "source_url": "https://www.ndtv.com/india-news/delhi-van-driver-kills-passenger-with-bricks-over-rs-1-000-fare-dispute-11944679#publisher=newsstand",
             "source_title": "Delhi Van Driver Kills Passenger With Bricks Over Rs 1,000 Fare Dispute",
             "scraped_at": "2026-08-22 12:46:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Sabarimala gold theft: former TDB chief denied bail, co-accused gets relief on medical grounds - The Hindu On August 22, the Kollam Vigilance Court rejected **P.S. Prashanth**'s bail application in th",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-former-tdb-chief-denied-bail-co-accused-gets-relief-on-medical-grounds/article71377743.ece",
+            "source_title": "Sabarimala gold theft: former TDB chief denied bail, co-accused gets relief on medical grounds - The Hindu",
+            "scraped_at": "2026-08-22 13:35:43",
             "incident_type": "broad"
           }
         ],
