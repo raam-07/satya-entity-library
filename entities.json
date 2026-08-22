@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 301,
+        "criminal_cases_in_news": 302,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9284,6 +9284,13 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/markapuram-police-arrest-man-linked-to-two-murder-cases/article71378030.ece",
             "source_title": "Markapuram police arrest man linked to two murder cases - The Hindu",
             "scraped_at": "2026-08-22 17:25:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "FIRs Against 14 Named, 200 Unnamed Persons Over Ranchi Students-Cops Clash On Saturday, **Ranchi** police filed three FIRs against 14 named and over 200 unnamed individuals for clashing with job aspir",
+            "source_url": "https://www.ndtv.com/india-news/firs-against-14-named-200-unnamed-persons-over-ranchi-students-cops-clash-11946023#publisher=newsstand",
+            "source_title": "FIRs Against 14 Named, 200 Unnamed Persons Over Ranchi Students-Cops Clash",
+            "scraped_at": "2026-08-22 19:27:52",
             "incident_type": "broad"
           }
         ],
