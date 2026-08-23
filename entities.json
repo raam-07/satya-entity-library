@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -1576,6 +1576,12 @@
             "source_url": "https://www.ndtv.com/india-news/congress-only-sings-party-song-kiren-rijijus-dig-on-vande-mataram-row-11917929#publisher=newsstand",
             "source_title": "\"Congress Only Sings Party Song\": Kiren Rijiju's Dig On Vande Mataram Row",
             "scraped_at": "2026-08-16 15:49:32"
+          },
+          {
+            "incident_text": "Kiren Rijiju suggested Rahul Gandhi needs training for Arunachal's rivers, calling it child's play for him.",
+            "source_url": "https://www.thehindu.com/news/national/childs-play-for-me-rahul-may-need-training-khiladi-rijiju-on-swimming-in-arunachal-rivers/article71380826.ece",
+            "source_title": "Child's play for me, Rahul may need training: Rijiju on swimming in Arunachal rivers - The Hindu",
+            "scraped_at": "2026-08-23 11:50:16"
           }
         ],
         "criminal_cases_in_news": 0
@@ -2406,6 +2412,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/savarkar-defamation-case-high-court-plea-accuses-court-of-trying-to-determine-if-savarkar-brave-or-coward/article71365972.ece",
             "source_title": "Savarkar defamation case: Plea in High Court accuses Special Court of trying to determine if Savarkar was ‘brave or coward’ - The Hindu",
             "scraped_at": "2026-08-20 03:51:38"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed 80% of women face harassment.",
+            "source_url": "https://www.thehindu.com/news/national/support-womens-quota-implementation-full-vande-mataram-rendition-bjp-to-rahul-gandhi/article71380828.ece",
+            "source_title": "Support women's quota implementation, full Vande Mataram rendition: BJP to Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-08-23 11:49:03"
           }
         ]
       },
@@ -9744,6 +9756,12 @@
             "source_url": "https://www.thehindu.com/news/cities/Coimbatore/creating-reels-is-100-day-achievement-of-tvk-led-government-says-palaniswami/article71349618.ece",
             "source_title": "Creating reels is 100-day achievement of TVK-led government, says Palaniswami - The Hindu",
             "scraped_at": "2026-08-16 01:34:46"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed 80% of women face harassment.",
+            "source_url": "https://www.thehindu.com/news/national/support-womens-quota-implementation-full-vande-mataram-rendition-bjp-to-rahul-gandhi/article71380828.ece",
+            "source_title": "Support women's quota implementation, full Vande Mataram rendition: BJP to Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-08-23 11:49:03"
           }
         ]
       },
