@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 305,
+        "criminal_cases_in_news": 306,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9312,6 +9312,13 @@
             "source_url": "https://www.ndtv.com/delhi-news/on-camera-delhi-cops-attacked-with-chilli-powder-bricks-after-bike-seizure-11947263#publisher=newsstand",
             "source_title": "On Camera, Delhi Cops Attacked With Chilli Powder, Bricks After Bike Seizure",
             "scraped_at": "2026-08-23 08:36:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected - The Times of India Four members of a Hindu family in Bangladesh’s Rangpur city were found dead inside ",
+            "source_url": "https://timesofindia.indiatimes.com/world/south-asia/hindu-family-of-four-found-dead-in-locked-home-in-bangladeshs-rangpur-strangulation-suspected/articleshow/133436369.cms",
+            "source_title": "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected - The Times of India",
+            "scraped_at": "2026-08-23 08:35:37",
             "incident_type": "broad"
           }
         ],
