@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 304,
+        "criminal_cases_in_news": 305,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9305,6 +9305,13 @@
             "source_url": "https://www.ndtv.com/india-news/man-pours-sanitiser-on-teen-sets-her-on-fire-in-punjabs-mohali-after-her-father-slapped-him-11946960#publisher=newsstand",
             "source_title": "Man Pours Sanitiser On Teen, Sets Her On Fire In Punjab's Mohali After Her Father Slapped Him",
             "scraped_at": "2026-08-23 06:48:05",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "On Camera, Delhi Cops Attacked With Chilli Powder, Bricks After Bike Seizure On Saturday afternoon, **Delhi Police** personnel were attacked with bricks, sticks, and chilli powder during a confrontati",
+            "source_url": "https://www.ndtv.com/delhi-news/on-camera-delhi-cops-attacked-with-chilli-powder-bricks-after-bike-seizure-11947263#publisher=newsstand",
+            "source_title": "On Camera, Delhi Cops Attacked With Chilli Powder, Bricks After Bike Seizure",
+            "scraped_at": "2026-08-23 08:36:20",
             "incident_type": "broad"
           }
         ],
