@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 302,
+        "criminal_cases_in_news": 303,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9292,9 +9292,16 @@
             "source_title": "FIRs Against 14 Named, 200 Unnamed Persons Over Ranchi Students-Cops Clash",
             "scraped_at": "2026-08-22 19:27:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Kolkata fire news: Hotel Shikha Inn Owner Bireswar Mitra Arrested In Kolkata Blaze That Killed 9, Including 7 Bangladeshis On the night of August 18–19, a fire at **Hotel Shikha Inn** owned by **Bires",
+            "source_url": "https://www.ndtv.com/india-news/kolkata-fire-news-hotel-shikha-inn-owner-bireswar-mitra-arrested-in-kolkata-blaze-that-killed-9-including-7-bangladeshis-11946527#publisher=newsstand",
+            "source_title": "Kolkata fire news: Hotel Shikha Inn Owner Bireswar Mitra Arrested In Kolkata Blaze That Killed 9, Including 7 Bangladeshis",
+            "scraped_at": "2026-08-23 04:12:00",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-22",
+        "criminal_last_updated": "2026-08-23",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
