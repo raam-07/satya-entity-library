@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 17:29:34.564141",
+  "generated_at": "2026-08-23 17:53:03.805128",
   "summary": {
     "cm_updates_applied": 5,
     "central_updates_applied": 0,
@@ -18,21 +18,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.7,
-      "mentions": 7,
-      "reason": "Below auto-update threshold",
-      "context": "-25% of Sivasagar, Charaideo remain cut off - Seven people remain missing in Sivasagar and Charaideo as search operations continue - Around seven lakh people affected in the two districts, says Assam "
-    },
-    {
-      "type": "cm_detection",
       "state": "Kerala",
       "candidate": "V.D. Satheesan",
       "confidence": 0.5,
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ion of a new mental health policy aligned with the Mental Healthcare Act 2017. The delegation also sought improvements in infrastructure, services, and funding for training and anti-stigma campaigns. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.67,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "Meanwhile, incessant rain in Bhutan caused floods in central Assam districts, submerging villages and cutting off communication systems. Hundreds of bighas of paddy fields were also submerged. Assam C"
     },
     {
       "type": "ruling_party",
