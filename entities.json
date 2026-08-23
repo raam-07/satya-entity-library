@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7170,7 +7170,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 306,
+        "criminal_cases_in_news": 307,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9319,6 +9319,13 @@
             "source_url": "https://timesofindia.indiatimes.com/world/south-asia/hindu-family-of-four-found-dead-in-locked-home-in-bangladeshs-rangpur-strangulation-suspected/articleshow/133436369.cms",
             "source_title": "Hindu family of four found dead in locked home in Bangladesh’s Rangpur; strangulation suspected - The Times of India",
             "scraped_at": "2026-08-23 08:35:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three FIRs filed against 28 named, 900 unnamed people over police-students clash in Giridih, Hazaribag - The Hindu On August 21 and 22, **clashes** broke out between police and protesting job aspirant",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/three-firs-filed-against-28-named-900-unnamed-people-over-police-students-clash-in-giridih-hazaribag/article71380641.ece",
+            "source_title": "Three FIRs filed against 28 named, 900 unnamed people over police-students clash in Giridih, Hazaribag - The Hindu",
+            "scraped_at": "2026-08-23 10:28:42",
             "incident_type": "broad"
           }
         ],
