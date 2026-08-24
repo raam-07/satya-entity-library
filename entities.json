@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2424,6 +2424,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
             "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
             "scraped_at": "2026-08-24 11:58:22"
+          },
+          {
+            "incident_text": "Rahul Gandhi criticized the Manusmriti mindset during a student interaction.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-leaders-question-rahul-gandhis-remarks-on-the-manusmriti-and-womens-rights/article71385940.ece",
+            "source_title": "BJP leaders question Rahul Gandhi’s remarks on the Manusmriti and women’s rights - The Hindu",
+            "scraped_at": "2026-08-24 18:48:02"
           }
         ]
       },
