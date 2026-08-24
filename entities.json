@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2418,6 +2418,12 @@
             "source_url": "https://www.thehindu.com/news/national/support-womens-quota-implementation-full-vande-mataram-rendition-bjp-to-rahul-gandhi/article71380828.ece",
             "source_title": "Support women's quota implementation, full Vande Mataram rendition: BJP to Rahul Gandhi - The Hindu",
             "scraped_at": "2026-08-23 11:49:03"
+          },
+          {
+            "incident_text": "Rahul Gandhi considers it his birthright to denounce India's heritage.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
+            "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
+            "scraped_at": "2026-08-24 11:58:22"
           }
         ]
       },
@@ -5464,6 +5470,12 @@
             "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-donation-theft-has-hurt-rambhakts-but-using-it-to-defame-ayodhya-is-not-justified-yogi-10788561/",
             "source_title": "Ram Temple donation ‘theft’ has hurt Rambhakts, but using it to defame Ayodhya is not justified: Yogi | Lucknow News - The Indian Express",
             "scraped_at": "2026-07-15 23:34:36"
+          },
+          {
+            "incident_text": "Yogi Adityanath claimed denouncing India's heritage is a birthright.",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
+            "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
+            "scraped_at": "2026-08-24 11:58:22"
           }
         ],
         "criminal_cases_in_news": 2,
