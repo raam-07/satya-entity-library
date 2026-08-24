@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9801,6 +9801,12 @@
             "source_url": "https://www.thehindu.com/news/national/support-womens-quota-implementation-full-vande-mataram-rendition-bjp-to-rahul-gandhi/article71380828.ece",
             "source_title": "Support women's quota implementation, full Vande Mataram rendition: BJP to Rahul Gandhi - The Hindu",
             "scraped_at": "2026-08-23 11:49:03"
+          },
+          {
+            "incident_text": "Agnimitra Paul questioned permission for a homeless woman to heat milk on a Kolkata footpath.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-minister-rebukes-homeless-woman-for-heating-milk-on-kolkata-footpath-sparks-outrage/article71384589.ece",
+            "source_title": "West Bengal Minister rebukes homeless woman for heating milk on Kolkata footpath, sparks outrage - The Hindu",
+            "scraped_at": "2026-08-24 15:43:28"
           }
         ]
       },
