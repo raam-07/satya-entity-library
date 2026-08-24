@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5344,6 +5344,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/cm-expresses-displeasure-over-partys-handling-ongoing-sir/article71342104.ece",
             "source_title": "CM expresses displeasure over party’s handling ongoing SIR - The Hindu",
             "scraped_at": "2026-08-13 17:35:15"
+          },
+          {
+            "incident_text": "Revanth Reddy called US visit denial disrespectful to Telangana people.",
+            "source_url": "https://www.ndtv.com/india-news/against-federal-cooperatism-telangana-chief-minister-revanth-reddy-after-centres-no-to-us-visit-11951964#publisher=newsstand",
+            "source_title": "\"Against Federal Cooperatism\": Telangana Chief Minister Revanth Reddy After Centre's No To US Visit",
+            "scraped_at": "2026-08-24 12:56:58"
           }
         ],
         "criminal_cases_in_news": 8,
