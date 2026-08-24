@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7182,7 +7182,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 308,
+        "criminal_cases_in_news": 309,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9345,6 +9345,13 @@
             "source_url": "https://www.ndtv.com/world-news/rangpur-murders-hindu-family-killed-in-bangladesh-attackers-drug-users-stayed-back-for-food-bath-11949734#publisher=newsstand",
             "source_title": "Rangpur Murders: Men Kill Bangladesh Family Of 4, Then Eat Their Food, Bath, Consume Drugs",
             "scraped_at": "2026-08-24 05:43:05",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Zolani Tete: Four arrested over boxing champion's murder in South Africa - BBC News **Zolani Tete**, a 38-year-old South African boxing champion, was shot dead outside his home in Mdantsane, Eastern C",
+            "source_url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+            "source_title": "Zolani Tete: Four arrested over boxing champion's murder in South Africa - BBC News",
+            "scraped_at": "2026-08-24 09:25:32",
             "incident_type": "broad"
           }
         ],
