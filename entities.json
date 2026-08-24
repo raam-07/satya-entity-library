@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -10656,7 +10656,7 @@
         "ruling_party": "BJP",
         "cm": "Devendra Fadnavis",
         "region": "West",
-        "cm_confidence": 0.75,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-08-24"
       },
       {
