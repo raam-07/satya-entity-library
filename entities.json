@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 5,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7200,7 +7200,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 309,
+        "criminal_cases_in_news": 310,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9370,6 +9370,13 @@
             "source_url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
             "source_title": "Zolani Tete: Four arrested over boxing champion's murder in South Africa - BBC News",
             "scraped_at": "2026-08-24 09:25:32",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assam Rifles Suspect In Manipur Ambush That Killed Colonel, Wife And Son In 2021 Arrested Security sources reported the arrest of **Thiyam Boycha Singh**, accused No. 3 in a 2021 ambush that killed As",
+            "source_url": "https://www.ndtv.com/india-news/assam-rifles-suspect-in-manipur-ambush-that-killed-colonel-wife-and-son-in-2021-arrested-11952335#publisher=newsstand",
+            "source_title": "Assam Rifles Suspect In Manipur Ambush That Killed Colonel, Wife And Son In 2021 Arrested",
+            "scraped_at": "2026-08-24 13:55:31",
             "incident_type": "broad"
           }
         ],
