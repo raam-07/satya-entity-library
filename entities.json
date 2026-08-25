@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1088,6 +1088,12 @@
             "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
             "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
             "scraped_at": "2026-06-05 23:19:52.181643"
+          },
+          {
+            "incident_text": "Nitin Gadkari said he could no longer take on as much work as before.",
+            "source_url": "https://www.ndtv.com/india-news/taken-out-of-context-nitin-gadkaris-office-on-cant-work-as-before-remark-11955880#publisher=newsstand",
+            "source_title": "\"Taken Out Of Context\": Nitin Gadkari's Office On \"Can't Work As Before\" Remark",
+            "scraped_at": "2026-08-25 09:39:49"
           }
         ],
         "criminal_cases_in_news": 1,
