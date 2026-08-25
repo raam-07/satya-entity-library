@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 00:05:49.484996",
+  "generated_at": "2026-08-25 00:40:17.895339",
   "summary": {
     "cm_updates_applied": 5,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -24,6 +24,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ion of a new mental health policy aligned with the Mental Healthcare Act 2017. The delegation also sought improvements in infrastructure, services, and funding for training and anti-stigma campaigns. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.43,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
     },
     {
       "type": "cm_detection",
