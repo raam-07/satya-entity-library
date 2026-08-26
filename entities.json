@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1588,6 +1588,12 @@
             "source_url": "https://www.thehindu.com/news/national/childs-play-for-me-rahul-may-need-training-khiladi-rijiju-on-swimming-in-arunachal-rivers/article71380826.ece",
             "source_title": "Child's play for me, Rahul may need training: Rijiju on swimming in Arunachal rivers - The Hindu",
             "scraped_at": "2026-08-23 11:50:16"
+          },
+          {
+            "incident_text": "Kiren Rijiju alleged Pawan Khera received Rajya Sabha seat as a prize for false allegations.",
+            "source_url": "https://www.ndtv.com/india-news/in-swimming-video-spat-kiren-rijiju-takes-assam-dig-at-pawan-khera-drags-in-rahul-gandhi-11961335#publisher=newsstand",
+            "source_title": "In Swimming Video Spat, Kiren Rijiju Takes Assam Dig At Pawan Khera, Drags In Rahul Gandhi",
+            "scraped_at": "2026-08-26 14:01:38"
           }
         ],
         "criminal_cases_in_news": 0
