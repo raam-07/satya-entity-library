@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2442,6 +2442,18 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-leaders-question-rahul-gandhis-remarks-on-the-manusmriti-and-womens-rights/article71385940.ece",
             "source_title": "BJP leaders question Rahul Gandhi’s remarks on the Manusmriti and women’s rights - The Hindu",
             "scraped_at": "2026-08-24 18:48:02"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed only one out of 150 aspirants gets a government job.",
+            "source_url": "https://www.ndtv.com/india-news/jhooth-ki-goonj-website-seeks-to-fact-check-rahul-gandhis-student-outreach-claims-11963155#publisher=newsstand",
+            "source_title": "Jhooth Ki Goonj Website Seeks To \"Fact-Check\" Rahul Gandhi's Student Outreach Claims",
+            "scraped_at": "2026-08-26 18:19:54"
+          },
+          {
+            "incident_text": "Rahul Gandhi used a 'smash the patriarchy' slogan deemed hypocritical.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-accuses-rahul-gandhi-of-hypocrisy-over-womens-empowerment/article71393071.ece",
+            "source_title": "BJP accuses Rahul Gandhi of hypocrisy over women’s empowerment - The Hindu",
+            "scraped_at": "2026-08-26 18:23:30"
           }
         ]
       },
