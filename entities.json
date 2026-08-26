@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 4,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7212,7 +7212,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 310,
+        "criminal_cases_in_news": 311,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9390,9 +9390,16 @@
             "source_title": "Assam Rifles Suspect In Manipur Ambush That Killed Colonel, Wife And Son In 2021 Arrested",
             "scraped_at": "2026-08-24 13:55:31",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin - The Hindu On August 26, 2026, the **Narcotics Control Bureau (NCB)** Jammu announced the busting of a m",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/ncb-busts-cross-border-heroin-cartel-in-jammu-mastermind-among-3-arrested-with-516-kg-heroin/article71392015.ece",
+            "source_title": "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin - The Hindu",
+            "scraped_at": "2026-08-26 09:47:02",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-24",
+        "criminal_last_updated": "2026-08-26",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
