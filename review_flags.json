@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 13:24:41.406038",
+  "generated_at": "2026-08-27 23:12:28.334545",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -51,14 +51,6 @@
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Meanwhile, incessant rain in Bhutan caused floods in central Assam districts, submerging villages and cutting off communication systems. Hundreds of bighas of paddy fields were also submerged. Assam C"
-    },
-    {
-      "type": "ruling_party",
-      "state": "Telangana",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "Amid SIR, another Cong govt eases paper trail: Telangana rolls out Family Register Certificate | Political Pulse News - The Indian Express On July 25, the **Revanth Reddy**-led Congress government in "
     },
     {
       "type": "entity_enrichment",
