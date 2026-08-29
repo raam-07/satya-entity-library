@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9851,6 +9851,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-minister-rebukes-homeless-woman-for-heating-milk-on-kolkata-footpath-sparks-outrage/article71384589.ece",
             "source_title": "West Bengal Minister rebukes homeless woman for heating milk on Kolkata footpath, sparks outrage - The Hindu",
             "scraped_at": "2026-08-24 15:43:28"
+          },
+          {
+            "incident_text": "Mohan Bhagwat addressed 'What about us, Muslims?' at a dialogue.",
+            "source_url": "https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-was-asked-what-about-us-muslims-his-reply-11976081#publisher=newsstand",
+            "source_title": "RSS Chief Mohan Bhagwat Was Asked \"What About Us, Muslims?\" His Reply",
+            "scraped_at": "2026-08-29 20:43:01"
           }
         ]
       },
