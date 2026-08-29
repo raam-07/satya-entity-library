@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 4,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7230,7 +7230,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 311,
+        "criminal_cases_in_news": 312,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9415,9 +9415,16 @@
             "source_title": "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin - The Hindu",
             "scraped_at": "2026-08-26 09:47:02",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two killed, SI injured in Suryapet over dispute involving tree - The Hindu On Saturday morning, two persons were killed in Erragadda thanda, Mellacheruvu mandal of Suryapet district following a disput",
+            "source_url": "https://www.thehindu.com/news/national/telangana/two-killed-si-injured-in-suryapet-over-dispute-involving-tree/article71404219.ece",
+            "source_title": "Two killed, SI injured in Suryapet over dispute involving tree - The Hindu",
+            "scraped_at": "2026-08-29 14:16:10",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-26",
+        "criminal_last_updated": "2026-08-29",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
