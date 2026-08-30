@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 2,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9857,6 +9857,12 @@
             "source_url": "https://www.ndtv.com/india-news/rss-chief-mohan-bhagwat-was-asked-what-about-us-muslims-his-reply-11976081#publisher=newsstand",
             "source_title": "RSS Chief Mohan Bhagwat Was Asked \"What About Us, Muslims?\" His Reply",
             "scraped_at": "2026-08-29 20:43:01"
+          },
+          {
+            "incident_text": "On Saturday, Mohan Bhagwat asserted Hindus believing in no place for Muslims cease to be Hindu.",
+            "source_url": "https://www.thehindu.com/news/national/if-hindus-think-muslims-have-no-place-they-cease-to-be-hindu-mohan-bhagwat-in-new-york/article71405968.ece",
+            "source_title": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York - The Hindu",
+            "scraped_at": "2026-08-29 23:06:51"
           }
         ]
       },
@@ -10647,7 +10653,7 @@
         "cm": "Sukhvinder Singh Sukhu",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-08-29"
+        "cm_last_updated": "2026-08-30"
       },
       {
         "name": "Jharkhand",
@@ -10669,7 +10675,7 @@
         "cm_confidence": 0.75,
         "cm_last_updated": "2026-06-16",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-29"
+        "party_last_updated": "2026-08-30"
       },
       {
         "name": "Kerala",
@@ -10701,7 +10707,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-29"
+        "cm_last_updated": "2026-08-30"
       },
       {
         "name": "Manipur",
@@ -10811,9 +10817,9 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-29",
+        "cm_last_updated": "2026-08-30",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-08-29"
+        "party_last_updated": "2026-08-30"
       },
       {
         "name": "Uttarakhand",
@@ -10835,7 +10841,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-08-29"
+        "cm_last_updated": "2026-08-30"
       },
       {
         "name": "Delhi",
