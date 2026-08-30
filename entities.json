@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 4,
       "party_updates": 2,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7230,7 +7230,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 312,
+        "criminal_cases_in_news": 314,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9422,9 +9422,23 @@
             "source_title": "Two killed, SI injured in Suryapet over dispute involving tree - The Hindu",
             "scraped_at": "2026-08-29 14:16:10",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland On Sunday, **local police** reported one death and five injuries in a shooting at the Aarauer Rave techno party in Aarau, north",
+            "source_url": "https://www.ndtv.com/world-news/switzerland-party-shooting-several-victims-in-shooting-at-rave-party-in-switzerland-3-500-people-attended-event-11977207#publisher=newsstand",
+            "source_title": "1 Dead, 5 Injured In Shooting Near Rave Attended By 3,500 In Switzerland",
+            "scraped_at": "2026-08-30 08:05:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Fed Up With Fights, Man Kills 38-Year-Old Schizophrenic Son In Delhi On August 23, **Talukdar Ansari** (64) and his associate **Md Wasim alias Akram** (49) allegedly murdered **Gul Hasan**, a 38-year-",
+            "source_url": "https://www.ndtv.com/delhi-news/fed-up-with-fights-man-kills-38-year-old-schizophrenic-son-in-delhi-11977086#publisher=newsstand",
+            "source_title": "Fed Up With Fights, Man Kills 38-Year-Old Schizophrenic Son In Delhi",
+            "scraped_at": "2026-08-30 08:06:29",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-29",
+        "criminal_last_updated": "2026-08-30",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
