@@ -9,7 +9,7 @@
       "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4789,6 +4789,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/nothing-wrong-says-fadnavis-on-ncpsp-mps-meeting-pm-modi/article71329177.ece",
             "source_title": "‘Nothing wrong’, says Fadnavis on NCP(SP) MPs meeting PM Modi - The Hindu",
             "scraped_at": "2026-08-11 03:53:40"
+          },
+          {
+            "incident_text": "Devendra Fadnavis questioned why Priyanka Gandhi was not given more prominent roles.",
+            "source_url": "https://www.ndtv.com/india-news/why-priyanka-gandhi-not-given-chance-d-fadnavis-targets-rahul-gandhi-on-womens-bill-11984032#publisher=newsstand",
+            "source_title": "Why Priyanka Gandhi \"Not Given Chance\": D Fadnavis Targets Rahul Gandhi On Women's Bill",
+            "scraped_at": "2026-08-31 21:37:45"
           }
         ],
         "criminal_cases_in_news": 3,
