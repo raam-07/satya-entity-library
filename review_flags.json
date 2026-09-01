@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 21:06:37.253631",
+  "generated_at": "2026-09-01 21:28:21.971554",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
@@ -47,8 +47,8 @@
       "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "D.K. Shivakumar",
-      "confidence": 0.5,
-      "mentions": 3,
+      "confidence": 0.57,
+      "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
     },
