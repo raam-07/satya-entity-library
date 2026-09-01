@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 14:17:08.877331",
+  "generated_at": "2026-09-01 14:42:21.923480",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
@@ -16,15 +16,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.43,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
-    },
     {
       "type": "cm_detection",
       "state": "Jharkhand",
@@ -51,6 +42,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "m in Kerala to ensure fishermen's safety. This follows incidents where Gautam’s father and grandfather also lost their lives in similar accidents. Kerala to implement comprehensive sea rescue system: "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
     },
     {
       "type": "ruling_party",
