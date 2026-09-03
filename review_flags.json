@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 08:31:40.734216",
+  "generated_at": "2026-09-03 13:21:05.869559",
   "summary": {
     "cm_updates_applied": 4,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -51,14 +51,6 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Karnataka",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "er Chief Minister Siddaramaiah's decision to 'boycott' the swearing-in ceremony because of a perceived 'insult' over the appointment of a woman candidate not chosen by him, clearly indicates that the "
     },
     {
       "type": "entity_enrichment",
