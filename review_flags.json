@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03 21:15:32.156093",
+  "generated_at": "2026-09-03 21:45:37.014253",
   "summary": {
-    "cm_updates_applied": 4,
+    "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -42,6 +42,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "m in Kerala to ensure fishermen's safety. This follows incidents where Gautam’s father and grandfather also lost their lives in similar accidents. Kerala to implement comprehensive sea rescue system: "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "ke while they were sleeping on the hostel floor. Three of them died, the youngest of them aged eight, while three others are undergoing treatment, officials had said. Facing flak from the Opposition, "
     },
     {
       "type": "cm_detection",
