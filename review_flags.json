@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 06:55:41.604036",
+  "generated_at": "2026-09-04 10:14:56.106923",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -18,21 +18,21 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Jharkhand",
-      "candidate": "Hemant Soren",
-      "confidence": 0.73,
-      "mentions": 8,
-      "reason": "Below auto-update threshold",
-      "context": "manding the cancellation of the JPSC Preliminary Test and review of TDPL-conducted exams. Five more protesters joined him, raising concerns over public confidence in the recruitment system. Jharkhand "
-    },
-    {
-      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
       "confidence": 0.67,
       "mentions": 6,
       "reason": "Below auto-update threshold",
       "context": "Meanwhile, incessant rain in Bhutan caused floods in central Assam districts, submerging villages and cutting off communication systems. Hundreds of bighas of paddy fields were also submerged. Assam C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.7,
+      "mentions": 7,
+      "reason": "Below auto-update threshold",
+      "context": "lic Service Commission (JPSC) and Jharkhand Staff Selection Commission (JSSC). - The Jharkhand government will hold a sixth round of talks with protesting students at 12 pm Sunday - The panel updated "
     },
     {
       "type": "cm_detection",
