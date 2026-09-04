@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 18:59:59.456170",
+  "generated_at": "2026-09-04 20:53:46.771688",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -18,15 +18,6 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.67,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "Meanwhile, incessant rain in Bhutan caused floods in central Assam districts, submerging villages and cutting off communication systems. Hundreds of bighas of paddy fields were also submerged. Assam C"
-    },
-    {
-      "type": "cm_detection",
       "state": "Jharkhand",
       "candidate": "Hemant Soren",
       "confidence": 0.7,
@@ -42,6 +33,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "m in Kerala to ensure fishermen's safety. This follows incidents where Gautam’s father and grandfather also lost their lives in similar accidents. Kerala to implement comprehensive sea rescue system: "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.62,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "y identified as BJP supporters facing difficulties due to their political stance A video appeal by a group of villagers in Kerala has sparked a pleasant political exchange on social media, with Assam "
     },
     {
       "type": "cm_detection",
