@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -705,6 +705,12 @@
             "source_url": "https://www.ndtv.com/india-news/in-cabinet-meet-review-of-ministers-social-media-performance-inside-track-11931645#publisher=newsstand",
             "source_title": "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
             "scraped_at": "2026-08-19 13:48:57"
+          },
+          {
+            "incident_text": "Narendra Modi described critics as 'Naraaz Fufa'.",
+            "source_url": "https://www.ndtv.com/india-news/pm-modis-naraaz-fufa-attack-on-opposition-at-top-delhi-college-12006963#publisher=newsstand",
+            "source_title": "PM Modi's \"Naraaz Fufa\" Attack On Opposition At Top Delhi College",
+            "scraped_at": "2026-09-05 17:30:48"
           }
         ]
       },
@@ -7242,7 +7248,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 316,
+        "criminal_cases_in_news": 318,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9462,6 +9468,20 @@
             "source_title": "In Major Crackdown, 330 Detained In Assam For Fraud, Extortion, Impersonation",
             "scraped_at": "2026-09-05 15:04:27",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Authorities probing ‘counterfeit’ rabies vaccine, says drug regulator - The Hindu The **Central Drugs Laboratory (CDL)** in Kasauli flagged a batch of Abhayrab vaccine as \"not of standard quality\" and",
+            "source_url": "https://www.thehindu.com/news/national/authorities-probing-counterfeit-rabies-vaccine-says-drug-regulator/article71432181.ece",
+            "source_title": "Authorities probing ‘counterfeit’ rabies vaccine, says drug regulator - The Hindu",
+            "scraped_at": "2026-09-05 17:30:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Missing minor girl found in Haryana, accused arrested after three-month-long probe - The Hindu On June 9, 2026, a 15-year-old girl from Guntur went missing with **Shaik John Saida alias Rabbani**. Aft",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/missing-minor-girl-found-in-haryana-accused-arrested-after-three-month-long-probe/article71432043.ece",
+            "source_title": "Missing minor girl found in Haryana, accused arrested after three-month-long probe - The Hindu",
+            "scraped_at": "2026-09-05 17:31:02",
+            "incident_type": "serious"
           }
         ],
         "criminal_last_updated": "2026-09-05",
