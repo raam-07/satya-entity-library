@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-05 19:18:31.950646",
+  "generated_at": "2026-09-05 20:27:24.373458",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 1,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 1,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -24,15 +24,6 @@
       "mentions": 7,
       "reason": "Below auto-update threshold",
       "context": "lic Service Commission (JPSC) and Jharkhand Staff Selection Commission (JSSC). - The Jharkhand government will hold a sixth round of talks with protesting students at 12 pm Sunday - The panel updated "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "V.D. Satheesan",
-      "confidence": 0.43,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "m in Kerala to ensure fishermen's safety. This follows incidents where Gautam’s father and grandfather also lost their lives in similar accidents. Kerala to implement comprehensive sea rescue system: "
     },
     {
       "type": "cm_detection",
@@ -65,8 +56,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 46,
-      "share": 0.32,
+      "mentions": 49,
+      "share": 0.33,
       "reason": "Party evidence below auto threshold"
     }
   ]
