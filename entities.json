@@ -7242,7 +7242,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 315,
+        "criminal_cases_in_news": 316,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9454,6 +9454,13 @@
             "source_url": "https://www.ndtv.com/india-news/in-pune-fort-murder-a-third-arrest-after-fianc-e-and-her-boyfriend-man-who-helped-siya-chetan-in-ketan-murder-plot-12006484#publisher=newsstand",
             "source_title": "In Pune Fort Murder, A Third Arrest After Fiancée And Her Boyfriend: Man Who 'Helped Siya-Chetan In Ketan Murder Plot'",
             "scraped_at": "2026-09-05 15:02:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "In Major Crackdown, 330 Detained In Assam For Fraud, Extortion, Impersonation Around 330 alleged fraudsters, impersonators, extortionists, and middlemen were detained by **Assam Police** in a crackdow",
+            "source_url": "https://www.ndtv.com/india-news/in-major-crackdown-330-detained-in-assam-for-fraud-extortion-impersonation-12006421#publisher=newsstand",
+            "source_title": "In Major Crackdown, 330 Detained In Assam For Fraud, Extortion, Impersonation",
+            "scraped_at": "2026-09-05 15:04:27",
             "incident_type": "broad"
           }
         ],
