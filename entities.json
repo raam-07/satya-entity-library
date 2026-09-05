@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7242,7 +7242,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 314,
+        "criminal_cases_in_news": 315,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9448,9 +9448,16 @@
             "source_title": "Fed Up With Fights, Man Kills 38-Year-Old Schizophrenic Son In Delhi",
             "scraped_at": "2026-08-30 08:06:29",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "In Pune Fort Murder, A Third Arrest After Fiancée And Her Boyfriend: Man Who 'Helped Siya-Chetan In Ketan Murder Plot' On June 18, **Ketan Agarwal** was murdered at Lohagad Fort by **Siya Goyal** and ",
+            "source_url": "https://www.ndtv.com/india-news/in-pune-fort-murder-a-third-arrest-after-fianc-e-and-her-boyfriend-man-who-helped-siya-chetan-in-ketan-murder-plot-12006484#publisher=newsstand",
+            "source_title": "In Pune Fort Murder, A Third Arrest After Fiancée And Her Boyfriend: Man Who 'Helped Siya-Chetan In Ketan Murder Plot'",
+            "scraped_at": "2026-09-05 15:02:56",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-30",
+        "criminal_last_updated": "2026-09-05",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
