@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-09-05",
+    "last_updated": "2026-09-06",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -10713,7 +10713,7 @@
         "cm": "Sukhvinder Singh Sukhu",
         "region": "North",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-09-05"
+        "cm_last_updated": "2026-09-06"
       },
       {
         "name": "Jharkhand",
@@ -10877,9 +10877,9 @@
         "cm": "Yogi Adityanath",
         "region": "North",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-09-05",
+        "cm_last_updated": "2026-09-06",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-09-05"
+        "party_last_updated": "2026-09-06"
       },
       {
         "name": "Uttarakhand",
@@ -10901,7 +10901,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-09-05"
+        "cm_last_updated": "2026-09-06"
       },
       {
         "name": "Delhi",
