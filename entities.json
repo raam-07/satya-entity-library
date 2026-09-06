@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 3,
       "party_updates": 1,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7248,7 +7248,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 318,
+        "criminal_cases_in_news": 319,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9482,9 +9482,16 @@
             "source_title": "Missing minor girl found in Haryana, accused arrested after three-month-long probe - The Hindu",
             "scraped_at": "2026-09-05 17:31:02",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Married couple, young son found dead with gunshot wounds after Los Angeles house fire - The Times of India On September 5 around 2:30 am, a fire broke out at a home in Maywood, Los Angeles County, lea",
+            "source_url": "https://timesofindia.indiatimes.com/world/us/married-couple-young-son-found-dead-with-gunshot-wounds-after-los-angeles-house-fire/articleshow/133846532.cms",
+            "source_title": "Married couple, young son found dead with gunshot wounds after Los Angeles house fire - The Times of India",
+            "scraped_at": "2026-09-06 18:09:45",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-05",
+        "criminal_last_updated": "2026-09-06",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
