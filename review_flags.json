@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 14:26:02.627049",
+  "generated_at": "2026-09-07 19:04:43.236891",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -20,10 +20,10 @@
       "type": "cm_detection",
       "state": "Jharkhand",
       "candidate": "Hemant Soren",
-      "confidence": 0.7,
-      "mentions": 7,
+      "confidence": 0.67,
+      "mentions": 6,
       "reason": "Below auto-update threshold",
-      "context": "lic Service Commission (JPSC) and Jharkhand Staff Selection Commission (JSSC). - The Jharkhand government will hold a sixth round of talks with protesting students at 12 pm Sunday - The panel updated "
+      "context": "ds yielded no solution to the stalemate after two weeks of intense protests, but a Jharkhand minister said that the students' concerns were valid. State minister Dipika Pandey Singh said earlier that "
     },
     {
       "type": "cm_detection",
@@ -56,7 +56,7 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "INC",
-      "mentions": 49,
+      "mentions": 48,
       "share": 0.32,
       "reason": "Party evidence below auto threshold"
     }
