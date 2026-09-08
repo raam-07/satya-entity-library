@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -711,6 +711,12 @@
             "source_url": "https://www.ndtv.com/india-news/pm-modis-naraaz-fufa-attack-on-opposition-at-top-delhi-college-12006963#publisher=newsstand",
             "source_title": "PM Modi's \"Naraaz Fufa\" Attack On Opposition At Top Delhi College",
             "scraped_at": "2026-09-05 17:30:48"
+          },
+          {
+            "incident_text": "Narendra Modi alluded to Rahul Gandhi as spreading lies.",
+            "source_url": "https://www.ndtv.com/india-news/truth-will-defeat-jhooth-ki-goonj-pm-modi-targets-rahul-gandhi-in-gujarat-12016848#publisher=newsstand",
+            "source_title": "\"Truth Will Defeat <i>Jhooth Ki Goonj</i>\": PM Modi Targets Rahul Gandhi In Gujarat",
+            "scraped_at": "2026-09-08 08:45:12"
           }
         ]
       },
