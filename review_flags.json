@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 10:47:29.731748",
+  "generated_at": "2026-09-08 11:03:04.573872",
   "summary": {
     "cm_updates_applied": 3,
     "central_updates_applied": 0,
@@ -7,7 +7,7 @@
     "entities_enriched": 0,
     "party_updates_applied": 0,
     "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 1,
+    "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -16,15 +16,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Jharkhand",
-      "candidate": "Hemant Soren",
-      "confidence": 0.67,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": "ds yielded no solution to the stalemate after two weeks of intense protests, but a Jharkhand minister said that the students' concerns were valid. State minister Dipika Pandey Singh said earlier that "
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -51,6 +42,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.62,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "t” mineral-rich States such as Odisha, leading to “massive revenue losses” and stifling the State’s developmental agenda. A day earlier, hours after the Bill was cleared by the Rajya Sabha, Jharkhand "
     },
     {
       "type": "entity_enrichment",
