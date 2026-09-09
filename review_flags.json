@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09 07:00:53.827231",
+  "generated_at": "2026-09-09 08:08:14.386097",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -51,6 +51,14 @@
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "t” mineral-rich States such as Odisha, leading to “massive revenue losses” and stifling the State’s developmental agenda. A day earlier, hours after the Bill was cleared by the Rajya Sabha, Jharkhand "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "wheeler to skid and hit the auto-rickshaw. Gunawat said police recovered the auto-rickshaw involved in the accident from the spot. Police said the bodies have been sent for a post-mortem examination. "
     },
     {
       "type": "entity_enrichment",
