@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2466,6 +2466,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-accuses-rahul-gandhi-of-hypocrisy-over-womens-empowerment/article71393071.ece",
             "source_title": "BJP accuses Rahul Gandhi of hypocrisy over women’s empowerment - The Hindu",
             "scraped_at": "2026-08-26 18:23:30"
+          },
+          {
+            "incident_text": "Rahul Gandhi challenged a high court order summoning him for alleged derogatory remarks.",
+            "source_url": "https://www.ndtv.com/india-news/all-treated-equally-supreme-court-over-plea-on-case-against-rahul-gandhi-12023266#publisher=newsstand",
+            "source_title": "\"All Treated Equally\": Supreme Court Over Plea On Case Against Rahul Gandhi",
+            "scraped_at": "2026-09-09 19:27:11"
           }
         ]
       },
