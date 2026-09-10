@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10 15:14:35.545747",
+  "generated_at": "2026-09-10 15:39:47.234975",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 0,
-    "criminal_updates_applied": 2,
+    "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
@@ -16,15 +16,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.62,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "y identified as BJP supporters facing difficulties due to their political stance A video appeal by a group of villagers in Kerala has sparked a pleasant political exchange on social media, with Assam "
-    },
     {
       "type": "cm_detection",
       "state": "Maharashtra",
@@ -42,6 +33,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "n, he said The Assam government plans to approach the Centre for reducing the eco-sensitive zone (ESZ) around Kaziranga National Park and Tiger Reserve (KNPTR) from the existing 10-km extent to 1 km. "
     },
     {
       "type": "cm_detection",
