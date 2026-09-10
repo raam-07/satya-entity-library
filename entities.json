@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3280,6 +3280,13 @@
             "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
             "scraped_at": "2025-12-04 03:09:23",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam On Thursday, a Delhi court ordered **Special Judge Vishal Gogne** to frame money laundering charges a",
+            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
+            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
+            "scraped_at": "2026-09-10 13:27:56",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3302,8 +3309,8 @@
             "scraped_at": "2026-06-20 23:14:35"
           }
         ],
-        "criminal_cases_in_news": 6,
-        "criminal_last_updated": "2026-07-11"
+        "criminal_cases_in_news": 7,
+        "criminal_last_updated": "2026-09-10"
       },
       {
         "name": "Tejashwi Yadav",
@@ -3354,11 +3361,18 @@
             "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
             "scraped_at": "2025-12-04 03:09:23",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam On Thursday, a Delhi court ordered **Special Judge Vishal Gogne** to frame money laundering charges a",
+            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
+            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
+            "scraped_at": "2026-09-10 13:27:56",
+            "incident_type": "broad"
           }
         ],
         "controversies": [],
-        "criminal_cases_in_news": 5,
-        "criminal_last_updated": "2026-07-11"
+        "criminal_cases_in_news": 6,
+        "criminal_last_updated": "2026-09-10"
       },
       {
         "name": "Thol. Thirumavalavan",
