@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 19:28:25.443683",
+  "generated_at": "2026-09-11 22:17:27.112914",
   "summary": {
     "cm_updates_applied": 2,
     "central_updates_applied": 0,
@@ -18,15 +18,6 @@
   "items_needing_manual_review": [
     {
       "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.57,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "ers to strategise on countering opposition - The Hindu Before the Monsoon Session of Karnataka’s legislature, **Congress Ministers** met to strategize against anticipated attacks from the Opposition. "
-    },
-    {
-      "type": "cm_detection",
       "state": "Assam",
       "candidate": "Himanta Biswa Sarma",
       "confidence": 0.57,
@@ -42,6 +33,15 @@
       "mentions": 5,
       "reason": "Below auto-update threshold",
       "context": "t” mineral-rich States such as Odisha, leading to “massive revenue losses” and stifling the State’s developmental agenda. A day earlier, hours after the Bill was cleared by the Rajya Sabha, Jharkhand "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
     },
     {
       "type": "cm_detection",
