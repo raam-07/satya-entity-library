@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 2,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -7061,7 +7061,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 11,
+        "criminal_cases_in_news": 12,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7139,9 +7139,16 @@
             "source_title": "Kerala High Court grants bail to four more accused of attacking ED officials - The Hindu",
             "scraped_at": "2026-08-04 12:32:30",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu On September 12, 2026, **Pinarayi Vijayan**, Leader of the Oppositi",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-pinarayi-vijayan-says-eds-charges-shows-a-shared-political-agenda-between-bjp-and-congress/article71459659.ece",
+            "source_title": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu",
+            "scraped_at": "2026-09-12 11:11:21",
+            "incident_type": "serious"
           }
         ],
-        "criminal_last_updated": "2026-08-04",
+        "criminal_last_updated": "2026-09-12",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
@@ -7244,6 +7251,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/pinarayi-vijayan-rejects-hawala-allegations-claims-family-being-targeted/article71377341.ece",
             "source_title": "Keralam Opposition leader Pinarayi Vijayan rejects hawala allegations, claims family being targeted - The Hindu",
             "scraped_at": "2026-08-22 11:48:56"
+          },
+          {
+            "incident_text": "Pinarayi Vijayan claims ED’s charges show a shared political agenda between BJP and Congress.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-pinarayi-vijayan-says-eds-charges-shows-a-shared-political-agenda-between-bjp-and-congress/article71459659.ece",
+            "source_title": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu",
+            "scraped_at": "2026-09-12 11:11:21"
           }
         ]
       },
@@ -9956,6 +9969,12 @@
             "source_url": "https://www.thehindu.com/news/national/if-hindus-think-muslims-have-no-place-they-cease-to-be-hindu-mohan-bhagwat-in-new-york/article71405968.ece",
             "source_title": "If Hindus think Muslims have no place, they cease to be Hindu: Mohan Bhagwat in New York - The Hindu",
             "scraped_at": "2026-08-29 23:06:51"
+          },
+          {
+            "incident_text": "On Saturday, Pinarayi Vijayan accused BJP and UDF of a shared political agenda.",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-pinarayi-vijayan-says-eds-charges-shows-a-shared-political-agenda-between-bjp-and-congress/article71459659.ece",
+            "source_title": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu",
+            "scraped_at": "2026-09-12 11:11:21"
           }
         ]
       },
