@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9987,6 +9987,12 @@
             "source_url": "https://www.ndtv.com/india-news/nephews-out-niece-in-latest-episode-of-mayawatis-succession-comes-with-gen-z-promise-12037650#publisher=newsstand",
             "source_title": "Nephews Out, Niece In: Latest Episode Of Mayawati's Succession Comes With Gen-Z Promise",
             "scraped_at": "2026-09-12 14:22:19"
+          },
+          {
+            "incident_text": "Sathish Jarkiholi claimed the complainant had ties with Congress but was a BJP voter.",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/complainant-in-ed-case-has-relations-with-congress-but-is-a-bjp-voter-jarkiholi/article71460379.ece",
+            "source_title": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi - The Hindu",
+            "scraped_at": "2026-09-12 19:36:58"
           }
         ]
       },
