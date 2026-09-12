@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3098,6 +3098,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/lapses-at-prez-event-mayawati-urges-respect-for-presidents-office/article70718239.ece",
             "source_title": "'Lapses' at Prez event: Mayawati urges respect for President's office - The Hindu",
             "scraped_at": "2026-03-08 00:18:49"
+          },
+          {
+            "incident_text": "Mayawati barred nephews from party positions, citing lack of maturity.",
+            "source_url": "https://www.ndtv.com/india-news/nephews-out-niece-in-latest-episode-of-mayawatis-succession-comes-with-gen-z-promise-12037650#publisher=newsstand",
+            "source_title": "Nephews Out, Niece In: Latest Episode Of Mayawati's Succession Comes With Gen-Z Promise",
+            "scraped_at": "2026-09-12 14:22:19"
           }
         ],
         "criminal_cases_in_news": 0
@@ -9975,6 +9981,12 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-pinarayi-vijayan-says-eds-charges-shows-a-shared-political-agenda-between-bjp-and-congress/article71459659.ece",
             "source_title": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu",
             "scraped_at": "2026-09-12 11:11:21"
+          },
+          {
+            "incident_text": "On Saturday, Mayawati barred nephews from party positions, citing lack of maturity.",
+            "source_url": "https://www.ndtv.com/india-news/nephews-out-niece-in-latest-episode-of-mayawatis-succession-comes-with-gen-z-promise-12037650#publisher=newsstand",
+            "source_title": "Nephews Out, Niece In: Latest Episode Of Mayawati's Succession Comes With Gen-Z Promise",
+            "scraped_at": "2026-09-12 14:22:19"
           }
         ]
       },
