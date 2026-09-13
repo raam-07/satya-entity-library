@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2472,6 +2472,12 @@
             "source_url": "https://www.ndtv.com/india-news/all-treated-equally-supreme-court-over-plea-on-case-against-rahul-gandhi-12023266#publisher=newsstand",
             "source_title": "\"All Treated Equally\": Supreme Court Over Plea On Case Against Rahul Gandhi",
             "scraped_at": "2026-09-09 19:27:11"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed 80% of Indians are non-vegetarian.",
+            "source_url": "https://www.ndtv.com/india-news/imposing-vegetarianism-on-world-row-over-food-served-at-brics-summit-12041294#publisher=newsstand",
+            "source_title": "\"Imposing Vegetarianism On World\": Row Over Food Served At BRICS Summit",
+            "scraped_at": "2026-09-13 14:53:50"
           }
         ]
       },
