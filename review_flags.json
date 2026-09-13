@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 19:26:36.949985",
+  "generated_at": "2026-09-13 21:47:15.767048",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -20,10 +20,10 @@
       "type": "cm_detection",
       "state": "Jharkhand",
       "candidate": "Hemant Soren",
-      "confidence": 0.62,
-      "mentions": 5,
+      "confidence": 0.57,
+      "mentions": 4,
       "reason": "Below auto-update threshold",
-      "context": "t” mineral-rich States such as Odisha, leading to “massive revenue losses” and stifling the State’s developmental agenda. A day earlier, hours after the Bill was cleared by the Rajya Sabha, Jharkhand "
+      "context": "probe into alleged examination irregularities had not been met Jharkhand Ministers Deepika Pandey Singh and Irfan Ansari serve juice to hunger-striking student leader Devendra Nath Mahto after state C"
     },
     {
       "type": "cm_detection",
