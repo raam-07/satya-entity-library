@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -9993,6 +9993,12 @@
             "source_url": "https://www.thehindu.com/news/national/karnataka/complainant-in-ed-case-has-relations-with-congress-but-is-a-bjp-voter-jarkiholi/article71460379.ece",
             "source_title": "Complainant in ED case has relations with Congress, but is a BJP voter: Jarkiholi - The Hindu",
             "scraped_at": "2026-09-12 19:36:58"
+          },
+          {
+            "incident_text": "On Saturday, Suvendu Adhikari claimed people have constitutional freedom to choose food habits and religious practices.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-freedom-of-food-choice-religious-practices/article71462580.ece",
+            "source_title": "Suvendu Adhikari backs freedom of food choice, religious practices - The Hindu",
+            "scraped_at": "2026-09-13 05:15:57"
           }
         ]
       },
