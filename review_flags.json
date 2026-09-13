@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13 19:09:40.431531",
+  "generated_at": "2026-09-13 19:26:36.949985",
   "summary": {
-    "cm_updates_applied": 2,
+    "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 4
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -27,9 +27,36 @@
     },
     {
       "type": "cm_detection",
+      "state": "Assam",
+      "candidate": "Himanta Biswa Sarma",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "hild marriage and polygamy, and measures to strengthen land rights of indigenous communities. Sarma emphasized an \"Assam model\" of governance that integrates local traditions with modern development. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "V.D. Satheesan",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "condemned the **Kerala government**, led by **Congress**, for excluding the national song, Vande Mataram, from its official Independence Day celebrations on Saturday. BJP leader Shone George accused C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Himachal Pradesh",
+      "candidate": "Sukhvinder Singh Sukhu",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "overnment plans to decrease the number of Indian Administrative Service (IAS) officers from 153 to 130 and IFS officers from 118 to 83. The exact reduction in IPS officers has not been specified yet. "
+    },
+    {
+      "type": "cm_detection",
       "state": "Karnataka",
       "candidate": "D.K. Shivakumar",
-      "confidence": 0.5,
+      "confidence": 0.43,
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
@@ -38,7 +65,7 @@
       "type": "cm_detection",
       "state": "Uttar Pradesh",
       "candidate": "Yogi Adityanath",
-      "confidence": 1.0,
+      "confidence": 0.75,
       "reason": "Gemma rejected",
       "context": "wheeler to skid and hit the auto-rickshaw. Gunawat said police recovered the auto-rickshaw involved in the accident from the spot. Police said the bodies have been sent for a post-mortem examination. "
     },
