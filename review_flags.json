@@ -1,30 +1,21 @@
 {
-  "generated_at": "2026-09-14 08:02:39.106407",
+  "generated_at": "2026-09-14 14:52:24.688380",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 0,
-    "criminal_updates_applied": 0,
+    "criminal_updates_applied": 1,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 7
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Assam",
-      "candidate": "Himanta Biswa Sarma",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "hild marriage and polygamy, and measures to strengthen land rights of indigenous communities. Sarma emphasized an \"Assam model\" of governance that integrates local traditions with modern development. "
-    },
     {
       "type": "cm_detection",
       "state": "Kerala",
@@ -73,8 +64,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "BJP",
-      "mentions": 48,
-      "share": 0.36,
+      "mentions": 43,
+      "share": 0.35,
       "reason": "Party evidence below auto threshold"
     }
   ]

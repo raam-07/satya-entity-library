@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -4970,7 +4970,7 @@
         "state": "Punjab",
         "aliases": [],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
         "image_placeholder": "bhagwant_mann",
@@ -5075,9 +5075,16 @@
             "source_title": "Supreme Court not inclined to revive 2020 rioting case against Mann, other AAP leaders | Legal News - The Indian Express",
             "scraped_at": "2026-07-16 15:47:56",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Fazilka Police Station Blast: Grenade Attack Behind Punjab Police Station Blast On Sunday around 2 am, a grenade attack damaged two vehicles at the Jalalabad police station in Punjab's Fazilka distric",
+            "source_url": "https://www.ndtv.com/india-news/fazilka-police-station-blast-grenade-attack-behind-punjab-police-station-blast-12044920#publisher=newsstand",
+            "source_title": "Fazilka Police Station Blast: Grenade Attack Behind Punjab Police Station Blast",
+            "scraped_at": "2026-09-14 13:15:17",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-07-16"
+        "criminal_last_updated": "2026-09-14"
       },
       {
         "name": "Bhajanlal Sharma",
