@@ -1,15 +1,15 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-14",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2478,6 +2478,12 @@
             "source_url": "https://www.ndtv.com/india-news/imposing-vegetarianism-on-world-row-over-food-served-at-brics-summit-12041294#publisher=newsstand",
             "source_title": "\"Imposing Vegetarianism On World\": Row Over Food Served At BRICS Summit",
             "scraped_at": "2026-09-13 14:53:50"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed BJP's dietary preferences are deeply problematic for dignitaries.",
+            "source_url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
+            "source_title": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner - The Hindu",
+            "scraped_at": "2026-09-13 23:02:29"
           }
         ]
       },
@@ -7299,7 +7305,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 319,
+        "criminal_cases_in_news": 320,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9540,9 +9546,16 @@
             "source_title": "Married couple, young son found dead with gunshot wounds after Los Angeles house fire - The Times of India",
             "scraped_at": "2026-09-06 18:09:45",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Two held for alleged robbery bid in Kozhikode - The Hindu On September 13, 2026, late at night, a four-member gang including **Adarsh** and **Ajas**, attempted to rob migrant workers in Kuttikkattoor ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/two-held-in-alleged-robbery-bid/article71463473.ece",
+            "source_title": "Two held for alleged robbery bid in Kozhikode - The Hindu",
+            "scraped_at": "2026-09-13 23:02:48",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-06",
+        "criminal_last_updated": "2026-09-14",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",

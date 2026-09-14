@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13 21:58:23.216180",
+  "generated_at": "2026-09-14 00:43:58.523719",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 0,
-    "criminal_updates_applied": 0,
-    "gaffe_updates_applied": 0,
+    "criminal_updates_applied": 1,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -16,15 +16,6 @@
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Jharkhand",
-      "candidate": "Hemant Soren",
-      "confidence": 0.57,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "probe into alleged examination irregularities had not been met Jharkhand Ministers Deepika Pandey Singh and Irfan Ansari serve juice to hunger-striking student leader Devendra Nath Mahto after state C"
-    },
     {
       "type": "cm_detection",
       "state": "Assam",
@@ -68,6 +59,15 @@
       "confidence": 0.75,
       "reason": "Gemma rejected",
       "context": "wheeler to skid and hit the auto-rickshaw. Gunawat said police recovered the auto-rickshaw involved in the accident from the spot. Police said the bodies have been sent for a post-mortem examination. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jharkhand",
+      "candidate": "Hemant Soren",
+      "confidence": 0.67,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "probe into alleged examination irregularities had not been met Jharkhand Ministers Deepika Pandey Singh and Irfan Ansari serve juice to hunger-striking student leader Devendra Nath Mahto after state C"
     },
     {
       "type": "entity_enrichment",
