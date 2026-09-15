@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 06:59:47.141177",
+  "generated_at": "2026-09-15 07:26:34.565457",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -11,7 +11,7 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 5
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
@@ -33,6 +33,15 @@
       "mentions": 3,
       "reason": "Below auto-update threshold",
       "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Kerala",
+      "candidate": "On Saturday",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ed by the Parliament that the national song must be rendered along with the national anthem (Jana Gana Mana) at all official functions. Vande Mataram had been omitted entirely from the official State-"
     },
     {
       "type": "cm_detection",
