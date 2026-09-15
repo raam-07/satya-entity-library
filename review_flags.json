@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 02:52:52.727704",
+  "generated_at": "2026-09-15 06:59:47.141177",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -11,20 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 5
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "V.D. Satheesan",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "condemned the **Kerala government**, led by **Congress**, for excluding the national song, Vande Mataram, from its official Independence Day celebrations on Saturday. BJP leader Shone George accused C"
-    },
     {
       "type": "cm_detection",
       "state": "Himachal Pradesh",
@@ -64,8 +55,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "BJP",
-      "mentions": 39,
-      "share": 0.39,
+      "mentions": 37,
+      "share": 0.41,
       "reason": "Party evidence below auto threshold"
     }
   ]
