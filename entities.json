@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -944,6 +944,12 @@
             "source_url": "https://www.thehindu.com/news/national/vande-mataram-row-congress-1937-resolution-explained/article71372599.ece",
             "source_title": "Vande Mataram row: What is Congress's 1937 resolution? - The Hindu",
             "scraped_at": "2026-08-21 09:44:19"
+          },
+          {
+            "incident_text": "Amit Shah claimed BJP-led NDA states would introduce UCC by 2029.",
+            "source_url": "https://www.thehindu.com/news/national/owaisi-slams-shahs-ucc-remark-asks-if-nda-allies-have-independent-voice/article71465878.ece",
+            "source_title": "Owaisi slams Shah’s UCC remark, asks if NDA allies have ‘independent voice’ - The Hindu",
+            "scraped_at": "2026-09-15 00:54:00"
           }
         ]
       },
