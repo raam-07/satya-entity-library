@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1678,7 +1678,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 28,
+        "criminal_cases_in_news": 29,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1875,9 +1875,16 @@
             "source_title": "Delhi Police to register FIR over pellet injuries to youth during July 20 protest - The Hindu",
             "scraped_at": "2026-08-21 12:55:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Right-Wing Vigilante Swatantra Bhardwaj Gets Interim Bail In Assault Of Dalit Teen Activist's Father On Tuesday, **Swatantra Bhardwaj** was granted interim bail for three weeks by a Delhi court in the",
+            "source_url": "https://www.ndtv.com/india-news/right-wing-vigilante-swatantra-bhardwaj-gets-interim-bail-in-assault-of-dalit-teen-activists-father-12049160#publisher=newsstand",
+            "source_title": "Right-Wing Vigilante Swatantra Bhardwaj Gets Interim Bail In Assault Of Dalit Teen Activist's Father",
+            "scraped_at": "2026-09-15 11:37:05",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-21",
+        "criminal_last_updated": "2026-09-15",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -5947,6 +5954,12 @@
             "source_url": "https://indianexpress.com/article/opinion/editorials/on-jk-statehood-omar-abdullah-is-spot-on-he-doesnt-need-trump-clickbait-10785051/",
             "source_title": "On J&K statehood, Omar Abdullah is spot on. He doesn’t need Trump clickbait | The Indian Express",
             "scraped_at": "2026-07-14 00:59:03"
+          },
+          {
+            "incident_text": "Omar Abdullah claimed BJP uses backdoor route for UCC.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-challenges-bjp-to-bring-ucc-bill-in-parliament/article71467102.ece",
+            "source_title": "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah - The Hindu",
+            "scraped_at": "2026-09-15 11:37:55"
           }
         ]
       },
