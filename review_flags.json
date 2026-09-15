@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 07:26:34.565457",
+  "generated_at": "2026-09-15 07:40:20.203071",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -47,7 +47,7 @@
       "type": "cm_detection",
       "state": "Uttar Pradesh",
       "candidate": "Yogi Adityanath",
-      "confidence": 0.75,
+      "confidence": 0.8,
       "reason": "Gemma rejected",
       "context": "wheeler to skid and hit the auto-rickshaw. Gunawat said police recovered the auto-rickshaw involved in the accident from the spot. Police said the bodies have been sent for a post-mortem examination. "
     },
