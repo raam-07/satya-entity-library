@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16 09:44:27.286874",
+  "generated_at": "2026-09-16 14:41:35.189418",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,46 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 3
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Himachal Pradesh",
-      "candidate": "Sukhvinder Singh Sukhu",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "overnment plans to decrease the number of Indian Administrative Service (IAS) officers from 153 to 130 and IFS officers from 118 to 83. The exact reduction in IPS officers has not been specified yet. "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.43,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Kerala",
-      "candidate": "On Saturday",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "ed by the Parliament that the national song must be rendered along with the national anthem (Jana Gana Mana) at all official functions. Vande Mataram had been omitted entirely from the official State-"
-    },
-    {
-      "type": "cm_detection",
-      "state": "Uttar Pradesh",
-      "candidate": "Yogi Adityanath",
-      "confidence": 0.8,
-      "reason": "Gemma rejected",
-      "context": "wheeler to skid and hit the auto-rickshaw. Gunawat said police recovered the auto-rickshaw involved in the accident from the spot. Police said the bodies have been sent for a post-mortem examination. "
-    },
     {
       "type": "cm_detection",
       "state": "Jharkhand",
@@ -59,6 +24,15 @@
       "mentions": 4,
       "reason": "Below auto-update threshold",
       "context": "probe into alleged examination irregularities had not been met Jharkhand Ministers Deepika Pandey Singh and Irfan Ansari serve juice to hunger-striking student leader Devendra Nath Mahto after state C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.5,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
     },
     {
       "type": "entity_enrichment",
