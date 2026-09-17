@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5468,6 +5468,12 @@
             "source_url": "https://www.ndtv.com/india-news/absolute-lack-of-culture-ktr-slams-revanth-reddy-over-bull-pig-remark-11994340#publisher=newsstand",
             "source_title": "\"Absolute Lack Of Culture\": KTR Slams Revanth Reddy Over \"Bull-Pig\" Remark",
             "scraped_at": "2026-09-02 20:49:09"
+          },
+          {
+            "incident_text": "Revanth Reddy questioned if KCR's landholdings exceeded permissible limits under the Agricultural Land Ceiling Act.",
+            "source_url": "https://www.ndtv.com/india-news/revanth-reddy-orders-probe-into-farmhouse-linked-to-kcr-his-party-hits-back-12056588#publisher=newsstand",
+            "source_title": "Revanth Reddy Orders Probe Into Farmhouse Linked To KCR, His Party Hits Back",
+            "scraped_at": "2026-09-16 23:49:02"
           }
         ],
         "criminal_cases_in_news": 8,
