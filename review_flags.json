@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 06:52:37.136580",
+  "generated_at": "2026-09-20 07:15:06.269827",
   "summary": {
     "cm_updates_applied": 1,
     "central_updates_applied": 0,
@@ -11,20 +11,11 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 2
+    "items_needing_review": 1
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
   "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "ogramme has a total investment of ₹2,500 crore, of which ₹1,750 crore will be provided by ADB and ₹750 crore by the State government. The programme will be implemented over four years, up to 2029-30. "
-    },
     {
       "type": "entity_enrichment",
       "person": "On Saturday",
