@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 3
     },
     "rescan_history": {
       "in_progress": false,
@@ -2516,6 +2516,12 @@
             "source_url": "https://www.thehindu.com/news/national/system-run-by-modi-prefers-andhbhakts-over-students-who-ask-questions-says-rahul-gandhi/article71485654.ece",
             "source_title": "‘System’ run by Modi prefers andhbhakts over students who ask questions, says Rahul Gandhi - The Hindu",
             "scraped_at": "2026-09-19 17:54:14"
+          },
+          {
+            "incident_text": "Rahul Gandhi criticized for spreading misinformation about OBC reservations.",
+            "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
+            "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
+            "scraped_at": "2026-09-23 17:58:23"
           }
         ]
       },
@@ -4699,6 +4705,12 @@
             "source_url": "https://www.ndtv.com/india-news/madhya-pradesh-chief-minister-mohan-yadav-on-uniform-civil-code-bill-those-with-one-marriage-will-stay-in-madhya-pradesh-11785503#publisher=newsstand",
             "source_title": "Madhya Pradesh Chief Minister Mohan Yadav On Uniform Civil Code Bill: Those With One Marriage Will Stay In Madhya Pradesh",
             "scraped_at": "2026-07-18 11:14:12"
+          },
+          {
+            "incident_text": "Mohan Yadav criticized Rahul Gandhi for spreading misinformation about OBC reservations.",
+            "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
+            "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
+            "scraped_at": "2026-09-23 17:58:23"
           }
         ],
         "criminal_cases_in_news": 1,
@@ -6005,6 +6017,12 @@
             "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-challenges-bjp-to-bring-ucc-bill-in-parliament/article71467102.ece",
             "source_title": "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah - The Hindu",
             "scraped_at": "2026-09-15 11:37:55"
+          },
+          {
+            "incident_text": "Omar Abdullah alleged delimitation was designed to benefit a party.",
+            "source_url": "https://www.ndtv.com/india-news/omar-abdullah-flags-delimitation-amid-poll-body-controversy-was-designed-to-benefit-a-party-12088346#publisher=newsstand",
+            "source_title": "Omar Abdullah Flags Delimitation Amid Poll Body Controversy: 'Was Designed To Benefit A Party'",
+            "scraped_at": "2026-09-23 17:59:12"
           }
         ]
       },
@@ -7382,7 +7400,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 323,
+        "criminal_cases_in_news": 324,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9650,6 +9668,13 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-arrested-for-possession-of-600-narcotic-tablets-in-arakkonam/article71484524.ece",
             "source_title": "Three persons arrested for possession of 600 narcotic tablets in Arakkonam - The Hindu",
             "scraped_at": "2026-09-20 00:21:53",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice On Saturday, **Satish Salian**, father of Disha Salian, visited **Uddhav Thackeray**'s residence 'Matoshri' to hand over a R",
+            "source_url": "https://www.ndtv.com/india-news/disha-salians-father-visits-thackeray-residence-to-serve-defamation-notice-12070200#publisher=newsstand",
+            "source_title": "Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice",
+            "scraped_at": "2026-09-19 20:19:22",
             "incident_type": "broad"
           }
         ],
