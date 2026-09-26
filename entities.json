@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 2
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -1612,6 +1612,12 @@
             "source_url": "https://www.ndtv.com/india-news/in-swimming-video-spat-kiren-rijiju-takes-assam-dig-at-pawan-khera-drags-in-rahul-gandhi-11961335#publisher=newsstand",
             "source_title": "In Swimming Video Spat, Kiren Rijiju Takes Assam Dig At Pawan Khera, Drags In Rahul Gandhi",
             "scraped_at": "2026-08-26 14:01:38"
+          },
+          {
+            "incident_text": "Kiren Rijiju called opposition parties 'naraaz fufas' for losing elections.",
+            "source_url": "https://www.ndtv.com/india-news/opposition-naraaz-fufas-because-they-havent-been-able-to-win-kiren-rijiju-12066619#publisher=newsstand",
+            "source_title": "Opposition 'Naraaz Fufas' Because They Haven't Been Able To Win: Kiren Rijiju",
+            "scraped_at": "2026-09-18 20:41:35"
           }
         ],
         "criminal_cases_in_news": 0
