@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1678,7 +1678,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 29,
+        "criminal_cases_in_news": 30,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1882,9 +1882,16 @@
             "source_title": "Right-Wing Vigilante Swatantra Bhardwaj Gets Interim Bail In Assault Of Dalit Teen Activist's Father",
             "scraped_at": "2026-09-15 11:37:05",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case **Rahul Gandhi** and **Sonia Gandhi** filed their written response in the Delhi High Court regarding the National Herald case, alleg",
+            "source_url": "https://www.ndtv.com/india-news/gandhis-extraneous-considerations-charge-in-national-herald-case-12082833#publisher=newsstand",
+            "source_title": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case",
+            "scraped_at": "2026-09-22 17:16:14",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-15",
+        "criminal_last_updated": "2026-09-26",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2514,7 +2521,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 6,
+        "criminal_cases_in_news": 8,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -2557,9 +2564,23 @@
             "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
             "scraped_at": "2026-08-17 23:27:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Court orders fresh hearing in Sonia Gandhi’s voter roll entry case - The Hindu On September 21, 2026, **Special Judge Vishal Gogne** allowed a revision plea challenging a September 11, 2025 Magistrate",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-sets-aside-magistrate-order-refusing-probe-in-sonia-gandhis-pre-citizenship-electoral-entry/article71490940.ece",
+            "source_title": "Court orders fresh hearing in Sonia Gandhi’s voter roll entry case - The Hindu",
+            "scraped_at": "2026-09-21 22:46:52",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case **Rahul Gandhi** and **Sonia Gandhi** filed their written response in the Delhi High Court regarding the National Herald case, alleg",
+            "source_url": "https://www.ndtv.com/india-news/gandhis-extraneous-considerations-charge-in-national-herald-case-12082833#publisher=newsstand",
+            "source_title": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case",
+            "scraped_at": "2026-09-22 17:16:14",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-18",
+        "criminal_last_updated": "2026-09-26",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
