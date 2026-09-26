@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3124,6 +3124,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhileshtakes-potshots-atupgovts-project-on-cow-urine-collection/article71347081.ece",
             "source_title": "Akhilesh takes potshots at U.P. govt.’s project on cow urine collection - The Hindu",
             "scraped_at": "2026-08-14 19:53:06"
+          },
+          {
+            "incident_text": "Akhilesh Yadav accused the Election Commission of facilitating 'vote theft' in 2022 elections.",
+            "source_url": "https://www.ndtv.com/india-news/akhilesh-yadav-begins-samajwadi-partys-2027-up-assembly-polls-campaign-from-rahul-gandhis-seat-with-pda-rath-bjp-reacts-12095174#publisher=newsstand",
+            "source_title": "Akhilesh Yadav Begins Samajwadi Party's 2027 UP Assembly Polls Campaign From Rahul Gandhi's Seat Raebareli With PDA Rath, BJP Reacts",
+            "scraped_at": "2026-09-25 06:00:20"
           }
         ],
         "criminal_cases_in_news": 2,
