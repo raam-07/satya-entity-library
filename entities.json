@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2504,6 +2504,12 @@
             "source_url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
             "source_title": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner - The Hindu",
             "scraped_at": "2026-09-13 23:02:29"
+          },
+          {
+            "incident_text": "Rahul Gandhi said the system prefers andhbhakts over questioning students.",
+            "source_url": "https://www.thehindu.com/news/national/system-run-by-modi-prefers-andhbhakts-over-students-who-ask-questions-says-rahul-gandhi/article71485654.ece",
+            "source_title": "‘System’ run by Modi prefers andhbhakts over students who ask questions, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-09-19 17:54:14"
           }
         ]
       },
@@ -10084,6 +10090,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-freedom-of-food-choice-religious-practices/article71462580.ece",
             "source_title": "Suvendu Adhikari backs freedom of food choice, religious practices - The Hindu",
             "scraped_at": "2026-09-13 05:15:57"
+          },
+          {
+            "incident_text": "On Saturday, Rahul Gandhi said the system prefers andhbhakts over questioning students.",
+            "source_url": "https://www.thehindu.com/news/national/system-run-by-modi-prefers-andhbhakts-over-students-who-ask-questions-says-rahul-gandhi/article71485654.ece",
+            "source_title": "‘System’ run by Modi prefers andhbhakts over students who ask questions, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-09-19 17:54:14"
           }
         ]
       },
