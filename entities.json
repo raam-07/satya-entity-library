@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5084,6 +5084,12 @@
             "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-bengaluru-detox-programme-akal-takht-row-10767464/",
             "source_title": "Bhagwant Mann to visit Bengaluru for detox amid Akal Takht row",
             "scraped_at": "2026-07-02 04:45:36"
+          },
+          {
+            "incident_text": "Bhagwant Mann challenged Maryam Nawaz over pollution claims.",
+            "source_url": "https://www.ndtv.com/india-news/ahead-of-smog-season-bhagwant-mann-defends-punjab-farmers-with-a-lahore-dig-12070092#publisher=newsstand",
+            "source_title": "Ahead Of Smog Season, Bhagwant Mann Defends Punjab Farmers With A Lahore Dig",
+            "scraped_at": "2026-09-19 20:19:55"
           }
         ],
         "criminal_incidents": [
@@ -7376,7 +7382,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 321,
+        "criminal_cases_in_news": 323,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9630,6 +9636,20 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/two-class-10-students-a-girl-and-a-boy-groped-and-harassed-in-bihars-jamui-sparking-a-political-row/article71491560.ece",
             "source_title": "Class 10 girl and boy returning from coaching groped and assaulted in Bihar’s Jamui, sparking a political row - The Hindu",
             "scraped_at": "2026-09-21 22:47:16",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link - The Hindu After at least 20 people died in a hooch tragedy in Madhya Pradesh’s Sagar district earlier this month, **Ma",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/after-sagar-tragedy-madhya-pradesh-police-uncover-hooch-racket-with-delhi-link/article71484881.ece",
+            "source_title": "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link - The Hindu",
+            "scraped_at": "2026-09-19 17:57:00",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Three persons arrested for possession of 600 narcotic tablets in Arakkonam - The Hindu On Saturday, **Arakkonam town police** arrested three persons—K. Subash (22), V. Elango (26), and B. Saravanan (2",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-arrested-for-possession-of-600-narcotic-tablets-in-arakkonam/article71484524.ece",
+            "source_title": "Three persons arrested for possession of 600 narcotic tablets in Arakkonam - The Hindu",
+            "scraped_at": "2026-09-20 00:21:53",
             "incident_type": "broad"
           }
         ],
