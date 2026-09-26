@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 3
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -6023,6 +6023,12 @@
             "source_url": "https://www.ndtv.com/india-news/omar-abdullah-flags-delimitation-amid-poll-body-controversy-was-designed-to-benefit-a-party-12088346#publisher=newsstand",
             "source_title": "Omar Abdullah Flags Delimitation Amid Poll Body Controversy: 'Was Designed To Benefit A Party'",
             "scraped_at": "2026-09-23 17:59:12"
+          },
+          {
+            "incident_text": "Omar Abdullah criticized removing Sheikh Abdullah's anniversaries from official holidays.",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece",
+            "source_title": "J&K observes holiday on Dogra king Hari Singh’s birthday; BJP holds special functions - The Hindu",
+            "scraped_at": "2026-09-23 23:56:03"
           }
         ]
       },

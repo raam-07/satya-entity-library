@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26 06:15:03.385666",
+  "generated_at": "2026-09-26 06:57:32.327524",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
     "party_updates_applied": 0,
-    "criminal_updates_applied": 1,
-    "gaffe_updates_applied": 3,
+    "criminal_updates_applied": 0,
+    "gaffe_updates_applied": 1,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
@@ -20,16 +20,16 @@
       "type": "entity_enrichment",
       "person": "Sheikh Abdullah",
       "candidate_party": "BJP",
-      "mentions": 3,
-      "share": 0.6,
+      "mentions": 4,
+      "share": 0.67,
       "reason": "Party evidence below auto threshold"
     },
     {
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "BJP",
-      "mentions": 23,
-      "share": 0.38,
+      "mentions": 24,
+      "share": 0.39,
       "reason": "Party evidence below auto threshold"
     }
   ]
