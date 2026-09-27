@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2522,6 +2522,18 @@
             "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
             "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
             "scraped_at": "2026-09-23 17:58:23"
+          },
+          {
+            "incident_text": "Rahul Gandhi branded Gyanesh Kumar as a traitor.",
+            "source_url": "https://www.ndtv.com/india-news/amid-row-bengal-bjp-chief-says-gyanesh-kumar-deserves-padma-bhushan-for-sir-12099590#publisher=newsstand",
+            "source_title": "Amid Row, Bengal BJP Chief Says Gyanesh Kumar Deserves Padma Bhushan For SIR",
+            "scraped_at": "2026-09-25 23:28:25"
+          },
+          {
+            "incident_text": "Rahul Gandhi questioned BJP's confidence in serving people for 25 years.",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/trust-earned-through-serving-people-is-bjps-strength-nitin-nabin/article71509585.ece",
+            "source_title": "Trust earned through serving people is BJP’s strength: Nitin Nabin - The Hindu",
+            "scraped_at": "2026-09-26 01:55:11"
           }
         ]
       },
@@ -7418,7 +7430,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 324,
+        "criminal_cases_in_news": 326,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9694,9 +9706,23 @@
             "source_title": "Disha Salian's Father Visits Thackeray Residence To Serve Defamation Notice",
             "scraped_at": "2026-09-19 20:19:22",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman accused in MDMA case stabbed near police station at Vadakara - The Hindu On September 26, 2026, **K.C. Keerthana**, a 22-year-old accused in the Vadakara MDMA case, was allegedly stabbed by her ",
+            "source_url": "https://www.thehindu.com/news/national/kerala/woman-accused-in-mdma-case-stabbed-near-police-station-at-vadakara/article71511854.ece",
+            "source_title": "Woman accused in MDMA case stabbed near police station at Vadakara - The Hindu",
+            "scraped_at": "2026-09-26 07:18:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Temple priest arrested for alleged derogatory remarks against Sree Narayana Guru - The Hindu On September 26, 2026, **K.V. Subhash**, the Tantri of a Nagaraja temple in Muvattupuzha, was arrested by t",
+            "source_url": "https://www.thehindu.com/news/national/kerala/temple-priest-arrested-for-alleged-derogatory-remarks-against-sree-narayana-guru/article71511900.ece",
+            "source_title": "Temple priest arrested for alleged derogatory remarks against Sree Narayana Guru - The Hindu",
+            "scraped_at": "2026-09-26 07:19:38",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-26",
+        "criminal_last_updated": "2026-09-27",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
