@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4717,6 +4717,12 @@
             "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
             "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
             "scraped_at": "2026-09-23 17:58:23"
+          },
+          {
+            "incident_text": "Mohan Yadav called Gandhi's behavior shameful.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-leaders-slam-mimicry-of-pm-at-rahul-gandhis-student-event/article71488585.ece",
+            "source_title": "BJP leaders slam mimicry of PM at Rahul Gandhi’s student event - The Hindu",
+            "scraped_at": "2026-09-21 01:29:19"
           }
         ],
         "criminal_cases_in_news": 1,
