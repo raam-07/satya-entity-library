@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -7430,7 +7430,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 326,
+        "criminal_cases_in_news": 330,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9719,6 +9719,34 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/temple-priest-arrested-for-alleged-derogatory-remarks-against-sree-narayana-guru/article71511900.ece",
             "source_title": "Temple priest arrested for alleged derogatory remarks against Sree Narayana Guru - The Hindu",
             "scraped_at": "2026-09-26 07:19:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Odisha Man Kills Wife, Dumps Body In Vacant Plot In Bengaluru, Sagar Chandra Rawat Kills Anusuya On September 2, workers cleaning a vacant plot in MS Nagar near Sampigehalli found a highly decomposed ",
+            "source_url": "https://www.ndtv.com/india-news/odisha-man-kills-wife-dumps-body-in-vacant-plot-in-bengaluru-sagar-chandra-rawat-kills-anusuya-12100689#publisher=newsstand",
+            "source_title": "Odisha Man Kills Wife, Dumps Body In Vacant Plot In Bengaluru, Sagar Chandra Rawat Kills Anusuya",
+            "scraped_at": "2026-09-26 12:23:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Minor Girl Alleges Sexual Assault By Bihar Man, His Friend After Lift Offer On September 23, a minor girl alleged she was sexually assaulted after accepting a motorcycle ride from a youth in Darbhanga",
+            "source_url": "https://www.ndtv.com/india-news/minor-girl-alleges-sexual-assault-by-bihar-man-his-friend-after-lift-offer-12100924#publisher=newsstand",
+            "source_title": "Minor Girl Alleges Sexual Assault By Bihar Man, His Friend After Lift Offer",
+            "scraped_at": "2026-09-26 12:25:24",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "19 Die After Drinking Fake Liquor In Nagaland, Probe Confirms It Had Methanol The death toll from spurious liquor in Nagaland has risen to 19, with eight deaths reported in Mokokchung and 11 in Tuensa",
+            "source_url": "https://www.ndtv.com/india-news/19-die-after-drinking-fake-liquor-in-nagaland-probe-confirms-it-had-methanol-12101573#publisher=newsstand",
+            "source_title": "19 Die After Drinking Fake Liquor In Nagaland, Probe Confirms It Had Methanol",
+            "scraped_at": "2026-09-26 16:41:18",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'Bigg Boss' Contestant Assaults Doctor, Leaves Him Bleeding For Rs 5 Lakh On September 24, **Divya Shinde** and seven others allegedly broke into Dr. Vidyadhar Gaikwad's home in Pune, brutally attacke",
+            "source_url": "https://www.ndtv.com/india-news/bigg-boss-contestant-assaults-doctor-leaves-him-bleeding-for-rs-5-lakh-12102687#publisher=newsstand",
+            "source_title": "'Bigg Boss' Contestant Assaults Doctor, Leaves Him Bleeding For Rs 5 Lakh",
+            "scraped_at": "2026-09-26 19:38:37",
             "incident_type": "broad"
           }
         ],
