@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2534,6 +2534,12 @@
             "source_url": "https://www.thehindu.com/news/national/rajasthan/trust-earned-through-serving-people-is-bjps-strength-nitin-nabin/article71509585.ece",
             "source_title": "Trust earned through serving people is BJP’s strength: Nitin Nabin - The Hindu",
             "scraped_at": "2026-09-26 01:55:11"
+          },
+          {
+            "incident_text": "Rahul Gandhi suggested Gyanesh Kumar turn approver over voter list issues.",
+            "source_url": "https://www.ndtv.com/india-news/pressure-mounts-on-chief-poll-officer-as-opposition-plans-concerted-action-12106352#publisher=newsstand",
+            "source_title": "Pressure Mounts On Chief Poll Officer As Opposition Plans Concerted Action",
+            "scraped_at": "2026-09-27 20:25:57"
           }
         ]
       },
