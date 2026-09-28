@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2962,6 +2962,12 @@
             "source_url": "https://www.ndtv.com/india-news/thoda-badal-gaye-ho-m-kharge-pm-modis-banter-at-wedding-reception-11899567#publisher=newsstand",
             "source_title": "Thoda Badal Gaye Ho: M Kharge, PM Modi's Banter At Wedding Reception",
             "scraped_at": "2026-08-12 10:36:49"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge claimed the Election Commission's own people exposed them.",
+            "source_url": "https://www.thehindu.com/news/national/congress-to-discuss-partys-strategy-on-eci-senior-leaders-demand-gyanesh-kumars-resignation/article71519503.ece",
+            "source_title": "Congress to discuss party’s strategy on ECI; senior leaders demand Gyanesh Kumar’s resignation",
+            "scraped_at": "2026-09-28 15:25:21"
           }
         ],
         "criminal_cases_in_news": 2,
