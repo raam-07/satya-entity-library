@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 23:36:25.507784",
+  "generated_at": "2026-09-28 00:34:43.810686",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -28,8 +28,8 @@
       "type": "entity_enrichment",
       "person": "On Saturday",
       "candidate_party": "BJP",
-      "mentions": 26,
-      "share": 0.37,
+      "mentions": 28,
+      "share": 0.35,
       "reason": "Party evidence below auto threshold"
     }
   ]

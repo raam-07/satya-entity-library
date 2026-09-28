@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
@@ -7430,7 +7430,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 330,
+        "criminal_cases_in_news": 331,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9748,9 +9748,16 @@
             "source_title": "'Bigg Boss' Contestant Assaults Doctor, Leaves Him Bleeding For Rs 5 Lakh",
             "scraped_at": "2026-09-26 19:38:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "'They Will Kill Me, Mom': Friend Arrested For Woman's Death In Guwahati Homestay Room, 'Love Jihad' Protest Erupts On Saturday, **Bolin Deori**, Guwahati West DCP, announced the arrest of a 26-year-ol",
+            "source_url": "https://www.ndtv.com/india-news/they-will-kill-me-mom-friend-arrested-for-womans-death-in-guwahati-homestay-room-love-jihad-protest-erupts-12101565#publisher=newsstand",
+            "source_title": "'They Will Kill Me, Mom': Friend Arrested For Woman's Death In Guwahati Homestay Room, 'Love Jihad' Protest Erupts",
+            "scraped_at": "2026-09-27 07:00:09",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-27",
+        "criminal_last_updated": "2026-09-28",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
