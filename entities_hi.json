@@ -1,0 +1,2584 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-09-28",
+    "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
+    "maintainer": "Satya Project",
+    "auto_updated_fields": {
+      "cm_updates": 0,
+      "party_updates": 0,
+      "criminal_updates": 0,
+      "new_promises": 0,
+      "gaffe_updates": 0
+    },
+    "rescan_history": {
+      "in_progress": false,
+      "completed_on": "2026-06-12",
+      "articles_scanned": 25144
+    }
+  },
+  "international": {
+    "world_leaders": [
+      {
+        "name": "Donald Trump",
+        "aliases": [
+          "Trump",
+          "US President",
+          "POTUS"
+        ],
+        "role": "President",
+        "country": "USA",
+        "party": "Republican",
+        "wikipedia": "https://en.wikipedia.org/wiki/Donald_Trump"
+      },
+      {
+        "name": "Xi Jinping",
+        "aliases": [
+          "Xi",
+          "China President",
+          "Chinese President"
+        ],
+        "role": "President",
+        "country": "China",
+        "party": "CCP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Xi_Jinping"
+      },
+      {
+        "name": "Vladimir Putin",
+        "aliases": [
+          "Putin",
+          "Russia President"
+        ],
+        "role": "President",
+        "country": "Russia",
+        "party": "United Russia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Putin"
+      },
+      {
+        "name": "Keir Starmer",
+        "aliases": [
+          "Starmer",
+          "UK PM",
+          "British PM"
+        ],
+        "role": "Prime Minister",
+        "country": "UK",
+        "party": "Labour",
+        "wikipedia": "https://en.wikipedia.org/wiki/Keir_Starmer"
+      },
+      {
+        "name": "Emmanuel Macron",
+        "aliases": [
+          "Macron",
+          "French President"
+        ],
+        "role": "President",
+        "country": "France",
+        "party": "Renaissance",
+        "wikipedia": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
+      },
+      {
+        "name": "Olaf Scholz",
+        "aliases": [
+          "Scholz",
+          "German Chancellor"
+        ],
+        "role": "Chancellor",
+        "country": "Germany",
+        "party": "SPD",
+        "wikipedia": "https://en.wikipedia.org/wiki/Olaf_Scholz"
+      },
+      {
+        "name": "Shehbaz Sharif",
+        "aliases": [
+          "Shehbaz",
+          "Pakistan PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"
+      },
+      {
+        "name": "Muhammad Yunus",
+        "aliases": [
+          "Yunus",
+          "Bangladesh PM"
+        ],
+        "role": "Chief Adviser",
+        "country": "Bangladesh",
+        "party": "Interim Govt",
+        "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Yunus"
+      },
+      {
+        "name": "Benjamin Netanyahu",
+        "aliases": [
+          "Netanyahu",
+          "Bibi",
+          "Israeli PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Israel",
+        "party": "Likud",
+        "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
+      },
+      {
+        "name": "Marco Rubio",
+        "aliases": [
+          "Rubio",
+          "US Secretary of State"
+        ],
+        "role": "Secretary of State",
+        "country": "USA",
+        "party": "Republican",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marco_Rubio"
+      },
+      {
+        "name": "Asim Munir",
+        "aliases": [
+          "Munir",
+          "Pakistan Army Chief"
+        ],
+        "role": "Army Chief",
+        "country": "Pakistan",
+        "party": "Military",
+        "wikipedia": "https://en.wikipedia.org/wiki/Asim_Munir"
+      },
+      {
+        "name": "Mark Carney",
+        "aliases": [
+          "Carney",
+          "Canadian PM"
+        ],
+        "role": "Prime Minister",
+        "country": "Canada",
+        "party": "Liberal",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mark_Carney"
+      }
+    ],
+    "global_institutions": [
+      {
+        "name": "United Nations",
+        "aliases": [
+          "UN",
+          "United Nations Organization"
+        ],
+        "type": "international",
+        "wikipedia": "https://en.wikipedia.org/wiki/United_Nations"
+      },
+      {
+        "name": "International Monetary Fund",
+        "aliases": [
+          "IMF"
+        ],
+        "type": "financial",
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+      },
+      {
+        "name": "World Bank",
+        "aliases": [
+          "WB",
+          "World Bank Group"
+        ],
+        "type": "financial",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Bank"
+      },
+      {
+        "name": "NATO",
+        "aliases": [
+          "North Atlantic Treaty Organization"
+        ],
+        "type": "military",
+        "wikipedia": "https://en.wikipedia.org/wiki/NATO"
+      },
+      {
+        "name": "World Health Organization",
+        "aliases": [
+          "WHO"
+        ],
+        "type": "health",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Health_Organization"
+      },
+      {
+        "name": "World Trade Organization",
+        "aliases": [
+          "WTO"
+        ],
+        "type": "trade",
+        "wikipedia": "https://en.wikipedia.org/wiki/World_Trade_Organization"
+      },
+      {
+        "name": "BRICS",
+        "aliases": [],
+        "type": "economic",
+        "wikipedia": "https://en.wikipedia.org/wiki/BRICS"
+      },
+      {
+        "name": "G20",
+        "aliases": [
+          "G-20",
+          "Group of Twenty"
+        ],
+        "type": "economic",
+        "wikipedia": "https://en.wikipedia.org/wiki/G20"
+      },
+      {
+        "name": "Shanghai Cooperation Organisation",
+        "aliases": [
+          "SCO"
+        ],
+        "type": "security",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation"
+      },
+      {
+        "name": "QUAD",
+        "aliases": [
+          "Quadrilateral Security Dialogue"
+        ],
+        "type": "security",
+        "wikipedia": "https://en.wikipedia.org/wiki/Quadrilateral_Security_Dialogue"
+      },
+      {
+        "name": "SAARC",
+        "aliases": [
+          "South Asian Association"
+        ],
+        "type": "regional",
+        "wikipedia": "https://en.wikipedia.org/wiki/South_Asian_Association_for_Regional_Cooperation"
+      },
+      {
+        "name": "International Criminal Court",
+        "aliases": [
+          "ICC"
+        ],
+        "type": "judiciary",
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Criminal_Court"
+      }
+    ],
+    "pakistan_figures": [
+      {
+        "name": "Imran Khan",
+        "aliases": [
+          "IK",
+          "PTI Chief",
+          "Kaptaan"
+        ],
+        "role": "Former Prime Minister / PTI Chairman",
+        "country": "Pakistan",
+        "party": "PTI",
+        "wikipedia": "https://en.wikipedia.org/wiki/Imran_Khan"
+      },
+      {
+        "name": "Nawaz Sharif",
+        "aliases": [
+          "Nawaz",
+          "PML-N Chief"
+        ],
+        "role": "PML-N Supremo",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
+      },
+      {
+        "name": "Bilawal Bhutto",
+        "aliases": [
+          "Bilawal",
+          "PPP Chief"
+        ],
+        "role": "PPP Chairman",
+        "country": "Pakistan",
+        "party": "PPP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bilawal_Bhutto_Zardari"
+      },
+      {
+        "name": "Maryam Nawaz",
+        "aliases": [
+          "Maryam",
+          "Punjab CM Pakistan"
+        ],
+        "role": "Punjab Chief Minister",
+        "country": "Pakistan",
+        "party": "PML-N",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maryam_Nawaz"
+      }
+    ]
+  },
+  "india": {
+    "central_government": {
+      "ruling_party": "BJP",
+      "ruling_coalition": "NDA",
+      "prime_minister": "Narendra Modi",
+      "president": "Droupadi Murmu",
+      "vice_president": "Jagdeep Dhankhar",
+      "prime_minister_hi": "नरेन्द्र मोदी",
+      "president_hi": "द्रोपदी मुर्मू",
+      "ruling_party_hi": "BJP",
+      "ruling_coalition_hi": "NDA"
+    },
+    "parties": [
+      {
+        "name": "BJP",
+        "full_name": "Bharatiya Janata Party",
+        "aliases": [
+          "Bhartiya Janata Party",
+          "Bharatiya Janata"
+        ],
+        "ideology": "Hindu nationalism, right-wing",
+        "founded": "1980",
+        "president": "JP Nadda",
+        "coalition": "NDA",
+        "ruling_states": [
+          "Arunachal Pradesh",
+          "Assam",
+          "Bihar",
+          "Chhattisgarh",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Madhya Pradesh",
+          "Maharashtra",
+          "Manipur",
+          "Odisha",
+          "Rajasthan",
+          "Tripura",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal",
+          "Delhi"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+        "color": "#FF9933"
+      },
+      {
+        "name": "INC",
+        "full_name": "Indian National Congress",
+        "aliases": [
+          "Congress",
+          "Grand Old Party",
+          "Congress Party"
+        ],
+        "ideology": "Centrist, Social liberalism",
+        "founded": "1885",
+        "president": "Mallikarjun Kharge",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [
+          "Himachal Pradesh",
+          "Karnataka",
+          "Kerala",
+          "Telangana"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Indian_National_Congress",
+        "color": "#00BFFF"
+      },
+      {
+        "name": "AAP",
+        "full_name": "Aam Aadmi Party",
+        "aliases": [
+          "Aam Aadmi",
+          "Common Man Party"
+        ],
+        "ideology": "Anti-corruption, Populism",
+        "founded": "2012",
+        "president": "Arvind Kejriwal",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [
+          "Punjab"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Aam_Aadmi_Party",
+        "color": "#0066FF"
+      },
+      {
+        "name": "TMC",
+        "full_name": "All India Trinamool Congress",
+        "aliases": [
+          "Trinamool",
+          "AITC",
+          "Trinamool Congress"
+        ],
+        "ideology": "Populism, Secularism",
+        "founded": "1998",
+        "president": "Mamata Banerjee",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/All_India_Trinamool_Congress",
+        "color": "#00FF00"
+      },
+      {
+        "name": "SP",
+        "full_name": "Samajwadi Party",
+        "aliases": [
+          "Samajwadi",
+          "Yadav party"
+        ],
+        "ideology": "Socialism, OBC politics",
+        "founded": "1992",
+        "president": "Akhilesh Yadav",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Samajwadi_Party",
+        "color": "#FF0000"
+      },
+      {
+        "name": "BSP",
+        "full_name": "Bahujan Samaj Party",
+        "aliases": [
+          "Bahujan Samaj",
+          "Dalit party"
+        ],
+        "ideology": "Dalit politics, Ambedkarism",
+        "founded": "1984",
+        "president": "Mayawati",
+        "coalition": "None",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Bahujan_Samaj_Party",
+        "color": "#0000FF"
+      },
+      {
+        "name": "DMK",
+        "full_name": "Dravida Munnetra Kazhagam",
+        "aliases": [
+          "Dravidam",
+          "Karunanidhi party"
+        ],
+        "ideology": "Dravidian politics, Secularism",
+        "founded": "1949",
+        "president": "M.K. Stalin",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Dravida_Munnetra_Kazhagam",
+        "color": "#FF0000"
+      },
+      {
+        "name": "CPM",
+        "full_name": "Communist Party of India (Marxist)",
+        "aliases": [
+          "CPI(M)",
+          "Left Front",
+          "Marxist"
+        ],
+        "ideology": "Marxism, Communism",
+        "founded": "1964",
+        "president": "Sitaram Yechury",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
+        "color": "#FF0000"
+      },
+      {
+        "name": "JDU",
+        "full_name": "Janata Dal (United)",
+        "aliases": [
+          "Janata Dal United",
+          "Nitish party"
+        ],
+        "ideology": "Social justice, Secularism",
+        "founded": "1999",
+        "president": "Nitish Kumar",
+        "coalition": "NDA",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Janata_Dal_(United)",
+        "color": "#00FF00"
+      },
+      {
+        "name": "NCP",
+        "full_name": "Nationalist Congress Party",
+        "aliases": [
+          "Nationalist Congress",
+          "Sharad Pawar party"
+        ],
+        "ideology": "Nationalism, Secularism",
+        "founded": "1999",
+        "president": "Sharad Pawar",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Nationalist_Congress_Party",
+        "color": "#00BFFF"
+      },
+      {
+        "name": "TDP",
+        "full_name": "Telugu Desam Party",
+        "aliases": [
+          "Telugu Desam",
+          "Naidu party"
+        ],
+        "ideology": "Telugu regionalism",
+        "founded": "1982",
+        "president": "Chandrababu Naidu",
+        "coalition": "NDA",
+        "ruling_states": [
+          "Andhra Pradesh"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Telugu_Desam_Party",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "JMM",
+        "full_name": "Jharkhand Mukti Morcha",
+        "aliases": [
+          "Jharkhand Mukti",
+          "Soren party"
+        ],
+        "ideology": "Adivasi rights, Regionalism",
+        "founded": "1972",
+        "president": "Hemant Soren",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [
+          "Jharkhand"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Jharkhand_Mukti_Morcha",
+        "color": "#008000"
+      },
+      {
+        "name": "RJD",
+        "full_name": "Rashtriya Janata Dal",
+        "aliases": [
+          "Rashtriya Janata",
+          "Lalu party"
+        ],
+        "ideology": "Social justice, OBC politics",
+        "founded": "1997",
+        "president": "Lalu Prasad Yadav",
+        "coalition": "INDIA Alliance",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Rashtriya_Janata_Dal",
+        "color": "#00FF00"
+      },
+      {
+        "name": "AIMIM",
+        "full_name": "All India Majlis-e-Ittehadul Muslimeen",
+        "aliases": [
+          "Majlis",
+          "Owaisi party",
+          "MIM"
+        ],
+        "ideology": "Muslim interests, Conservatism",
+        "founded": "1927",
+        "president": "Asaduddin Owaisi",
+        "coalition": "None",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/All_India_Majlis-e-Ittehadul_Muslimeen",
+        "color": "#00FF00"
+      },
+      {
+        "name": "Shiv Sena",
+        "full_name": "Shiv Sena (Eknath Shinde)",
+        "aliases": [
+          "Shinde Sena",
+          "Balasahebanchi Shiv Sena"
+        ],
+        "ideology": "Marathi regionalism, Hindu nationalism",
+        "founded": "1966",
+        "president": "Eknath Shinde",
+        "coalition": "NDA",
+        "ruling_states": [],
+        "wikipedia": "https://en.wikipedia.org/wiki/Shiv_Sena",
+        "color": "#FF8000"
+      },
+      {
+        "name": "NPP",
+        "full_name": "NPP",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Meghalaya"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/NPP",
+        "color": "#808080"
+      },
+      {
+        "name": "ZPM",
+        "full_name": "ZPM",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Mizoram"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/ZPM",
+        "color": "#808080"
+      },
+      {
+        "name": "NDPP",
+        "full_name": "NDPP",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Nagaland"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/NDPP",
+        "color": "#808080"
+      },
+      {
+        "name": "SKM",
+        "full_name": "SKM",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Sikkim"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/SKM",
+        "color": "#808080"
+      },
+      {
+        "name": "TVK",
+        "full_name": "TVK",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Tamil Nadu"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/TVK",
+        "color": "#808080"
+      },
+      {
+        "name": "National Conference",
+        "full_name": "National Conference",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Jammu and Kashmir"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/National Conference",
+        "color": "#808080"
+      },
+      {
+        "name": "Central Govt",
+        "full_name": "Central Govt",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Ladakh",
+          "Chandigarh",
+          "Andaman and Nicobar",
+          "Lakshadweep"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Central Govt",
+        "color": "#808080"
+      },
+      {
+        "name": "AINRC",
+        "full_name": "AINRC",
+        "aliases": [],
+        "ideology": "Regionalism",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [
+          "Puducherry"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/AINRC",
+        "color": "#808080"
+      },
+      {
+        "name": "VCK",
+        "full_name": "Viduthalai Chiruthaigal Katchi",
+        "aliases": [
+          "Liberation Panthers Party"
+        ],
+        "ideology": "Social justice, Dalit rights",
+        "founded": "1989",
+        "president": "Thol. Thirumavalavan",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#0000FF"
+      },
+      {
+        "name": "PDP",
+        "full_name": "Jammu and Kashmir Peoples Democratic Party",
+        "aliases": [
+          "Peoples Democratic Party"
+        ],
+        "ideology": "Regionalism, Self-rule",
+        "founded": "1999",
+        "president": "Mehbooba Mufti",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#006400"
+      },
+      {
+        "name": "AIADMK",
+        "full_name": "All India Anna Dravida Munnetra Kazhagam",
+        "aliases": [
+          "All India Anna DMK"
+        ],
+        "ideology": "Dravidian populism",
+        "founded": "1972",
+        "president": "Edappadi K. Palaniswami",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#008000"
+      },
+      {
+        "name": "MDMK",
+        "full_name": "Marumalarchi Dravida Munnetra Kazhagam",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF0000"
+      },
+      {
+        "name": "PMK",
+        "full_name": "Pattali Makkal Katchi",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "RLD",
+        "full_name": "Rashtriya Lok Dal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#00FF00"
+      },
+      {
+        "name": "JD(S)",
+        "full_name": "Janata Dal (Secular)",
+        "aliases": [
+          "JDS"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#00FF7F"
+      },
+      {
+        "name": "INLD",
+        "full_name": "Indian National Lok Dal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#2E8B57"
+      },
+      {
+        "name": "AGP",
+        "full_name": "Asom Gana Parishad",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#32CD32"
+      },
+      {
+        "name": "IUML",
+        "full_name": "Indian Union Muslim League",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#228B22"
+      },
+      {
+        "name": "KC(M)",
+        "full_name": "Kerala Congress (M)",
+        "aliases": [
+          "Kerala Congress"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFD700"
+      },
+      {
+        "name": "NPF",
+        "full_name": "Naga People's Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#4B0082"
+      },
+      {
+        "name": "MNF",
+        "full_name": "Mizo National Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF4500"
+      },
+      {
+        "name": "UPPL",
+        "full_name": "United People's Party Liberal",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFA500"
+      },
+      {
+        "name": "BPF",
+        "full_name": "Bodoland People's Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF8C00"
+      },
+      {
+        "name": "RSP",
+        "full_name": "Revolutionary Socialist Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#B22222"
+      },
+      {
+        "name": "AIUDF",
+        "full_name": "All India United Democratic Front",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#008000"
+      },
+      {
+        "name": "AJSU",
+        "full_name": "All Jharkhand Students Union",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FF8C00"
+      },
+      {
+        "name": "RLP",
+        "full_name": "Rashtriya Loktantrik Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFFF00"
+      },
+      {
+        "name": "JJP",
+        "full_name": "Jannayak Janta Party",
+        "aliases": [],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#808000"
+      },
+      {
+        "name": "SAD",
+        "full_name": "Shiromani Akali Dal",
+        "aliases": [
+          "Akali Dal"
+        ],
+        "ideology": "Regionalism, state rights",
+        "founded": "Unknown",
+        "president": "Unknown",
+        "coalition": "Unknown",
+        "ruling_states": [],
+        "wikipedia": "",
+        "color": "#FFD700"
+      }
+    ],
+    "states": [
+      {
+        "name": "Andhra Pradesh",
+        "aliases": [
+          "AP"
+        ],
+        "capital": "Amaravati",
+        "ruling_party": "TDP",
+        "cm": "Chandrababu Naidu",
+        "region": "South"
+      },
+      {
+        "name": "Arunachal Pradesh",
+        "aliases": [],
+        "capital": "Itanagar",
+        "ruling_party": "BJP",
+        "cm": "Pema Khandu",
+        "region": "Northeast"
+      },
+      {
+        "name": "Assam",
+        "aliases": [],
+        "capital": "Dispur",
+        "ruling_party": "BJP",
+        "cm": "Himanta Biswa Sarma",
+        "region": "Northeast",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-09-13"
+      },
+      {
+        "name": "Bihar",
+        "aliases": [],
+        "capital": "Patna",
+        "ruling_party": "BJP",
+        "cm": "Samrat Choudhary",
+        "region": "East",
+        "cm_confidence": 0.86,
+        "cm_last_updated": "2026-06-16"
+      },
+      {
+        "name": "Chhattisgarh",
+        "aliases": [
+          "CG"
+        ],
+        "capital": "Raipur",
+        "ruling_party": "BJP",
+        "cm": "Vishnu Deo Sai",
+        "region": "Central",
+        "cm_confidence": 1.0,
+        "cm_last_updated": "2026-05-23"
+      },
+      {
+        "name": "Goa",
+        "aliases": [],
+        "capital": "Panaji",
+        "ruling_party": "BJP",
+        "cm": "Pramod Sawant",
+        "region": "West"
+      },
+      {
+        "name": "Gujarat",
+        "aliases": [],
+        "capital": "Gandhinagar",
+        "ruling_party": "BJP",
+        "cm": "Bhupendra Patel",
+        "region": "West",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-05-23",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-07-18"
+      },
+      {
+        "name": "Haryana",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "BJP",
+        "cm": "Nayab Singh Saini",
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-06-13"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "aliases": [
+          "HP"
+        ],
+        "capital": "Shimla",
+        "ruling_party": "INC",
+        "cm": "Sukhvinder Singh Sukhu",
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-09-17"
+      },
+      {
+        "name": "Jharkhand",
+        "aliases": [],
+        "capital": "Ranchi",
+        "ruling_party": "JMM",
+        "cm": "Hemant Soren",
+        "region": "East",
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-08-25"
+      },
+      {
+        "name": "Karnataka",
+        "aliases": [],
+        "capital": "Bengaluru",
+        "ruling_party": "INC",
+        "cm": "D.K. Shivakumar",
+        "region": "South",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-09-20",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-08-31"
+      },
+      {
+        "name": "Kerala",
+        "aliases": [],
+        "capital": "Thiruvananthapuram",
+        "ruling_party": "INC",
+        "cm": "V.D. Satheesan",
+        "region": "South",
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-06-16"
+      },
+      {
+        "name": "Madhya Pradesh",
+        "aliases": [
+          "MP"
+        ],
+        "capital": "Bhopal",
+        "ruling_party": "BJP",
+        "cm": "Mohan Yadav",
+        "region": "Central",
+        "cm_confidence": 0.83,
+        "cm_last_updated": "2026-07-13"
+      },
+      {
+        "name": "Maharashtra",
+        "aliases": [],
+        "capital": "Mumbai",
+        "ruling_party": "BJP",
+        "cm": "Devendra Fadnavis",
+        "region": "West",
+        "cm_confidence": 0.8,
+        "cm_last_updated": "2026-09-03"
+      },
+      {
+        "name": "Manipur",
+        "aliases": [],
+        "capital": "Imphal",
+        "ruling_party": "BJP",
+        "cm": "N. Biren Singh",
+        "region": "Northeast"
+      },
+      {
+        "name": "Meghalaya",
+        "aliases": [],
+        "capital": "Shillong",
+        "ruling_party": "NPP",
+        "cm": "Conrad Sangma",
+        "region": "Northeast"
+      },
+      {
+        "name": "Mizoram",
+        "aliases": [],
+        "capital": "Aizawl",
+        "ruling_party": "ZPM",
+        "cm": "Lalduhoma",
+        "region": "Northeast"
+      },
+      {
+        "name": "Nagaland",
+        "aliases": [],
+        "capital": "Kohima",
+        "ruling_party": "NDPP",
+        "cm": "Neiphiu Rio",
+        "region": "Northeast"
+      },
+      {
+        "name": "Odisha",
+        "aliases": [],
+        "capital": "Bhubaneswar",
+        "ruling_party": "BJP",
+        "cm": "Mohan Majhi",
+        "region": "East"
+      },
+      {
+        "name": "Punjab",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "AAP",
+        "cm": "Bhagwant Mann",
+        "region": "North",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-07-27",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-07-21"
+      },
+      {
+        "name": "Rajasthan",
+        "aliases": [],
+        "capital": "Jaipur",
+        "ruling_party": "BJP",
+        "cm": "Bhajanlal Sharma",
+        "region": "North"
+      },
+      {
+        "name": "Sikkim",
+        "aliases": [],
+        "capital": "Gangtok",
+        "ruling_party": "SKM",
+        "cm": "Prem Singh Tamang",
+        "region": "Northeast"
+      },
+      {
+        "name": "Tamil Nadu",
+        "aliases": [
+          "TN"
+        ],
+        "capital": "Chennai",
+        "ruling_party": "TVK",
+        "cm": "C. Joseph Vijay",
+        "region": "South",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-07-13"
+      },
+      {
+        "name": "Telangana",
+        "aliases": [],
+        "capital": "Hyderabad",
+        "ruling_party": "INC",
+        "cm": "Revanth Reddy",
+        "region": "South",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-08-20"
+      },
+      {
+        "name": "Tripura",
+        "aliases": [],
+        "capital": "Agartala",
+        "ruling_party": "BJP",
+        "cm": "Manik Saha",
+        "region": "Northeast"
+      },
+      {
+        "name": "Uttar Pradesh",
+        "aliases": [
+          "UP"
+        ],
+        "capital": "Lucknow",
+        "ruling_party": "BJP",
+        "cm": "Yogi Adityanath",
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-09-19",
+        "party_confidence": 1.0,
+        "party_last_updated": "2026-09-07"
+      },
+      {
+        "name": "Uttarakhand",
+        "aliases": [],
+        "capital": "Dehradun",
+        "ruling_party": "BJP",
+        "cm": "Pushkar Singh Dhami",
+        "region": "North"
+      },
+      {
+        "name": "West Bengal",
+        "aliases": [
+          "WB"
+        ],
+        "capital": "Kolkata",
+        "ruling_party": "BJP",
+        "cm": "Suvendu Adhikari",
+        "region": "East",
+        "party_confidence": 0.88,
+        "party_last_updated": "2026-08-19",
+        "cm_confidence": 1.0,
+        "cm_last_updated": "2026-09-12"
+      },
+      {
+        "name": "Delhi",
+        "aliases": [
+          "NCT",
+          "NCR"
+        ],
+        "capital": "New Delhi",
+        "ruling_party": "BJP",
+        "cm": "Rekha Gupta",
+        "region": "North"
+      },
+      {
+        "name": "Jammu and Kashmir",
+        "aliases": [
+          "J&K",
+          "JK"
+        ],
+        "capital": "Srinagar / Jammu",
+        "ruling_party": "National Conference",
+        "cm": "Omar Abdullah",
+        "region": "North",
+        "cm_confidence": 0.75,
+        "cm_last_updated": "2026-08-12"
+      },
+      {
+        "name": "Ladakh",
+        "aliases": [],
+        "capital": "Leh",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "North"
+      },
+      {
+        "name": "Puducherry",
+        "aliases": [
+          "Pondicherry"
+        ],
+        "capital": "Puducherry",
+        "ruling_party": "AINRC",
+        "cm": "N. Rangasamy",
+        "region": "South"
+      },
+      {
+        "name": "Chandigarh",
+        "aliases": [],
+        "capital": "Chandigarh",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "North"
+      },
+      {
+        "name": "Andaman and Nicobar",
+        "aliases": [
+          "Andaman"
+        ],
+        "capital": "Port Blair",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "Island"
+      },
+      {
+        "name": "Lakshadweep",
+        "aliases": [],
+        "capital": "Kavaratti",
+        "ruling_party": "Central Govt",
+        "cm": "N/A",
+        "region": "Island"
+      }
+    ],
+    "institutions": [
+      {
+        "name": "Supreme Court of India",
+        "aliases": [
+          "Supreme Court",
+          "SC",
+          "Apex Court"
+        ],
+        "type": "judiciary",
+        "head": "Chief Justice of India",
+        "wikipedia": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
+      },
+      {
+        "name": "Reserve Bank of India",
+        "aliases": [
+          "RBI",
+          "Central Bank"
+        ],
+        "type": "financial",
+        "head": "Sanjay Malhotra",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India"
+      },
+      {
+        "name": "Central Bureau of Investigation",
+        "aliases": [
+          "CBI"
+        ],
+        "type": "law_enforcement",
+        "head": "Director CBI",
+        "wikipedia": "https://en.wikipedia.org/wiki/Central_Bureau_of_Investigation"
+      },
+      {
+        "name": "Enforcement Directorate",
+        "aliases": [
+          "ED",
+          "Enforcement"
+        ],
+        "type": "law_enforcement",
+        "head": "Director ED",
+        "wikipedia": "https://en.wikipedia.org/wiki/Directorate_of_Enforcement"
+      },
+      {
+        "name": "Election Commission of India",
+        "aliases": [
+          "ECI",
+          "Election Commission"
+        ],
+        "type": "constitutional",
+        "head": "Chief Election Commissioner",
+        "wikipedia": "https://en.wikipedia.org/wiki/Election_Commission_of_India"
+      },
+      {
+        "name": "SEBI",
+        "aliases": [
+          "Securities Board",
+          "Market Regulator"
+        ],
+        "type": "financial",
+        "head": "SEBI Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India"
+      },
+      {
+        "name": "National Human Rights Commission",
+        "aliases": [
+          "NHRC"
+        ],
+        "type": "rights",
+        "head": "NHRC Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/National_Human_Rights_Commission_of_India"
+      },
+      {
+        "name": "Income Tax Department",
+        "aliases": [
+          "IT Department",
+          "Income Tax"
+        ],
+        "type": "financial",
+        "head": "CBDT Chairman",
+        "wikipedia": "https://en.wikipedia.org/wiki/Income_Tax_Department"
+      },
+      {
+        "name": "Parliament of India",
+        "aliases": [
+          "Parliament",
+          "Lok Sabha",
+          "Rajya Sabha",
+          "Sansad"
+        ],
+        "type": "legislative",
+        "head": "Speaker of Lok Sabha",
+        "wikipedia": "https://en.wikipedia.org/wiki/Parliament_of_India"
+      },
+      {
+        "name": "NITI Aayog",
+        "aliases": [
+          "Planning Commission",
+          "Niti"
+        ],
+        "type": "policy",
+        "head": "NITI Aayog CEO",
+        "wikipedia": "https://en.wikipedia.org/wiki/NITI_Aayog"
+      },
+      {
+        "name": "National Investigation Agency",
+        "aliases": [
+          "NIA"
+        ],
+        "type": "law_enforcement",
+        "head": "NIA Director General",
+        "wikipedia": "https://en.wikipedia.org/wiki/National_Investigation_Agency"
+      },
+      {
+        "name": "Comptroller and Auditor General",
+        "aliases": [
+          "CAG"
+        ],
+        "type": "audit",
+        "head": "CAG of India",
+        "wikipedia": "https://en.wikipedia.org/wiki/Comptroller_and_Auditor_General_of_India"
+      }
+    ],
+    "corporations": [
+      {
+        "name": "Adani Group",
+        "aliases": [
+          "Adani",
+          "Gautam Adani"
+        ],
+        "sector": "conglomerate",
+        "head": "Gautam Adani",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adani_Group"
+      },
+      {
+        "name": "Reliance Industries",
+        "aliases": [
+          "Reliance",
+          "Mukesh Ambani",
+          "RIL",
+          "Jio"
+        ],
+        "sector": "conglomerate",
+        "head": "Mukesh Ambani",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reliance_Industries"
+      },
+      {
+        "name": "Tata Group",
+        "aliases": [
+          "Tata",
+          "Tata Sons",
+          "Ratan Tata"
+        ],
+        "sector": "conglomerate",
+        "head": "N. Chandrasekaran",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tata_Group"
+      },
+      {
+        "name": "Wipro",
+        "aliases": [],
+        "sector": "technology",
+        "head": "Azim Premji",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wipro"
+      },
+      {
+        "name": "Infosys",
+        "aliases": [],
+        "sector": "technology",
+        "head": "Salil Parekh",
+        "wikipedia": "https://en.wikipedia.org/wiki/Infosys"
+      },
+      {
+        "name": "HDFC Bank",
+        "aliases": [
+          "HDFC"
+        ],
+        "sector": "banking",
+        "head": "Sashidhar Jagdishan",
+        "wikipedia": "https://en.wikipedia.org/wiki/HDFC_Bank"
+      },
+      {
+        "name": "State Bank of India",
+        "aliases": [
+          "SBI"
+        ],
+        "sector": "banking",
+        "head": "Challa Sreenivasulu Setty",
+        "wikipedia": "https://en.wikipedia.org/wiki/State_Bank_of_India"
+      },
+      {
+        "name": "Hindenburg Research",
+        "aliases": [
+          "Hindenburg"
+        ],
+        "sector": "research",
+        "head": "Nate Anderson",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hindenburg_Research"
+      }
+    ],
+    "cabinet_ministers": [
+      {
+        "name": "Narendra Modi",
+        "name_hi": "नरेन्द्र मोदी",
+        "aliases": [
+          "Modi",
+          "PM Modi",
+          "NaMo",
+          "Modiji"
+        ],
+        "role": "Prime Minister",
+        "role_hi": "प्रधानमंत्री",
+        "ministry": "Prime Minister's Office",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Gujarat",
+        "state_hi": "गुजरात",
+        "constituency": "Varanasi",
+        "constituency_hi": "वाराणसी",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 15,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "known_promises": [],
+        "image_placeholder": "narendra_modi",
+        "controversies": [
+          {
+            "incident_text": "नरेन्द्र मोदी ने धीमी ग्रोथ के लिए कांग्रेस को जिम्मेदार ठहराते हुए इसे 'कांग्रेस ग्रोथ रेट' कहा",
+            "source_url": "https://www.ndtv.com/india-news/at-nda-meet-on-completing-12-years-pm-narendra-modis-congress-growth-rate-jab-11618958#publisher=newsstand",
+            "source_title": "At NDA Meet On Completing 12 Years, PM Narendra Modi's 'Congress Growth Rate' Jab",
+            "scraped_at": "2026-06-10 16:24:10.772553"
+          },
+          {
+            "incident_text": "ब्रिंदा करत का आरोप, मोदी सरकार ने डोनेशन के बदले कॉर्पोरेशन्स को लाइसेंस, एसेट्स और संसद तक पहुंच दी",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/communists-fight-elections-to-reflect-rights-of-people-says-brinda-karat/article70766788.ece",
+            "source_title": "Communists fight elections to reflect rights of people, says Brinda Karat - The Hindu",
+            "scraped_at": "2026-03-20 20:46:38.659490"
+          },
+          {
+            "incident_text": "दिग्विजय सिंह ने चेतावनी दी कि प्रधानमंत्री Narendra Modi की व्यक्तिगत जवाबदेही अब दांव पर है",
+            "source_url": "https://indianexpress.com/article/education/neet-ug-retest-june-21-in-pen-and-paper-mode-nta-defends-pm-moid-digivijay-singh-parliament-panel-10719593/",
+            "source_title": "NEET UG Retest June 21 in pen and paper mode: NTA briefs parliament panel amid fresh political storm",
+            "scraped_at": "2026-06-02 06:55:41.178977"
+          },
+          {
+            "incident_text": "जैरम रमेश ने दावा किया कि सत्ताधारी पार्टी मॉडल कोड ऑफ कंडक्ट को 'Modi's Code of Campaigning' की तरह इस्तेमाल करेगी",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
+            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
+            "scraped_at": "2026-03-15 16:43:04.912044"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने नई लीडरशिप का विरोध करने वाले 'वंशवादी और सामंती मानसिकता' वाले लोगों की आलोचना की",
+            "source_url": "https://www.thehindu.com/news/national/pm-lauds-speaker-for-conducting-lok-sabha-proceedings-with-dedication-patience-and-impartiality/article70747019.ece",
+            "source_title": "PM lauds Speaker for conducting Lok Sabha proceedings with ‘dedication, patience and impartiality’ - The Hindu",
+            "scraped_at": "2026-03-15 16:42:32.393511"
+          },
+          {
+            "incident_text": "मायावती ने कांग्रेस पर राजनीतिक फायदे के लिए कांशी राम के नाम का इस्तेमाल करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
+            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
+            "scraped_at": "2026-03-15 10:37:28.561089"
+          },
+          {
+            "incident_text": "जग्गा रेड्डी के मुताबिक US के दबाव की वजह से नरेंद्र मोदी रूस से तेल और गैस आयात नहीं कर पाए",
+            "source_url": "https://www.thehindu.com/news/national/telangana/dont-rub-modis-failures-on-congress-jagga-reddy/article70743809.ece",
+            "source_title": "Don’t rub Modi’s failures on Congress: Jagga Reddy - The Hindu",
+            "scraped_at": "2026-03-14 15:37:01.802730"
+          },
+          {
+            "incident_text": "Nitin Gadkari ने 2015 में गोपालपुर से दीघा तक 450-kilometer का Coastal Highway घोषित किया",
+            "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
+            "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
+            "scraped_at": "2026-06-05 23:19:52.181643"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कांग्रेस पर अराजकता और अनिश्चितता फैलाने का आरोप लगाया",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/pm-narendra-modi-congress-spread-chaos-its-parasitic-politics-wont-work-10726391/",
+            "source_title": "PM Narendra Modi: Congress spread chaos, its parasitic politics won’t work | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-06-06 01:31:52.004206"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी चाहते हैं कि देश के युवा रील्स बनाएं और पकौड़े तलें",
+            "source_url": "https://www.thehindu.com/news/national/pm-wants-the-countrys-youth-to-keep-making-reels-and-frying-pakoras-says-rahul-gandhi/article71073490.ece",
+            "source_title": "PM wants the country’s youth to keep making reels and frying pakoras, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-06-07 15:53:40.880614"
+          },
+          {
+            "incident_text": "LPG की कमी के बीच मल्लिकार्जुन खड़गे ने सरकार के फ्यूल डाइवर्सिफिकेशन दावों पर सवाल उठाए",
+            "source_url": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+            "source_title": "Why aren’t BJP leaders taking to streets with cylinders in protest now?: Congress’ dig over LPG price hike - The Hindu",
+            "scraped_at": "2026-06-07 23:12:01.064117"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने केंद्र सरकार को Statue of Unity पर IAS अधिकारियों के साथ बातचीत आयोजित करने के निर्देश दिए",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/narendra-modi-ias-officers-statue-of-unity-10728831/",
+            "source_title": "Delhi Confidential: Pep Talk | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-07 23:10:55.146196"
+          },
+          {
+            "incident_text": "रेखा गुप्ता ने मोदी की लीडरशिप की तारीफ की और पिछले 12 सालों में सरकार की उपलब्धियों को हाईलाइट किया",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "शरद पवार ने कहा कि जवाहरलाल नेहरू और नरेंद्र मोदी के बीच कोई तुलना नहीं हो सकती",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
+            "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
+            "scraped_at": "2026-06-10 23:30:33.007053"
+          },
+          {
+            "incident_text": "धर्मेंद्र प्रधान के शिक्षा मंत्री रहते हुए पेपर लीक पर नरेंद्र मोदी की चुप्पी",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "नारेंद्र मोदी ने नॉर्वे यात्रा के दौरान मीडिया के सवालों से खुद को बचाया",
+            "source_url": "https://www.thehindu.com/news/national/modi-broke-democratic-tradition-of-asking-answering-questions-congress/article70999610.ece",
+            "source_title": "Modi broke democratic tradition of asking, answering questions: Congress - The Hindu",
+            "scraped_at": "2026-05-19 12:59:15"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने प्रेस कॉन्फ्रेंस में पत्रकारों के सवालों के जवाब देने से मना किया",
+            "source_url": "https://www.dawn.com/news/2001637/why-dont-you-take-questions-mr-modi",
+            "source_title": "‘Why don’t you take questions, Mr Modi?’ - Newspaper - DAWN.COM",
+            "scraped_at": "2026-05-20 00:48:11"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने आरोप लगाया कि कांग्रेस 'मुस्लिम लीग माओवादी कांग्रेस' के साथ मिली हुई है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/prime-minister-modi-launches-ndas-poll-campaign-in-kerala/article70731866.ece",
+            "source_title": "Prime Minister Modi launches NDA’s poll campaign in Kerala - The Hindu",
+            "scraped_at": "2026-03-11 10:48:35"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि भारतीय परंपरा में गाय को माता के रूप में पूजा जाता है और मुस्लिम धर्मगुरुओं को अपने अनुयायियों को उनका अपमान न करने की सलाह देनी चाहिए",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-01 20:33:27"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने कहा कि तबादले भ्रष्टाचार के आरोपों से ध्यान हटाने के लिए किए गए",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 14:17:05"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि BJP सरकार की नीतियों से आर्थिक सुनामी आने वाली है",
+            "source_url": "https://www.thehindu.com/news/national/rahul-selling-panic-promoting-baseless-conspiracy-theories-bjp/article71062207.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 15:30:16"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा कि BJP सरकार की नीतियों से देश पर आर्थिक सुनामी आएगी",
+            "source_url": "https://www.thehindu.com/news/national/manipur/manipur-policeman-killed-in-knife-attack/article71061186.ece",
+            "source_title": "Rahul ‘selling panic’, promoting baseless conspiracy theories: BJP - The Hindu",
+            "scraped_at": "2026-06-04 15:30:28"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी सरकार विदेशी प्रभाव के आरोप लगाकर छात्रों के व्यंग्य को दबा रही है",
+            "source_url": "https://www.aljazeera.com/opinions/2026/6/9/modi-is-using-a-cannon-to-kill-a-cockroach?traffic_source=rss",
+            "source_title": "Modi is using a cannon to kill a cockroach | Narendra Modi | Al Jazeera",
+            "scraped_at": "2026-06-09 10:11:05"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी को सबसे पहले अपने एजुकेशन मिनिस्टर धर्मेंद्र प्रधान के इस्तीफे की मांग करनी चाहिए",
+            "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
+            "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
+            "scraped_at": "2026-06-16 13:21:21"
+          },
+          {
+            "incident_text": "B.S. Yediyurappa के मुताबिक Narendra Modi चाहते हैं कि हर कोई शांति से रहे",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/touring-the-state-to-bring-change-people-want-to-see-says-bsy/article70711566.ece",
+            "source_title": "Touring the State to bring change people want to see, says BSY - The Hindu",
+            "scraped_at": "2026-03-06 11:41:52"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा, नरेंद्र मोदी की विदेश नीति शोषण का नतीजा",
+            "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
+            "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
+            "scraped_at": "2026-03-06 05:13:38"
+          },
+          {
+            "incident_text": "तमिल मास्क पहने हिंदी नाम थोपते हुए नरेंद्र मोदी की तस्वीर सामने आई",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hindi-words-removed-from-entrance-arch-at-tiruchi-railway-divisional-office-following-political-furore/article70703462.ece",
+            "source_title": "Hindi words removed from entrance arch at Tiruchi Railway Divisional Office following political furore - The Hindu",
+            "scraped_at": "2026-03-04 08:44:13"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी गुजरात में पैराशूट लीडर बनकर आए और मुख्यमंत्री बने",
+            "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
+            "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
+            "scraped_at": "2026-03-04 08:45:11"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि बंगाल विभाजन के लिए श्यामा प्रसाद मुखर्जी के प्रस्ताव के कारण 20 जून पश्चिम बंगाल दिवस है",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/pm-modi-to-visit-west-bengal-for-paschim-banga-dibas-international-yoga-day-celebrations/article71123091.ece",
+            "source_title": "PM Modi to visit West Bengal for Paschim Banga Dibas, International Yoga Day celebrations - The Hindu",
+            "scraped_at": "2026-06-19 17:00:50"
+          },
+          {
+            "incident_text": "T. Jagga Reddy ने कहा कि राहुल गांधी द्वारा मोदी सरकार की आलोचना अब जनता द्वारा स्वीकार की जा रही है",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
+            "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
+            "scraped_at": "2026-06-19 17:03:03"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने वादा किया कि BJP सत्ता में आने पर कांग्रेस सरकार की योजनाएं बंद नहीं करेंगे",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/gehlot-seeks-restoration-of-congress-regimes-welfare-schemes-in-rajasthan/article70688308.ece",
+            "source_title": "Gehlot seeks restoration of Congress regime’s welfare schemes in Rajasthan - The Hindu",
+            "scraped_at": "2026-02-28 12:19:35"
+          },
+          {
+            "incident_text": "अरविंद केजरीवाल का दावा, नरेंद्र मोदी भ्रष्ट हैं",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/modi-is-corrupt-bjp-countdown-has-begun-says-kejriwal/article70691071.ece",
+            "source_title": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu",
+            "scraped_at": "2026-03-01 05:03:03"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने DMK मंत्रियों पर घोटाले करने की होड़ लगाने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-ministers-competing-among-themselves-to-indulge-in-scams-modi/article70692264.ece",
+            "source_title": "TN Ministers competing among themselves to indulge in scams: Modi - The Hindu",
+            "scraped_at": "2026-03-01 23:01:49"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि केंद्र सरकार कोर्ट के बाहर आपसी सहमति से चर्च विवाद सुलझाने का लक्ष्य रखती है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/patriarch-of-antioch-ignatius-aphrem-ii-meets-prime-minister-narendra-modi/article70684977.ece",
+            "source_title": "Patriarch of Antioch Ignatius Aphrem II meets Prime Minister Narendra Modi - The Hindu",
+            "scraped_at": "2026-02-27 11:41:38"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी की इजराइल यात्रा भारत के अपने हितों की कीमत पर US के साथ विदेशी नीति को जोड़ती है",
+            "source_url": "https://www.thehindu.com/news/national/cpim-is-fighting-both-tmc-and-bjp-in-west-bengal-ma-baby/article70685066.ece",
+            "source_title": "CPI(M) is fighting both TMC and BJP in West Bengal: M.A. Baby - The Hindu",
+            "scraped_at": "2026-02-27 12:35:36"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने दावा किया कि TMC ने बंगाल को लूटा और जिम्मेदार लोगों पर कार्रवाई हो रही है",
+            "source_url": "https://indianexpress.com/article/political-pulse/pm-narendra-modi-west-bengal-visit-paschimbanga-divas-tarakeswar-projects-suvendu-adhikari-10749481/",
+            "source_title": "‘Bengal freed from shackles, looters being sent to jail’, says PM, calls for ‘new future’ | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-20 20:21:45"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने संदेश दिया कि युद्ध के समय नागरिक नाविकों को निशाना नहीं बनाया जाना चाहिए",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-tharoor-for-showing-admiration-for-modi-mp-says-statement-given-partisan-twist/article71127126.ece",
+            "source_title": "Congress slams Tharoor for showing ‘admiration’ for Modi; MP says statement given ‘partisan twist’ - The Hindu",
+            "scraped_at": "2026-06-20 21:50:12"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी चुपके से Israel चले गए और Epstein के कहने पर नाचने और गाने लगे",
+            "source_url": "https://www.thehindu.com/news/national/congress-links-modis-israeloutreachto-epstein-files-claims/article70676542.ece",
+            "source_title": "Congress links Modi’s Israel outreach to ‘Epstein Files’ claims - The Hindu",
+            "scraped_at": "2026-02-25 14:34:54"
+          },
+          {
+            "incident_text": "कांग्रेस के मुताबिक नरेंद्र मोदी ने 'academic-quacks' के नेटवर्क के जरिए टेक्स्टबुक दोबारा लिखवाई",
+            "source_url": "https://www.thehindu.com/news/national/nagpur-communal-ecosystem-for-rewriting-of-textbooks-is-real-ncert-congress-dig-at-govt/article70682702.ece",
+            "source_title": "'Nagpur Communal Ecosystem for Rewriting of Textbooks' is real NCERT: Congress' dig at govt - The Hindu",
+            "scraped_at": "2026-02-27 00:09:29"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने तमिल न बोल पाने पर खेद जताया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cares-about-what-modi-shah-delivered-not-their-fake-emotions-says-udhayanidhi-stalin/article70667983.ece",
+            "source_title": "T.N. cares about what Modi, Shah delivered, not their ‘fake emotions’, says Udhayanidhi Stalin - The Hindu",
+            "scraped_at": "2026-02-23 14:33:13"
+          },
+          {
+            "incident_text": "Donald Trump और Adani के दबाव में Narendra Modi ने India-U.S trade deal पर साइन किए जिससे भारतीय किसानों को नुकसान हुआ",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-farmers-rally-bhopal-madhya-pradesh-india-usa-trade-deal/article70671041.ece",
+            "source_title": "Rahul Gandhi slams India-US trade deal: PM Modi should scrap ‘anti-farmer’ trade deal - The Hindu",
+            "scraped_at": "2026-02-24 07:51:21"
+          },
+          {
+            "incident_text": "नरेंद्र मोदी का 'Abki baar Trump Sarkaar' नारा इंटरिम ट्रेड डील से उलट",
+            "source_url": "https://www.thehindu.com/news/national/us-trade-deal-proof-of-abki-baar-trump-se-haar-congress-swipe-at-government/article70662775.ece",
+            "source_title": "U.S. trade deal proof of ‘Abki baar Trump se haar’: Congress’ swipe at government - The Hindu",
+            "scraped_at": "2026-02-22 03:09:40"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कांग्रेस के विरोध को 'गंदी और शर्मनाक' राजनीति बताया",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-in-meerut-rally-ai-impact-summit-congress-protest-development-projects/article70662886.ece",
+            "source_title": "Congress used AI Impact Summit for its ‘gandi aur nangi’ politics: PM Modi - The Hindu",
+            "scraped_at": "2026-02-22 05:28:20"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि हर फाइल अनगिनत नागरिकों की आकांक्षाओं, चिंताओं और जीवन का प्रतिनिधित्व करती है",
+            "source_url": "https://www.thehindu.com/news/national/every-file-represents-aspirations-lives-of-countless-citizens-pm-modi-to-young-ias-officers/article71136968.ece",
+            "source_title": "Every file represents aspirations, lives of countless citizens: PM Modi to young IAS officers - The Hindu",
+            "scraped_at": "2026-06-23 11:27:14"
+          },
+          {
+            "incident_text": "Youth Congress प्रदर्शनकारियों का आरोप, Narendra Modi ने खराब की भारत की इंटरनेशनल इमेज",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-workers-stage-protest-demand-removal-of-pm-modi/article70660094.ece",
+            "source_title": "Congress workers stage protest, demand removal of PM Modi - The Hindu",
+            "scraped_at": "2026-02-21 08:23:00"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी पर UPI का क्रेडिट लेने का आरोप, विचार उनके कार्यकाल से पहले ही बन गया था",
+            "source_url": "https://www.thehindu.com/news/national/classmate-who-does-no-work-but-shows-up-to-take-all-credit-congress-dig-at-pm-over-upi/article70655410.ece",
+            "source_title": "Classmate who does no work, but shows up to take all credit: Congress’ dig at PM over UPI - The Hindu",
+            "scraped_at": "2026-02-20 04:38:56"
+          },
+          {
+            "incident_text": "कुछ लोगों के लिए नरेंद्र मोदी का शासन धीरे-धीरे बढ़ती तानाशाही जैसा है",
+            "source_url": "https://indianexpress.com/article/opinion/columns/five-decades-after-the-emergency-difficult-questions-unheeded-warnings-10756004/",
+            "source_title": "Five decades after the Emergency, difficult questions, unheeded warnings | The Indian Express",
+            "scraped_at": "2026-06-25 01:35:11"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी का मानना है कि AI को खुले तौर पर शेयर करने से दुनिया को फायदा होगा",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-dig-at-pms-manav-vision-for-ai/article70651402.ece",
+            "source_title": "AI Summit 2026: Congress takes dig at PM Modi's ‘MANAV’ vision for AI - The Hindu",
+            "scraped_at": "2026-02-19 06:15:15"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी सरकार ने नागरिकता के प्रमाण के रूप में पासपोर्ट से जुड़ी नई पॉलिसी लागू नहीं की है",
+            "source_url": "https://www.ndtv.com/india-news/passport-valid-document-for-voter-roll-revision-election-commission-11686995#publisher=newsstand",
+            "source_title": "Passport Valid Document For Voter Roll Revision: Election Commission",
+            "scraped_at": "2026-06-25 15:27:23"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी सरकार ने नेशनल सिक्योरिटी और विदेशी संबंधों पर असर के डर से कार्टून वीडियो ब्लॉक किया",
+            "source_url": "https://www.thehindu.com/news/national/on-the-importance-of-satire/article70643183.ece",
+            "source_title": "On the importance of satire - The Hindu",
+            "scraped_at": "2026-02-17 23:30:40"
+          },
+          {
+            "incident_text": "विपक्ष ने नरेंद्र मोदी के इंटरव्यू को स्क्रिप्टेड और बिना किसी दम वाला बताया",
+            "source_url": "https://www.thehindu.com/news/national/opposition-slams-pm-modi-for-hollow-words-in-scripted-interview/article70636132.ece",
+            "source_title": "Opposition slams PM Modi for ‘hollow words’ in ‘scripted’ interview - The Hindu",
+            "scraped_at": "2026-02-15 12:02:55"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने तमिलनाडु में कल्याणकारी नीतियां शुरू कीं",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/politics-where-the-versatile-bhagyaraj-could-not-make-a-dent/article71153679.ece",
+            "source_title": "Politics: where the versatile Bhagyaraj could not make a dent - The Hindu",
+            "scraped_at": "2026-06-27 10:16:42"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी को भक्तों को जवाब देना होगा क्योंकि ट्रस्ट उनकी सरकार द्वारा बनाया गया था",
+            "source_url": "https://www.thehindu.com/news/national/congress-questions-pms-silence-over-alleged-ram-temple-donation-theft/article71154279.ece",
+            "source_title": "Congress questions PM’s silence over alleged Ram temple donation theft - The Hindu",
+            "scraped_at": "2026-06-27 13:57:51"
+          },
+          {
+            "incident_text": "प्रणब मुखर्जी के मुताबिक इंदिरा गांधी के बाद नरेंद्र मोदी ही ऐसे प्रधानमंत्री हैं जो जनता की नब्ज पहचान सकते हैं",
+            "source_url": "https://www.ndtv.com/india-news/pranab-mukherjee-praised-pm-modi-in-diary-daughter-sharmistha-mukherjee-shares-what-he-wrote-11698055#publisher=newsstand",
+            "source_title": "Pranab Mukherjee Praised PM Modi In Diary. Daughter Sharmistha Mukherjee Shares What He Wrote",
+            "scraped_at": "2026-06-28 11:13:57"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने ग्रोथ के लिए 'double-engine government' के महत्व पर जोर दिया",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
+            "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
+            "scraped_at": "2026-02-13 02:08:04"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी पर किसान विरोधी और भारत-U.एस. ट्रेड डील के जरिए देश बेचने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+            "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-12 14:08:36"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा, पूर्व सेना प्रमुख की किताब के डर से नरेंद्र मोदी ने नहीं किया संसद में भाषण",
+            "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
+            "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-09 06:00:38"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी द्वारा ट्रेड डील की शर्तों को स्वीकार करने से भारत की आजादी और दुनिया में उसकी साख कमजोर हुई",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/interim-trade-deal-a-surrender-to-us-pm-must-quit-siddaramaiah/article70607705.ece",
+            "source_title": "Interim trade deal a surrender to U.S., PM must quit: Siddaramaiah - The Hindu",
+            "scraped_at": "2026-02-08 10:27:40"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी सरकार ने महात्मा गांधी नेशनल रूरल एम्प्लॉयमेंट गारंटी एक्ट को बदल दिया",
+            "source_url": "https://www.thehindu.com/news/cities/Tiruchirapalli/no-hitch-in-seat-sharing-talks-says-tncc-chief/article70604588.ece",
+            "source_title": "No hitch in seat-sharing talks, says TNCC chief - The Hindu",
+            "scraped_at": "2026-02-07 21:12:33"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि सी. सदानंदन MP पर 'पिछड़ी विचारधारा' ने हमला किया",
+            "source_url": "https://www.thehindu.com/news/national/kerala/pm-modi-hails-c-sadanandan-mp-for-his-rajya-sabha-speech/article70603698.ece",
+            "source_title": "PM Modi hails C. Sadanandan MP for his Rajya Sabha speech - The Hindu",
+            "scraped_at": "2026-02-07 06:24:29"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने दावा किया कि विपक्ष के व्यवहार की वजह से वे राष्ट्रपति के भाषण पर बहस नहीं कर पाए",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
+            "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
+            "scraped_at": "2026-02-07 05:07:46"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने Trump के दबाव में झुककर नुकसानदेह ट्रेड डील साइन की",
+            "source_url": "https://www.thehindu.com/news/national/modi-signed-a-trap-deal-on-us-pressure-congress/article70601173.ece",
+            "source_title": "Modi signed a ‘trap deal’ on U.S. pressure: Congress - The Hindu",
+            "scraped_at": "2026-02-06 11:49:34"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी पर नेशनल सिक्योरिटी से जुड़े सवालों से बचने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
+            "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
+            "scraped_at": "2026-02-06 12:42:55"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा, दबाव में नरेंद्र मोदी ने भारत-U.एस. ट्रेड डील पर साइन किए",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
+            "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
+            "scraped_at": "2026-02-03 07:39:44"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने मंदिर के निर्माण का पूरा श्रेय लिया",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-took-full-credit-for-ram-temple-now-must-break-silence-on-donation-theft-congress/article71179030.ece",
+            "source_title": "Ram temple row: Congress wants PM to break silence, questions SIT probe - The Hindu",
+            "scraped_at": "2026-07-03 17:01:09"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने 2017 में झुलन गोस्वामी को 'India's pride' बताया",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/sir-in-bengal-ex-india-women-cricketer-jhulan-goswami-summoned-for-sir-hearing/article70571938.ece",
+            "source_title": "SIR in Bengal: Ex-India women cricketer Jhulan Goswami summoned for SIR hearing - The Hindu",
+            "scraped_at": "2026-01-30 14:08:36"
+          },
+          {
+            "incident_text": "कांग्रेस के मुताबिक नरेंद्र मोदी चुनाव रैलियों को प्राथमिकता देते हुए ऑल-पार्टी मीटिंग और लेजिस्लेटिव स्क्रूटिनी से बच रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/congress-leader-jairam-ramesh-slams-pm-modi-remarks-before-budget-session/article70564164.ece",
+            "source_title": "Hypocrisy-laden message to nation: Congress slams PM Modi's remarks ahead of Budget session - The Hindu",
+            "scraped_at": "2026-01-29 01:49:52"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी का मानना है कि विकसित भारत के लिए बंगाल का विकास जरूरी है",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-president-nitin-nabin-visits-west-bengal/article70557036.ece",
+            "source_title": "BJP president Nitin Nabin visits West Bengal - The Hindu",
+            "scraped_at": "2026-01-27 12:06:42"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि संविधान हर भारतीय का सबसे बड़ा हथियार और ढाल है",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि पार्टी मामलों में नितिन नबिन उनके 'boss' होंगे",
+            "source_url": "https://www.thehindu.com/videos/watch-what-lies-ahead-for-bjps-newest-and-also-youngest-president-nitin-nabin-talking-politics/article70545907.ece",
+            "source_title": "Watch: What lies ahead for BJP’s newest and also youngest president Nitin Nabin? | Talking Politics - The Hindu",
+            "scraped_at": "2026-01-24 05:55:27"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने दावा किया कि पिछली सरकारों ने नेताजी बोस के योगदान को मिटाने की कोशिश की",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-pays-tributes-to-netaji-bose-on-birth-anniversary/article70541015.ece",
+            "source_title": "PM Modi pays tributes to Netaji Bose on birth anniversary - The Hindu",
+            "scraped_at": "2026-01-23 00:26:40"
+          },
+          {
+            "incident_text": "नरेंद्र मोदी ने दावा किया कि सख्त शर्तों के कारण पश्चिम बंगाल की 90% आबादी आयुष्मान भारत के लिए अयोग्य होगी",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
+            "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
+            "scraped_at": "2026-01-21 07:27:14"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने Article 370 हटाकर अपना वादा पूरा किया; आज कश्मीर भारत का अभिन्न हिस्सा है",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि Article 370 हटाना श्यामा प्रसाद मुखर्जी का सपना पूरा करना था",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/article-370-abrogation-fulfilled-dream-of-syama-prasad-mookerjee-pm-narendra-modi-10774662/",
+            "source_title": "Article 370 abrogation fulfilled dream of Syama Prasad Mookerjee: PM Narendra Modi | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-06 23:40:05"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने पार्टी मामलों में नितिन नबिन को अपना 'boss' बताया",
+            "source_url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-on-bjp-president-nitin-nabin/article70528492.ece",
+            "source_title": "Nitin Nabin my boss in party matters, says PM Modi - The Hindu",
+            "scraped_at": "2026-01-20 04:09:26"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि उन्हें इंडोनेशिया के सर्वोच्च सम्मान से 'अत्यधिक स्नेह' मिला",
+            "source_url": "https://www.thehindu.com/news/national/nehru-got-it-posthumously-without-having-to-wrangle-it-congress-dig-at-pm-on-indonesia-award/article71193345.ece",
+            "source_title": "Congress slams PM Modi for getting Indonesia award - The Hindu",
+            "scraped_at": "2026-07-07 13:43:12"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने दावा किया कि भारत में Gen जेड. को BJP का डेवलपमेंट मॉडल पसंद है",
+            "source_url": "https://www.thehindu.com/news/national/pm-modi-public-rally-malda-west-bengal-genz-mamata-banerjee-infiltration-bmc-victory-on-january-17-2026/article70518326.ece",
+            "source_title": "PM Modi at Malda rally: People of India, especially Gen Z, have reposed faith in BJP’s development model - The Hindu",
+            "scraped_at": "2026-01-17 05:17:55"
+          },
+          {
+            "incident_text": "अजय राय के मुताबिक नरेंद्र मोदी ने सौंदर्यीकरण के लिए आधारशिला रखी लेकिन घाट नष्ट कर दिया",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
+            "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
+            "scraped_at": "2026-01-16 12:22:55"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने पोंगल सेलिब्रेशन में पराशक्ति की फिल्म क्रू का स्वागत किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/parasakthi-team-celebrates-pongal-with-prime-minister-modi-in-new-delhi/article70510288.ece",
+            "source_title": "Parasakthi team celebrates Pongal with Prime Minister Modi in New Delhi - The Hindu",
+            "scraped_at": "2026-01-14 10:25:33"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी, I&B Ministry द्वारा 'Jana Nayagan' को रोकने की कोशिश तमिल संस्कृति पर हमला है",
+            "source_url": "https://www.thehindu.com/news/national/attack-on-tamil-culture-rahul-gandhi-accuses-ib-ministry-of-blocking-jana-nayagan/article70504566.ece",
+            "source_title": "‘Attack on Tamil culture’: Rahul Gandhi accuses I&B Ministry of blocking Jana Nayagan - The Hindu",
+            "scraped_at": "2026-01-13 03:05:15"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने संसद में राम मंदिर ट्रस्ट की घोषणा की",
+            "source_url": "https://www.thehindu.com/news/national/congress-says-pm-modi-must-break-silence-on-ram-temple-donation-row-in-parliament/article71233709.ece",
+            "source_title": "PM Modi announced Ram Temple trust in Parliament, must break silence on floor of House: Congress - The Hindu",
+            "scraped_at": "2026-07-17 12:14:47"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने ऑफिशियल इवेंट के दौरान पंजाब सरकार की आलोचना की",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-pm-modi-jalandhar-aap-defends-skip-kattar-beimaan-remark-10791663/",
+            "source_title": "AAP says PM turned official event into political platform, defends Mann’s absence | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-17 18:39:34"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने AAP को 'साफ तौर पर बेईमान' और भ्रष्टाचार में शामिल बताया",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/aap-corrupt-internal-turmoil-in-congress-and-sad-pm-modi-in-punjab-10791801/",
+            "source_title": "AAP corrupt, internal turmoil in Congress and SAD: PM Modi in Punjab | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-17 23:28:22"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने एग्जाम लीक पर अपनी टिप्पणी के लिए छात्रों को धन्यवाद दिया",
+            "source_url": "https://indianexpress.com/article/india/narendra-modi-new-video-thanks-students-protest-neet-cjp-10802371/",
+            "source_title": "In new late-night video, Modi thanks students for ‘constructive’ responses",
+            "scraped_at": "2026-07-24 19:02:22"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने माफी मांगने के बजाय प्रदर्शनकारियों को माफ कर दिया",
+            "source_url": "https://www.thehindu.com/news/national/country-asking-him-to-apologise-but-he-has-forgiven-country-congress-dig-at-pm-over-new-video/article71292219.ece",
+            "source_title": "Country asking him to apologise but he has forgiven country: Congress' dig at PM over new video - The Hindu",
+            "scraped_at": "2026-07-31 20:22:51"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने अपशब्दों के इस्तेमाल के लिए बच्चों को माफ किया",
+            "source_url": "https://www.thehindu.com/news/national/is-abusive-language-a-criminal-offence-in-india-explained/article71308544.ece",
+            "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
+            "scraped_at": "2026-08-05 11:25:52"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने नए MPs को दिल्ली में 'साजिशों' से बचने की चेतावनी दी",
+            "source_url": "https://www.thehindu.com/news/national/learn-from-senior-mps-stay-clear-of-delhi-intrigues-pm-to-new-nda-rs-mps/article71309401.ece",
+            "source_title": "Learn from senior MPs, stay clear of ‘Delhi intrigues’: PM to new NDA RS MPs - The Hindu",
+            "scraped_at": "2026-08-06 00:06:52"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने महिलाओं के आरक्षण के लिए गलत दावे किए",
+            "source_url": "https://www.thehindu.com/news/national/congress-slams-pm-modi-over-dishonest-womens-reservation-pitch-calls-it-double-faced-hypocrisy/article71348920.ece",
+            "source_title": "Congress slams PM Modi over ‘dishonest’ women’s reservation pitch, calls it ‘double-faced hypocrisy’ - The Hindu",
+            "scraped_at": "2026-08-15 09:32:27"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने कहा कि 'intellectual Naxals' समाज के लिए खतरा हैं",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-backs-modis-intellectual-naxals-remark/article71349884.ece",
+            "source_title": "Fadnavis backs Modi’s ‘intellectual Naxals’ remark - The Hindu",
+            "scraped_at": "2026-08-15 16:57:21"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने सिस्टम में बैठे 'दिमागी नक्सलियों' को लेकर दी चेतावनी",
+            "source_url": "https://www.thehindu.com/news/national/proud-to-be-dimagi-naxal-congress-p-chidambaram-hits-back-at-pm/article71352058.ece",
+            "source_title": "Proud to be ‘dimagi Naxal’: Congress’ P. Chidambaram hits back at PM Modi - The Hindu",
+            "scraped_at": "2026-08-16 07:37:15"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने अपने भाषण में 'dimagi Naxals' का जिक्र किया",
+            "source_url": "https://www.thehindu.com/news/national/only-those-who-support-maoists-separatists-are-dimagi-naxals-rijiju-after-oppositions-criticism/article71353198.ece",
+            "source_title": "Chidambaram says he’s proud to be a ‘dimagi Naxal’; Rijiju says PM didn’t mean Opposition leaders - The Hindu",
+            "scraped_at": "2026-08-16 21:25:13"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने पेपर लीक के खिलाफ सख्त कानूनों का छात्रों को भरोसा दिलाया",
+            "source_url": "https://www.ndtv.com/india-news/in-cabinet-meet-review-of-ministers-social-media-performance-inside-track-11931645#publisher=newsstand",
+            "source_title": "In Cabinet Meet, Review Of Ministers' Social Media Performance: Inside Track",
+            "scraped_at": "2026-08-19 13:48:57"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने विरोधियों को 'नाराज़ फूफा' बताया",
+            "source_url": "https://www.ndtv.com/india-news/pm-modis-naraaz-fufa-attack-on-opposition-at-top-delhi-college-12006963#publisher=newsstand",
+            "source_title": "PM Modi's \"Naraaz Fufa\" Attack On Opposition At Top Delhi College",
+            "scraped_at": "2026-09-05 17:30:48"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने राहुल गांधी पर झूठ फैलाने का आरोप लगाया",
+            "source_url": "https://www.ndtv.com/india-news/truth-will-defeat-jhooth-ki-goonj-pm-modi-targets-rahul-gandhi-in-gujarat-12016848#publisher=newsstand",
+            "source_title": "\"Truth Will Defeat <i>Jhooth Ki Goonj</i>\": PM Modi Targets Rahul Gandhi In Gujarat",
+            "scraped_at": "2026-09-08 08:45:12"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal शपथ ग्रहण LIVE: सुवेंदु अधिकारी बने पश्चिम बंगाल के पहले BJP CM, 5 अन्य MLAs ने भी ली शपथ",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM मोदी की सुरक्षा को खतरा देने के लिए विदेशी एजेंसी से पैसे मांगने वाला बिहार का शख्स गिरफ्तार",
+            "source_url": "https://www.thehindu.com/news/national/bihar-man-sought-money-from-foreign-agency-for-threatening-pm-modis-security-arrested-police/article70850081.ece",
+            "source_title": "Bihar man sought money from foreign agency for threatening PM Modi’s security, arrested: Police - The Hindu",
+            "scraped_at": "2026-04-11 05:06:00.938906",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के मुताबिक काम किया: तेलंगाना BJP प्रमुख",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के मुताबिक काम किया: तेलंगाना BJP प्रमुख",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "AAP अब वैसी पार्टी नहीं रही, केजरीवाल के साथ कोई काम नहीं कर सकता: स्वाति मालीवाल",
+            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
+            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
+            "scraped_at": "2026-04-25 04:06:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "चुनाव प्रचार के चरम पर मोदी ने मटाुआओं से संपर्क किया, ममता भवनपुर में कैंप में",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-narendra-modi-rally-matua-bangaon-april-26-2026/article70908340.ece",
+            "source_title": "As campaign reaches a crescendo, Modi reaches out to Matuas, Mamata camps at Bhabanipur - The Hindu",
+            "scraped_at": "2026-04-26 12:19:14",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बिना शर्ट के विरोध: IYC कार्यकर्ताओं की कस्टडी पर दिल्ली पुलिस की अर्जी पर कोर्ट ने फैसला सुरक्षित रखा",
+            "source_url": "https://www.thehindu.com/news/national/iyc-workers-arrest-delhi-court-delhi-police-ai-summit-shirtless-protest/article70659356.ece",
+            "source_title": "Shirtless protest: Court reserves order on Delhi Police plea for custody of arrested IYC workers - The Hindu",
+            "scraped_at": "2026-02-21 03:08:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "संसद सुरक्षा breach केस: पुलिस ने 3 आरोपियों की जमानत का विरोध किया",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/parliament-security-breach-case-police-oppose-bail-to-3/article70584569.ece",
+            "source_title": "Parliament security breach case: police oppose bail to 3 - The Hindu",
+            "scraped_at": "2026-02-02 20:48:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM डिग्री मानहानि केस: गुजरात HC ने केजरीवाल और संजय सिंह की अलग ट्रायल की याचिका खारिज की",
+            "source_url": "https://www.thehindu.com/news/national/gujarat/pm-degree-defamation-case-gujarat-hc-dismisses-kejriwal-sanjay-singhs-pleas-for-separate-trials/article70505005.ece",
+            "source_title": "PM degree defamation case: Gujarat HC dismisses Kejriwal, Sanjay Singh's pleas for separate trials - The Hindu",
+            "scraped_at": "2026-01-13 05:24:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बिहार के मुजफ्फरपुर में PM और President के AI-जनरेटेड फेक वीडियो फैलाने के आरोप में एक व्यक्ति गिरफ्तार",
+            "source_url": "https://www.thehindu.com/news/national/bihar/man-arrested-in-bihars-muzaffarpur-for-circulating-ai-generated-fake-videos-of-pm-president/article70466445.ece",
+            "source_title": "Man arrested in Bihar's Muzaffarpur for circulating AI-generated fake videos of PM, President - The Hindu",
+            "scraped_at": "2026-01-02 21:55:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM Modi से जुड़े 'भ्रामक' वीडियो के लिए गिरफ्तार हैदराबाद शख्स की दूसरी बेल अर्जी खारिज",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/court-dismisses-second-bail-plea-of-hyderabad-man-arrested-for-circulating-misleading-video-linked-to-pm-modi-10811163/",
+            "source_title": "Court dismisses second bail plea of Hyderabad man arrested for circulating ‘misleading’ video linked to PM Modi | Chandigarh News - The Indian Express",
+            "scraped_at": "2026-07-30 19:40:35",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "जंतर-मंतर विरोध के दौरान PM के खिलाफ अभद्र टिप्पणी पर नोएडा की महिला पर FIR",
+            "source_url": "https://indianexpress.com/article/cities/delhi/noida-woman-booked-for-abusive-remarks-against-pm-during-jantar-mantar-protest-10811175/",
+            "source_title": "Noida woman booked for ‘abusive’ remarks against PM during Jantar Mantar protest | Delhi News - The Indian Express",
+            "scraped_at": "2026-07-30 21:18:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM Modi, Shah और Adityanath को जान से मारने की धमकी देने वाले झारखंड के शख्स पर FIR",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/fir-lodged-against-jharkhand-man-for-threatening-to-kill-pm-modi-shah-adityanath/article71298890.ece",
+            "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
+            "scraped_at": "2026-08-02 18:31:58",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सुप्रीम कोर्ट के वकील ने PM मोदी पर टिप्पणी करने वाली किशोरी के खिलाफ शिकायत वापस ली",
+            "source_url": "https://www.ndtv.com/india-news/top-court-lawyer-withdraws-complaint-against-girl-who-abused-pm-modi-11866358#publisher=newsstand",
+            "source_title": "Top Court Lawyer Withdraws Complaint Against Girl Who Abused PM Modi",
+            "scraped_at": "2026-08-04 19:11:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "क्या भारत में गाली देना एक criminal offence है? | Explained - The Hindu | जंतर मंतर पर Cockroach Janta Party के विरोध प्रदर्शन के बाद प्रदर्शनकारियों के खिलाफ कई FIR दर्ज",
+            "source_url": "https://www.thehindu.com/news/national/is-abusive-language-a-criminal-offence-in-india-explained/article71308544.ece",
+            "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
+            "scraped_at": "2026-08-05 11:25:52",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Amit Shah",
+        "name_hi": "अमित शाह",
+        "aliases": [
+          "Shah",
+          "Amit Shah",
+          "Home Minister Shah"
+        ],
+        "role": "Union Home Minister",
+        "role_hi": "केंद्रीय गृह मंत्री",
+        "ministry": "Ministry of Home Affairs",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Gujarat",
+        "state_hi": "गुजरात",
+        "constituency": "Gandhinagar",
+        "constituency_hi": "गांधीनगर",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 5,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
+        "known_promises": [],
+        "image_placeholder": "amit_shah",
+        "controversies": [
+          {
+            "incident_text": "अमित शाह ने RSS से जुड़े ग्रुप्स द्वारा आयोजित रैली में हिस्सा लिया",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
+          },
+          {
+            "incident_text": "जयेराम रमेश ने दावा किया कि सत्ताधारी पार्टी मॉडल कोड ऑफ कंडक्ट को 'Modi's Code of Campaigning' की तरह इस्तेमाल करेगी",
+            "source_url": "https://www.thehindu.com/news/national/congress-takes-a-dig-at-the-election-commission-of-india/article70747014.ece",
+            "source_title": "Congress takes a dig at the Election Commission of India - The Hindu",
+            "scraped_at": "2026-03-15 11:13:04"
+          },
+          {
+            "incident_text": "अमित शाह के बयान से राहुल गांधी पर विपक्ष का विरोध प्रदर्शन",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
+            "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
+            "scraped_at": "2026-03-11 22:59:08"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि भारतीय परंपरा में गायों को माता के रूप में पूजा जाता है और मुस्लिम धर्मगुरुओं को अपने अनुयायियों को उनका अपमान न करने की सलाह देनी चाहिए",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-01 20:33:27"
+          },
+          {
+            "incident_text": "अमित शाह पर MPs को BJP में शामिल होने के लिए ₹15 crore देने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/bjp-wont-succeed-in-its-ultimate-objective-says-congress-amid-shiv-sena-ubt-developments/article71112579.ece",
+            "source_title": "BJP won’t succeed in its ultimate objective, says Congress amid Shiv Sena (UBT) developments - The Hindu",
+            "scraped_at": "2026-06-17 07:38:29"
+          },
+          {
+            "incident_text": "अमित शाह पर राजनीतिक फायदे के लिए गवर्नर पर दबाव बनाने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-governor-cv-ananda-bose-resigns/article70708232.ece",
+            "source_title": "West Bengal Governor C.V. Ananda Bose resigns ahead of Assembly polls - The Hindu",
+            "scraped_at": "2026-03-05 10:46:13"
+          },
+          {
+            "incident_text": "रेड्डी के मुताबिक अमित शाह और मोदी ने देश को बर्बाद कर दिया",
+            "source_url": "https://www.thehindu.com/news/national/telangana/chamala-kiran-kumar-reddy-slams-bandi-sanjays-remarks-on-rahul/article70703297.ece",
+            "source_title": "Chamala Kiran Kumar Reddy slams Bandi Sanjay’s remarks on Rahul - The Hindu",
+            "scraped_at": "2026-03-04 08:45:11"
+          },
+          {
+            "incident_text": "अमित शाह ने वादा किया कि अगर BJP चुनाव जीतती है तो पश्चिम बंगाल के सरकारी कर्मचारियों के लिए 45 दिनों के भीतर Seventh Pay Commission लागू कर दिया जाएगा",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/amit-shah-promises-seventh-pay-commission-to-west-bengal-government-employees/article70695917.ece",
+            "source_title": "Amit Shah promises Seventh Pay Commission to West Bengal government employees - The Hindu",
+            "scraped_at": "2026-03-02 10:34:22"
+          },
+          {
+            "incident_text": "Amit Shah DMK की भ्रष्ट सरकार को खत्म करने की कोशिश कर रहे थे",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ops-can-do-anything-for-power-says-dhinakaran/article70660674.ece",
+            "source_title": "OPS can do anything for power, says Dhinakaran - The Hindu",
+            "scraped_at": "2026-02-21 10:25:05"
+          },
+          {
+            "incident_text": "अमित शाह ने लोकसभा में कहा कि J&K को राज्य का दर्जा वापस मिलेगा",
+            "source_url": "https://www.thehindu.com/news/national/decision-on-jk-statehood-soon-arjun-meghwal/article70643023.ece",
+            "source_title": "Decision on J&K Statehood soon: Arjun Meghwal - The Hindu",
+            "scraped_at": "2026-02-17 07:47:25"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि BJP सत्ता में आने पर 6 महीने के भीतर West Bengal में UCC लागू करेंगे",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ucc-to-be-implemented-in-bengal-by-following-all-procedures-suvendu/article71149912.ece",
+            "source_title": "UCC to be implemented in State through proper procedure, says Bengal CM - The Hindu",
+            "scraped_at": "2026-06-26 19:25:27"
+          },
+          {
+            "incident_text": "अमित शाह पर फडणवीस की राजनीतिक तरक्की रोकने के लिए पाला बदलने वाले नेताओं को उकसाने का आरोप",
+            "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
+            "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
+            "scraped_at": "2026-06-27 18:10:51"
+          },
+          {
+            "incident_text": "अमित शाह ने दावा किया कि भारतीय इतिहास दो हिस्सों में बंटेगा: 2014 से पहले और उसके बाद",
+            "source_url": "https://indianexpress.com/article/cities/ahmedabad/amit-shah-independent-india-2014-before-after-10762722/",
+            "source_title": "History of independent India will have 2 parts – before 2014 and after: Amit Shah | Ahmedabad News - The Indian Express",
+            "scraped_at": "2026-06-29 09:19:51"
+          },
+          {
+            "incident_text": "अमित शाह ने दावा किया कि जम्मू और कश्मीर में सुरक्षा स्थिति नियंत्रण में है",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/only-achievable-special-status-for-jk-is-statehood-congress-leader-karra/article70616322.ece",
+            "source_title": "Only achievable special status for J&K is Statehood: Congress leader Karra - The Hindu",
+            "scraped_at": "2026-02-10 16:41:23"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि नागालैंड बनने के बाद पूर्वी नागालैंड के लोगों को नजरअंदाज महसूस हुआ",
+            "source_url": "https://www.thehindu.com/news/national/nagaland/agreement-signed-on-creation-of-frontier-nagaland-territorial-authority-amit-shah/article70595546.ece",
+            "source_title": "Agreement signed on creation of Frontier Nagaland Territorial Authority - The Hindu",
+            "scraped_at": "2026-02-05 07:42:39"
+          },
+          {
+            "incident_text": "अमित शाह का दावा राहुल गांधी ने प्रेसिडेंशियल इवेंट में गमोसा न पहनकर नॉर्थईस्ट का अपमान किया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
+            "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
+            "scraped_at": "2026-01-30 03:15:03"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि अजित पवार की गैरमौजूदगी महाराष्ट्र की राजनीति में लंबे समय तक खालीपन छोड़ देगी",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-leaves-maharashtra-politics-in-turbulence/article70567410.ece",
+            "source_title": "Ajit Pawar leaves Maharashtra politics in turbulence - The Hindu",
+            "scraped_at": "2026-01-29 12:38:56"
+          },
+          {
+            "incident_text": "अमित शाह ने तमिलनाडु के कोऑपरेटिव सेक्टर के प्रदर्शन के लिए अवॉर्ड दिया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+            "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 03:03:30"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि Article 370 हटने के बाद कश्मीर अब भारत का अभिन्न हिस्सा है",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
+          },
+          {
+            "incident_text": "B.K. Hariprasad के मुताबिक अवैध प्रवास के लिए Amit Shah जिम्मेदार हैं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/sir-nothing-wrong-if-those-who-cannot-fill-forms-are-helped-says-hariprasad/article71194963.ece",
+            "source_title": "SIR: Nothing wrong if those who cannot fill forms are helped, says Hariprasad - The Hindu",
+            "scraped_at": "2026-07-08 00:03:35"
+          },
+          {
+            "incident_text": "अमित शाह ने ममता को घेरा, ममता ने अमित शाह को, TMC ने कांग्रेस को और कांग्रेस ने BJP को घेरा",
+            "source_url": "https://www.thehindu.com/news/national/anger-retaliation-vendetta-dominates-in-india-forgiveness-absent-gopalkrishna-gandhi/article70513497.ece",
+            "source_title": "Anger, retaliation, vendetta dominates in India; forgiveness absent: Gopalkrishna Gandhi - The Hindu",
+            "scraped_at": "2026-01-16 01:10:40"
+          },
+          {
+            "incident_text": "अमित शाह ने सोमनाथ मंदिर का उदाहरण देते हुए कहा कि सनातन धर्म और संस्कृति अमर है और इसे मिटाया नहीं जा सकता",
+            "source_url": "https://www.thehindu.com/news/national/union-home-minister-amit-shah-in-gujarat-various-projects-sanatan-dharma-somnath-temple/article70504832.ece",
+            "source_title": "Not easy to erase Sanatan Dharma, culture: Amit Shah on Somnath temple rebuilding - The Hindu",
+            "scraped_at": "2026-01-13 05:01:23"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि सोमनाथ मंदिर के विनाश और पुनर्निर्माण का इतिहास भारत के सनातन धर्म से जुड़े सभ्यतागत मूल्यों की मजबूती को दर्शाता है",
+            "source_url": "https://www.thehindu.com/news/national/gujarat/somnath-temples-rebuilding-reflects-resilience-of-sanatana-dharma-amit-shah/article70505048.ece",
+            "source_title": "Somnath temple’s rebuilding reflects resilience of Sanatana Dharma: Amit Shah - The Hindu",
+            "scraped_at": "2026-01-13 06:17:19"
+          },
+          {
+            "incident_text": "अमित शाह ने कहा कि बंगाल में आजादी के बाद ऐसा राजनीतिक बदलाव कभी नहीं हुआ",
+            "source_url": "https://www.ndtv.com/india-news/political-change-in-bengal-unlike-any-since-independence-amit-shah-11792733#publisher=newsstand",
+            "source_title": "'Political Change In Bengal Unlike Any Since Independence': Amit Shah",
+            "scraped_at": "2026-07-19 17:03:02"
+          },
+          {
+            "incident_text": "अमित शाह ने सोनिया गांधी पर वंदे मातरम का अपमान करने का आरोप लगाया",
+            "source_url": "https://www.ndtv.com/india-news/amit-shahs-sin-you-committed-swipe-at-sonia-gandhi-over-vande-mataram-row-11917245#publisher=newsstand",
+            "source_title": "Amit Shah's \"Sin You Committed\" Swipe At Sonia Gandhi Over Vande Mataram Row",
+            "scraped_at": "2026-08-16 12:46:52"
+          },
+          {
+            "incident_text": "अमित शाह ने कांग्रेस पर वंदे मातरम का अपमान करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/congress-rejects-shahs-vande-mataram-charge-calls-it-a-political-diversion/article71353192.ece",
+            "source_title": "Congress rejects Shah’s Vande Mataram charge, calls it a ‘political diversion’ - The Hindu",
+            "scraped_at": "2026-08-16 17:48:24"
+          },
+          {
+            "incident_text": "जब मल्लिकार्जुन खड़गे पहली बार MLA बने तब अमित शाह बच्चे थे",
+            "source_url": "https://www.ndtv.com/india-news/when-i-first-became-mla-amit-shah-was-a-child-mallikarjun-kharge-jabs-minister-11924358#publisher=newsstand",
+            "source_title": "\"When I First Became MLA, Amit Shah Was A Child\": Mallikarjun Kharge Jabs Minister",
+            "scraped_at": "2026-08-18 07:42:45"
+          },
+          {
+            "incident_text": "अमित शाह ने कांग्रेस के वंदे मातरम के सिर्फ दो छंद गाने के फैसले को एंटी-नेशनल बताया",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-row-congress-1937-resolution-explained/article71372599.ece",
+            "source_title": "Vande Mataram row: What is Congress's 1937 resolution? - The Hindu",
+            "scraped_at": "2026-08-21 09:44:19"
+          },
+          {
+            "incident_text": "अमित शाह ने दावा किया कि BJP के नेतृत्व वाले NDA राज्य 2029 तक UCC लागू करेंगे",
+            "source_url": "https://www.thehindu.com/news/national/owaisi-slams-shahs-ucc-remark-asks-if-nda-allies-have-independent-voice/article71465878.ece",
+            "source_title": "Owaisi slams Shah’s UCC remark, asks if NDA allies have ‘independent voice’ - The Hindu",
+            "scraped_at": "2026-09-15 00:54:00"
+          },
+          {
+            "incident_text": "अमित शाह ने दावा किया कि कांग्रेस के कार्यकाल में ₹12 लाख करोड़ के घोटाले हुए",
+            "source_url": "https://www.thehindu.com/news/national/amit-shah-flags-off-indias-first-lng-train-claims-modi-transformed-railways-congress-known-for-scams/article71516554.ece",
+            "source_title": "Amit Shah flags off India's first LNG train; claims ‘Modi transformed railways, Congress known for scams’ - The Hindu",
+            "scraped_at": "2026-09-28 02:00:57"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "West Bengal शपथ ग्रहण LIVE: सुवेंदु अधिकारी ने लिए पश्चिम बंगाल के पहले BJP CM के रूप में पदभार, 5 अन्य MLAs ने भी ली शपथ",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal सरकार का गठन LIVE: नए CM चुनने के लिए BJP लेजिस्लेचर पार्टी मीटिंग में कोलकाता पहुंचे अमित शाह",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "यू.पी. में जुबानी जंग तेज, BJP सहयोगी ने Samajwadi Party में फूट का दावा किया, अखिलेश ने दिया पलटवार",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-yadav-responds-to-up-ministers-claims-on-major-split-in-samajwadi-party/article71112966.ece",
+            "source_title": "War of words erupts in U.P. as BJP ally claims split in Samajwadi Party; Akhilesh hits back - The Hindu",
+            "scraped_at": "2026-06-17 16:19:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "इलाज के लिए विदेश जाना चाहते हैं: अभिषेक बनर्जी ने कोर्ट में मांगी अनुमति",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
+            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-23 16:37:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM Modi, Shah और Adityanath को जान से मारने की धमकी देने वाले झारखंड के शख्स पर FIR",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/fir-lodged-against-jharkhand-man-for-threatening-to-kill-pm-modi-shah-adityanath/article71298890.ece",
+            "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
+            "scraped_at": "2026-08-02 18:31:58",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Rajnath Singh",
+        "name_hi": "राजनाथ सिंह",
+        "aliases": [
+          "Rajnath",
+          "Defence Minister"
+        ],
+        "role": "Defence Minister",
+        "role_hi": "रक्षा मंत्री",
+        "ministry": "Ministry of Defence",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttar Pradesh",
+        "state_hi": "उत्तर प्रदेश",
+        "constituency": "Lucknow",
+        "constituency_hi": "लखनऊ",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rajnath_Singh",
+        "known_promises": [],
+        "image_placeholder": "rajnath_singh",
+        "controversies": [
+          {
+            "incident_text": "राजनाथ सिंह ने राहुल गांधी पर अनपब्लिश्ड मेम्वॉयर से कोट करके सदन को गुमराह करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/budget-session-of-parliament-rahul-gandhi-naravane-memoir-lok-sabha/article70582353.ece",
+            "source_title": "Parliament uproar after Rahul Gandhi seeks to quote from former Army chief Naravane’s ‘memoir - The Hindu",
+            "scraped_at": "2026-02-02 04:30:19"
+          },
+          {
+            "incident_text": "Rajnath Singh का दावा कि पहलगाम हमले के जवाब में भारतीय सेना ने पाकिस्तान और PoK में आतंकियों को खत्म किया",
+            "source_url": "https://www.thehindu.com/news/national/indias-youth-must-remain-prepared-to-take-on-every-challenge-rajnath/article70546698.ece",
+            "source_title": "India's youth must remain prepared to take on every challenge: Rajnath - The Hindu",
+            "scraped_at": "2026-01-24 11:54:04"
+          },
+          {
+            "incident_text": "राजनाथ सिंह ने RSS को एक ऐसी सभ्यतागत शक्ति बताया जिसे किसी सर्टिफिकेट की जरूरत नहीं है",
+            "source_url": "https://www.ndtv.com/india-news/rss-is-civilizational-force-that-needs-no-certification-rajnath-singh-11786910#publisher=newsstand",
+            "source_title": "\"RSS Is Civilizational Force That Needs No Certification\": Rajnath Singh",
+            "scraped_at": "2026-07-18 04:08:33"
+          },
+          {
+            "incident_text": "राजनथ सिंह ने कांग्रेस द्वारा दो वंदे मातरम छंदों को असंवैधानिक और देशद्रोही बताया",
+            "source_url": "https://www.ndtv.com/india-news/extremely-regrettable-rajnath-singh-targets-congress-over-vande-mataram-row-11940123#publisher=newsstand",
+            "source_title": "Extremely Regrettable: Rajnath Singh Targets Congress Over Vande Mataram Row",
+            "scraped_at": "2026-08-21 11:59:09"
+          },
+          {
+            "incident_text": "Rajnath Singh ने कहा कि वंदे मातरम का विरोध करना कांग्रेस के लिए असंवैधानिक और अनपैट्रियोटिक है",
+            "source_url": "https://www.thehindu.com/news/national/cong-stance-on-vande-mataram-a-very-serious-issue-says-rajnath/article71374603.ece",
+            "source_title": "Cong. stance on Vande Mataram a very serious issue, says Rajnath - The Hindu",
+            "scraped_at": "2026-08-21 17:33:07"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Nirmala Sitharaman",
+        "name_hi": "निर्मला सीतारमण",
+        "aliases": [
+          "Nirmala",
+          "Finance Minister",
+          "FM Sitharaman"
+        ],
+        "role": "Finance Minister",
+        "role_hi": "वित्त मंत्री",
+        "ministry": "Ministry of Finance",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Karnataka",
+        "state_hi": "कर्नाटक",
+        "constituency": "Rajya Sabha",
+        "constituency_hi": "राज्यसभा",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nirmala_Sitharaman",
+        "known_promises": [],
+        "image_placeholder": "nirmala_sitharaman",
+        "controversies": [
+          {
+            "incident_text": "निर्मला सीतारमण ने DMK नेताओं पर तमिल के बारे में अपमानजनक टिप्पणी के बावजूद पेरियार की तस्वीर लगाने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/reassessingperiyarevramasamystake-on-tamil-which-he-called-a-barbarian-language/article70651265.ece",
+            "source_title": "Reassessing Periyar E.V. Ramasamy’s take on Tamil, which he called a barbarian language - The Hindu",
+            "scraped_at": "2026-02-19 21:01:49"
+          },
+          {
+            "incident_text": "मंत्री लक्ष्मी हेब्बालकर के मुताबिक बजट में निर्मला सीतारमण ने कर्नाटक की जरूरतों को नजरअंदाज किया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/a-big-disappointment-for-karnataka-says-minister/article70579140.ece",
+            "source_title": "A big disappointment for Karnataka says Minister - The Hindu",
+            "scraped_at": "2026-02-01 11:09:20"
+          },
+          {
+            "incident_text": "नर्मला सीतारमण को भारत के मैप पर केरल का अस्तित्व भूलने जैसा लगा",
+            "source_url": "https://www.thehindu.com/news/national/kerala/at-ldfs-northern-region-development-rally-cm-pinarayi-vijayan-slams-centres-neglect-of-kerala/article70579334.ece",
+            "source_title": "At LDF’s northern region development rally, CM Pinarayi Vijayan slams Centre’s neglect of Kerala - The Hindu",
+            "scraped_at": "2026-02-01 10:00:42"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "अभिषेक बनर्जी पर हमला: सोनपुर में छापेमारी के बाद 5 गिरफ्तार, 2 हिरासत में",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 00:57:56",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "S. Jaishankar",
+        "name_hi": "S. Jaishankar",
+        "aliases": [
+          "Jaishankar",
+          "EAM",
+          "External Affairs Minister",
+          "MEA"
+        ],
+        "role": "External Affairs Minister",
+        "role_hi": "विदेश मंत्री",
+        "ministry": "Ministry of External Affairs",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Gujarat",
+        "state_hi": "गुजरात",
+        "constituency": "Rajya Sabha",
+        "constituency_hi": "राज्यसभा",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/S._Jaishankar",
+        "known_promises": [],
+        "image_placeholder": "s_jaishankar",
+        "controversies": [],
+        "criminal_incidents": []
+      }
+    ]
+  }
+}
