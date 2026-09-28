@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3345,6 +3345,12 @@
             "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawars-death-in-plane-crash-an-accident-dont-bring-politics-sharad-pawar/article70562713.ece",
             "source_title": "Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar - The Hindu",
             "scraped_at": "2026-01-28 22:55:35"
+          },
+          {
+            "incident_text": "Sharad Pawar stated his party would not merge with or join any other entity.",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-puts-a-stop-to-merger-speculation-says-he-wont-join-anyone/article71520898.ece",
+            "source_title": "Sharad Pawar puts a stop to merger speculation, says he won’t join anyone",
+            "scraped_at": "2026-09-28 20:05:45"
           }
         ]
       },
@@ -7467,7 +7473,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 331,
+        "criminal_cases_in_news": 332,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9791,6 +9797,13 @@
             "source_url": "https://www.ndtv.com/india-news/they-will-kill-me-mom-friend-arrested-for-womans-death-in-guwahati-homestay-room-love-jihad-protest-erupts-12101565#publisher=newsstand",
             "source_title": "'They Will Kill Me, Mom': Friend Arrested For Woman's Death In Guwahati Homestay Room, 'Love Jihad' Protest Erupts",
             "scraped_at": "2026-09-27 07:00:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "8-Day Police Custody For Male Friend Of Woman Who Died In Guwahati Homestay The body of a 22-year-old student was found at a homestay in Guwahati last week. **Asik Ali**, her friend and alleged boyfri",
+            "source_url": "https://www.ndtv.com/india-news/8-day-police-custody-for-male-friend-of-woman-who-died-in-guwahati-homestay-12111558#publisher=newsstand",
+            "source_title": "8-Day Police Custody For Male Friend Of Woman Who Died In Guwahati Homestay",
+            "scraped_at": "2026-09-28 20:03:56",
             "incident_type": "broad"
           }
         ],
