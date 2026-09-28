@@ -4345,7 +4345,7 @@
           "Shivakumar"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
+        "criminal_cases_in_news": 3,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
         "image_placeholder": "dk_shivakumar",
@@ -4367,9 +4367,16 @@
             "source_title": "Hanur shoot-out: Withdrawal of protest paves way for post-mortem - The Hindu",
             "scraped_at": "2026-08-16 16:33:11",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Bidadi police book protesters for unauthorised demonstration at Byramangala - The Hindu The **Bidadi** police registered an FIR against protesters for staging an unauthorised demonstration at Byramang",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bidadi-police-book-protesters-for-unauthorised-demonstration-at-byramangala/article71516114.ece",
+            "source_title": "Bidadi police book protesters for unauthorised demonstration at Byramangala - The Hindu",
+            "scraped_at": "2026-09-27 17:19:30",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-16",
+        "criminal_last_updated": "2026-09-28",
         "controversies": [
           {
             "incident_text": "D.K. Shivakumar frequently states, 'Efforts may fail, but prayers do not.'",
