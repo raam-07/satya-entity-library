@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7473,7 +7473,7 @@
           "Saturday"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 332,
+        "criminal_cases_in_news": 333,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/On_Saturday",
         "image_placeholder": "on_saturday",
@@ -9805,9 +9805,16 @@
             "source_title": "8-Day Police Custody For Male Friend Of Woman Who Died In Guwahati Homestay",
             "scraped_at": "2026-09-28 20:03:56",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "New York Times executive fatally shot allegedly by elderly in-laws **Jonathan McKinsey**, 40, **The New York Times** director of engineering for games player experience, was fatally shot in Dublin, Ca",
+            "source_url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+            "source_title": "New York Times executive fatally shot allegedly by elderly in-laws",
+            "scraped_at": "2026-09-29 02:03:38",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-28",
+        "criminal_last_updated": "2026-09-29",
         "controversies": [
           {
             "incident_text": "On Saturday night, Ambati Rambabu was arrested for allegedly using abusive language against Chief Minister N. Chandrababu Naidu and obstructing police duties.",
