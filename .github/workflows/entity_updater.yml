@@ -47,15 +47,17 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install gspread oauth2client spacy requests huggingface_hub libsql
-          # Compile llama-cpp-python with native AVX2 vector acceleration (slashes Gemma runtimes by 20x)
-          CMAKE_ARGS="-DLLAMA_AVX=OFF -DLLAMA_AVX2=OFF -DLLAMA_FMA=OFF -DLLAMA_F16C=OFF -DGGML_AVX=OFF -DGGML_AVX2=OFF -DGGML_FMA=OFF" pip install llama-cpp-python --no-binary llama-cpp-python --no-cache-dir
+          # Install prebuilt AVX2 vector-accelerated llama-cpp-python wheel from abetlen
+          pip install "llama-cpp-python>=0.3.35" \
+            --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu \
+            --no-cache-dir
           python -m spacy download en_core_web_sm
 
       - name: Run Unit Tests
         run: |
           python scratch/test_bridge_sync.py
 
-      - name: Free disk space (Qwen needs ~11GB)
+      - name: Free disk space (Gemma needs ~8GB)
         run: |
           sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup /opt/hostedtoolcache/CodeQL
           df -h /
@@ -65,17 +67,17 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ./models
-          key: qwen-14b-local-models-v3-q5km  # same key as timeline/promise repos would use; per-repo cache but consistent naming
+          key: gemma-4-12b-local-models-v1-q4km
 
-      - name: Download Gate Model (Qwen 14B)
+      - name: Download Gate Model (Gemma 4 12B)
         if: steps.cache-model.outputs.cache-hit != 'true'
         run: |
           mkdir -p ./models
           python -c "
           from huggingface_hub import hf_hub_download
           hf_hub_download(
-            repo_id='bartowski/Qwen2.5-14B-Instruct-GGUF',
-            filename='Qwen2.5-14B-Instruct-Q5_K_M.gguf',
+            repo_id='unsloth/gemma-4-12b-it-GGUF',
+            filename='gemma-4-12b-it-Q4_K_M.gguf',
             local_dir='./models'
           )
           "

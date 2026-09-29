@@ -49,10 +49,11 @@ NEW_ENTITY_MIN_MENTIONS = 20
 # throughput, but a failed run loses at most 100 articles' work, not 500.
 MAX_ARTICLES_PER_RUN    = 100
 
-# Qwen 14B — same gate model (and same GHA cache) as the timeline and promise
-# pipelines. Entity canonicalization is upstream of everything; it deserves
-# the strongest judgment we run anywhere.
-MODEL_PATH = os.environ.get('MODEL_GATE_PATH', "./models/Qwen2.5-14B-Instruct-Q5_K_M.gguf")
+# Gemma 4 12B — state-of-the-art instruction-tuned reasoning model
+# Matching Hindi and UPSC pipelines for consistency and shared GHA cache.
+MODEL_REPO = os.environ.get('ENTITY_MODEL_REPO', "unsloth/gemma-4-12b-it-GGUF")
+MODEL_FILENAME = os.environ.get('ENTITY_MODEL_FILE', "gemma-4-12b-it-Q4_K_M.gguf")
+MODEL_PATH = os.environ.get('MODEL_GATE_PATH', os.path.join("./models", MODEL_FILENAME))
 
 NON_INDIAN_SOURCES = {'The Dawn', 'BBC', 'Al Jazeera', 'The Guardian'}
 
@@ -323,6 +324,39 @@ def load_entities():
 
     raise FileNotFoundError("No entities.json found.")
 
+def extract_json_object(raw_text: str):
+    """
+    Robustly extract and parse a JSON object or array from LLM response text.
+    Handles markdown blocks (```json ... ```), conversational preambles, and trailing text.
+    """
+    if not raw_text:
+        return None
+    text = raw_text.strip()
+    if "```" in text:
+        first_tick = text.find("```")
+        newline_after = text.find("\n", first_tick)
+        end_tick = text.rfind("```")
+        if newline_after != -1 and end_tick > newline_after:
+            text = text[newline_after:end_tick].strip()
+
+    start_brace = text.find('{')
+    start_bracket = text.find('[')
+
+    if start_bracket != -1 and (start_brace == -1 or start_bracket < start_brace):
+        end_bracket = text.rfind(']')
+        if end_bracket > start_bracket:
+            data = json.loads(text[start_bracket:end_bracket+1])
+            if isinstance(data, list) and len(data) > 0 and isinstance(data[0], dict):
+                return data[0]
+            return data
+
+    if start_brace != -1:
+        end_brace = text.rfind('}')
+        if end_brace > start_brace:
+            return json.loads(text[start_brace:end_brace+1])
+
+    return json.loads(text)
+
 def is_candidate_name(ent_text):
     ent_text = ent_text.strip()
     words = ent_text.split()
@@ -352,7 +386,14 @@ def is_candidate_name(ent_text):
         'university', 'society', 'foundation',
         'sabha', 'lok', 'rajya', 'vidhan', 'bhavan', 'yojana', 'nigam',
         'samiti', 'morcha', 'panchayat', 'zilla', 'mandal', 'aayog',
-        'sena', 'dal', 'parishad', 'sangh', 'seva'
+        'sena', 'dal', 'parishad', 'sangh', 'seva',
+        # Days, months, and temporal terms (blocks "On Saturday", "Last Sunday", etc.)
+        'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
+        'january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+        'september', 'october', 'november', 'december',
+        'yesterday', 'today', 'tomorrow', 'morning', 'evening', 'night', 'afternoon',
+        # Administrative / event terms (blocks "Surprise Inspection", "Office Address", etc.)
+        'inspection', 'address', 'headquarters', 'office', 'press', 'conference', 'briefing'
     }
     if any(w.lower().rstrip('.') in stop_words for w in words):
         return False
@@ -577,22 +618,21 @@ def canonicalize_ministers_in_sheet(sheet, unprocessed_chunk, entities, llm):
             resolved = name  # safe default if Gemma unavailable or fails
             if llm is not None and article_text:
                 options_str = ', '.join(f'"{c}"' for c in candidates)
-                prompt = f"""<|im_start|>user
+                prompt = f"""<start_of_turn>user
 Article: {article_text[:1800]}
 
 The article mentions "{name}". Based only on the article text above, which of these people is being referred to?
 Options: {options_str}
 
-Reply with ONLY the exact name from the options. No explanation.
-<|im_end|>
-<|im_start|>assistant
+Reply with ONLY the exact name from the options. No explanation.<end_of_turn>
+<start_of_turn>model
 """
                 try:
                     response = llm(
                         prompt,
                         max_tokens=20,
                         temperature=0.0,
-                        stop=["<|im_end|>", "<|im_start|>", "\n"],
+                        stop=["<end_of_turn>", "<eos>", "<|im_end|>", "\n"],
                         echo=False
                     )
                     answer = response['choices'][0].get('text', '').strip().strip('"').strip("'")
@@ -736,23 +776,22 @@ def load_spacy():
 # ==============================================================================
 
 def load_gemma():
-    # Name kept for call-site compatibility; loads the Qwen gate model.
     try:
         from llama_cpp import Llama
         if not os.path.exists(MODEL_PATH):
-            raise FileNotFoundError(f"Gate model not found at {MODEL_PATH}")
-        logging.info(f"Loading gate model from {MODEL_PATH}...")
+            raise FileNotFoundError(f"Gemma 4 12B model not found at {MODEL_PATH}")
+        logging.info(f"Loading Gemma 4 12B model from {MODEL_PATH}...")
         llm = Llama(
             model_path=MODEL_PATH,
             n_ctx=8192,
             n_batch=512,
-            n_threads=int(os.environ.get('LLM_THREADS', 4)),  # match promise tracker; runner reports 4 vCPUs
+            n_threads=int(os.environ.get('LLM_THREADS', 4)),
             verbose=False
         )
-        logging.info("Gate model loaded.")
+        logging.info("Gemma 4 12B model loaded.")
         return llm
     except Exception as e:
-        logging.error(f"Failed to load gate model: {e}. Validation will be skipped.")
+        logging.error(f"Failed to load Gemma 4 12B model: {e}. Validation will reject unvalidated candidates.")
         return None
 
 
@@ -760,14 +799,14 @@ def benchmark_threads():
     """Time identical short generations at n_threads=2 vs 4 on this runner,
     so the thread setting is decided by measurement, not Azure SMT guesswork."""
     from llama_cpp import Llama
-    prompt = ("<|im_start|>user\nName the capital of India and one neighbouring "
-              "country. Answer in one short sentence.<|im_end|>\n<|im_start|>assistant\n")
+    prompt = ("<start_of_turn>user\nName the capital of India and one neighbouring "
+              "country. Answer in one short sentence.<end_of_turn>\n<start_of_turn>model\n")
     results = {}
     for threads in (2, 4):
         llm = Llama(model_path=MODEL_PATH, n_ctx=2048, n_batch=512, n_threads=threads, verbose=False)
         t0 = time.time()
         for _ in range(3):
-            llm(prompt, max_tokens=40, temperature=0.0, stop=["<|im_end|>"])
+            llm(prompt, max_tokens=40, temperature=0.0, stop=["<end_of_turn>", "<eos>"])
         results[threads] = (time.time() - t0) / 3
         del llm
         import gc
@@ -781,9 +820,10 @@ def benchmark_threads():
 
 def gemma_validate(llm, question, context):
     if llm is None:
-        return True, "unvalidated"
+        logging.warning("Gemma validation skipped (no LLM loaded) -> rejecting candidate")
+        return False, "no_model"
 
-    prompt = f"""<|im_start|>user
+    prompt = f"""<start_of_turn>user
 Read the text below and answer the question with ONLY a JSON object.
 
 Text: {context[:2000]}
@@ -791,22 +831,24 @@ Text: {context[:2000]}
 Question: {question}
 
 Return ONLY: {{"answer": "yes" or "no", "confidence": "high" or "medium" or "low", "evidence": "for yes answers, the EXACT phrase copied verbatim from the text that proves it; empty string for no"}}
-No explanation. No extra text.
-<|im_end|>
-<|im_start|>assistant
+No explanation. No extra text.<end_of_turn>
+<start_of_turn>model
 """
     try:
         response = llm(
             prompt,
             max_tokens=140,
-            temperature=0.1,
-            stop=["<|im_end|>", "<|im_start|>"],
+            temperature=0.0,
+            stop=["<end_of_turn>", "<eos>", "<|im_end|>"],
             echo=False
         )
-        raw    = response['choices'][0].get('text', '').strip()
-        raw    = re.sub(r'```json|```', '', raw).strip()
-        parsed = json.loads(raw)
-        answer     = parsed.get('answer', 'no').lower() == 'yes'
+        raw = response['choices'][0].get('text', '').strip()
+        parsed = extract_json_object(raw)
+        if not isinstance(parsed, dict):
+            logging.info(f"Gemma validation rejected — non-dict JSON output: {raw[:80]!r}")
+            return False, "invalid_json"
+
+        answer = str(parsed.get('answer', 'no')).strip().lower() == 'yes'
         confidence = parsed.get('confidence', 'low')
 
         # Anti-hallucination guard: a "yes" must cite a span actually present
@@ -820,7 +862,7 @@ No explanation. No extra text.
         return answer, confidence
     except Exception as e:
         logging.warning(f"Gemma validation failed: {e}")
-        return True, "unvalidated"
+        return False, "error"
 
 # ==============================================================================
 # --- EXTRACTION FUNCTIONS ---
@@ -1712,7 +1754,7 @@ def extract_controversy_statement(llm, canonical_name, context):
     if llm is None:
         return "Controversial statement reported in the news."
 
-    prompt = f"""<|im_start|>user
+    prompt = f"""<start_of_turn>user
 Analyze the news text below. Find the controversial statement, unscientific claim, or verbal gaffe directly made by "{canonical_name}".
 Extract and rephrase it into a single, highly concise, objective sentence (maximum 15 words) starting with their name.
 (Example: "Narendra Modi claimed cloud cover could help jets evade radar.")
@@ -1721,22 +1763,22 @@ Text: {context[:1800]}
 
 Return ONLY a JSON object with this exact field:
 {{"statement": "the single concise sentence summary"}}
-No explanation. No extra text.
-<|im_end|>
-<|im_start|>assistant
+No explanation. No extra text.<end_of_turn>
+<start_of_turn>model
 """
     try:
         response = llm(
             prompt,
             max_tokens=100,
-            temperature=0.1,
-            stop=["<|im_end|>", "<|im_start|>"],
+            temperature=0.0,
+            stop=["<end_of_turn>", "<eos>", "<|im_end|>"],
             echo=False
         )
-        raw    = response['choices'][0].get('text', '').strip()
-        raw    = re.sub(r'```json|```', '', raw).strip()
-        parsed = json.loads(raw)
-        return parsed.get('statement', '').strip()
+        raw = response['choices'][0].get('text', '').strip()
+        parsed = extract_json_object(raw)
+        if isinstance(parsed, dict):
+            return str(parsed.get('statement', '')).strip()
+        return "Controversial remark or gaffe reported in the news."
     except Exception as e:
         logging.warning(f"Gemma gaffe extraction failed: {e}")
         return "Controversial remark or gaffe reported in the news."
@@ -1973,7 +2015,7 @@ def discover_new_entities(articles, entities, nlp, llm):
             })
             continue
 
-        extraction_prompt = f"""<|im_start|>user
+        extraction_prompt = f"""<start_of_turn>user
 You are extracting a profile for ONE specific person named "{name}".
 Use ONLY facts about {name} themselves — never facts about people they meet, criticise,
 attack, succeed, praise, or merely refer to.
@@ -2005,21 +2047,22 @@ Return ONLY this JSON (no extra text):
   "state": "home state, or null if national-level",
   "category": "cabinet_minister" or "state_chief_minister" or "opposition_leader" or "generic_politician",
   "confidence": "high" or "medium" or "low"
-}}
-<|im_end|>
-<|im_start|>assistant
+}}<end_of_turn>
+<start_of_turn>model
 """
         try:
             response = llm(
                 extraction_prompt,
                 max_tokens=200,
                 temperature=0.0,
-                stop=["<|im_end|>", "<|im_start|>"],
+                stop=["<end_of_turn>", "<eos>", "<|im_end|>"],
                 echo=False
             )
-            raw    = response['choices'][0].get('text', '').strip()
-            raw    = re.sub(r'```json|```', '', raw).strip()
-            parsed = json.loads(raw)
+            raw = response['choices'][0].get('text', '').strip()
+            parsed = extract_json_object(raw)
+            if not isinstance(parsed, dict):
+                logging.info(f"SKIP (invalid JSON format from LLM): {name}")
+                continue
 
             if not parsed.get('is_indian_politician'):
                 logging.info(f"SKIP (not Indian politician): {name}")
