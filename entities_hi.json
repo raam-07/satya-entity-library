@@ -5407,6 +5407,443 @@
         ],
         "criminal_incidents": []
       }
+    ],
+    "state_chief_ministers": [
+      {
+        "name": "Chandrababu Naidu",
+        "name_hi": "चंद्रबाबू नायडू",
+        "aliases": [
+          "Naidu",
+          "CBN",
+          "Andhra CM"
+        ],
+        "role": "Chief Minister of Andhra Pradesh",
+        "role_hi": "आंध्र प्रदेश के मुख्यमंत्री",
+        "ministry": "",
+        "party": "TDP",
+        "party_hi": "TDP",
+        "state": "Andhra Pradesh",
+        "state_hi": "आंध्र प्रदेश",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 7,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Chandrababu_Naidu",
+        "known_promises": [],
+        "image_placeholder": "chandrababu_naidu",
+        "controversies": [
+          {
+            "incident_text": "चंद्रबाबू नायडू ने कहा कि विधान सभा सत्र का बहिष्कार जनता के मुद्दों को उठाने की जिम्मेदारी से भागना है",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-shirking-responsibility-of-raising-public-issues-in-assembly-says-ap-cm/article70711940.ece",
+            "source_title": "YSRCP shirking responsibility of raising public issues in Assembly, says A.P. CM - The Hindu",
+            "scraped_at": "2026-03-06 13:42:46"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू रायलसीमा को 'रतनला सीमा' बनाने की कोशिश कर रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-trying-to-transform-rayalaseema-to-ratanala-seema-says-minister/article70695799.ece",
+            "source_title": "Naidu trying to transform Rayalaseema to Ratanala Seema, says Minister - The Hindu",
+            "scraped_at": "2026-03-02 08:59:03"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू से बी.आर. नायडू को मुख्य पदों पर आने से रोकने को कहा गया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/karunakar-reddy-renews-call-for-ttd-chairmans-resignation-cites-new-evidence/article70695814.ece",
+            "source_title": "Karunakar Reddy renews call for TTD chairman’s resignation, cites ‘new evidence’ - The Hindu",
+            "scraped_at": "2026-03-02 10:36:56"
+          },
+          {
+            "incident_text": "YSRCP का दावा, N. Chandrababu Naidu को B.R. Naidu को पद से हटाना चाहिए",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-demands-resignation-of-ttd-chairman-br-naidu/article70691328.ece",
+            "source_title": "YSRCP demands resignation of TTD Chairman B.R. Naidu - The Hindu",
+            "scraped_at": "2026-03-01 09:25:07"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू पर हेल्थ स्कीम को प्राइवेटाइज करने और Aarogyasri को खत्म करने की साजिश का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/universal-health-scheme-a-sham-alleges-apcc-president-y-s-sharmila/article70691891.ece",
+            "source_title": "Universal Health Scheme a sham, alleges APCC president Y. S. Sharmila - The Hindu",
+            "scraped_at": "2026-03-01 10:02:30"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू ने विधानसभा में चर्चा के दौरान भुमना करुणकर रेड्डी को ईसाई बताया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bhumana-fumes-at-naidu-over-christian-tag-calls-it-unacceptable/article70671951.ece",
+            "source_title": "Bhumana fumes at Naidu over Christian tag, calls it unacceptable - The Hindu",
+            "scraped_at": "2026-02-24 15:23:02"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू ने दावा किया कि YSRCP शासन ने आंध्र प्रदेश को बर्बाद कर दिया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-slams-ysrcp-assures-state-reconstruction-with-nda-alliance/article70676434.ece",
+            "source_title": "Naidu slams YSRCP, assures State reconstruction with NDA alliance - The Hindu",
+            "scraped_at": "2026-02-25 10:44:07"
+          },
+          {
+            "incident_text": "अंबटी रंबाबू के मुताबिक चंद्रबाबू नायडू और उनके बेटे नारा लोकेश ने मेरे घर पर हमले की साजिश रची",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-released-from-rajahmundry-central-prison/article70647634.ece",
+            "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
+            "scraped_at": "2026-02-18 09:03:19"
+          },
+          {
+            "incident_text": "CBI की रिपोर्ट में घी में मिलावट न होने के बावजूद चंद्रबाबू नायडू ने तिरुमाला लड्डू पर रिपोर्ट के लिए एक कमेटी बनाई",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-only-to-get-favourable-report-on-tirumala-laddu-row-says-ysrcp/article70604195.ece",
+            "source_title": "One-man panel only to get favourable report on Tirumala laddu row, says YSRCP - The Hindu",
+            "scraped_at": "2026-02-07 10:03:09"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू ने दावा किया कि YSRCP जनता को गुमराह करने के लिए राज्य की राजधानी पर अपना रुख बदल रही है",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-lashes-out-at-jagan-for-changing-his-tune-on-state-capital/article71175011.ece",
+            "source_title": "Chief Minister Chandrababu Naidu lashes out at Jagan for changing his tune on State capital - The Hindu",
+            "scraped_at": "2026-07-02 15:43:37"
+          },
+          {
+            "incident_text": "लक्ष्मी पार्वती के मुताबिक चंद्रबाबू नायडू आलोचना से बचने के लिए बार-बार NTR की विरासत का हवाला दे रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/lakshmi-parvathi-accuses-naidu-of-using-ntr-legacy-for-diversionary-politics/article70522176.ece",
+            "source_title": "Lakshmi Parvathi accuses Naidu of using NTR legacy for diversionary politics - The Hindu",
+            "scraped_at": "2026-01-18 09:55:28"
+          },
+          {
+            "incident_text": "चंद्रबाबू नायडू ने राजधानी के निर्माण के बजाय विशाखापट्टनम और AI पर ज्यादा ध्यान दिया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cpi-leader-k-narayana-slams-land-pooling-scheme-in-amaravati/article70519084.ece",
+            "source_title": "CPI leader K. Narayana slams land pooling scheme in Amaravati - The Hindu",
+            "scraped_at": "2026-01-17 09:18:26"
+          },
+          {
+            "incident_text": "जगन ने चंद्रबाबू नायडू पर दमन का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raise-public-issues-during-monsoon-session-of-parliament-jagan-tells-ysrcp-mps/article71230550.ece",
+            "source_title": "Raise public issues during monsoon session of Parliament, Jagan tells YSRCP MPs - The Hindu",
+            "scraped_at": "2026-07-17 00:09:18"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "अमरवती IRR केस को CBI में ट्रांसफर करने की याचिका पर 16 मार्च को HC सुनेगा",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-to-hear-writ-petition-seeking-transfer-of-amaravati-irr-case-to-cbi-on-march-16/article70723036.ece",
+            "source_title": "HC to hear Writ Petition seeking transfer of Amaravati IRR case to CBI on March 16 - The Hindu",
+            "scraped_at": "2026-03-09 10:36:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "YSRCP नेता Ambati Rambabu को Rajahmundry Central Prison से रिहा किया गया",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-released-from-rajahmundry-central-prison/article70647634.ece",
+            "source_title": "YSRCP leader Ambati Rambabu released from Rajahmundry Central Prison - The Hindu",
+            "scraped_at": "2026-02-18 09:03:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "तिरुमाला पदयात्रा के बाद फिल्म प्रोड्यूसर Bandla Ganesh ने Naidu से मुलाकात की",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/film-producer-bandla-ganesh-meets-naidu-after-tirumala-padayatra/article70624543.ece",
+            "source_title": "Film producer Bandla Ganesh meets Naidu after Tirumala padayatra - The Hindu",
+            "scraped_at": "2026-02-12 09:07:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "A.P. High Court ने Ambati Rambabu की याचिका पर सुनवाई 11 फरवरी तक के लिए टाल दी",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-adjourns-ambati-rambabus-lunch-motion-petition-to-february-11/article70596400.ece",
+            "source_title": "A.P. High Court adjourns Ambati Rambabu’s lunch motion petition to February 11 - The Hindu",
+            "scraped_at": "2026-02-05 09:50:41",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "अगर ए.पी. में 'जंगलराज' जारी रहा तो YSRCP कड़ा जवाब देगी: Jagan",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-will-respond-firmly-if-jungle-raj-continues-in-ap-says-jagan/article70592166.ece",
+            "source_title": "YSRCP will respond firmly if ‘Jungle Raj’ continues in A.P., says Jagan - The Hindu",
+            "scraped_at": "2026-02-05 00:16:35",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पुलिस के काम में बाधा डालने के आरोप में YSRCP नेता Ambati Rambabu गिरफ्तार",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-leader-ambati-rambabu-arrested-for-creating-hurdles-for-police/article70575465.ece",
+            "source_title": "YSRCP leader Ambati Rambabu arrested for ‘creating hurdles’ for police - The Hindu",
+            "scraped_at": "2026-01-31 12:25:28",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "कोर्ट ने नायडू के खिलाफ APSSDC केस बंद करने की अनुमति दी",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/court-allows-closure-of-apssdc-case-against-naidu/article70506550.ece",
+            "source_title": "Court allows closure of APSSDC case against Naidu - The Hindu",
+            "scraped_at": "2026-01-13 13:07:39",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Pema Khandu",
+        "name_hi": "पेमा खांडू",
+        "aliases": [
+          "Khandu"
+        ],
+        "role": "Chief Minister of Arunachal Pradesh",
+        "role_hi": "अरुणाचल प्रदेश के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Arunachal Pradesh",
+        "state_hi": "अरुणाचल प्रदेश",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pema_Khandu",
+        "known_promises": [],
+        "image_placeholder": "pema_khandu",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Himanta Biswa Sarma",
+        "name_hi": "हिमतां बिस्वा सरमा",
+        "aliases": [
+          "Himanta Sarma",
+          "Sarma"
+        ],
+        "role": "Chief Minister of Assam",
+        "role_hi": "असम के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Assam",
+        "state_hi": "असम",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 7,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Himanta_Biswa_Sarma",
+        "known_promises": [],
+        "image_placeholder": "himanta_biswa_sarma",
+        "controversies": [
+          {
+            "incident_text": "प्रियंका गांधी वाड्रा ने कहा कि बोर्डोलोई का इस्तीफा टिकट आवंटन से नाराजगी के कारण हो सकता है",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
+            "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
+            "scraped_at": "2026-03-18 23:38:55.839838"
+          },
+          {
+            "incident_text": "हिमंता बिस्वा सरमा ने घोषणा की कि भूपेन कुमार बोरा BJP में शामिल होंगे",
+            "source_url": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-borah-joins-bjp/article70662542.ece",
+            "source_title": "Former Assam Congress chief Bhupen Borah joins BJP - The Hindu",
+            "scraped_at": "2026-02-22 01:28:10"
+          },
+          {
+            "incident_text": "हिमंता बिस्वा सरमा ने पाकिस्तान कनेक्शन के आरोप में गौरव गोगोई पर हमला किया और उनके परिवार को भी घसीटा",
+            "source_url": "https://www.thehindu.com/news/national/congress-general-secretary-priyanka-gandhi-vadra-assam-visit/article70654916.ece",
+            "source_title": "Priyanka Gandhi criticises Assam CM for dragging Gaurav Gogoi’s family, children into ‘Pakistan link’ allegation - The Hindu",
+            "scraped_at": "2026-02-20 01:35:47"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा पर समाज में फूट डालने के लिए सांप्रदायिक और संविधान विरोधी बयान देने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-congress-leaders-push-for-mass-firs-against-assam-cm-for-communal-statements/article70652771.ece",
+            "source_title": "Uttar Pradesh Congress leaders push for mass FIRs against Assam CM for ‘communal’ statements - The Hindu",
+            "scraped_at": "2026-02-19 11:31:52"
+          },
+          {
+            "incident_text": "हिमंत बिस्वा सरमा ने दावा किया कि भूपेन कुमार बोरा कांग्रेस में बिना राजनीतिक परिवार वाले 'आखिरी हिंदू नेता' थे",
+            "source_url": "https://www.thehindu.com/news/national/assam/stop-hindu-certificates-to-politicians-gogoi-tells-assam-cm/article70647583.ece",
+            "source_title": "Assam CM Gaurav Gogoi to CM Himanta Sarma: Stop ‘Hindu certificates’ to politicians - The Hindu",
+            "scraped_at": "2026-02-18 07:46:17"
+          },
+          {
+            "incident_text": "हिमंत बिस्वा सरमा ने कहा कि उनके बयान हमेशा संवैधानिक दायरे में होते हैं और उन्हें किसी कार्रवाई का डर नहीं है",
+            "source_url": "https://www.thehindu.com/news/national/my-statements-are-always-within-constitutional-limits-have-no-fear-assam-cm-on-viral-video-row/article70644343.ece",
+            "source_title": "My statements are always within constitutional limits, have no fear: Assam CM on viral video row - The Hindu",
+            "scraped_at": "2026-02-17 11:08:09"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा ने अल्पसंख्यक समुदाय के सदस्यों पर गोली चलाने वाले वीडियो की जानकारी होने से इनकार किया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/fir-registered-over-objectionable-social-media-post-by-assam-bjp/article70642696.ece",
+            "source_title": "FIR registered over objectionable social media post by Assam BJP - The Hindu",
+            "scraped_at": "2026-02-17 09:04:33"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा पर मुस्लिमों को निशाना बनाते हुए सांप्रदायिक भाषण देने और हथियार की फोटो पोस्ट करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/assam/supreme-court-finds-no-good-reason-to-entertain-pleas-for-hate-speech-fir-against-assam-cm/article70637930.ece",
+            "source_title": "Supreme Court finds ‘no good reason’ to entertain pleas for ‘hate speech’ FIR against Assam CM - The Hindu",
+            "scraped_at": "2026-02-16 04:38:34"
+          },
+          {
+            "incident_text": "वायरल वीडियो में हिमता बिस्वा सरमा पर दो लोगों पर राइफल से फायरिंग करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/himanta-firearm-video-supreme-court-to-hear-pleas-against-assam-cm-on-feb-16/article70631849.ece",
+            "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
+            "scraped_at": "2026-02-14 06:00:35"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा के वीडियो में उन्हें टोपी और दाढ़ी वाले लोगों पर फायरिंग करते दिखाया गया",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-congress-files-police-complaint-against-bjp-over-controversial-video-of-cm/article70614674.ece",
+            "source_title": "Assam Congress files police complaint against BJP over controversial video of CM - The Hindu",
+            "scraped_at": "2026-02-10 06:08:27"
+          },
+          {
+            "incident_text": "हिमंत बिस्वा सरमा ने 3 कांग्रेस नेताओं पर ₹500 करोड़ का मानहानि केस किया",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
+            "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
+            "scraped_at": "2026-02-10 06:07:23"
+          },
+          {
+            "incident_text": "हिमतां बिस्वा सरमा ने सोशल मीडिया पर दो मुस्लिम पुरुषों की फोटो पर बंदूक चलाते हुए अपनी पोस्ट शेयर की",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-cpim-assam-himanta-gun-video-urgent-hearing-jan-10-2026/article70614040.ece",
+            "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
+            "scraped_at": "2026-02-10 02:35:04"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा ने दावा किया कि गौरव गोगोई ने अपनी पत्नी के पाकिस्तान के ISI से कनेक्शन के आरोपों से ध्यान हटाने के लिए गलत जानकारी दी",
+            "source_url": "https://www.thehindu.com/news/national/assam/gaurav-gogois-pakistan-links-being-probed-for-sake-of-national-security-himanta/article70603942.ece",
+            "source_title": "Gaurav Gogoi's 'Pakistan links' being probed for sake of national security: Himanta - The Hindu",
+            "scraped_at": "2026-02-07 07:26:01"
+          },
+          {
+            "incident_text": "हिमंता बिस्वा सरमा ने दावा किया कि उन्होंने असम में ध्रुवीकरण को नियंत्रित किया और अब इसकी जरूरत नहीं है",
+            "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
+            "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
+            "scraped_at": "2026-07-04 00:11:31"
+          },
+          {
+            "incident_text": "हिमंता बिस्वा सरमा ने राहुल गांधी से गमोसा न पहनने के लिए माफी मांगी और इसे नॉर्थईस्ट का अपमान बताया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-insulted-northeast-by-not-wearing-gamosa-at-reception-hosted-by-president-bjp/article70554186.ece",
+            "source_title": "Rahul ‘insulted’ northeast by not wearing Gamosa at reception hosted by President: BJP - The Hindu",
+            "scraped_at": "2026-01-26 14:18:06"
+          },
+          {
+            "incident_text": "असम BJP में आंतरिक कलह फैलाने के आरोप में हिमांत बिस्वा सरमा के खिलाफ फर्जी पत्र जारी",
+            "source_url": "https://www.thehindu.com/news/national/assam/sonowals-office-denies-fake-letter-claiming-rift-in-assam-bjp-fir-lodged/article70526112.ece",
+            "source_title": "Sonowal’s office denies fake letter claiming rift in Assam BJP, FIR lodged - The Hindu",
+            "scraped_at": "2026-01-19 11:06:59"
+          },
+          {
+            "incident_text": "हिमतांशु बिस्वा सरमा ने Gen जेड. और Alpha को वेस्टर्न कॉन्सेप्ट्स बताया",
+            "source_url": "https://www.ndtv.com/india-news/independence-day-2026-himanta-sarma-says-gen-z-alpha-labels-european-concept-says-call-them-son-daughter-11914025#publisher=newsstand",
+            "source_title": "Independence Day 2026: Himanta Sarma Says Gen Z, Alpha Labels European Concept, Says Call Them Son, Daughter",
+            "scraped_at": "2026-08-15 11:25:53"
+          },
+          {
+            "incident_text": "हिमंत बिस्वा सरमा ने दावा किया कि कांग्रेस का वंदे मातरम आचरण देश में अस्थिरता लाएगा",
+            "source_url": "https://www.ndtv.com/india-news/himanta-sarmas-anarchy-jibe-at-sonia-rahul-gandhi-over-vande-mataram-row-11922118#publisher=newsstand",
+            "source_title": "Himanta Sarma's 'Anarchy' Jibe At Sonia, Rahul Gandhi Over Vande Mataram Row",
+            "scraped_at": "2026-08-17 15:53:42"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "कांग्रेस ने मेरी पत्नी पर पाकिस्तान के सोशल मीडिया ग्रुप से गलत जानकारी लेकर झूठे आरोप लगाए: असम CM हिमंता बिस्वा सरमा",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/congress-concocted-allegations-against-my-wife-using-false-info-from-pak-social-media-group-assam-cm/article70828977.ece",
+            "source_title": "Congress concocted allegations against my wife using false info from Pak social media group: Assam CM - The Hindu",
+            "scraped_at": "2026-04-06 05:31:18.786927",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पवन खेड़ा बोले- राजनीतिक बदले के लिए व्यक्तिगत आजादी की कुर्बानी नहीं दी जा सकती",
+            "source_url": "https://www.thehindu.com/news/national/bail-order-reminder-that-personal-liberty-cant-be-sacrificed-for-political-vendetta-pawan-khera/article70932791.ece",
+            "source_title": "Bail order reminder that personal liberty can’t be sacrificed for political vendetta: Pawan Khera - The Hindu",
+            "scraped_at": "2026-05-02 18:14:31.909107",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "नई दिल्ली में पवन खेड़ा के घर पहुंची असम पुलिस; हिमंता ने कांग्रेस नेता पर 'भागने' का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
+            "source_title": "Assam Police at Pawan Khera's residence in New Delhi; Himanta says Congress leader ‘ran away’ - The Hindu",
+            "scraped_at": "2026-04-07 08:22:43.536400",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "हिमंता के फायरआर्म वीडियो पर Supreme Court 16 Feb को सुनेगी याचिकाएं",
+            "source_url": "https://www.thehindu.com/news/national/himanta-firearm-video-supreme-court-to-hear-pleas-against-assam-cm-on-feb-16/article70631849.ece",
+            "source_title": "Himanta firearm video: Supreme Court to hear pleas against Assam CM on Feb 16 - The Hindu",
+            "scraped_at": "2026-02-14 06:00:35",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "असम CM हिमंता ने गौरव गोगोई और अन्य पर ₹500 करोड़ का मानहानि केस किया",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-himanta-files-500-crore-defamation-suit-against-gaurav-gogoi-others/article70614810.ece",
+            "source_title": "Assam CM Himanta files ₹500 crore defamation suit against Gaurav Gogoi, others - The Hindu",
+            "scraped_at": "2026-02-10 06:07:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "'Point-blank' वीडियो विवाद: असम CM के गन वीडियो पर CPI(M) की याचिका पर सुप्रीम कोर्ट सुनेगा मामला",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-cpim-assam-himanta-gun-video-urgent-hearing-jan-10-2026/article70614040.ece",
+            "source_title": "'Point-blank' video row: Supreme Court to hear CPI(M) petition on Assam CM’s controversial gun video - The Hindu",
+            "scraped_at": "2026-02-10 02:35:04",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Zubeen की मौत के केस में 12 दिसंबर को चार्जशीट दाखिल करेगी असम पुलिस",
+            "source_url": "https://www.thehindu.com/news/national/charge-sheet-in-zubeen-death-case-to-be-filed-on-december-12-assam-police/article70365717.ece",
+            "source_title": "Charge sheet in Zubeen death case to be filed on December 12: Assam Police - The Hindu",
+            "scraped_at": "2025-12-06 11:04:21",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Samrat Choudhary",
+        "name_hi": "सम्राट चौधरी",
+        "aliases": [
+          "Samrat",
+          "Choudhary",
+          "Bihar Chief Minister"
+        ],
+        "role": "Chief Minister of Bihar",
+        "role_hi": "बिहार के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Bihar",
+        "state_hi": "बिहार",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Samrat_Choudhary",
+        "known_promises": [],
+        "image_placeholder": "samrat_choudhary",
+        "controversies": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "दिल्ली HC ने लैंड-फॉर-जॉब्स केस में CBI FIR रद्द करने की लालू यादव की याचिकाthought",
+            "source_url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
+            "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
+            "scraped_at": "2026-03-24 10:05:36.975630",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "जॉब के बदले जमीन घोटाला: लालू प्रसाद और अन्य पर चार्ज फ्रेम करने के आदेश पर दिल्ली कोर्ट ने दी मोहलत",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Vishnu Deo Sai",
+        "name_hi": "विष्णु देव साय",
+        "aliases": [
+          "Vishnu Sai"
+        ],
+        "role": "Chief Minister of Chhattisgarh",
+        "role_hi": "छत्तीसगढ़ के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Chhattisgarh",
+        "state_hi": "छत्तीसगढ़",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Vishnu_Deo_Sai",
+        "known_promises": [],
+        "image_placeholder": "vishnu_deo_sai",
+        "controversies": [
+          {
+            "incident_text": "विष्णु देव साई ने नए धर्मांतरण विरोधी कानून की जरूरत बताई",
+            "source_url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-cabinet-approves-new-anti-conversion-law-draft/article70728272.ece",
+            "source_title": "Chhattisgarh Cabinet approves new anti-conversion law draft - The Hindu",
+            "scraped_at": "2026-03-10 14:13:00"
+          }
+        ],
+        "criminal_incidents": []
+      }
     ]
   }
 }
