@@ -7883,6 +7883,349 @@
           }
         ],
         "criminal_incidents": []
+      },
+      {
+        "name": "N. Rangasamy",
+        "name_hi": "एन. रंगसामी",
+        "aliases": [
+          "Rangasamy"
+        ],
+        "role": "Chief Minister of Puducherry",
+        "role_hi": "पुडुचेरी के मुख्यमंत्री",
+        "ministry": "",
+        "party": "AINRC",
+        "party_hi": "AINRC",
+        "state": "Puducherry",
+        "state_hi": "पुडुचेरी",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Rangasamy",
+        "known_promises": [],
+        "image_placeholder": "n_rangasamy",
+        "controversies": [],
+        "criminal_incidents": []
+      }
+    ],
+    "generic_politicians": [
+      {
+        "name": "Krishna Byre Gowda",
+        "name_hi": "कृष्ण बायर गौड़ा",
+        "aliases": [
+          "Bengaluru Development"
+        ],
+        "role": "Minister of Bengaluru Development",
+        "role_hi": "बेंगलुरु विकास मंत्री",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": "Karnataka",
+        "state_hi": "कर्नाटक",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Krishna_Byre_Gowda",
+        "known_promises": [],
+        "image_placeholder": "krishna_byre_gowda",
+        "controversies": [
+          {
+            "incident_text": "डी.के. शिवकुमार ने उपमुख्यमंत्री के तौर पर अपने बेंगलुरु डेवलपमेंट पोर्टफोलियो से इस्तीफा दे दिया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:23"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने बेंगलुरु डेवलपमेंट पोर्टफोलियो छोड़ दिया जिसे वे पहले डिप्टी सीएम के रूप में संभाल रहे थे",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-04 18:45:34"
+          },
+          {
+            "incident_text": "D.K. Shivakumar ने कृष्ण बायर गौड़ा को पोर्टफोलियो सौंपने के बावजूद BDA और BMRDA पर अपना कंट्रोल बनाए रखा",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 10:24:09"
+          },
+          {
+            "incident_text": "कृष्ण बायर गौड़ा ने कहा कि 20 साल के नसबंदी प्रयासों के बावजूद आवारा कुत्तों की आबादी वैसी ही है",
+            "source_url": "https://www.ndtv.com/karnataka-news/where-has-money-gone-bengaluru-minister-krishna-byre-gowda-loses-cool-at-officials-over-strays-11708746#publisher=newsstand",
+            "source_title": "Where Has Money Gone: Bengaluru Minister Krishna Byre Gowda Loses Cool At Officials Over Strays",
+            "scraped_at": "2026-06-30 19:02:52"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "S.P. Velumani",
+        "name_hi": "S.P. Velumani",
+        "aliases": [
+          "Velumani"
+        ],
+        "role": "MLA",
+        "role_hi": "MLA",
+        "ministry": "",
+        "party": "AIADMK",
+        "party_hi": "AIADMK",
+        "state": "Tamil Nadu",
+        "state_hi": "तमिलनाडु",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/S.P._Velumani",
+        "known_promises": [],
+        "image_placeholder": "sp_velumani",
+        "controversies": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "DMK MP ने AIADMK नेताओं के खिलाफ ED केस दर्ज करने के लिए मद्रास हाई कोर्ट में याचिका दायर की",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-mp-moves-madras-high-court-seeking-direction-to-ed-to-register-cases-against-aiadmk-leaders/article70757360.ece",
+            "source_title": "DMK MP moves Madras High Court seeking direction to ED to register cases against AIADMK leaders - The Hindu",
+            "scraped_at": "2026-03-18 12:14:00.786686",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "पूर्व मंत्रियों पर ED केस की याचिकाएं हाई कोर्ट ने खारिज की",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hc-dismisses-petitions-seeking-ed-cases-against-former-ministers/article70884744.ece",
+            "source_title": "HC dismisses petitions seeking ED cases against former Ministers - The Hindu",
+            "scraped_at": "2026-04-20 20:05:45.187031",
+            "incident_type": "serious"
+          }
+        ]
+      },
+      {
+        "name": "Meenakshi Natarajan",
+        "name_hi": "मीनाक्षी नटराजन",
+        "aliases": [
+          "Natarajan"
+        ],
+        "role": "Rajya Sabha candidate",
+        "role_hi": "राज्यसभा उम्मीदवार",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": null,
+        "state_hi": "",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi_Natarajan",
+        "known_promises": [],
+        "image_placeholder": "meenakshi_natarajan",
+        "controversies": [
+          {
+            "incident_text": "मीनाक्षी नटराजन ने कहा कि रिटर्निंग ऑफिसर का फैसला लोकतंत्र के खिलाफ है",
+            "source_url": "https://www.thehindu.com/news/national/congress-calls-returning-officers-order-on-meenakshi-natarajans-rs-nomination-egregious/article71084606.ece",
+            "source_title": "Congress calls Returning Officer’s order on Meenakshi Natarajan’s Rajya Sabha nomination ‘egregious’ - The Hindu",
+            "scraped_at": "2026-06-10 12:25:07.373246"
+          },
+          {
+            "incident_text": "मोहन यादव ने दावा किया कि कांग्रेस नेताओं ने खुद के लिए राज्यसभा सीट सुरक्षित करने के लिए मीनाक्षी नटराजन की नामांकन में बाधा डाली",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन ने चुनाव आयोग के नामांकन रद्द करने के फैसले को कानूनी रूप से गलत बताया",
+            "source_url": "https://www.ndtv.com/india-news/congress-to-move-high-court-over-meenakshi-natarajans-rajya-sabha-nomination-rejection-11735794#publisher=newsstand",
+            "source_title": "Congress To Move High Court Over Meenakshi Natarajan's Rajya Sabha Nomination Rejection",
+            "scraped_at": "2026-07-06 18:59:48"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के हिसाब से काम किया: तेलंगाना BJP प्रमुख",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के मुताबिक काम किया: तेलंगाना BJP प्रमुख",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन की नामांकन रद्द होने पर कांग्रेस पहुंची Supreme Court",
+            "source_url": "https://indianexpress.com/article/india/congress-approaches-supreme-court-over-meenakshi-natarajan-nomination-rejection-10733710/",
+            "source_title": "Congress approaches Supreme Court over Meenakshi Natarajan nomination rejection | India News - The Indian Express",
+            "scraped_at": "2026-06-10 21:39:20.999817",
+            "incident_type": "serious"
+          }
+        ]
+      },
+      {
+        "name": "M.K. Stalin",
+        "name_hi": "M.K. Stalin",
+        "aliases": [
+          "Stalin",
+          "Tamil Nadu CM",
+          "DMK Chief"
+        ],
+        "role": "Former Chief Minister",
+        "role_hi": "पूर्व मुख्यमंत्री",
+        "ministry": "",
+        "party": "DMK",
+        "party_hi": "DMK",
+        "state": "Tamil Nadu",
+        "state_hi": "तमिलनाडु",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 4,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/M._K._Stalin",
+        "known_promises": [],
+        "image_placeholder": "mk_stalin",
+        "controversies": [
+          {
+            "incident_text": "M.K. Stalin का दावा कि BJP AIADMK को खत्म कर देगी",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/dmk-will-meet-its-downfall-for-inducting-traitors-ousted-from-aiadmk-palaniswami/article70719687.ece",
+            "source_title": "DMK will meet its downfall for inducting ‘traitors’ ousted from AIADMK: Palaniswami - The Hindu",
+            "scraped_at": "2026-03-09 03:25:54"
+          },
+          {
+            "incident_text": "L. Murugan के मुताबिक M.K. Stalin को चुनाव में बड़ी हार का डर है",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-inspects-venue-for-pms-public-meeting-in-tiruchi/article70718977.ece",
+            "source_title": "Union Minister inspects venue for PM’s public meeting in Tiruchi - The Hindu",
+            "scraped_at": "2026-03-08 08:17:38"
+          },
+          {
+            "incident_text": "M.K. Stalin ने संस्थानों पर हिंदी नाम थोपने के लिए BJP सरकार की आलोचना की और इसे 'एक भाषा – तीन लिपियाँ' कहा",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/hindi-words-removed-from-entrance-arch-at-tiruchi-railway-divisional-office-following-political-furore/article70703462.ece",
+            "source_title": "Hindi words removed from entrance arch at Tiruchi Railway Divisional Office following political furore - The Hindu",
+            "scraped_at": "2026-03-04 08:44:13"
+          },
+          {
+            "incident_text": "M.K. Stalin का दावा कि ASI ने 8 महीने तक तमिलनाडु के खुदाई प्रस्तावों को नजरअंदाज किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-urges-union-govtto-grant-approvalfor-archaeological-excavations-in-state/article70696898.ece",
+            "source_title": "CM urges Union govt.to grant approvalfor archaeological excavations in State - The Hindu",
+            "scraped_at": "2026-03-02 18:02:41"
+          },
+          {
+            "incident_text": "M.K. Stalin ने कहा कि उन्होंने थिरुपरंकुंड्राम मंदिर की परंपराओं को बचाने के लिए मुख्यमंत्री के रूप में काम किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/idecidedto-safeguard-the-traditions-of-thirupparankundram-temple-says-stalin/article70691252.ece",
+            "source_title": "I decided to safeguard the traditions of Thirupparankundram temple, says Stalin - The Hindu",
+            "scraped_at": "2026-03-01 09:25:32"
+          },
+          {
+            "incident_text": "M.K. Stalin ने दावा किया कि O. Panneerselvam जैसे नेताओं को शामिल करने से DMK मजबूत हुई",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bjp-reacts-sharply-against-dmk-for-inducting-o-panneerselvam/article70683743.ece",
+            "source_title": "Tamil Nadu BJP reacts sharply against DMK for inducting O. Panneerselvam - The Hindu",
+            "scraped_at": "2026-02-27 08:44:56"
+          },
+          {
+            "incident_text": "M.K. Stalin का मानना है कि मौजूदा पावर बैलेंस केंद्र के पक्ष में है जिससे राज्यों के काम में दोहराव और माइक्रोमैनेजमेंट हो रहा है",
+            "source_url": "https://www.thehindu.com/news/national/need-to-recalibrate-union-state-relations-as-centralisation-has-failed-to-deliver-mk-stalin/article70660886.ece",
+            "source_title": "Need to recalibrate Union-State relations as centralisation has failed to deliver: M.K. Stalin - The Hindu",
+            "scraped_at": "2026-02-21 12:01:58"
+          },
+          {
+            "incident_text": "मुख्यमंत्री ने अपनी कहानी में कोलाथुर में M.K. Stalin की हार का जिक्र किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
+            "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
+            "scraped_at": "2026-06-24 00:04:02"
+          },
+          {
+            "incident_text": "M.K. Stalin का दावा BJP के कई राइट-विंग सोशल मीडिया अकाउंट्स से 'fake news' फैलाई जा रही है",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/bjp-running-several-right-wing-social-media-accounts-spreading-fake-news-says-stalin/article70656380.ece",
+            "source_title": "BJP running several right-wing social media accounts spreading fake news, says Stalin - The Hindu",
+            "scraped_at": "2026-02-20 16:25:13"
+          },
+          {
+            "incident_text": "Nainar Nagenthran के मुताबिक M.K. Stalin जनता के मुद्दों को नहीं समझते और सिर्फ अपने परिवार की राजनीतिक पावर की परवाह करते हैं",
+            "source_url": "https://www.thehindu.com/news/cities/Coimbatore/bjp-to-begin-talks-on-seat-allocation-in-a-month-nainar-nagenthran/article70624981.ece",
+            "source_title": "BJP to begin talks on seat allocation in a month: Nainar Nagenthran - The Hindu",
+            "scraped_at": "2026-02-13 02:07:28"
+          },
+          {
+            "incident_text": "M.K. Stalin ने कहा कि विपक्ष शासित राज्य बिना डबल इंजन सरकार के भी तरक्की कर रहे हैं",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/is-a-double-engine-government-crucial-for-growth/article70624617.ece",
+            "source_title": "Is a ‘double engine government’ crucial for growth? - The Hindu",
+            "scraped_at": "2026-02-13 02:08:04"
+          },
+          {
+            "incident_text": "M.K. Stalin का दावा कि मजबूत इकोनॉमी और ज्यादा टैक्स देने के बावजूद तमिलनाडु को कम फंड मिल रहा है",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/centre-gives-a-pittance-to-tn-despite-state-ranking-2ndon-economic-front-cm/article70591442.ece",
+            "source_title": "Centre gives a pittance to T.N. despite State ranking 2nd on economic front: CM - The Hindu",
+            "scraped_at": "2026-02-04 14:02:28"
+          },
+          {
+            "incident_text": "M.K. Stalin ने कहा कि गोडसे द्वारा गोली मारे गए महात्मा गांधी लोगों के जीवन में बने रहेंगे",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/governor-rn-ravi-chief-minister-mk-stalin-pay-tributes-to-mahatma-gandhi/article70569649.ece",
+            "source_title": "Governor R.N. Ravi, Chief Minister M.K. Stalin pay tributes to Mahatma Gandhi - The Hindu",
+            "scraped_at": "2026-01-30 14:06:50"
+          },
+          {
+            "incident_text": "M.K. Stalin का दावा कि वंशवाद वाले आरोप उन लोगों द्वारा लगाए जाते हैं जिनके पास जमीनी समर्थन की कमी है",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-denies-charges-of-dynastic-politics-corruption-and-anti-hindu-bias-levelled-against-dmk/article70569626.ece",
+            "source_title": "T.N. CM Stalin denies charges of dynastic politics, corruption, and anti-Hindu bias levelled against DMK - The Hindu",
+            "scraped_at": "2026-01-30 07:35:38"
+          },
+          {
+            "incident_text": "M.K. Stalin ने कहा कि AIADMK के पुराने शासन और गैर-सहयोगी केंद्र सरकार की वजह से चुनाव के वादे और खुशहाल सरकार देने को लेकर वे चिंतित हैं",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/other-states-look-up-to-tamil-nadu-as-a-model-cm-stalin/article70546188.ece",
+            "source_title": "Other States look up to Tamil Nadu as a model: CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 07:16:26"
+          },
+          {
+            "incident_text": "M.K. Stalin का दावा कि केंद्र सरकार ने DMK सरकार की कई योजनाएं अपना लीं",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/even-bjp-government-has-adopted-tamil-nadus-schemes-says-cm-stalin/article70545668.ece",
+            "source_title": "Even BJP government has adopted Tamil Nadu’s schemes, says CM Stalin - The Hindu",
+            "scraped_at": "2026-01-24 03:03:30"
+          },
+          {
+            "incident_text": "M.K. Stalin के परिवार के कर्नाटक CM के साथ राजनीति से इतर भी गहरे संबंध",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-issue-tn-minister-nirmalkumar-says-karnataka-cm-shivakumar-dmk-share-ties-beyond-politics/article71297337.ece",
+            "source_title": "Cauvery issue: T.N. Minister Nirmalkumar says Karnataka CM Shivakumar, DMK share ties beyond politics - The Hindu",
+            "scraped_at": "2026-08-02 10:47:18"
+          },
+          {
+            "incident_text": "M.K. Stalin ने सरकार पर राजनीतिक बदले की कार्रवाई का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
+            "source_title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu",
+            "scraped_at": "2026-08-05 02:46:59"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal में सरकार बनाने की तैयारी शुरू",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-04 22:14:09",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पलानीस्वामी ने जीतने पर विदेश में छिपे हवाला पैसे वापस लाने का वादा किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-assures-people-of-bringing-back-hawala-money-stashed-abroad-in-the-event-of-victory/article70661013.ece",
+            "source_title": "Palaniswami assures people of bringing back hawala money stashed abroad in the event of victory - The Hindu",
+            "scraped_at": "2026-02-21 21:06:02",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "विजय और तृषा पर उधयनिधि स्टालिन के बयान पर BJP नेता खुशबू सुंदर का हमला",
+            "source_url": "https://www.ndtv.com/india-news/tamil-nadu-vijay-actor-trisha-water-row-if-youre-man-enough-khushbu-sundar-slams-udhayanidhi-stalins-trisha-remark-11866402#publisher=newsstand",
+            "source_title": "Tamil Nadu, Vijay, Actor Trisha, Water Row: \"If You're Man Enough...\": BJP's Khushbu Sundar Slams Udhayanidhi Stalin's 'Trisha' Remark",
+            "scraped_at": "2026-08-04 19:09:58",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Tamil Nadu Budget 2026 LIVE अपडेट्स: वित्त मंत्री N. Marie Wilson पेश करेंगी TVK सरकार का पहला बजट",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
+            "source_title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu",
+            "scraped_at": "2026-08-05 02:46:59",
+            "incident_type": "broad"
+          }
+        ]
       }
     ]
   }
