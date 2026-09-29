@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -5773,7 +5773,7 @@
           "Adhikari"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 16,
+        "criminal_cases_in_news": 17,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
         "image_placeholder": "suvendu_adhikari",
@@ -5893,9 +5893,16 @@
             "source_title": "FIR Names Bengal Terror Suspect Hamim Mondal's Foreign Handlers: 'Rana, C9Uzhair, Abid Jutt'",
             "scraped_at": "2026-08-02 15:41:54",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "No incriminating items found in house search linked to Suvendu Adhikari’s suo motu FIR: police tell Calcutta HC On September 29, 2026, **Purba Medinipur police** informed the Calcutta High Court that ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-suo-motu-fir-no-incriminating-material-calcutta-hc/article71523151.ece",
+            "source_title": "No incriminating items found in house search linked to Suvendu Adhikari’s suo motu FIR: police tell Calcutta HC",
+            "scraped_at": "2026-09-29 10:05:45",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-02",
+        "criminal_last_updated": "2026-09-29",
         "controversies": [
           {
             "incident_text": "Suvendu Adhikari stated that naming the temple 'Jagannath Dham' hurt the sentiments of Hindus in Odisha and Bengal.",
