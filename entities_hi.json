@@ -3662,6 +3662,408 @@
             "incident_type": "broad"
           }
         ]
+      },
+      {
+        "name": "Lalu Prasad Yadav",
+        "name_hi": "लालू प्रसाद यादव",
+        "aliases": [
+          "Lalu",
+          "RJD Chief"
+        ],
+        "role": "RJD President",
+        "role_hi": "RJD अध्यक्ष",
+        "ministry": "",
+        "party": "RJD",
+        "party_hi": "RJD",
+        "state": "Bihar",
+        "state_hi": "बिहार",
+        "constituency": "Patna Sahib",
+        "constituency_hi": "पटना साहिब",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 7,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav",
+        "known_promises": [],
+        "image_placeholder": "lalu_prasad_yadav",
+        "controversies": [
+          {
+            "incident_text": "रबड़ी देवी की सरकारी आवास से बेदखली में देरी का कारण लालू प्रसाद यादव की खराब सेहत बताया गया",
+            "source_url": "https://www.thehindu.com/news/national/bihar/rabri-devi-seeks-more-time-to-vacate-official-residence-cites-lalus-health/article71109099.ece",
+            "source_title": "Rabri Devi seeks more time to vacate official residence, cites Lalu’s health - The Hindu",
+            "scraped_at": "2026-06-16 13:20:23"
+          },
+          {
+            "incident_text": "Lalu Prasad Yadav ने राजनीतिक विरोधियों को मात देकर Nitish Kumar को मुख्यमंत्री बनने में मदद की",
+            "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumars-political-journey-from-rebellion-to-longest-serving-cm/article70706250.ece",
+            "source_title": "Nitish Kumar’s political journey: From rebellion to longest-serving CM - The Hindu",
+            "scraped_at": "2026-03-05 03:24:11"
+          },
+          {
+            "incident_text": "लalu प्रसाद यादव बीमार हैं और उनके बेटे ने उन्हें और अपने पिता को मारने की साजिश का दावा किया",
+            "source_url": "https://www.thehindu.com/news/national/bihar/conspiracy-being-hatched-to-kill-me-my-father-tej-pratap/article71126337.ece",
+            "source_title": "Conspiracy being hatched to kill me, my father: Tej Pratap - The Hindu",
+            "scraped_at": "2026-06-20 23:14:35"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "दिल्ली HC ने लैंड-फॉर-जॉब्स केस में CBI FIR रद्द करने की लालू यादव की याचिका खारिज की",
+            "source_url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
+            "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
+            "scraped_at": "2026-03-24 10:05:36.975630",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बिहार में कई सालों के साथ के बाद BJP अब ड्राइविंग सीट संभालने को तैयार - The Hindu नीतीश कुमार ने 5 March 2024 को Rajya Sabha के लिए अपना नामांकन भरा",
+            "source_url": "https://www.thehindu.com/news/national/after-years-of-pillion-riding-bjp-readies-to-take-the-driving-seat-in-bihar/article70711558.ece",
+            "source_title": "After years of pillion-riding, BJP readies to take the driving seat in Bihar - The Hindu",
+            "scraped_at": "2026-03-06 07:38:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Land-for-jobs scam: दिल्ली कोर्ट ने लालू और राबड़ी देवी पर लगाया चार्ज",
+            "source_url": "https://www.thehindu.com/news/national/land-for-jobs-scam-case-delhi-court-frames-charges-against-lalu-rabri-devi/article70639429.ece",
+            "source_title": "Land-for-jobs scam case: Delhi court frames charges against Lalu, Rabri Devi - The Hindu",
+            "scraped_at": "2026-02-16 11:45:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC स्कैम केस: दिल्ली हाई कोर्ट ने रबड़ी देवी की याचिका पर CBI से मांगा स्टैंड",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/irctc-scam-case-delhi-high-court-seeks-cbi-stand-on-rabri-devis-plea-against-framing-of-charges/article70513846.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
+            "scraped_at": "2026-01-16 03:05:17",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC scam case: दिल्ली HC ने CBI से तेजस्वी यादव की याचिका पर जवाब मांगा",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-cbi-tejashwi-yadav/article70476945.ece",
+            "source_title": "IRCTC scam case: Delhi HC asks CBI to reply to Tejashwi Yadav’s plea against charge framing order - The Hindu",
+            "scraped_at": "2026-01-06 02:01:05",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "जॉब के बदले जमीन घोटाला: लालू प्रसाद और अन्य पर चार्ज फ्रेम करने के आदेश पर दिल्ली कोर्ट ने की देरी",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC होटल स्कैम में लालू यादव, पत्नी राबड़ी देवी और बेटे तेजस्वी यादव पर चार्ज लगाने का कोर्ट का आदेश",
+            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
+            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
+            "scraped_at": "2026-09-10 13:27:56",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Tejashwi Yadav",
+        "name_hi": "तेजस्वी यादव",
+        "aliases": [
+          "Tejashwi",
+          "Bihar Deputy CM"
+        ],
+        "role": "RJD Leader / Former Bihar Deputy CM",
+        "role_hi": "RJD नेता / पूर्व बिहार डिप्टी CM",
+        "ministry": "",
+        "party": "RJD",
+        "party_hi": "RJD",
+        "state": "Bihar",
+        "state_hi": "बिहार",
+        "constituency": "Raghopur",
+        "constituency_hi": "रघोपुर",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 6,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tejashwi_Yadav",
+        "known_promises": [],
+        "image_placeholder": "tejashwi_yadav",
+        "controversies": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "IRCTC स्कैम केस: दिल्ली हाई कोर्ट ने रबड़ी देवी की याचिका पर CBI से मांगा स्टैंड",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/irctc-scam-case-delhi-high-court-seeks-cbi-stand-on-rabri-devis-plea-against-framing-of-charges/article70513846.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
+            "scraped_at": "2026-01-16 03:05:17",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC 'scam' केस: दिल्ली HC 5 Jan को लालू प्रसाद की याचिका पर करेगा सुनवाई",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-to-hear-lalu-prasads-petition-against-framing-charges-on-jan-5/article70470243.ece",
+            "source_title": "IRCTC ‘scam’ case: Delhi HC to hear Lalu Prasad’s petition against framing charges on Jan. 5 - The Hindu",
+            "scraped_at": "2026-01-04 01:55:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC घोटाला मामला: दिल्ली हाई कोर्ट ने लालू प्रसाद की याचिका पर CBI से जवाब मांगा",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-asks-cbi-to-reply-to-lalu-prasads-plea-against-charge-framing-order/article70473137.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
+            "scraped_at": "2026-01-05 02:04:04",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC घोटाला मामला: दिल्ली हाई कोर्ट ने लालू प्रसाद की याचिका पर CBI से मांगा जवाब",
+            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-seeks-cbis-response-to-reply-to-lalu-prasads-plea/article70473137.ece",
+            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
+            "scraped_at": "2026-01-05 02:24:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "जॉब्स के लिए जमीन घोटाला: दिल्ली कोर्ट ने लालू प्रसाद और अन्य पर चार्ज फ्रेम करने के आदेश पर दी मोहलत",
+            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
+            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
+            "scraped_at": "2025-12-04 03:09:23",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "IRCTC होटल घोटाले में लालू यादव, पत्नी राबड़ी देवी और बेटे तेजस्वी यादव पर चार्ज लगाने का कोर्ट का आदेश",
+            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
+            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
+            "scraped_at": "2026-09-10 13:27:56",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Thol. Thirumavalavan",
+        "name_hi": "थोल. तिरुमवलवन",
+        "aliases": [
+          "Thirumavalavan"
+        ],
+        "role": "leader of the VCK",
+        "role_hi": "VCK के नेता",
+        "ministry": "",
+        "party": "VCK",
+        "party_hi": "VCK",
+        "state": "Tamil Nadu",
+        "state_hi": "तमिलनाडु",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "",
+        "wikipedia": "",
+        "known_promises": [],
+        "image_placeholder": "",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Abhishek Banerjee",
+        "name_hi": "अभिषेक बनर्जी",
+        "aliases": [
+          "Banerjee"
+        ],
+        "role": "Trinamool Congress general secretary",
+        "role_hi": "Trinamool Congress महासचिव",
+        "ministry": "",
+        "party": "TMC",
+        "party_hi": "TMC",
+        "state": "West Bengal",
+        "state_hi": "पश्चिम बंगाल",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 22,
+        "affidavit_url": "",
+        "wikipedia": "",
+        "known_promises": [],
+        "image_placeholder": "",
+        "controversies": [
+          {
+            "incident_text": "अभिषेक बनर्जी ने अपने घर पर छापेमारी के दौरान पुलिस पर उत्पीड़न का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/police-search-abhishek-banerjees-kolkata-residence-for-over-four-hours/article71096590.ece",
+            "source_title": "West Bengal police search Abhishek Banerjee’s Kolkata residence - The Hindu",
+            "scraped_at": "2026-06-13 14:13:49"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी ने कहा TMC एक 'एकल, अविभाज्य राजनीतिक पार्टी' है और अलग होने वाले ग्रुप मान्यता का दावा नहीं कर सकते",
+            "source_url": "https://www.thehindu.com/news/national/lok-sabha-speaker-mamata-faction-to-present-case-amid-tmc-split/article71108164.ece",
+            "source_title": "Speaker Om Birla invites Mamata Banerjee faction to ‘present case’ amid TMC split - The Hindu",
+            "scraped_at": "2026-06-16 08:30:10"
+          },
+          {
+            "incident_text": "चुनाव प्रचार के दौरान कथित भड़काऊ बयान पर अभिषेक बनर्जी से पूछताछ",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
+            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
+            "scraped_at": "2026-06-16 18:22:39"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी ने आंखों के इलाज के लिए 7 दिनों के लिए विदेश यात्रा की अनुमति मांगी",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
+            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-23 16:37:06"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी का दावा कि आयुष्मान भारत के नियमों के कारण पश्चिम बंगाल की 90% आबादी इसके लिए अयोग्य होगी",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
+            "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
+            "scraped_at": "2026-01-21 07:27:14"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी ने कोर्ट में अपना वॉइस सैंपल जमा किया",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
+            "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
+            "scraped_at": "2026-07-15 09:15:02"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी का दावा कि व्यक्तियों को विदेश में इलाज चुनने का अधिकार है",
+            "source_url": "https://www.ndtv.com/india-news/supreme-court-allows-trinamool-congress-mp-abhishek-banerjee-to-travel-abroad-for-eye-treatment-11889051#publisher=newsstand",
+            "source_title": "Supreme Court Allows Trinamool Congress MP Abhishek Banerjee To Travel Abroad For Eye Treatment",
+            "scraped_at": "2026-08-10 09:28:31"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी ने क्रिमिनल केस के बावजूद आंखों के इलाज के लिए विदेश जाने की अनुमति मांगी",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-allows-abhishek-banerjee-to-travel-abroad-for-eye-treatment/article71327697.ece",
+            "source_title": "Supreme Court allows Abhishek Banerjee to travel abroad for eye treatment - The Hindu",
+            "scraped_at": "2026-08-10 10:47:38"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "टीचर रिक्रूटमेंट स्कैम में अभिषेक बनर्जी को ED का समन, CID नोटिस भी पेंडिंग",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
+            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-03 22:16:01.999473",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "गिरफ्तारी और इस्तीफों के बीच पश्चिम बंगाल में Trinamool का संकट गहराया - कोलकाता पुलिस ने अभिषेक बनर्जी के घर पर छापेमारी की",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
+            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
+            "scraped_at": "2026-05-26 04:51:03.882465",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल में TMC नेता अभिषेक बनर्जी पर हमले के लिए 5 गिरफ्तार",
+            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
+            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
+            "scraped_at": "2026-05-31 09:37:55.181015",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी पर हमला: दक्षिण 24 परगना के सोनपुर में TMC MP पर भीड़ के हमले के बाद 5 गिरफ्तार",
+            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
+            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
+            "scraped_at": "2026-05-31 06:30:16.763734",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "South 24 Parganas के Sonarpur में TMC MP Abhishek Banerjee पर हमले के बाद 5 गिरफ्तार",
+            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
+            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
+            "scraped_at": "2026-05-31 06:25:25.115843",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी पर हमला: TMC और BJP एक-दूसरे पर मढ़े आरोप",
+            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
+            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
+            "scraped_at": "2026-05-31 11:44:00.328937",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Trinamool ने मीटिंग रद्द की क्योंकि 3/4 MLAs नहीं पहुंचे",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
+            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
+            "scraped_at": "2026-05-31 22:37:04.430259",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "ट्रिबनी राय ने बताया 'Shape of Momo' बनाने की वजह: India Today",
+            "source_url": "https://www.indiatoday.in/newsmo/video/i-never-saw-my-representation-on-screen-tribeny-rai-on-why-she-made-shape-of-momo-2919973-2026-05-31?utm_source=rss",
+            "source_title": "I never saw my representation on screen: Tribeny Rai on why she made 'Shape of Momo' - India Today",
+            "scraped_at": "2026-05-31 22:36:49.506679",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "कलकत्ता हाई कोर्ट अभिषेक की सुरक्षा की याचिका पर करेगा सुनवाई",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
+            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
+            "scraped_at": "2026-06-03 22:16:48.162279",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सिग्नेचर फर्जीवाड़े के मामले में ममता बनर्जी के घर पहुंची West Bengal CID",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
+            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
+            "scraped_at": "2026-06-09 12:10:11.000460",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "अभिषेक बनर्जी पर हमला: सोनपुर में छापेमारी के बाद 5 गिरफ्तार, 2 हिरासत में",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
+            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
+            "scraped_at": "2026-05-31 00:57:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool rebel को Key Post के लिए समर्थन, 'Mamata Banerjee Our Leader' Trinamool Congress MLA Ri",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"बेटे जैसा\": \"तुम या मैं\" अल्टीमेटम के बाद अभिषेक बनर्जी पर कल्याण बनर्जी के बयान",
+            "source_url": "https://www.ndtv.com/india-news/like-son-kalyan-banerjee-on-abhishek-banerjee-after-him-or-me-ultimatum-11632112#publisher=newsstand",
+            "source_title": "\"Like Son\": Kalyan Banerjee On Abhishek Banerjee After \"Him Or Me\" Ultimatum",
+            "scraped_at": "2026-06-13 14:10:43",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल MLA सिग्नेचर फॉरजरी केस: अभिषेक बनर्जी CID के सामने पेश",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/signature-forgery-case-calcutta-high-court-directs-abhishek-banerjee-to-appear-before-cid/article71088353.ece",
+            "source_title": "West Bengal MLAs signature forgery case: Abhishek Banerjee appears before CID - The Hindu",
+            "scraped_at": "2026-06-14 08:59:20",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal CID ने अभिषेक बनर्जी से लगातार तीसरे दिन पूछताछ की",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
+            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
+            "scraped_at": "2026-06-16 18:22:39",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Mehbooba Mufti",
+        "name_hi": "मेहबूबा मुफ्ती",
+        "aliases": [
+          "Mufti"
+        ],
+        "role": "President of Peoples Democratic Party",
+        "role_hi": "Peoples Democratic Party के अध्यक्ष",
+        "ministry": "",
+        "party": "PDP",
+        "party_hi": "PDP",
+        "state": "Jammu and Kashmir",
+        "state_hi": "जम्मू और कश्मीर",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mehbooba_Mufti",
+        "known_promises": [],
+        "image_placeholder": "mehbooba_mufti",
+        "controversies": [
+          {
+            "incident_text": "मेहबूबा मुफ्ती ने AIIMS साइट का दौरा किया और देरी से हुए प्रोजेक्ट का श्रेय लिया",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "मेहबूबा मुफ्ती ने AIIMS प्रोजेक्ट के लिए अपने पिता के सपने को पूरा करने के तौर पर अपनी यात्रा को पेश किया",
+            "source_url": "https://indianexpress.com/article/india/in-kashmir-a-stir-over-mehboobas-review-of-aiims-10727464/",
+            "source_title": "In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS | India News - The Indian Express",
+            "scraped_at": "2026-06-06 14:18:50.366653"
+          }
+        ],
+        "criminal_incidents": []
       }
     ]
   }
