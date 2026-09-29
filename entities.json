@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -717,6 +717,12 @@
             "source_url": "https://www.ndtv.com/india-news/truth-will-defeat-jhooth-ki-goonj-pm-modi-targets-rahul-gandhi-in-gujarat-12016848#publisher=newsstand",
             "source_title": "\"Truth Will Defeat <i>Jhooth Ki Goonj</i>\": PM Modi Targets Rahul Gandhi In Gujarat",
             "scraped_at": "2026-09-08 08:45:12"
+          },
+          {
+            "incident_text": "Narendra Modi told Rahul Gandhi that Congress would come to power after BJP's exit.",
+            "source_url": "https://www.thehindu.com/news/national/when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-bjp/article71523738.ece",
+            "source_title": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP",
+            "scraped_at": "2026-09-29 14:08:05"
           }
         ]
       },
