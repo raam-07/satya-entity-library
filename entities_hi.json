@@ -3175,6 +3175,55 @@
           }
         ],
         "criminal_incidents": []
+      },
+      {
+        "name": "G. Kishan Reddy",
+        "name_hi": "जी किशन रेड्डी",
+        "aliases": [
+          "G. Reddy"
+        ],
+        "role": "Union Minister for Coal & Mines",
+        "role_hi": "केंद्रीय कोयला और खान मंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": null,
+        "state_hi": "",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/G._Kishan_Reddy",
+        "known_promises": [],
+        "image_placeholder": "g_kishan_reddy",
+        "controversies": [
+          {
+            "incident_text": "G. Kishan Reddy पर BRS नेताओं से मिले और प्रोजेक्ट अप्रूवल रोके के आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
+          },
+          {
+            "incident_text": "G. Kishan Reddy का आरोप, राहुल गांधी ने राजनीतिक फायदे और अपने करीबियों के लिए तेलंगाना के मुद्दों का फायदा उठाया",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "G Kishan Reddy पर BRS भ्रष्टाचार की CBI जांच रोकने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
+            "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 12:04:19"
+          },
+          {
+            "incident_text": "G. Kishan Reddy ने दावा किया कि आजादी के बाद individualism और communism जैसी पश्चिमी विचारधाराएं भारत पर चुनिंदा रूप से थोपी गईं",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bjp-champions-pandit-deendayal-upadhyayas-integral-humanism/article70542661.ece",
+            "source_title": "BJP champions Pandit Deendayal Upadhyaya’s ‘Integral Humanism’ - The Hindu",
+            "scraped_at": "2026-01-23 08:17:55"
+          }
+        ],
+        "criminal_incidents": []
       }
     ],
     "opposition_leaders": [
@@ -3292,6 +3341,558 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/is-an-mla-contesting-mp-poll-on-another-partys-b-form-not-defection-asks-harish-rao/article70738615.ece",
             "source_title": "Is an MLA contesting MP poll on another party’s B-Form not defection? asks Harish Rao - The Hindu",
             "scraped_at": "2026-03-13 05:15:18"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि लोकसभा पूरे देश का प्रतिनिधित्व करती है, न कि सिर्फ एक पार्टी का",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-march-12-2026-live-updates/article70733709.ece",
+            "source_title": "Parliament Budget session LIVE: Lok Sabha to discuss and vote on demands for grants under Railway Ministry - The Hindu",
+            "scraped_at": "2026-03-11 22:59:08"
+          },
+          {
+            "incident_text": "राहुल गांधी का आरोप, BJP-RSS ने भारत की शिक्षा व्यवस्था को नुकसान पहुँचाया",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि लोकसभा पूरे देश का प्रतिनिधित्व करती है, न कि सिर्फ एक पार्टी का",
+            "source_url": "https://www.thehindu.com/news/national/lok-sabha-represents-the-whole-country-not-just-one-party-says-lop-rahul-gandhi/article70731376.ece",
+            "source_title": "Lok Sabha represents the whole country, not just one party, says LoP Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-11 12:03:17"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि संविधान पर हमला हो रहा है और इसके आदर्शों की रक्षा नहीं की जा रही",
+            "source_url": "https://www.thehindu.com/news/national/constitution-voice-of-gandhi-ambedkar-under-attack-rahul-in-raebareli/article71001386.ece",
+            "source_title": "Constitution, voice of Gandhi, Ambedkar, under attack: Rahul in Raebareli - The Hindu",
+            "scraped_at": "2026-05-20 04:35:19"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार कर्नाटक के 25वें मुख्यमंत्री बने",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
+          },
+          {
+            "incident_text": "राहुल गांधी के इस साल के दौरे पर भी इसी तरह प्रचार सामग्री हटाई गई थी",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-modis-kerala-visit-kochi-corporation-removes-publicity-materials-welcoming-pm-citing-hc-directions/article70729851.ece",
+            "source_title": "PM Modi Kerala visit: Kochi Corporation removes publicity materials welcoming PM citing ‘HC directions’ - The Hindu",
+            "scraped_at": "2026-03-11 01:33:10"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा भारत की उपलब्धियों के बावजूद संकट का सामना कर रहा है",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-undermining-achievements-of-india-its-people-fm-nirmala-sitharaman/article71100616.ece",
+            "source_title": "Rahul Gandhi 'undermining' achievements of India, its people: FM Nirmala Sitharaman - The Hindu",
+            "scraped_at": "2026-06-14 08:58:57"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि भारत की फॉरेन पॉलिसी एक कॉम्प्रोमाइज्ड व्यक्ति के शोषण से निकलती है",
+            "source_url": "https://www.thehindu.com/news/national/congress-hits-out-at-modi-for-ceding-diplomatic-space-rahul-terms-him-compromised/article70711134.ece",
+            "source_title": "Congress hits out at Modi for 'ceding diplomatic space', Rahul terms him 'compromised' - The Hindu",
+            "scraped_at": "2026-03-06 05:13:38"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि 'Kerala Story-2' की कम व्यूअरशिप केरल की संस्कृति और परंपराओं की समझ की कमी दिखाती है",
+            "source_url": "https://www.thehindu.com/news/national/good-news-that-kerala-story-2-is-not-being-widely-watched-says-rahul-gandhi/article70711856.ece",
+            "source_title": "‘Good news’ that Kerala Story-2 is not being widely watched, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-03-06 07:38:00"
+          },
+          {
+            "incident_text": "चुनाव के वादों की समीक्षा किए बिना राहुल गांधी का तेलंगाना आने का कोई अधिकार नहीं: G Kishan Reddy",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "T. Jagga Reddy के मुताबिक मोदी सरकार की विफलताओं पर राहुल गांधी की बातें सच साबित हुई हैं",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cycles-distributed-on-rahul-gandhis-birthday-in-sangareddy/article71123340.ece",
+            "source_title": "Cycles distributed on Rahul Gandhi’s birthday in Sangareddy - The Hindu",
+            "scraped_at": "2026-06-19 17:03:03"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि विकलांग पेंशन पर टैक्स लगाना दिग्गजों का अपमान है",
+            "source_url": "https://www.thehindu.com/news/national/rahul-seeks-more-funding-of-echs-tax-exemption-on-disability-pensions/article70687698.ece",
+            "source_title": "Rahul seeks more funding of ECHS, tax exemption on disability pensions - The Hindu",
+            "scraped_at": "2026-02-28 05:55:34"
+          },
+          {
+            "incident_text": "राहुल गांधी का आरोप कि मोदी ने जेफ्री एपस्टीन के कहने पर पहले इजराइल की यात्रा की थी",
+            "source_url": "https://www.thehindu.com/news/national/congress-links-modis-israeloutreachto-epstein-files-claims/article70676542.ece",
+            "source_title": "Congress links Modi’s Israel outreach to ‘Epstein Files’ claims - The Hindu",
+            "scraped_at": "2026-02-25 14:34:54"
+          },
+          {
+            "incident_text": "राहुल गांधी ने पीएम मोदी पर किसानों के हितों के बजाय अमेरिका के लिए कृषि सेक्टर खोलने और राजनीतिक व वित्तीय फायदे देखने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/prime-minister-modi-sacrificing-farmers-over-us-trade-deal-rahul-gandhi/article70679358.ece",
+            "source_title": "PM sacrificing farmers over U.S. trade deal: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-26 06:34:58"
+          },
+          {
+            "incident_text": "राहुल गांधी पर बिना सुरक्षा एजेंसियों को बताए विदेश यात्रा करने और एंटी-इंडिया तत्वों से जुड़े होने के आरोप",
+            "source_url": "https://www.thehindu.com/news/national/rahul-on-compromised-mission-has-links-with-pro-pak-elements-nitin-nabin/article70674540.ece",
+            "source_title": "Rahul on ‘compromised mission’, has links with ‘pro-Pak elements’: Nitin Nabin - The Hindu",
+            "scraped_at": "2026-02-25 02:06:43"
+          },
+          {
+            "incident_text": "मोहन यादव ने दावा किया कि नेहरू-गांधी परिवार राष्ट्रीय हित से ऊपर राजनीति को रखता है",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
+            "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
+            "scraped_at": "2026-02-25 08:21:47"
+          },
+          {
+            "incident_text": "राहुल गांधी की SPG सुरक्षा पहले BJP सरकार ने हटा दी थी",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-questions-removal-of-nsg-cover-accuses-bjp-government-of-playing-with-his-security/article70661293.ece",
+            "source_title": "Akhilesh questions removal of NSG cover, accuses BJP government of 'playing' with his security - The Hindu",
+            "scraped_at": "2026-02-21 17:01:04"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कांग्रेस से इस्तीफे के बाद भूपेन बोरा से बात की",
+            "source_url": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-borah-joins-bjp/article70662542.ece",
+            "source_title": "Former Assam Congress chief Bhupen Borah joins BJP - The Hindu",
+            "scraped_at": "2026-02-22 01:28:10"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि सदन के नियम संवैधानिक अधिकारों पर भारी पड़ सकते हैं",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-the-freedom-of-speech-of-mps/article70663727.ece",
+            "source_title": "Protecting the freedom of speech of MPs - The Hindu",
+            "scraped_at": "2026-02-22 14:01:10"
+          },
+          {
+            "incident_text": "राहुल गांधी पर सरकार पर हमला कर अराजकता फैलाने का आरोप",
+            "source_url": "https://www.ndtv.com/india-news/b-team-of-disruptive-elements-education-minister-dharmendra-pradhan-to-ndtv-on-cjp-11675087#publisher=newsstand",
+            "source_title": "\"B Team Of Disruptive Elements\": Education Minister Dharmendra Pradhan To NDTV On CJP",
+            "scraped_at": "2026-06-23 11:24:46"
+          },
+          {
+            "incident_text": "राहुल गांधी 2018 में अमित शाह पर दिए गए बयान से जुड़े मानहानि केस में कोर्ट में पेश होंगे",
+            "source_url": "https://www.thehindu.com/news/national/defamation-case-rahul-gandhi-sultanpur-court-february-20-2026/article70654862.ece",
+            "source_title": "Defamation case: Rahul to appear before Sultanpur court - The Hindu",
+            "scraped_at": "2026-02-20 01:36:09"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कार्तिकेय सिंह की कथित रूप से बदनामी करने वाले बयान पर खेद जताया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-expresses-regret-in-defamation-case-filed-by-shivraj-singh-chouhans-son/article71143233.ece",
+            "source_title": "Rahul Gandhi expresses regret in defamation case filed by Shivraj Singh Chouhan's son - The Hindu",
+            "scraped_at": "2026-06-25 01:37:24"
+          },
+          {
+            "incident_text": "",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-high-court-defamation-shivraj-singh-chouhan-son-10757297/",
+            "source_title": "Rahul Gandhi expresses regret in defamation case by Shivraj Singh Chouhan’s son | India News - The Indian Express",
+            "scraped_at": "2026-06-25 12:30:04"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कन्फर्म किया कि DMK ने कांग्रेस को एक राज्यसभा सीट दी है",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/rs-polls-on-march-16-dmk-aiadmk-to-accommodate-allies/article70648415.ece",
+            "source_title": "RS polls on March 16; DMK, AIADMK to accommodate allies - The Hindu",
+            "scraped_at": "2026-02-18 14:37:35"
+          },
+          {
+            "incident_text": "राहुल गांधी ने AI Summit को 'बिखरा हुआ PR तमाशा' बताया और चीनी प्रोडक्ट्स दिखाए जाने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/those-who-lack-intelligence-shouldnt-post-about-ai-bjp-on-rahul-gandhis-ai-summit-remark/article70647036.ece",
+            "source_title": "Those who lack intelligence shouldn’t post about AI: BJP on Rahul Gandhi’s AI Summit remark - The Hindu",
+            "scraped_at": "2026-02-18 05:24:08"
+          },
+          {
+            "incident_text": "राहुल गांधी ने रिश्ते पर बात की लेकिन बोरा के इस्तीफे पर कुछ नहीं कहा",
+            "source_url": "https://www.thehindu.com/news/national/assam/gaurav-gogoi-just-face-of-assam-congress-rakibul-hussain-its-sole-base-bhupen-borah/article70646396.ece",
+            "source_title": "Gaurav Gogoi just face of Assam Congress, says Bhupen Borah - The Hindu",
+            "scraped_at": "2026-02-18 03:27:38"
+          },
+          {
+            "incident_text": "राहुल गांधी ने अपने खिलाफ मानहानि केस की कानूनी वैधता पर सवाल उठाए",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-bjps-defamation-case-against-rahul-gandhi/article70642067.ece",
+            "source_title": "Karnataka High Court quashes BJP’s defamation case against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-17 04:28:39"
+          },
+          {
+            "incident_text": "नवजोत कौर सिद्धू के मुताबिक राहुल गांधी को अपनी पार्टी की पंजाब यूनिट में भ्रष्टाचार की जानकारी नहीं है",
+            "source_url": "https://www.thehindu.com/news/national/you-dont-deserve-that-chair-navjot-kaur-sidhu-lashes-out-at-rahul-gandhi-after-quitting-congress/article70641506.ece",
+            "source_title": "‘You don't deserve that chair’: Navjot Kaur Sidhu lashes out at Rahul Gandhi after quitting Congress - The Hindu",
+            "scraped_at": "2026-02-16 23:29:27"
+          },
+          {
+            "incident_text": "2014 से राहुल गांधी की कम सक्रियता के साथ कांग्रेस की लगातार चुनाव में हार हुई है",
+            "source_url": "https://www.ndtv.com/india-news/politics-is-24-hour-job-pranab-mukherjees-daughter-sharmistha-mukherjee-on-rahul-gandhis-disappearing-act-11698228#publisher=newsstand",
+            "source_title": "\"Politics Is 24-Hour Job\": Pranab Mukherjee's Daughter Sharmistha Mukherjee On Rahul Gandhi's \"Disappearing Act\"",
+            "scraped_at": "2026-06-28 11:12:37"
+          },
+          {
+            "incident_text": "राहुल गांधी पर Soros Foundation, Ford Foundation और USAID जैसे संगठनों के साथ मिलकर दक्षिण-पूर्व एशियाई देशों की यात्राओं के जरिए एंटी-इंडिया फोर्सेज से सांठगांठ करने के आरोप",
+            "source_url": "https://www.thehindu.com/news/national/what-is-a-substantive-motion-why-bjp-wants-rahul-gandhi-disqualified-from-lok-sabha/article70627499.ece",
+            "source_title": "What is a Substantive Motion, under which BJP MP is seeking Rahul Gandhi’s disqualification - The Hindu",
+            "scraped_at": "2026-02-13 03:23:32"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि उनके पास हरदीप सिंह पुरी को Epstein फाइल्स से जोड़ने वाली पुख्ता जानकारी है",
+            "source_url": "https://www.thehindu.com/news/national/opposition-mps-demand-hardeep-puris-resignation-over-alleged-links-with-epstein/article70627293.ece",
+            "source_title": "Opposition MPs demand Hardeep Puri's resignation over alleged links with Epstein - The Hindu",
+            "scraped_at": "2026-02-13 02:07:17"
+          },
+          {
+            "incident_text": "राहुल गांधी ने इस मामले पर अपनी टिप्पणी के लिए प्रिविलेज मोशन पेश किया",
+            "source_url": "https://www.thehindu.com/news/national/congress-demands-petroleum-minister-hardeep-singh-puris-resignation/article70625398.ece",
+            "source_title": "Congress demands Petroleum Minister Hardeep Singh Puri’s resignation - The Hindu",
+            "scraped_at": "2026-02-12 14:08:55"
+          },
+          {
+            "incident_text": "राहुल गांधी ने PM मोदी पर किसान विरोधी और India-U.एस. ट्रेड डील के जरिए भारत को बेचने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/government-can-file-fir-or-move-privilege-motion-i-will-stand-with-farmers-rahul-gandhi-on-criticism-of-us-trade-deal/article70625515.ece",
+            "source_title": "Government can file FIR or move Privilege Motion, I will stand with farmers: Rahul Gandhi on criticism of U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-12 14:08:36"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि अगर सरकार चाहे तो वे फांसी पर लटकने को तैयार हैं",
+            "source_url": "https://www.thehindu.com/news/national/congress-leader-kc-venugopal-hits-out-at-substantive-motion-notice-against-rahul-gandhi/article70625206.ece",
+            "source_title": "Congress leader K.C. Venugopal hits out at ‘Substantive Motion’ notice against Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-12 11:46:19"
+          },
+          {
+            "incident_text": "निशिकांत दुबे ने राहुल गांधी पर देश को गुमराह करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/videos/watch-bjp-moves-substantive-motion-against-rahul-gandhi-nishikant-dubey-seeks-life-long-ban/article70623924.ece",
+            "source_title": "Watch: BJP moves substantive motion against Rahul Gandhi, Nishikant Dubey seeks life-long ban - The Hindu",
+            "scraped_at": "2026-02-12 06:19:03"
+          },
+          {
+            "incident_text": "राहुल गांधी पर Soros Foundation, USAID और Ford Foundation जैसी संस्थाओं के साथ विदेशी दौरों के दौरान एंटी-इंडिया फोर्सेज से मिलीभगत के आरोप",
+            "source_url": "https://www.thehindu.com/news/national/bjp-mp-nishikant-dubey-lok-sabha-rahul-gandhi-notice-to-move-motion/article70622899.ece",
+            "source_title": "BJP’s Nishikant Dubey files notice to cancel Rahul Gandhi’s Lok Sabha membership - The Hindu",
+            "scraped_at": "2026-02-12 02:32:08"
+          },
+          {
+            "incident_text": "नितिन नबिन के मुताबिक राहुल गांधी पार्ट-टाइम पॉलिटिशियन हैं",
+            "source_url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-a-part-time-politician-says-bjp-national-president-nitin-nabin/article71161560.ece",
+            "source_title": "Rahul Gandhi a ‘part-time politician’, says BJP national president Nitin Nabin - The Hindu",
+            "scraped_at": "2026-06-29 13:53:42"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि जनरल नरवणे की मेमोयर 'Four Stars of Destiny' पहले ही पब्लिश हो चुकी है",
+            "source_url": "https://www.thehindu.com/news/national/former-army-general-naravane-confirms-penguins-claim-that-memoir-is-as-yet-unpublished-as-delhi-police-files-fir/article70616235.ece",
+            "source_title": "Former Army General Naravane confirms Penguin’s claim that memoir is as yet unpublished as Delhi Police files FIR - The Hindu",
+            "scraped_at": "2026-02-10 12:11:32"
+          },
+          {
+            "incident_text": "राहुल गांधी ने सवाल किया कि अग्निवीरों के करियर प्रोग्रेशन के लिए MHA के बजाय Defence Ministry को क्यों नहीं संभाला जाता",
+            "source_url": "https://www.thehindu.com/news/national/mha-sidesteps-rahul-gandhis-query-on-agniveers-career-progression/article70616589.ece",
+            "source_title": "MHA sidesteps Rahul Gandhi’s query on Agniveers career progression - The Hindu",
+            "scraped_at": "2026-02-10 12:11:24"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि वे किताब के पब्लिकेशन स्टेटस पर Penguin Random House India के बजाय पूर्व सेना प्रमुख Naravane पर भरोसा करते हैं",
+            "source_url": "https://www.thehindu.com/news/national/rahul-cites-naravanes-available-now-post-from-2023-to-rebut-publishers-claim/article70614372.ece",
+            "source_title": "Rahul cites Naravane's 'available now' post from 2023 to rebut publisher's claim - The Hindu",
+            "scraped_at": "2026-02-10 03:42:50"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि पीएम मोदी ने M.M. Naravane की किताब के डर से संसद से दूरी बनाई",
+            "source_url": "https://www.thehindu.com/news/national/pm-did-not-come-to-lok-sabha-fearing-not-because-of-threat-from-mps-rahul-gandhi/article70610583.ece",
+            "source_title": "PM did not come to Lok Sabha fearing not because of threat from MPs: Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-02-09 06:00:38"
+          },
+          {
+            "incident_text": "BJP के विज्ञापन में राहुल गांधी को राजनीतिक नेताओं पर लाठी उठाते हुए दिखाया गया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/gandhi-smaraka-nidhi-objects-to-wrong-portrayal-of-gandhiji-in-advertisement-campaign-in-karnataka/article70608083.ece",
+            "source_title": "Gandhi Smaraka Nidhi objects to ‘wrong’ portrayal of Gandhiji in advertisement campaign in Karnataka - The Hindu",
+            "scraped_at": "2026-02-08 14:00:08"
+          },
+          {
+            "incident_text": "राहुल गांधी पर संसद में जनरल नरवणे की किताब पर सवाल उठाकर भारत-चीन संबंधों को नुकसान पहुँचाने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/rahul-gandhi-tried-to-harm-indo-china-relations-alleges-shivamogga-mp-by-raghavendra/article70603340.ece",
+            "source_title": "Rahul Gandhi tried to harm Indo-China relations: Shivamogga MP B.Y. Raghavendra - The Hindu",
+            "scraped_at": "2026-02-07 05:07:46"
+          },
+          {
+            "incident_text": "किरेन रिजिजू ने कहा कि राहुल गांधी खबरों में बने रहने के लिए फालतू बयानबाजी करते हैं",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-indulging-in-frivolous-rhetoric-to-stay-in-headlines-kiren-rijiju/article70603394.ece",
+            "source_title": "Rahul Gandhi indulging in frivolous rhetoric to stay in headlines: Kiren Rijiju - The Hindu",
+            "scraped_at": "2026-02-07 04:06:47"
+          },
+          {
+            "incident_text": "राहुल गांधी पर हकीकत से दूर रहने और पंजाब के बजाय अपने निजी हितों को प्राथमिकता देने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/punjab/navjot-kaur-sidhu-expelled-from-congress-days-after-she-quit-party/article70602727.ece",
+            "source_title": "Navjot Kaur Sidhu expelled from Congress, days after she ‘quit’ party - The Hindu",
+            "scraped_at": "2026-02-06 20:39:57"
+          },
+          {
+            "incident_text": "राहुल गांधी ने जनरल नरवणे के 2020 चीनी घुसपैठ के दावे पर सवाल उठाए और मोदी और जेफरी एपस्टीन के बीच संबंधों का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/pm-must-answer-questions-related-to-national-security-in-parliament-congress-mp/article70600787.ece",
+            "source_title": "Prime Minister Narendra Modi must answer questions related to national security in Parliament, says Congress MP - The Hindu",
+            "scraped_at": "2026-02-06 12:42:55"
+          },
+          {
+            "incident_text": "राहुल गांधी ने पार्टी बदलने पर रवनीत सिंह बिट्टू को देशद्रोही कहा",
+            "source_url": "https://www.thehindu.com/news/national/insults-fly-as-rahul-gandhi-ravneet-bittu-trade-traitor-and-enemy-of-the-country-jibes/article70591488.ece",
+            "source_title": "Insults fly as Rahul Gandhi, Ravneet Bittu trade ‘traitor’ and ‘enemy of the country’ jibes - The Hindu",
+            "scraped_at": "2026-02-04 08:49:58"
+          },
+          {
+            "incident_text": "नयब सिंह सैनी ने कांग्रेस को लोगों को गुमराह करने वाली 'tweet-master party' बताया",
+            "source_url": "https://www.thehindu.com/news/national/haryana/congress-has-become-tweet-master-party-haryana-cm/article70591287.ece",
+            "source_title": "Congress has become ‘tweet master party’: Haryana CM - The Hindu",
+            "scraped_at": "2026-02-04 06:09:34"
+          },
+          {
+            "incident_text": "राहुल गांधी ने रवनीत सिंह बिट्टू को देशद्रोही कहा",
+            "source_url": "https://www.thehindu.com/news/national/entire-sikh-community-anguished-over-rahul-calling-bittu-traitor-bjp/article70591386.ece",
+            "source_title": "Entire Sikh community anguished over Rahul calling Bittu traitor: BJP - The Hindu",
+            "scraped_at": "2026-02-04 06:10:05"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा कि PM मोदी ने दबाव में ट्रेड डील साइन की और भारतीय किसानों के साथ समझौता किया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-pm-modi-india-us-trade-deal-parliament/article70586974.ece",
+            "source_title": "India-U.S. trade deal: Rahul Gandhi claims PM Modi ‘compromised’, too afraid to let LoP speak in Parliament - The Hindu",
+            "scraped_at": "2026-02-03 07:39:44"
+          },
+          {
+            "incident_text": "राहुल गांधी ने 2020 के भारत-चीन विवाद पर मोदी और सिंह की आलोचना के लिए एक अनपब्लिश्ड मेमवायर का हवाला देने की कोशिश की",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-lok-sabha-rajya-sabha-the-hindu-live-updates-february-3-2026/article70586034.ece",
+            "source_title": "Parliament Budget Session Day 5 LIVE: Lok Sabha adjourned till noon; Congress demands debate on India-U.S. trade deal - The Hindu",
+            "scraped_at": "2026-02-03 00:12:25"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि एक अनपब्लिश्ड मेमवायर संसदीय बहस के लिए जरूरी है",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-om-birla-face-off-rule-349/article70586156.ece",
+            "source_title": "Rahul Gandhi-Om Birla face off: Rule 349 bars reading books, newspapers; but silent on published or unpublished texts, says expert - The Hindu",
+            "scraped_at": "2026-02-03 01:32:10"
+          },
+          {
+            "incident_text": "रिटायर्ड जनरल Manoj Naravane की किताब के जिक्र पर आपत्ति के कारण राहुल गांधी को 2020 भारत-चीन बॉर्डर विवाद पर बोलने से रोका गया",
+            "source_url": "https://www.thehindu.com/news/national/congress-says-government-is-misusing-rules-to-silence-lop-from-quoting-naravanes-book-on-china-border-issue/article70583791.ece",
+            "source_title": "Congress says government is misusing rules to silence LoP from quoting Naravane’s book on China border issue - The Hindu",
+            "scraped_at": "2026-02-02 10:35:36"
+          },
+          {
+            "incident_text": "सर्मा के मुताबिक राहुल गांधी कांग्रेस को लेफ्ट और जाति आधारित विचारधारा की ओर ले जा रहे हैं",
+            "source_url": "https://indianexpress.com/article/idea-exchange/himanta-biswa-sarma-at-idea-exchange-dont-think-polarisation-needed-in-assam-i-controlled-the-menace-10770461/",
+            "source_title": "Himanta Biswa Sarma at Idea Exchange: ‘Don’t think polarisation needed in Assam, I controlled the menace’ | Idea Exchange News - The Indian Express",
+            "scraped_at": "2026-07-04 00:11:31"
+          },
+          {
+            "incident_text": "राहुल गांधी ने रिपब्लिक डे रिसेप्शन में राष्ट्रपति Murmu द्वारा दिए गए 'गमोसा' पहनने से मना किया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-disrespected-northeast-by-not-wearing-gamosa-at-presidents-republic-day-event-shah/article70569510.ece",
+            "source_title": "Rahul disrespected Northeast by not wearing 'gamosa' at President's Republic Day event: Shah - The Hindu",
+            "scraped_at": "2026-01-30 03:15:03"
+          },
+          {
+            "incident_text": "राहुल गांधी के खिलाफ ₹6,000 करोड़ के भ्रष्टाचार के आरोप में एक्सचाइस वेंडर्स एसोसिएशन ने याचिका दायर की",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-jds-legislators-stage-dharna-in-front-of-mahatma-gandhi-statue-in-bengaluru-seeking-resignation-of-excise-minister-action-against-those-who-misbehaved-with-karnataka-governor/article70555843.ece",
+            "source_title": "BJP-JDS stage dharna seeking resignation of Excise Minister, action against those who ‘misbehaved’ with Karnataka Governor - The Hindu",
+            "scraped_at": "2026-01-27 04:10:18"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा संविधान हर भारतीय का सबसे बड़ा हथियार और ढाल है",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "शकील अहमद के मुताबिक राहुल गांधी बिना पब्लिक सपोर्ट वाले युवा लीडर्स को प्रमोट कर रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-dictatorial-insecure-leader-says-former-congress-leader-shakeel-ahmad/article70548972.ece",
+            "source_title": "Rahul Gandhi ‘dictatorial, insecure leader’, says former Congress leader Shakeel Ahmad - The Hindu",
+            "scraped_at": "2026-01-25 01:57:30"
+          },
+          {
+            "incident_text": "राहुल गांधी ने स्कैंडल में सोनिया गांधी को जोड़ने पर केरल में कांग्रेस नेतृत्व को फटकारा",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-case-cpim-claims-congress-backed-off-after-sonia-gandhis-name-surfaced/article70549090.ece",
+            "source_title": "Sabarimala gold theft case: CPI(M) claims Congress backed off after Sonia Gandhi’s name surfaced - The Hindu",
+            "scraped_at": "2026-01-25 02:16:23"
+          },
+          {
+            "incident_text": "राहुल गांधी ने हाल के इवेंट में शशि थरूर की मौजूदगी को ठीक से स्वीकार नहीं किया",
+            "source_url": "https://www.thehindu.com/news/national/kerala-literature-festival-shashi-tharoor-congress-disagreement/article70545643.ece",
+            "source_title": "Never violated party line, unapologetic over Operation Sindhoor stance, says Shashi Tharoor - The Hindu",
+            "scraped_at": "2026-01-24 03:04:03"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि I&B Ministry द्वारा 'Jana Nayagan' को रोकने की कोशिश तमिल संस्कृति पर हमला है",
+            "source_url": "https://www.thehindu.com/news/national/attack-on-tamil-culture-rahul-gandhi-accuses-ib-ministry-of-blocking-jana-nayagan/article70504566.ece",
+            "source_title": "‘Attack on Tamil culture’: Rahul Gandhi accuses I&B Ministry of blocking Jana Nayagan - The Hindu",
+            "scraped_at": "2026-01-13 03:05:15"
+          },
+          {
+            "incident_text": "राहुल गांधी ने शुरुआती समझौते के बाद नई मांगें जोड़ी",
+            "source_url": "https://www.ndtv.com/india-news/congress-protest-cjp-neet-went-back-on-his-word-minister-jitendra-singh-on-rahul-gandhis-demands-11801635#publisher=newsstand",
+            "source_title": "\"Went Back On His Word\": Minister Jitendra Singh On Rahul Gandhi's 'Demands'",
+            "scraped_at": "2026-07-21 15:08:12"
+          },
+          {
+            "incident_text": "राहुल गांधी पेपर लीक मामलों का इस्तेमाल राजनीतिक फायदे के लिए कर रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/why-so-selective-on-paper-leaks-nadda-asks-rahul/article71255070.ece",
+            "source_title": "Why so selective on paper leaks, Nadda asks Rahul - The Hindu",
+            "scraped_at": "2026-07-22 19:57:33"
+          },
+          {
+            "incident_text": "राहुल गांधी ने प्रहलाद जोशी को 'रेप के गुनहगारों का रक्षक' कहा",
+            "source_url": "https://www.ndtv.com/india-news/cjp-protests-dharmendra-pradhan-paper-leak-protest-neet-protest-bjp-defender-of-rapists-is-education-minister-rahul-gandhi-slams-pralhad-joshi-11833464#publisher=newsstand",
+            "source_title": "CJP Protests, Dharmendra Pradhan, Paper Leak Protest, NEET Protest, BJP: \"Defender Of Rapists Is Education Minister\": Rahul Gandhi Slams Pralhad Joshi",
+            "scraped_at": "2026-07-28 15:02:37"
+          },
+          {
+            "incident_text": "राहुल गांधी ने अमित शाह पर प्रदर्शनकारियों पर फायरिंग के आदेश देने का आरोप लगाया",
+            "source_url": "https://www.ndtv.com/india-news/lok-sabha-paper-leak-bill-what-happened-after-rahul-gandhis-remarks-on-amit-shah-inside-story-11838868#publisher=newsstand",
+            "source_title": "Lok Sabha, Paper Leak Bill: What Happened After Rahul Gandhi's Remarks On Amit Shah? Inside Story",
+            "scraped_at": "2026-07-29 14:57:05"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि छात्र कार्रवाई पर अमित शाह या तो दोषी थे या अक्षम",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-amit-shah-chalo-sansad-cjp-protests-anti-paper-leak-bill-10809224/",
+            "source_title": "Amit Shah ‘culpable or incompetent’, sack him for crackdown on students: Rahul Gandhi | India News - The Indian Express",
+            "scraped_at": "2026-07-29 15:00:26"
+          },
+          {
+            "incident_text": "राहुल गांधी ने बहस के दौरान बिना सबूत के आरोप लगाए",
+            "source_url": "https://www.thehindu.com/news/national/bjp-mp-anurag-thakur-files-privilege-notice-against-rahul-gandhi-over-remarks-on-amit-shah/article71286972.ece",
+            "source_title": "BJP MP Anurag Thakur files privilege notice against Rahul Gandhi over remarks on Amit Shah - The Hindu",
+            "scraped_at": "2026-07-30 15:34:20"
+          },
+          {
+            "incident_text": "राहुल गांधी ने संसद में 'idiots' और 'blind devotees' जैसे शब्दों का इस्तेमाल किया",
+            "source_url": "https://www.ndtv.com/india-news/anurag-thakur-files-contempt-notice-against-rahul-gandhi-in-parliament-11845220#publisher=newsstand",
+            "source_title": "BJP MP's Contempt Notice Against Rahul Gandhi Over Remarks In Parliament",
+            "scraped_at": "2026-07-30 19:40:32"
+          },
+          {
+            "incident_text": "राहुल गांधी ने छात्रों से प्यार और करुणा के साथ भ्रष्टाचार खत्म करने को कहा",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/youth-indias-biggest-strength-its-potential-unmatched-rahul-gandhi-in-prayagraj/article71322354.ece",
+            "source_title": "End corrupt system with love and affection, Rahul Gandhi tells students - The Hindu",
+            "scraped_at": "2026-08-09 09:46:09"
+          },
+          {
+            "incident_text": "राहुल गांधी ने वर्ल्ड लीडर्स को गले मिलते हुए PM मोदी की फॉरेन पॉलिसी का मजाक उड़ाया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-scoffs-at-pms-foreign-policy-kharge-says-being-modi-bhakt-will-not-help-country/article71341568.ece",
+            "source_title": "Rahul scoffs at PM’s foreign policy; Kharge says being ‘Modi bhakt’ will not help country - The Hindu",
+            "scraped_at": "2026-08-13 18:34:10"
+          },
+          {
+            "incident_text": "राहुल गांधी पर रैली के दौरान VD Savarkar की बदनामी करने का आरोप",
+            "source_url": "https://www.ndtv.com/india-news/top-court-cancels-defamation-case-against-rahul-gandhi-over-savarkar-remarks-11908893#publisher=newsstand",
+            "source_title": "Top Court Cancels Hate Speech Case Against Rahul Gandhi Over Savarkar Remarks",
+            "scraped_at": "2026-08-14 07:42:51"
+          },
+          {
+            "incident_text": "राहुल गांधी ने V.D. Savarkar के बारे में कथित तौर पर अपमानजनक टिप्पणी की",
+            "source_url": "https://www.thehindu.com/news/national/supreme-court-quashes-criminal-defamation-complaint-summon-against-rahul-gandhi-for-savarkar-remarks/article71344475.ece",
+            "source_title": "Supreme Court quashes hate speech case against Rahul Gandhi over Savarkar remarks after U.P. govt. refuses sanction - The Hindu",
+            "scraped_at": "2026-08-14 13:15:27"
+          },
+          {
+            "incident_text": "सावरकर पर टिप्पणी के लिए राहुल गांधी पर हेट स्पीच का चार्ज नहीं",
+            "source_url": "https://www.thehindu.com/videos/watch-karur-stampede-supreme-court-stay-on-govt-jobs-for-victims-families-above-the-fold-14082026/article71346645.ece",
+            "source_title": "Watch: Karur Stampede: Supreme Court stay on govt. jobs for victims’ families| Above the Fold| 14.08.2026 - The Hindu",
+            "scraped_at": "2026-08-14 15:59:02"
+          },
+          {
+            "incident_text": "राहुल गांधी ने अमित शाह के खिलाफ अभद्र टिप्पणी की",
+            "source_url": "https://www.ndtv.com/india-news/lok-sabha-seeks-rahul-gandhis-reply-on-privilege-notice-over-amit-shah-remark-11911748#publisher=newsstand",
+            "source_title": "Lok Sabha Seeks Rahul Gandhi's Reply On Privilege Notice Over Amit Shah Remark",
+            "scraped_at": "2026-08-14 19:55:12"
+          },
+          {
+            "incident_text": "राहुल गांधी ने बहस के दौरान अभद्र भाषा का इस्तेमाल किया",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-asked-to-respond-to-privilege-notice-by-august-28/article71346649.ece",
+            "source_title": "Rahul Gandhi asked to respond to privilege notice by August 28 - The Hindu",
+            "scraped_at": "2026-08-14 22:54:17"
+          },
+          {
+            "incident_text": "राहुल गांधी ने PM मोदी के खिलाफ अभद्र टिप्पणी की",
+            "source_url": "https://www.thehindu.com/news/national/union-ministers-call-rahul-gandhis-remarks-on-pm-modi-undignified-undemocratic/article71346596.ece",
+            "source_title": "Union Ministers call Rahul Gandhi’s remarks on PM Modi ‘undignified, undemocratic’ - The Hindu",
+            "scraped_at": "2026-08-14 22:55:12"
+          },
+          {
+            "incident_text": "thought",
+            "source_url": "https://www.thehindu.com/news/national/raut-defends-rahul-over-his-remarks-against-amit-shah/article71352650.ece",
+            "source_title": "Raut defends Rahul over his remarks against Amit Shah - The Hindu",
+            "scraped_at": "2026-08-16 12:46:04"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि वे वंदे मातरम नहीं गा रहे थे",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
+            "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-08-17 23:27:37"
+          },
+          {
+            "incident_text": "राहुल गांधी की सावarkar पर टिप्पणी से मानहानि केस दर्ज",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/savarkar-defamation-case-high-court-plea-accuses-court-of-trying-to-determine-if-savarkar-brave-or-coward/article71365972.ece",
+            "source_title": "Savarkar defamation case: Plea in High Court accuses Special Court of trying to determine if Savarkar was ‘brave or coward’ - The Hindu",
+            "scraped_at": "2026-08-20 03:51:38"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा 80% महिलाओं को उत्पीड़न का सामना करना पड़ता है",
+            "source_url": "https://www.thehindu.com/news/national/support-womens-quota-implementation-full-vande-mataram-rendition-bjp-to-rahul-gandhi/article71380828.ece",
+            "source_title": "Support women's quota implementation, full Vande Mataram rendition: BJP to Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-08-23 11:49:03"
+          },
+          {
+            "incident_text": "राहुल गांधी ने भारत की विरासत को नकारना अपना जन्मसिद्ध अधिकार माना",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
+            "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
+            "scraped_at": "2026-08-24 11:58:22"
+          },
+          {
+            "incident_text": "राहुल गांधी ने छात्रों से बातचीत के दौरान मनुस्मृति वाली मानसिकता की आलोचना की",
+            "source_url": "https://www.thehindu.com/news/national/bjp-leaders-question-rahul-gandhis-remarks-on-the-manusmriti-and-womens-rights/article71385940.ece",
+            "source_title": "BJP leaders question Rahul Gandhi’s remarks on the Manusmriti and women’s rights - The Hindu",
+            "scraped_at": "2026-08-24 18:48:02"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा 150 में से सिर्फ 1 उम्मीदवार को सरकारी नौकरी मिलती है",
+            "source_url": "https://www.ndtv.com/india-news/jhooth-ki-goonj-website-seeks-to-fact-check-rahul-gandhis-student-outreach-claims-11963155#publisher=newsstand",
+            "source_title": "Jhooth Ki Goonj Website Seeks To \"Fact-Check\" Rahul Gandhi's Student Outreach Claims",
+            "scraped_at": "2026-08-26 18:19:54"
+          },
+          {
+            "incident_text": "राहुल गांधी का 'smash the patriarchy' नारा पाखंड वाला बताया गया",
+            "source_url": "https://www.thehindu.com/news/national/bjp-accuses-rahul-gandhi-of-hypocrisy-over-womens-empowerment/article71393071.ece",
+            "source_title": "BJP accuses Rahul Gandhi of hypocrisy over women’s empowerment - The Hindu",
+            "scraped_at": "2026-08-26 18:23:30"
+          },
+          {
+            "incident_text": "राहुल गांधी ने अपमानजनक टिप्पणी के लिए समन जारी करने वाले हाई कोर्ट के आदेश को चुनौती दी",
+            "source_url": "https://www.ndtv.com/india-news/all-treated-equally-supreme-court-over-plea-on-case-against-rahul-gandhi-12023266#publisher=newsstand",
+            "source_title": "\"All Treated Equally\": Supreme Court Over Plea On Case Against Rahul Gandhi",
+            "scraped_at": "2026-09-09 19:27:11"
+          },
+          {
+            "incident_text": "राहुल गांधी का दावा कि 80% भारतीय नॉन-वेजिटेरियन हैं",
+            "source_url": "https://www.ndtv.com/india-news/imposing-vegetarianism-on-world-row-over-food-served-at-brics-summit-12041294#publisher=newsstand",
+            "source_title": "\"Imposing Vegetarianism On World\": Row Over Food Served At BRICS Summit",
+            "scraped_at": "2026-09-13 14:53:50"
+          },
+          {
+            "incident_text": "राहुल गांधी ने दावा किया कि BJP की खान-पान की पसंद बड़े अधिकारियों के लिए काफी problematic है",
+            "source_url": "https://www.thehindu.com/news/national/80-indians-non-vegetarian-indian-non-vegetarian-food-is-delicious-says-rahul/article71463063.ece",
+            "source_title": "BJP imposing its 'deeply problematic' dietary preferences on foreign dignitaries, says Congress on BRICS dinner - The Hindu",
+            "scraped_at": "2026-09-13 23:02:29"
+          },
+          {
+            "incident_text": "राहुल गांधी ने कहा कि सिस्टम सवाल पूछने वाले छात्रों के बजाय अंधभक्तों को पसंद करता है",
+            "source_url": "https://www.thehindu.com/news/national/system-run-by-modi-prefers-andhbhakts-over-students-who-ask-questions-says-rahul-gandhi/article71485654.ece",
+            "source_title": "‘System’ run by Modi prefers andhbhakts over students who ask questions, says Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-09-19 17:54:14"
+          },
+          {
+            "incident_text": "OBC आरक्षण पर गलत जानकारी फैलाने के लिए राहुल गांधी की आलोचना",
+            "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
+            "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
+            "scraped_at": "2026-09-23 17:58:23"
+          },
+          {
+            "incident_text": "राहुल गांधी ने ज्ञानेश कुमार को देशद्रोही बताया",
+            "source_url": "https://www.ndtv.com/india-news/amid-row-bengal-bjp-chief-says-gyanesh-kumar-deserves-padma-bhushan-for-sir-12099590#publisher=newsstand",
+            "source_title": "Amid Row, Bengal BJP Chief Says Gyanesh Kumar Deserves Padma Bhushan For SIR",
+            "scraped_at": "2026-09-25 23:28:25"
+          },
+          {
+            "incident_text": "राहुल गांधी ने 25 साल तक जनता की सेवा करने में BJP के कॉन्फिडेंस पर उठाए सवाल",
+            "source_url": "https://www.thehindu.com/news/national/rajasthan/trust-earned-through-serving-people-is-bjps-strength-nitin-nabin/article71509585.ece",
+            "source_title": "Trust earned through serving people is BJP’s strength: Nitin Nabin - The Hindu",
+            "scraped_at": "2026-09-26 01:55:11"
+          },
+          {
+            "incident_text": "राहुल गांधी ने वोटर लिस्ट विवाद पर ज्ञानेश कुमार को अप्रूवर बनने का सुझाव दिया",
+            "source_url": "https://www.ndtv.com/india-news/pressure-mounts-on-chief-poll-officer-as-opposition-plans-concerted-action-12106352#publisher=newsstand",
+            "source_title": "Pressure Mounts On Chief Poll Officer As Opposition Plans Concerted Action",
+            "scraped_at": "2026-09-27 20:25:57"
           }
         ],
         "criminal_incidents": [
@@ -3398,6 +3999,111 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-to-hear-pils-on-violence-at-messi-event-five-spectators-held/article70399688.ece",
             "source_title": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu",
             "scraped_at": "2025-12-15 12:00:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "यौन शोषण मामले में शिकायतकर्ता को बदनाम करने पर राहुल Easwar की जमानत याचिका खारिज",
+            "source_url": "https://www.thehindu.com/news/national/kerala/defaming-complainant-in-sexual-abuse-case-court-rejects-bail-plea-of-rahul-easwar/article70365757.ece",
+            "source_title": "Defaming complainant in sexual abuse case: court rejects bail plea of Rahul Easwar - The Hindu",
+            "scraped_at": "2025-12-06 09:13:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "प्रोटेस्ट की जगह और LoP के कद की वजह से बातचीत जल्दी हुई लेकिन राहुल ने गोलपोस्ट बदल दिए: सरकार",
+            "source_url": "https://www.thehindu.com/news/national/sensitivity-of-protest-venue-stature-of-lop-led-to-quicker-talks-but-rahul-changed-goalposts-govt/article71250102.ece",
+            "source_title": "Sensitivity of protest venue, stature of LoP led to quicker talks, but Rahul changed goalposts: Govt - The Hindu",
+            "scraped_at": "2026-07-21 17:00:40",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "राहुल और प्रियंका की हिरासत पर रेवंत ने जताया विरोध",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-condemns-detention-of-rahul-and-priyanka/article71250948.ece",
+            "source_title": "Revanth condemns detention of Rahul and Priyanka - The Hindu",
+            "scraped_at": "2026-07-21 18:18:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "\"छात्रों को गुस्से से ज्यादा हक चाहिए\": धर्मेंद्र प्रधान ने राहुल गांधी के विरोध प्रदर्शन की आलोचना की",
+            "source_url": "https://www.ndtv.com/india-news/rahul-gandhi-exploiting-students-we-owe-them-more-than-outrage-says-education-minister-dharmendra-pradhan-11803061#publisher=newsstand",
+            "source_title": "\"Owe Students More Than Outrage\": Dharmendra Pradhan Slams Rahul Gandhi",
+            "scraped_at": "2026-07-21 20:03:02",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "PM आवास के बाहर कांग्रेस का विरोध प्रदर्शन, PM मोदी, Rahul Gandhi और Priyanka Gandhi के जन्मदिन पर जश्न के लिए धरना",
+            "source_url": "https://www.ndtv.com/india-news/congress-protest-outside-pms-house-pm-modi-rahul-gandhi-priyanka-gandhi-birthday-celebration-to-sit-in-how-congress-protest-played-out-11802931#publisher=newsstand",
+            "source_title": "Congress Protest Outside PM's House, PM Modi, Rahul Gandhi, Priyanka Gandhi: 'Birthday Celebration' To Sit-In: How Congress Protest Played Out",
+            "scraped_at": "2026-07-21 20:04:29",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "BJP केरल अध्यक्ष राजीव चंद्रशेखर बोले- विरोध लोकतांत्रिक है पर हिंसा और अराजकता नहीं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
+            "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
+            "scraped_at": "2026-07-22 06:42:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "विजय का विरोध पर 2-Pronged स्टैंड: राहुल गांधी को समर्थन और NEET खत्म करने की मांग",
+            "source_url": "https://www.ndtv.com/india-news/vijays-2-pronged-stance-on-protest-support-for-rahul-gandhi-abolish-neet-11807294#publisher=newsstand",
+            "source_title": "Vijay's 2-Pronged Stance On Protest: Support For Rahul Gandhi, Abolish NEET",
+            "scraped_at": "2026-07-22 16:58:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "वाराणसी पुलिस ने राहुल गांधी, पप्पू यादव और अवधेश प्रसाद पर सनातन धर्म का अपमान करने के लिए FIR दर्ज की",
+            "source_url": "https://www.thehindu.com/news/national/varanasi-police-book-mps-rahul-gandhi-pappu-yadav-and-awadesh-prasad-for-insulting-sanatan-dharma/article71294407.ece",
+            "source_title": "Varanasi police book MPs Rahul Gandhi, Pappu Yadav and Awadesh Prasad for 'insulting Sanatan Dharma' - The Hindu",
+            "scraped_at": "2026-08-01 17:36:49",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "राहुल गांधी ने उत्तराखंड रिसॉर्ट में महिला की हत्या पर न्याय की मांग की",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-demands-justice-for-woman-killed-at-uttarakhand-resort/article71350262.ece",
+            "source_title": "Rahul Gandhi demands justice for woman killed at Uttarakhand resort - The Hindu",
+            "scraped_at": "2026-08-15 20:27:51",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "KPCC के B.K. Hariprasad बोले Jaish-e-Mohammed, Taliban और RSS में कोई अंतर नहीं, तीनों भारत में रजिस्टर्ड नहीं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/no-difference-between-jaish-e-mohammed-taliban-rss-kpccs-bk-hariprasad-says-all-three-not-registered-in-india/article71355455.ece",
+            "source_title": "No difference between Jaish-e-Mohammed, Taliban, RSS: KPCC’s B.K. Hariprasad says all three “not registered in India” - The Hindu",
+            "scraped_at": "2026-08-17 10:10:36",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "राहुल गांधी एसेट्स केस में सुप्रीम कोर्ट ने CBI और ED से सोमवार को पूछा \"अगर मामला इतना गंभीर है तो...\"",
+            "source_url": "https://www.ndtv.com/india-news/if-its-so-serious-supreme-court-to-agencies-in-rahul-gandhi-assets-case-11920263#publisher=newsstand",
+            "source_title": "\"If It's So Serious...\": Supreme Court To Agencies In Rahul Gandhi Assets Case",
+            "scraped_at": "2026-08-17 10:09:38",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "Vande Mataram मामला: सोनिया और राहुल के खिलाफ शिकायत पर दिल्ली पुलिस जांच शुरू",
+            "source_url": "https://www.thehindu.com/news/national/vande-mataram-incident-delhi-police-enquires-into-complaint-against-sonia-rahul/article71355654.ece",
+            "source_title": "Vande Mataram incident: Delhi Police enquires into complaint against Sonia, Rahul - The Hindu",
+            "scraped_at": "2026-08-17 23:27:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "20 जुलाई के विरोध प्रदर्शन में युवाओं को लगी गोली के जख्मों पर दिल्ली पुलिस दर्ज करेगी FIR",
+            "source_url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece",
+            "source_title": "Delhi Police to register FIR over pellet injuries to youth during July 20 protest - The Hindu",
+            "scraped_at": "2026-08-21 12:55:52",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "दलित एक्टिविस्ट के पिता पर हमले के मामले में स्वतंत्र भारद्वाज को कोर्ट से मिली इंटरिम बेल",
+            "source_url": "https://www.ndtv.com/india-news/right-wing-vigilante-swatantra-bhardwaj-gets-interim-bail-in-assault-of-dalit-teen-activists-father-12049160#publisher=newsstand",
+            "source_title": "Right-Wing Vigilante Swatantra Bhardwaj Gets Interim Bail In Assault Of Dalit Teen Activist's Father",
+            "scraped_at": "2026-09-15 11:37:05",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "नेशनल हेराल्ड केस में राहुल और सोनिया गांधी ने दिल्ली हाई कोर्ट में दिया लिखित जवाब",
+            "source_url": "https://www.ndtv.com/india-news/gandhis-extraneous-considerations-charge-in-national-herald-case-12082833#publisher=newsstand",
+            "source_title": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case",
+            "scraped_at": "2026-09-22 17:16:14",
             "incident_type": "broad"
           }
         ]
@@ -3759,6 +4465,78 @@
             "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-the-freedom-of-speech-of-mps/article70663727.ece",
             "source_title": "Protecting the freedom of speech of MPs - The Hindu",
             "scraped_at": "2026-02-22 14:01:10"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने पूछा कि BJP उनकी फैमिली को क्यों टारगेट कर रही है और मोदी सरकार पर लगे ऐसे आरोपों को क्यों इग्नोर कर रही है",
+            "source_url": "https://www.thehindu.com/news/national/bjp-accuses-congress-president-and-his-son-of-land-grab-through-trust-in-karnataka/article71142571.ece",
+            "source_title": "BJP accuses Congress president and his son of ‘land grab’ through trust in Karnataka - The Hindu",
+            "scraped_at": "2026-06-24 18:22:58"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने मोदी सरकार पर 'बड़ी गड़बड़ी और भारी मिसमैनेजमेंट' के लिए आलोचना की",
+            "source_url": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-pm-modi-artificial-intelligence-news-delhi-updates/article70645921.ece",
+            "source_title": "India AI Summit 2026 Day 3 LIVE: PM Modi highlights India's transformative potential, role in AI revolution - The Hindu",
+            "scraped_at": "2026-02-17 23:29:50"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने AI समिट के मैनेजमेंट को मोदी सरकार की तरफ से 'utter chaos' और 'rank mismanagement' बताया",
+            "source_url": "https://www.thehindu.com/news/national/it-minister-apologises-for-ai-summit-troubles-global-embarrassment-says-kharge/article70643571.ece",
+            "source_title": "IT Minister apologises for AI summit troubles; global embarrassment, says Kharge - The Hindu",
+            "scraped_at": "2026-02-17 13:39:36"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने पार्टी सदस्यों से नेतृत्व परिवर्तन पर अटकलें न लगाने की अपील की",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/enough-is-enough-this-must-stop-says-karnataka-home-minister-on-constant-speculation-on-leadership-change/article70628482.ece",
+            "source_title": "Enough is enough, this must stop, says Karnataka Home Minister on constant speculation on leadership change - The Hindu",
+            "scraped_at": "2026-02-13 12:00:56"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने दावा किया कि ट्रंप के Epstein फाइल्स से जुड़े दबाव की वजह से मोदी ने ट्रेड डील साइन की",
+            "source_url": "https://www.thehindu.com/news/national/modi-signed-a-trap-deal-on-us-pressure-congress/article70601173.ece",
+            "source_title": "Modi signed a ‘trap deal’ on U.S. pressure: Congress - The Hindu",
+            "scraped_at": "2026-02-06 11:49:34"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने आरोप लगाया कि India-U.एस. ट्रेड डील से भारतीय किसानों को नुकसान होगा और देश का एग्रीकल्चर सेक्टर बर्बाद हो जाएगा",
+            "source_url": "https://www.thehindu.com/news/national/trade-deal-with-us-will-hurt-indian-farmers-govt-wants-to-destroy-agri-sector-kharge/article70591562.ece",
+            "source_title": "Trade deal with U.S. will hurt Indian farmers, govt wants to destroy agri sector: Kharge - The Hindu",
+            "scraped_at": "2026-02-04 07:39:08"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge ने कहा कि संविधान सभी 140 करोड़ भारतीयों की रक्षा करता है",
+            "source_url": "https://www.thehindu.com/news/national/constitution-is-protective-shield-for-citizen-rights-says-rahul-gandhi-on-77th-republic-day/article70553567.ece",
+            "source_title": "Constitution is protective shield for citizen rights, says Rahul Gandhi on 77th Republic Day - The Hindu",
+            "scraped_at": "2026-01-26 11:12:27"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने कहा कि लीडरशिप मुद्दे पर जरूरत पड़ने पर सिद्धारमैया और शिवकुमार को चर्चा के लिए दिल्ली बुलाया जाएगा",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dk-shivakumar-will-be-called-to-delhi-when-necessary-says-kharge/article70502053.ece",
+            "source_title": "Siddaramaiah, D.K. Shivakumar will be called to Delhi ‘when necessary’, says Kharge - The Hindu",
+            "scraped_at": "2026-01-12 15:01:59"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने छात्र प्रदर्शनकारियों पर पुलिस कार्रवाई पर अमित शाह से बयान मांगा",
+            "source_url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
+            "source_title": "Parliament Monsoon Session Day 14 LIVE: The Taxation and Other Laws (Amendment) Bill, 2026 passed in Lok Sabha - The Hindu",
+            "scraped_at": "2026-08-06 09:43:12"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने मजाक में कहा कि PM मोदी बदल गए हैं",
+            "source_url": "https://www.ndtv.com/india-news/thoda-badal-gaye-ho-m-kharge-pm-modis-banter-at-wedding-reception-11899567#publisher=newsstand",
+            "source_title": "Thoda Badal Gaye Ho: M Kharge, PM Modi's Banter At Wedding Reception",
+            "scraped_at": "2026-08-12 10:36:49"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने दावा किया कि चुनाव आयोग के अपने लोगों ने उन्हें एक्सपोज किया",
+            "source_url": "https://www.thehindu.com/news/national/congress-to-discuss-partys-strategy-on-eci-senior-leaders-demand-gyanesh-kumars-resignation/article71519503.ece",
+            "source_title": "Congress to discuss party’s strategy on ECI; senior leaders demand Gyanesh Kumar’s resignation",
+            "scraped_at": "2026-09-28 15:25:21"
+          },
+          {
+            "incident_text": "खड़गे ने BJP-RSS पर सवालों के जवाब देने के बजाय हिंसा करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/kharge-slams-bjp-for-humiliating-the-people-says-arrogance-of-power-has-peaked/article71519582.ece",
+            "source_title": "Kharge slams BJP for ‘humiliating’ the people, says ‘arrogance of power’ has peaked",
+            "scraped_at": "2026-09-28 16:05:06"
           }
         ],
         "criminal_incidents": [
@@ -3777,808 +4555,6 @@
             "incident_type": "broad"
           }
         ]
-      },
-      {
-        "name": "Arvind Kejriwal",
-        "name_hi": "अरविंद केजरीवाल",
-        "aliases": [
-          "Kejriwal",
-          "AK",
-          "AAP Chief"
-        ],
-        "role": "AAP National Convenor",
-        "role_hi": "AAP नेशनल कन्वेनर",
-        "ministry": "",
-        "party": "AAP",
-        "party_hi": "AAP",
-        "state": "Delhi",
-        "state_hi": "दिल्ली",
-        "constituency": "New Delhi",
-        "constituency_hi": "नई दिल्ली",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 9,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Arvind_Kejriwal",
-        "known_promises": [],
-        "image_placeholder": "arvind_kejriwal",
-        "controversies": [
-          {
-            "incident_text": "अरविंद केजरीवाल पीएम मोदी और गृह मंत्री शाह पर हमला जारी रखने की योजना में हैं",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/with-discharge-in-excise-case-kejriwal-is-back-to-win-lost-turf-and-hearts/article70725104.ece",
-            "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
-            "scraped_at": "2026-03-10 00:05:49"
-          },
-          {
-            "incident_text": "अरविंद केजरीवाल ने दावा किया कि केंद्र E20 पेट्रोल पर कार निर्माताओं को चुप रहने के लिए मजबूर कर रहा है",
-            "source_url": "https://www.thehindu.com/news/national/centre-coercing-vehicle-manufacturers-into-silence-on-e20-issue-kejriwal/article71282235.ece",
-            "source_title": "Centre ‘coercing’ vehicle manufacturers into silence on E20 issue: Kejriwal - The Hindu",
-            "scraped_at": "2026-07-29 20:34:35"
-          },
-          {
-            "incident_text": "केजरीवाल ने दावा किया कि जैन के खिलाफ केस फर्जी साबित होगा",
-            "source_url": "https://www.ndtv.com/india-news/satyendar-jain-arrest-case-will-be-proven-fake-says-arvind-kejriwal-11927524#publisher=newsstand",
-            "source_title": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
-            "scraped_at": "2026-08-18 17:32:06"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "IB की धमकी के दावे पर केजरीवाल को झटका; कॉल AAP नेता से ट्रेस हुआ",
-            "source_url": "https://odishabytes.com/kejriwals-claims-of-ib-threats-backfire-call-traced-back-to-aap-leader/",
-            "source_title": "Kejriwal's Claims Of IB Threats Backfire; Call Traced Back To AAP Leader | OdishaBytes",
-            "scraped_at": "2026-05-30 21:40:47.248285",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "AAP अब पहले जैसी पार्टी नहीं रही, केजरीवाल के साथ कोई काम नहीं कर सकता: स्वाति मालीवाल",
-            "source_url": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
-            "source_title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal - The Hindu",
-            "scraped_at": "2026-04-25 09:36:11.298235",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "एक्साइज केस में डिस्चार्ज के साथ केजरीवाल फिर से जीतेंगे जनता का दिल",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/with-discharge-in-excise-case-kejriwal-is-back-to-win-lost-turf-and-hearts/article70725104.ece",
-            "source_title": "With discharge in excise case, Kejriwal is back to win lost turf and hearts - The Hindu",
-            "scraped_at": "2026-03-10 00:05:49",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "केजरीवाल की रिहाई ने जांच एजेंसियों की मनमानी को उजागर किया: महबूबा मुफ्ती",
-            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kejriwals-release-exposed-high-handedness-of-investigative-agencies-mehbooba-mufti/article70685335.ece",
-            "source_title": "Kejriwal’s release exposed high handedness of investigative agencies: Mehbooba Mufti - The Hindu",
-            "scraped_at": "2026-02-27 18:00:50",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अरविंद केजरीवाल जंतर मंतर पर करेंगे जनसभा को संबोधित",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/kejriwal-to-address-public-rally-at-jantar-mantar/article70688152.ece",
-            "source_title": "Kejriwal to address public rally at Jantar Mantar - The Hindu",
-            "scraped_at": "2026-02-28 11:57:57",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "'मोदी भ्रष्ट हैं, BJP की गिनती शुरू हो गई है', केजरीवाल का दावा",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/modi-is-corrupt-bjp-countdown-has-begun-says-kejriwal/article70691071.ece",
-            "source_title": "‘Modi is corrupt, BJP countdown has begun’, says Kejriwal - The Hindu",
-            "scraped_at": "2026-03-01 05:03:03",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अरविंद केजरीवाल की कोर्ट से रिहाई केंद्र सरकार के लिए बड़ा झटका: केरल के मुख्यमंत्री",
-            "source_url": "https://www.thehindu.com/news/national/kerala/arvind-kejriwals-court-discharge-a-blow-to-union-government-kerala-chief-minister/article70685502.ece",
-            "source_title": "Arvind Kejriwal’s court discharge a blow to Union government: Kerala Chief Minister - The Hindu",
-            "scraped_at": "2026-02-27 12:36:34",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अदालत ने अरविंद केजरीवाल और 23 अन्य लोगों को भ्रष्टाचार के आरोपों से बरी किया",
-            "source_url": "https://www.bbc.com/news/articles/ckg14d5y07xo?at_medium=RSS&at_campaign=rss",
-            "source_title": "Arvind Kejriwal: Indian court closes corruption case against former Delhi chief minister",
-            "scraped_at": "2026-02-27 07:39:06",
-            "incident_type": "serious"
-          },
-          {
-            "incident_text": "KTR का दावा- 'liquor scam' के नैरेटिव से AAP सरकार गिरी और तेलंगाना में BRS को नुकसान हुआ",
-            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-alleges-liquor-scam-narrative-toppled-aap-govt-and-hurt-brs-in-telangana/article70684130.ece",
-            "source_title": "KTR alleges ‘liquor scam’ narrative toppled AAP govt. and hurt BRS in Telangana - The Hindu",
-            "scraped_at": "2026-02-27 08:43:42",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Akhilesh Yadav",
-        "name_hi": "अखिलेश यादव",
-        "aliases": [
-          "Akhilesh",
-          "SP Chief"
-        ],
-        "role": "Samajwadi Party President",
-        "role_hi": "समाजवादी पार्टी अध्यक्ष",
-        "ministry": "",
-        "party": "SP",
-        "party_hi": "SP",
-        "state": "Uttar Pradesh",
-        "state_hi": "उत्तर प्रदेश",
-        "constituency": "Kannauj",
-        "constituency_hi": "कन्नौज",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 2,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Akhilesh_Yadav",
-        "known_promises": [],
-        "image_placeholder": "akhilesh_yadav",
-        "controversies": [
-          {
-            "incident_text": "अखिलेश यादव ने दावा किया कि उन्हें पता है कि कौन से कांग्रेस नेता उनके खिलाफ बोल रहे हैं",
-            "source_url": "https://indianexpress.com/article/delhi-confidential/akhilesh-yadav-congress-india-bloc-remark-10733870/",
-            "source_title": "Delhi Confidential: Guess Who? | Delhi Confidential News - The Indian Express",
-            "scraped_at": "2026-06-10 23:29:24.834004"
-          },
-          {
-            "incident_text": "अखिलेश यादव का दावा कि BJP सरकार ने NSG कवर वापस लेकर सुरक्षा फैसलों को राजनीतिक बनाया",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-questions-removal-of-nsg-cover-accuses-bjp-government-of-playing-with-his-security/article70661293.ece",
-            "source_title": "Akhilesh questions removal of NSG cover, accuses BJP government of 'playing' with his security - The Hindu",
-            "scraped_at": "2026-02-21 17:01:04"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने दावा किया कि उत्तर प्रदेश में इंफ्रास्ट्रक्चर प्रोजेक्ट्स में भ्रष्टाचार है",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
-            "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
-            "scraped_at": "2026-02-22 10:26:49"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने कहा कि SP-Congress गठबंधन जारी रहेगा और फोकस सीटों के बजाय जीत पर होगा",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/in-major-organisational-rejig-bjp-announces-new-office-bearers-in-uttar-pradesh/article71145534.ece",
-            "source_title": "In major organisational rejig, BJP announces new office bearers in Uttar Pradesh - The Hindu",
-            "scraped_at": "2026-06-25 09:57:39"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने कहा कि शंकराचार्य के खिलाफ अपमानजनक भाषा का इस्तेमाल मौखिक हिंसा और पाप है",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/derogatory-language-against-shankaracharya-is-verbal-violence-akhilesh-yadav/article70631542.ece",
-            "source_title": "Derogatory language against Shankaracharya is verbal violence: Akhilesh Yadav - The Hindu",
-            "scraped_at": "2026-02-14 02:08:28"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने मौजूदा पुलिस कार्रवाई की तुलना इमरजेंसी के दौर से की",
-            "source_url": "https://indianexpress.com/article/political-pulse/akhilesh-yadav-lok-sabha-paper-leak-bill-ayodhya-temple-donation-theft-10807550/",
-            "source_title": "Ram Temple to paper leak: Akhilesh Yadav’s stinging attack on BJP in Lok Sabha | Political Pulse News - The Indian Express",
-            "scraped_at": "2026-07-28 12:25:02"
-          },
-          {
-            "incident_text": "अखिलेश यादव का दावा राम धन चुराने वालों को भगवान राम सजा देंगे और चुनाव में जीत नहीं होने देंगे",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/those-who-stole-ram-dhan-wont-be-allowed-by-lord-ram-to-win-polls-says-akhilesh-yadav/article71309351.ece",
-            "source_title": "Those who stole ‘Ram Dhan’ won’t be allowed by Lord Ram to win polls, says Akhilesh Yadav - The Hindu",
-            "scraped_at": "2026-08-05 13:17:15"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने प्रोजेक्ट को 1 ट्रिलियन इकोनॉमी की ओर एक कदम बताकर मजाक उड़ाया",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akhileshtakes-potshots-atupgovts-project-on-cow-urine-collection/article71347081.ece",
-            "source_title": "Akhilesh takes potshots at U.P. govt.’s project on cow urine collection - The Hindu",
-            "scraped_at": "2026-08-14 19:53:06"
-          },
-          {
-            "incident_text": "अखिलेश यादव ने 2022 चुनावों में 'वोट चोरी' के लिए Election Commission पर लगाया आरोप",
-            "source_url": "https://www.ndtv.com/india-news/akhilesh-yadav-begins-samajwadi-partys-2027-up-assembly-polls-campaign-from-rahul-gandhis-seat-with-pda-rath-bjp-reacts-12095174#publisher=newsstand",
-            "source_title": "Akhilesh Yadav Begins Samajwadi Party's 2027 UP Assembly Polls Campaign From Rahul Gandhi's Seat Raebareli With PDA Rath, BJP Reacts",
-            "scraped_at": "2026-09-25 06:00:20"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "वाराणसी के मणिकर्णिका घाट पर विरोध प्रदर्शन की कोशिश के लिए 18 हिरासत में",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18-detained-for-bid-to-stage-protest-at-manikarnika-ghat-in-varanasi/article70526108.ece",
-            "source_title": "18 detained for bid to stage protest at Manikarnika Ghat in Varanasi - The Hindu",
-            "scraped_at": "2026-01-19 11:07:29",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "BJP केरल अध्यक्ष राजीव चंद्रशेखर बोले- विरोध लोकतांत्रिक है पर हिंसा और अराजकता नहीं",
-            "source_url": "https://www.thehindu.com/news/national/kerala/bjp-kerala-chief-rajeev-chandrasekhar-says-protests-are-democratic-but-violence-and-anarchy-are-not/article71252093.ece",
-            "source_title": "BJP Kerala chief Rajeev Chandrasekhar says protests are democratic, but violence and anarchy are not - The Hindu",
-            "scraped_at": "2026-07-22 06:42:48",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Mayawati",
-        "name_hi": "मायावती",
-        "aliases": [
-          "BSP Chief",
-          "Behenji"
-        ],
-        "role": "BSP National President",
-        "role_hi": "BSP नेशनल प्रेसिडेंट",
-        "ministry": "",
-        "party": "BSP",
-        "party_hi": "BSP",
-        "state": "Uttar Pradesh",
-        "state_hi": "उत्तर प्रदेश",
-        "constituency": "Rajya Sabha",
-        "constituency_hi": "राज्यसभा",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Mayawati",
-        "known_promises": [],
-        "image_placeholder": "mayawati",
-        "controversies": [
-          {
-            "incident_text": "मायावती ने कांग्रेस पर राजनीतिक फायदे के लिए कांशी राम के नाम का इस्तेमाल करने का आरोप लगाया",
-            "source_url": "https://www.thehindu.com/news/national/rahul-writes-to-pm-modi-seeks-bharat-ratna-for-bsp-founder-kanshi-ram/article70746220.ece",
-            "source_title": "Rahul writes to PM Modi, seeks Bharat Ratna for BSP founder Kanshi Ram - The Hindu",
-            "scraped_at": "2026-03-15 10:37:28.561089"
-          },
-          {
-            "incident_text": "मायावती ने दावा किया कि कांग्रेस ने कभी अंबेडकर का सम्मान नहीं किया इसलिए वह कांशी राम का सम्मान नहीं कर सकती",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-accuses-congress-of-misusing-kanshi-rams-name-for-political-gains/article70743312.ece",
-            "source_title": "Mayawati accuses Congress of misusing Kanshi Ram's name for political gains - The Hindu",
-            "scraped_at": "2026-03-14 07:33:14"
-          },
-          {
-            "incident_text": "मायावती ने राष्ट्रपति कार्यालय का सम्मान करने और संवैधानिक पदों को राजनीतिक न बनाने की अपील की",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/lapses-at-prez-event-mayawati-urges-respect-for-presidents-office/article70718239.ece",
-            "source_title": "'Lapses' at Prez event: Mayawati urges respect for President's office - The Hindu",
-            "scraped_at": "2026-03-08 00:18:49"
-          },
-          {
-            "incident_text": "मायावती ने परिपक्वता की कमी का हवाला देते हुए भतीजों को पार्टी पदों से रोका",
-            "source_url": "https://www.ndtv.com/india-news/nephews-out-niece-in-latest-episode-of-mayawatis-succession-comes-with-gen-z-promise-12037650#publisher=newsstand",
-            "source_title": "Nephews Out, Niece In: Latest Episode Of Mayawati's Succession Comes With Gen-Z Promise",
-            "scraped_at": "2026-09-12 14:22:19"
-          },
-          {
-            "incident_text": "मईawati ने आकाश आनंद पर अपनी सेहत को लेकर गलत अफवाहें फैलाने का आरोप लगाया",
-            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-spreading-false-rumours-about-my-health-says-mayawati/article71463941.ece",
-            "source_title": "Akash Anand ‘spreading false rumours about my health’, says Mayawati - The Hindu",
-            "scraped_at": "2026-09-14 01:00:30"
-          }
-        ],
-        "criminal_incidents": []
-      },
-      {
-        "name": "Asaduddin Owaisi",
-        "name_hi": "असदउद्दीन ओवैसी",
-        "aliases": [
-          "Owaisi",
-          "AIMIM Chief"
-        ],
-        "role": "AIMIM President",
-        "role_hi": "AIMIM President",
-        "ministry": "",
-        "party": "AIMIM",
-        "party_hi": "AIMIM",
-        "state": "Telangana",
-        "state_hi": "तेलंगाना",
-        "constituency": "Hyderabad",
-        "constituency_hi": "हैदराबाद",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Asaduddin_Owaisi",
-        "known_promises": [],
-        "image_placeholder": "asaduddin_owaisi",
-        "controversies": [
-          {
-            "incident_text": "असदउद्दीन ओवैसी ने पूछा क्या इंडियन रेलवे टिकट के किराए को 'trade secret' मानता है",
-            "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-questions-transparency-in-indian-railways-ticket-pricing-policies/article70732038.ece",
-            "source_title": "Owaisi questions transparency in Indian Railways ticket-pricing policies - The Hindu",
-            "scraped_at": "2026-03-11 14:33:50"
-          },
-          {
-            "incident_text": "असदउद्दीन ओवैसी ने कुछ जगहों पर धार्मिक गतिविधियों पर संभावित पाबंदियों पर चिंता जताई",
-            "source_url": "https://www.thehindu.com/news/national/telangana/deadlines-disputes-doubts-dog-umeed-forwaqfproperties/article70681344.ece",
-            "source_title": "Deadlines, disputes, doubts dog UMEED for waqf properties - The Hindu",
-            "scraped_at": "2026-02-27 00:10:53"
-          },
-          {
-            "incident_text": "असदउद्दीन ओवैसी ने रूस से तेल आयात कम करने और चीन को फायदा होने पर BJP की राष्ट्रवाद पर सवाल उठाए",
-            "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-critiques-bjps-nationalism-amid-calls-for-local-development-in-karimnagar/article70607775.ece",
-            "source_title": "Owaisi critiques BJP’s nationalism amid calls for local development in Karimnagar - The Hindu",
-            "scraped_at": "2026-02-08 10:28:06"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "हिमतां बिस्वा सरमा वीडियो: वीडियो अपलोड करने पर असम BJP सोशल मीडिया को-को-वेनर रोन विकास गौरव को हटाया",
-            "source_url": "https://www.thehindu.com/news/national/assam/assam-bjp-social-media-co-convenor-removed-for-uploading-controversial-video/article70622778.ece",
-            "source_title": "Himanta Biswa Sarma video: Assam BJP social media co-convenor removed for uploading video - The Hindu",
-            "scraped_at": "2026-02-12 01:15:24",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Sharad Pawar",
-        "name_hi": "शरद पवार",
-        "aliases": [
-          "Pawar",
-          "NCP Chief"
-        ],
-        "role": "NCP (SP) President",
-        "role_hi": "NCP (SP) अध्यक्ष",
-        "ministry": "",
-        "party": "NCP",
-        "party_hi": "NCP",
-        "state": "Maharashtra",
-        "state_hi": "महाराष्ट्र",
-        "constituency": "Rajya Sabha",
-        "constituency_hi": "राज्यसभा",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 1,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Sharad_Pawar",
-        "known_promises": [],
-        "image_placeholder": "sharad_pawar",
-        "controversies": [
-          {
-            "incident_text": "शरद पवार ने कहा कि जवाहरलाल नेहरू और नरेंद्र मोदी के बीच कोई तुलना नहीं हो सकती",
-            "source_url": "https://indianexpress.com/article/cities/mumbai/jawaharlal-nehru-was-a-visionary-leader-there-cant-be-any-comparison-with-narendra-modi-sharad-pawar-10733756/",
-            "source_title": "Jawaharlal Nehru was a visionary leader, there can’t be any comparison with Narendra Modi: Sharad Pawar | Mumbai News - The Indian Express",
-            "scraped_at": "2026-06-10 23:30:33.007053"
-          },
-          {
-            "incident_text": "शरद पवार ने भरोसा दिलाया कि वे NCP में विलय नहीं करेंगे",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/pawar-play-why-no-one-wants-to-hurt-ncp-sp-chief/article70708955.ece",
-            "source_title": "Pawar play: why ‘no one wants to hurt’ NCP (SP) chief - The Hindu",
-            "scraped_at": "2026-03-05 22:55:17"
-          },
-          {
-            "incident_text": "शरद पवार ने विमान हादसे को एक्सीडेंट बताते हुए गड़बड़ी की खबरों को खारिज किया",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/rohit-pawar-press-conference-ajit-pawar-air-crash-the-hindu-live-updates/article70614607.ece",
-            "source_title": "Ajit Pawar plane crash probe: Rohit Pawar raises doubts about Ajit Pawar's air crash in press conference | Live - The Hindu",
-            "scraped_at": "2026-02-10 06:08:17"
-          },
-          {
-            "incident_text": "शरद पवार ने पहले सुनेत्रा पवार को 'outsider' कहा था",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-out-of-the-shadows/article70575365.ece",
-            "source_title": "Sunetra Pawar | Out of the shadows - The Hindu",
-            "scraped_at": "2026-01-31 15:03:45"
-          },
-          {
-            "incident_text": "शरद पवार ने कहा कि वे दो NCP गुटों के फिर से एक होने की कामना करते हैं लेकिन उन्हें सुनेत्रा पवार के शपथ ग्रहण समारोह की कोई जानकारी नहीं थी",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-ncp-president-refutes-reports-about-discussion-of-merger-with-sharad-pawar-factions/article70573537.ece",
-            "source_title": "Maharashtra NCP president refutes reports about discussion of merger with Sharad Pawar faction - The Hindu",
-            "scraped_at": "2026-01-31 03:07:14"
-          },
-          {
-            "incident_text": "शरद पवार ने कहा कि उन्हें सुनेत्रा पवार के महाराष्ट्र की डिप्टी CM बनने की शपथ लेने की योजना के बारे में कोई जानकारी नहीं थी",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-unaware-of-sunetra-pawar-being-sworn-in-as-maharashtra-deputy-cm/article70573094.ece",
-            "source_title": "No idea about Sunetra Pawar being sworn in as Maharashtra deputy CM, says Sharad Pawar - The Hindu",
-            "scraped_at": "2026-01-30 22:52:02"
-          },
-          {
-            "incident_text": "शरद पवार ने सुनेत्रा पवार की डिप्टी CM के रूप में नियुक्ति पर अनिश्चितता जताई",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
-            "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
-            "scraped_at": "2026-01-30 22:53:49"
-          },
-          {
-            "incident_text": "शरद पवार ने कहा कि विमान हादसा एक दुर्घटना थी और इसे politicize नहीं किया जाना चाहिए",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawars-death-in-plane-crash-an-accident-dont-bring-politics-sharad-pawar/article70562713.ece",
-            "source_title": "Ajit Pawar's death in plane crash an accident, don't bring politics: Sharad Pawar - The Hindu",
-            "scraped_at": "2026-01-28 22:55:35"
-          },
-          {
-            "incident_text": "शरद पवार ने कहा कि उनकी पार्टी किसी और पार्टी में विलय या शामिल नहीं होगी",
-            "source_url": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-puts-a-stop-to-merger-speculation-says-he-wont-join-anyone/article71520898.ece",
-            "source_title": "Sharad Pawar puts a stop to merger speculation, says he won’t join anyone",
-            "scraped_at": "2026-09-28 20:05:45"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "सरकार ने सावकर को 'स्वतंत्र्यवीर' की उपाधि नहीं दी, उनके परपोते ने कोर्ट में कहा",
-            "source_url": "https://www.thehindu.com/news/national/title-swatantryaveer-not-conferred-by-government-on-savarkar-grandnephew-tells-court/article70841639.ece",
-            "source_title": "Title ‘Swatantryaveer’ not conferred by government on Savarkar, grandnephew tells court - The Hindu",
-            "scraped_at": "2026-04-09 04:25:44",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Lalu Prasad Yadav",
-        "name_hi": "लालू प्रसाद यादव",
-        "aliases": [
-          "Lalu",
-          "RJD Chief"
-        ],
-        "role": "RJD President",
-        "role_hi": "RJD अध्यक्ष",
-        "ministry": "",
-        "party": "RJD",
-        "party_hi": "RJD",
-        "state": "Bihar",
-        "state_hi": "बिहार",
-        "constituency": "Patna Sahib",
-        "constituency_hi": "पटना साहिब",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 7,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav",
-        "known_promises": [],
-        "image_placeholder": "lalu_prasad_yadav",
-        "controversies": [
-          {
-            "incident_text": "रबड़ी देवी की सरकारी आवास से बेदखली में देरी का कारण लालू प्रसाद यादव की खराब सेहत बताया गया",
-            "source_url": "https://www.thehindu.com/news/national/bihar/rabri-devi-seeks-more-time-to-vacate-official-residence-cites-lalus-health/article71109099.ece",
-            "source_title": "Rabri Devi seeks more time to vacate official residence, cites Lalu’s health - The Hindu",
-            "scraped_at": "2026-06-16 13:20:23"
-          },
-          {
-            "incident_text": "Lalu Prasad Yadav ने राजनीतिक विरोधियों को मात देकर Nitish Kumar को मुख्यमंत्री बनने में मदद की",
-            "source_url": "https://www.thehindu.com/news/national/bihar/nitish-kumars-political-journey-from-rebellion-to-longest-serving-cm/article70706250.ece",
-            "source_title": "Nitish Kumar’s political journey: From rebellion to longest-serving CM - The Hindu",
-            "scraped_at": "2026-03-05 03:24:11"
-          },
-          {
-            "incident_text": "लalu प्रसाद यादव बीमार हैं और उनके बेटे ने उन्हें और अपने पिता को मारने की साजिश का दावा किया",
-            "source_url": "https://www.thehindu.com/news/national/bihar/conspiracy-being-hatched-to-kill-me-my-father-tej-pratap/article71126337.ece",
-            "source_title": "Conspiracy being hatched to kill me, my father: Tej Pratap - The Hindu",
-            "scraped_at": "2026-06-20 23:14:35"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "दिल्ली HC ने लैंड-फॉर-जॉब्स केस में CBI FIR रद्द करने की लालू यादव की याचिका खारिज की",
-            "source_url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-lalu-yadavs-plea-to-quash-cbi-fir-in-land-for-jobs-case/article70779054.ece",
-            "source_title": "Delhi HC dismisses Lalu Yadav's plea to quash CBI FIR in land-for-jobs case - The Hindu",
-            "scraped_at": "2026-03-24 10:05:36.975630",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "बिहार में कई सालों के साथ के बाद BJP अब ड्राइविंग सीट संभालने को तैयार - The Hindu नीतीश कुमार ने 5 March 2024 को Rajya Sabha के लिए अपना नामांकन भरा",
-            "source_url": "https://www.thehindu.com/news/national/after-years-of-pillion-riding-bjp-readies-to-take-the-driving-seat-in-bihar/article70711558.ece",
-            "source_title": "After years of pillion-riding, BJP readies to take the driving seat in Bihar - The Hindu",
-            "scraped_at": "2026-03-06 07:38:42",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Land-for-jobs scam: दिल्ली कोर्ट ने लालू और राबड़ी देवी पर लगाया चार्ज",
-            "source_url": "https://www.thehindu.com/news/national/land-for-jobs-scam-case-delhi-court-frames-charges-against-lalu-rabri-devi/article70639429.ece",
-            "source_title": "Land-for-jobs scam case: Delhi court frames charges against Lalu, Rabri Devi - The Hindu",
-            "scraped_at": "2026-02-16 11:45:54",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC स्कैम केस: दिल्ली हाई कोर्ट ने रबड़ी देवी की याचिका पर CBI से मांगा स्टैंड",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/irctc-scam-case-delhi-high-court-seeks-cbi-stand-on-rabri-devis-plea-against-framing-of-charges/article70513846.ece",
-            "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
-            "scraped_at": "2026-01-16 03:05:17",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC scam case: दिल्ली HC ने CBI से तेजस्वी यादव की याचिका पर जवाब मांगा",
-            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-cbi-tejashwi-yadav/article70476945.ece",
-            "source_title": "IRCTC scam case: Delhi HC asks CBI to reply to Tejashwi Yadav’s plea against charge framing order - The Hindu",
-            "scraped_at": "2026-01-06 02:01:05",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "जॉब के बदले जमीन घोटाला: लालू प्रसाद और अन्य पर चार्ज फ्रेम करने के आदेश पर दिल्ली कोर्ट ने की देरी",
-            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
-            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
-            "scraped_at": "2025-12-04 03:09:23",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC होटल स्कैम में लालू यादव, पत्नी राबड़ी देवी और बेटे तेजस्वी यादव पर चार्ज लगाने का कोर्ट का आदेश",
-            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
-            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
-            "scraped_at": "2026-09-10 13:27:56",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Tejashwi Yadav",
-        "name_hi": "तेजस्वी यादव",
-        "aliases": [
-          "Tejashwi",
-          "Bihar Deputy CM"
-        ],
-        "role": "RJD Leader / Former Bihar Deputy CM",
-        "role_hi": "RJD नेता / पूर्व बिहार डिप्टी CM",
-        "ministry": "",
-        "party": "RJD",
-        "party_hi": "RJD",
-        "state": "Bihar",
-        "state_hi": "बिहार",
-        "constituency": "Raghopur",
-        "constituency_hi": "रघोपुर",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 6,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Tejashwi_Yadav",
-        "known_promises": [],
-        "image_placeholder": "tejashwi_yadav",
-        "controversies": [],
-        "criminal_incidents": [
-          {
-            "incident_text": "IRCTC स्कैम केस: दिल्ली हाई कोर्ट ने रबड़ी देवी की याचिका पर CBI से मांगा स्टैंड",
-            "source_url": "https://www.thehindu.com/news/cities/Delhi/irctc-scam-case-delhi-high-court-seeks-cbi-stand-on-rabri-devis-plea-against-framing-of-charges/article70513846.ece",
-            "source_title": "IRCTC scam case: Delhi High Court seeks CBI stand on Rabri Devi’s plea against framing of charges - The Hindu",
-            "scraped_at": "2026-01-16 03:05:17",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC 'scam' केस: दिल्ली HC 5 Jan को लालू प्रसाद की याचिका पर करेगा सुनवाई",
-            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-to-hear-lalu-prasads-petition-against-framing-charges-on-jan-5/article70470243.ece",
-            "source_title": "IRCTC ‘scam’ case: Delhi HC to hear Lalu Prasad’s petition against framing charges on Jan. 5 - The Hindu",
-            "scraped_at": "2026-01-04 01:55:20",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC घोटाला मामला: दिल्ली हाई कोर्ट ने लालू प्रसाद की याचिका पर CBI से जवाब मांगा",
-            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-hc-asks-cbi-to-reply-to-lalu-prasads-plea-against-charge-framing-order/article70473137.ece",
-            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
-            "scraped_at": "2026-01-05 02:04:04",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC घोटाला मामला: दिल्ली हाई कोर्ट ने लालू प्रसाद की याचिका पर CBI से मांगा जवाब",
-            "source_url": "https://www.thehindu.com/news/national/irctc-scam-case-delhi-high-court-seeks-cbis-response-to-reply-to-lalu-prasads-plea/article70473137.ece",
-            "source_title": "IRCTC scam case: Delhi High Court seeks CBI's response to Lalu Prasad's petition - The Hindu",
-            "scraped_at": "2026-01-05 02:24:29",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "जॉब्स के लिए जमीन घोटाला: दिल्ली कोर्ट ने लालू प्रसाद और अन्य पर चार्ज फ्रेम करने के आदेश पर दी मोहलत",
-            "source_url": "https://www.thehindu.com/news/national/bihar/land-for-jobs-scam-delhi-court-defers-order-on-framing-charges-against-lalu-prasad-others/article70356756.ece",
-            "source_title": "Land for jobs 'scam': Delhi court defers order on framing charges against Lalu Prasad, others - The Hindu",
-            "scraped_at": "2025-12-04 03:09:23",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "IRCTC होटल घोटाले में लालू यादव, पत्नी राबड़ी देवी और बेटे तेजस्वी यादव पर चार्ज लगाने का कोर्ट का आदेश",
-            "source_url": "https://www.ndtv.com/india-news/court-orders-charges-against-lalu-yada-wife-rabri-devi-and-son-tejashwi-yadav-in-irctc-hotel-scam-12028590#publisher=newsstand",
-            "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
-            "scraped_at": "2026-09-10 13:27:56",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Thol. Thirumavalavan",
-        "name_hi": "थोल. तिरुमवलवन",
-        "aliases": [
-          "Thirumavalavan"
-        ],
-        "role": "leader of the VCK",
-        "role_hi": "VCK के नेता",
-        "ministry": "",
-        "party": "VCK",
-        "party_hi": "VCK",
-        "state": "Tamil Nadu",
-        "state_hi": "तमिलनाडु",
-        "constituency": "",
-        "constituency_hi": "",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "",
-        "wikipedia": "",
-        "known_promises": [],
-        "image_placeholder": "",
-        "controversies": [],
-        "criminal_incidents": []
-      },
-      {
-        "name": "Abhishek Banerjee",
-        "name_hi": "अभिषेक बनर्जी",
-        "aliases": [
-          "Banerjee"
-        ],
-        "role": "Trinamool Congress general secretary",
-        "role_hi": "Trinamool Congress महासचिव",
-        "ministry": "",
-        "party": "TMC",
-        "party_hi": "TMC",
-        "state": "West Bengal",
-        "state_hi": "पश्चिम बंगाल",
-        "constituency": "",
-        "constituency_hi": "",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 22,
-        "affidavit_url": "",
-        "wikipedia": "",
-        "known_promises": [],
-        "image_placeholder": "",
-        "controversies": [
-          {
-            "incident_text": "अभिषेक बनर्जी ने अपने घर पर छापेमारी के दौरान पुलिस पर उत्पीड़न का आरोप लगाया",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/police-search-abhishek-banerjees-kolkata-residence-for-over-four-hours/article71096590.ece",
-            "source_title": "West Bengal police search Abhishek Banerjee’s Kolkata residence - The Hindu",
-            "scraped_at": "2026-06-13 14:13:49"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी ने कहा TMC एक 'एकल, अविभाज्य राजनीतिक पार्टी' है और अलग होने वाले ग्रुप मान्यता का दावा नहीं कर सकते",
-            "source_url": "https://www.thehindu.com/news/national/lok-sabha-speaker-mamata-faction-to-present-case-amid-tmc-split/article71108164.ece",
-            "source_title": "Speaker Om Birla invites Mamata Banerjee faction to ‘present case’ amid TMC split - The Hindu",
-            "scraped_at": "2026-06-16 08:30:10"
-          },
-          {
-            "incident_text": "चुनाव प्रचार के दौरान कथित भड़काऊ बयान पर अभिषेक बनर्जी से पूछताछ",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
-            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
-            "scraped_at": "2026-06-16 18:22:39"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी ने आंखों के इलाज के लिए 7 दिनों के लिए विदेश यात्रा की अनुमति मांगी",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-foreign-travel-permission-calcutta-high-court-10753997/",
-            "source_title": "‘Want to travel abroad for treatment’: Abhishek Banerjee moves court | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-23 16:37:06"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी का दावा कि आयुष्मान भारत के नियमों के कारण पश्चिम बंगाल की 90% आबादी इसके लिए अयोग्य होगी",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/ayushman-bharat-will-deny-90-people-from-availing-scheme-benefits-in-west-bengal-tmcs-abhishek/article70533459.ece",
-            "source_title": "Ayushman Bharat will deny 90% people from availing scheme benefits in West Bengal: TMC's Abhishek - The Hindu",
-            "scraped_at": "2026-01-21 07:27:14"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी ने कोर्ट में अपना वॉइस सैंपल जमा किया",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-submits-voice-sample-before-bidhannagar-city-court/article71224618.ece",
-            "source_title": "Abhishek Banerjee submits voice sample before Bidhannagar City Court - The Hindu",
-            "scraped_at": "2026-07-15 09:15:02"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी का दावा कि व्यक्तियों को विदेश में इलाज चुनने का अधिकार है",
-            "source_url": "https://www.ndtv.com/india-news/supreme-court-allows-trinamool-congress-mp-abhishek-banerjee-to-travel-abroad-for-eye-treatment-11889051#publisher=newsstand",
-            "source_title": "Supreme Court Allows Trinamool Congress MP Abhishek Banerjee To Travel Abroad For Eye Treatment",
-            "scraped_at": "2026-08-10 09:28:31"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी ने क्रिमिनल केस के बावजूद आंखों के इलाज के लिए विदेश जाने की अनुमति मांगी",
-            "source_url": "https://www.thehindu.com/news/national/supreme-court-allows-abhishek-banerjee-to-travel-abroad-for-eye-treatment/article71327697.ece",
-            "source_title": "Supreme Court allows Abhishek Banerjee to travel abroad for eye treatment - The Hindu",
-            "scraped_at": "2026-08-10 10:47:38"
-          }
-        ],
-        "criminal_incidents": [
-          {
-            "incident_text": "टीचर रिक्रूटमेंट स्कैम में अभिषेक बनर्जी को ED का समन, CID नोटिस भी पेंडिंग",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/trouble-mounts-for-tmc-mp-cid-notice-pending-ed-summons-abhishek-banerjee-in-teacher-recruitment-scam-10723011/",
-            "source_title": "Trouble mounts for TMC MP: CID notice pending, ED summons Abhishek Banerjee in teacher recruitment scam | Kolkata News - The Indian Express",
-            "scraped_at": "2026-06-03 22:16:01.999473",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "गिरफ्तारी और इस्तीफों के बीच पश्चिम बंगाल में Trinamool का संकट गहराया - कोलकाता पुलिस ने अभिषेक बनर्जी के घर पर छापेमारी की",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/arrests-mass-resignations-bulldozer-action-deepen-trinamools-crisis-across-west-bengal/article71021549.ece",
-            "source_title": "Arrests, mass resignations, ‘bulldozer action’ deepen Trinamool’s crisis across West Bengal - The Hindu",
-            "scraped_at": "2026-05-26 04:51:03.882465",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "पश्चिम बंगाल में TMC नेता अभिषेक बनर्जी पर हमले के लिए 5 गिरफ्तार",
-            "source_url": "https://www.ndtv.com/india-news/4-arrested-for-attack-on-trinamool-congress-tmc-leader-abhishek-banerjee-in-west-bengal-11570849#publisher=newsstand",
-            "source_title": "5 Arrested For Attack On Trinamool Congress TMC Leader Abhishek Banerjee In West Bengal",
-            "scraped_at": "2026-05-31 09:37:55.181015",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी पर हमला: दक्षिण 24 परगना के सोनपुर में TMC MP पर भीड़ के हमले के बाद 5 गिरफ्तार",
-            "source_url": "https://www.livemint.com/news/india/abhishek-banerjee-attack-5-arrested-after-mob-assault-on-tmc-mp-in-south-24-parganas-sonarpur-11780197141840.html",
-            "source_title": "Abhishek Banerjee attack: 5 arrested after mob assault on TMC MP in South 24 Parganas' Sonarpur | Today News",
-            "scraped_at": "2026-05-31 06:30:16.763734",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "South 24 Parganas के Sonarpur में TMC MP Abhishek Banerjee पर हमले के बाद 5 गिरफ्तार",
-            "source_url": "https://odishabytes.com/five-arrested-after-mob-assault-on-tmc-mp-abhishek-banerjee-in-south-24-parganas-sonarpur/",
-            "source_title": "Five Arrested After Mob Assault On TMC MP Abhishek Banerjee In South 24 Parganas' Sonarpur | OdishaBytes",
-            "scraped_at": "2026-05-31 06:25:25.115843",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी पर हमला: TMC और BJP एक-दूसरे पर मढ़े आरोप",
-            "source_url": "https://www.indiatoday.in/india/story/abhishek-banerjee-attack-four-arrested-after-sonarpur-violence-during-visit-2919873-2026-05-31?utm_source=rss",
-            "source_title": "Abhishek Banerjee Sonarpur attack: Who attacked Abhishek Banerjee? TMC, BJP pin blame on each other - India Today",
-            "scraped_at": "2026-05-31 11:44:00.328937",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Trinamool ने मीटिंग रद्द की क्योंकि 3/4 MLAs नहीं पहुंचे",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmc-mla-meet-called-off-abhishek-kalyan-banerjee-attacks-bengal/article71045151.ece",
-            "source_title": "Trinamool calls off meeting as three-fourths of its MLAs fail to turn up - The Hindu",
-            "scraped_at": "2026-05-31 22:37:04.430259",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "ट्रिबनी राय ने बताया 'Shape of Momo' बनाने की वजह: India Today",
-            "source_url": "https://www.indiatoday.in/newsmo/video/i-never-saw-my-representation-on-screen-tribeny-rai-on-why-she-made-shape-of-momo-2919973-2026-05-31?utm_source=rss",
-            "source_title": "I never saw my representation on screen: Tribeny Rai on why she made 'Shape of Momo' - India Today",
-            "scraped_at": "2026-05-31 22:36:49.506679",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "कलकत्ता हाई कोर्ट अभिषेक की सुरक्षा की याचिका पर करेगा सुनवाई",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/abhishek-banerjee-moves-calcutta-hc-againstsignature-forgery-allegations/article71056145.ece",
-            "source_title": "Calcutta High Court to hear Abhishek’s plea seeking protection - The Hindu",
-            "scraped_at": "2026-06-03 22:16:48.162279",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "सिग्नेचर फर्जीवाड़े के मामले में ममता बनर्जी के घर पहुंची West Bengal CID",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-mamata-banerjee-abhishek-banerjee-trinamool-congress-forgery-allegations/article71080396.ece",
-            "source_title": "West Bengal CID reaches Mamata Banerjee’s residence in signature forgery case - The Hindu",
-            "scraped_at": "2026-06-09 12:10:11.000460",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "अभिषेक बनर्जी पर हमला: सोनपुर में छापेमारी के बाद 5 गिरफ्तार, 2 हिरासत में",
-            "source_url": "https://indianexpress.com/article/cities/kolkata/abhishek-banerjee-assault-sonarpur-five-arrested-west-bengal-police-tmc-10716508/",
-            "source_title": "Abhishek Banerjee assault: 5 arrested, 2 detained in Sonarpur after overnight raids | Kolkata News - The Indian Express",
-            "scraped_at": "2026-05-31 00:57:56",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool rebel को Key Post के लिए समर्थन, 'Mamata Banerjee Our Leader' Trinamool Congress MLA Ri",
-            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
-            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
-            "scraped_at": "2026-06-03 13:40:08",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "\"बेटे जैसा\": \"तुम या मैं\" अल्टीमेटम के बाद अभिषेक बनर्जी पर कल्याण बनर्जी के बयान",
-            "source_url": "https://www.ndtv.com/india-news/like-son-kalyan-banerjee-on-abhishek-banerjee-after-him-or-me-ultimatum-11632112#publisher=newsstand",
-            "source_title": "\"Like Son\": Kalyan Banerjee On Abhishek Banerjee After \"Him Or Me\" Ultimatum",
-            "scraped_at": "2026-06-13 14:10:43",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "पश्चिम बंगाल MLA सिग्नेचर फॉरजरी केस: अभिषेक बनर्जी CID के सामने पेश",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/signature-forgery-case-calcutta-high-court-directs-abhishek-banerjee-to-appear-before-cid/article71088353.ece",
-            "source_title": "West Bengal MLAs signature forgery case: Abhishek Banerjee appears before CID - The Hindu",
-            "scraped_at": "2026-06-14 08:59:20",
-            "incident_type": "broad"
-          },
-          {
-            "incident_text": "West Bengal CID ने अभिषेक बनर्जी से लगातार तीसरे दिन पूछताछ की",
-            "source_url": "https://www.thehindu.com/news/national/west-bengal/tmcs-abhishek-banerjee-appears-before-bengal-cid-in-case-against-his-inflammatory-statements/article71108031.ece",
-            "source_title": "West Bengal CID grills Abhishek Banerjee for third consecutive day - The Hindu",
-            "scraped_at": "2026-06-16 18:22:39",
-            "incident_type": "broad"
-          }
-        ]
-      },
-      {
-        "name": "Mehbooba Mufti",
-        "name_hi": "मेहबूबा मुफ्ती",
-        "aliases": [
-          "Mufti"
-        ],
-        "role": "President of Peoples Democratic Party",
-        "role_hi": "Peoples Democratic Party के अध्यक्ष",
-        "ministry": "",
-        "party": "PDP",
-        "party_hi": "PDP",
-        "state": "Jammu and Kashmir",
-        "state_hi": "जम्मू और कश्मीर",
-        "constituency": "",
-        "constituency_hi": "",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Mehbooba_Mufti",
-        "known_promises": [],
-        "image_placeholder": "mehbooba_mufti",
-        "controversies": [
-          {
-            "incident_text": "मेहबूबा मुफ्ती ने AIIMS साइट का दौरा किया और देरी से हुए प्रोजेक्ट का श्रेय लिया",
-            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
-            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
-            "scraped_at": "2026-06-06 08:41:43.929151"
-          },
-          {
-            "incident_text": "मेहबूबा मुफ्ती ने AIIMS प्रोजेक्ट के लिए अपने पिता के सपने को पूरा करने के तौर पर अपनी यात्रा को पेश किया",
-            "source_url": "https://indianexpress.com/article/india/in-kashmir-a-stir-over-mehboobas-review-of-aiims-10727464/",
-            "source_title": "In Kashmir, a stir over Mehbooba’s ‘review’ of AIIMS | India News - The Indian Express",
-            "scraped_at": "2026-06-06 14:18:50.366653"
-          }
-        ],
-        "criminal_incidents": []
       }
     ]
   }
