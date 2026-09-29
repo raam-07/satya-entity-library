@@ -2578,6 +2578,296 @@
         "image_placeholder": "s_jaishankar",
         "controversies": [],
         "criminal_incidents": []
+      },
+      {
+        "name": "Nitin Gadkari",
+        "name_hi": "नितिन गडकरी",
+        "aliases": [
+          "Gadkari",
+          "Road Transport Minister"
+        ],
+        "role": "Road Transport and Highways Minister",
+        "role_hi": "सड़क परिवहन और राजमार्ग मंत्री",
+        "ministry": "Ministry of Road Transport and Highways",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Maharashtra",
+        "state_hi": "महाराष्ट्र",
+        "constituency": "Nagpur",
+        "constituency_hi": "नागपुर",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Gadkari",
+        "known_promises": [],
+        "image_placeholder": "nitin_gadkari",
+        "controversies": [
+          {
+            "incident_text": "Nitin Gadkari ने 2015 में गोपालपुर से दीघा तक 450-kilometer Coastal Highway की घोषणा की",
+            "source_url": "https://www.thehindu.com/news/national/odisha/bjd-criticised-centre-for-alleged-delay-in-approval-of-odisha-coastal-highway-project/article71065904.ece",
+            "source_title": "BJD criticised Centre for alleged delay in approval of Odisha Coastal Highway Project - The Hindu",
+            "scraped_at": "2026-06-05 23:19:52.181643"
+          },
+          {
+            "incident_text": "नितिन गडकरी ने कहा कि वे अब पहले जितना काम नहीं कर सकते",
+            "source_url": "https://www.ndtv.com/india-news/taken-out-of-context-nitin-gadkaris-office-on-cant-work-as-before-remark-11955880#publisher=newsstand",
+            "source_title": "\"Taken Out Of Context\": Nitin Gadkari's Office On \"Can't Work As Before\" Remark",
+            "scraped_at": "2026-08-25 09:39:49"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "नितिन गडकरी के खिलाफ मानहानि अभियान पर नागपुर Cyber Police ने content creators के खिलाफ FIR दर्ज की",
+            "source_url": "https://www.thehindu.com/news/national/nagpur-cyber-police-register-fir-against-content-creators-over-alleged-defamatory-campaign-targeting-nitin-gadkari/article71228312.ece",
+            "source_title": "Nagpur Cyber Police register FIR against content creators over alleged defamatory campaign targeting Nitin Gadkari - The Hindu",
+            "scraped_at": "2026-07-16 07:29:20",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "JP Nadda",
+        "name_hi": "JP नड्डा",
+        "aliases": [
+          "Nadda",
+          "BJP President",
+          "Health Minister"
+        ],
+        "role": "Health Minister / BJP National President",
+        "role_hi": "स्वास्थ्य मंत्री / BJP राष्ट्रीय अध्यक्ष",
+        "ministry": "Ministry of Health and Family Welfare",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Himachal Pradesh",
+        "state_hi": "हिमाचल प्रदेश",
+        "constituency": "Rajya Sabha",
+        "constituency_hi": "राज्यसभा",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/J._P._Nadda",
+        "known_promises": [],
+        "image_placeholder": "jp_nadda",
+        "controversies": [
+          {
+            "incident_text": "प्रियंका गांधी वाड्रा ने कहा कि बोर्डोलोई का इस्तीफा टिकट आवंटन से नाराजगी के कारण हो सकता है",
+            "source_url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
+            "source_title": "Assam Congress weighs MP’s flight to BJP - The Hindu",
+            "scraped_at": "2026-03-18 23:38:55.839838"
+          },
+          {
+            "incident_text": "मेहबूबा मुफ्ती ने AIIMS साइट का दौरा किया और देरी वाले प्रोजेक्ट का क्रेडिट लिया",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "रेखा गुप्ता ने मोदी की लीडरशिप की तारीफ की और पिछले 12 सालों में सरकार की उपलब्धियों पर जोर दिया",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने राज्यसभा चुनाव की निष्पक्षता में हस्तक्षेप के प्रयासों का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 13:27:35"
+          },
+          {
+            "incident_text": "नरेन्द्र मोदी ने केंद्र सरकार को Statue of Unity पर IAS अधिकारियों के साथ बातचीत आयोजित करने के निर्देश दिए",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/narendra-modi-ias-officers-statue-of-unity-10728831/",
+            "source_title": "Delhi Confidential: Pep Talk | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-07 17:40:55"
+          },
+          {
+            "incident_text": "J.P. Nadda ने राहुल गांधी से पेपर लीक मामलों का राजनीतिक फायदा न उठाने की अपील की",
+            "source_url": "https://www.thehindu.com/news/national/why-so-selective-on-paper-leaks-nadda-asks-rahul/article71255070.ece",
+            "source_title": "Why so selective on paper leaks, Nadda asks Rahul - The Hindu",
+            "scraped_at": "2026-07-22 19:57:33"
+          },
+          {
+            "incident_text": "J.P. Nadda ने विपक्ष के नेताओं पर 'toolkit mentality' होने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/bjp-accuses-opposition-leaders-of-conspiring-to-derail-indias-progress/article71520282.ece",
+            "source_title": "BJP accuses Opposition leaders of conspiring to derail India’s progress",
+            "scraped_at": "2026-09-28 18:03:23"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के मुताबिक काम किया: तेलंगाना BJP चीफ",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के हिसाब से काम किया: तेलंगाना BJP प्रमुख",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ec-acted-as-per-law-in-meenakshi-natarajan-case-says-telangana-bjp-chief/article71084297.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:35.086682",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बिहार और ओडिशा से NDA ने जीते 8 Rajya Sabha सीटें; हरियाणा के नतीजे अभी पेंडिंग",
+            "source_url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+            "source_title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold - The Hindu",
+            "scraped_at": "2026-03-16 13:27:35",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Smriti Irani",
+        "name_hi": "स्मृति ईरानी",
+        "aliases": [
+          "Smriti",
+          "Irani"
+        ],
+        "role": "Former Women and Child Development Minister",
+        "role_hi": "पूर्व महिला और बाल विकास मंत्री",
+        "ministry": "Ministry of Women and Child Development",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttar Pradesh",
+        "state_hi": "उत्तर प्रदेश",
+        "constituency": "Amethi",
+        "constituency_hi": "अमेठी",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
+        "known_promises": [],
+        "image_placeholder": "smriti_irani",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Piyush Goyal",
+        "name_hi": "पियूष गोयल",
+        "aliases": [
+          "Goyal",
+          "Commerce Minister"
+        ],
+        "role": "Commerce and Industry Minister",
+        "role_hi": "वाणिज्य और उद्योग मंत्री",
+        "ministry": "Ministry of Commerce and Industry",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Maharashtra",
+        "state_hi": "महाराष्ट्र",
+        "constituency": "Rajya Sabha",
+        "constituency_hi": "राज्यसभा",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Piyush_Goyal",
+        "known_promises": [],
+        "image_placeholder": "piyush_goyal",
+        "controversies": [
+          {
+            "incident_text": "पीयूष गोयल ने कहा कि भविष्य का कोई भी ट्रेड डील आपसी लाभ, पारस्परिकता और समानता पर आधारित होगा",
+            "source_url": "https://www.thehindu.com/news/national/profile-on-piyush-goyal-crisis-manager/article70633226.ece",
+            "source_title": "Piyush Goyal | Crisis manager - The Hindu",
+            "scraped_at": "2026-02-14 15:03:55"
+          },
+          {
+            "incident_text": "पियुश गोयल ने मीडिया इंटरव्यू में कहा कि सुरक्षा उपाय बढ़ते आयात से घरेलू हितों की रक्षा करेंगे",
+            "source_url": "https://www.thehindu.com/news/national/dmk-mp-tiruchi-siva-moves-privilege-notice-against-commerce-minister-piyush-goyal/article70610593.ece",
+            "source_title": "DMK MP Tiruchi Siva moves privilege notice against Commerce Minister Piyush Goyal - The Hindu",
+            "scraped_at": "2026-02-09 06:41:16"
+          },
+          {
+            "incident_text": "सत्र के दौरान संसद के बाहर भारत-U.एस. ट्रेड डील पर पीयूष गोयल की प्रेस कॉन्फ्रेंस",
+            "source_url": "https://www.thehindu.com/news/national/parliament-budget-session-india-us-trade-deal-piyush-goyal-press-conference-congress/article70591137.ece",
+            "source_title": "Congress says Commerce Minister's press conference during session breaches Parliament tradition - The Hindu",
+            "scraped_at": "2026-02-04 05:17:29"
+          },
+          {
+            "incident_text": "पियुश गोयल ने DMK पर 'anti-Hindu' माइंडसेट होने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/after-hc-quashes-fir-against-amit-malviya-bjp-demands-removal-of-udhayanidhi-stalin-as-deputy-cm/article70533960.ece",
+            "source_title": "After HC quashes FIR against Amit Malviya, BJP demands removal of Udhayanidhi Stalin as Deputy CM - The Hindu",
+            "scraped_at": "2026-01-21 14:02:16"
+          },
+          {
+            "incident_text": "पियूष गोयल ने धिनकरण के NDA में लौटने पर खुशी जताई और DMK को हराने के लिए साझा इतिहास और प्रतिबद्धता का जिक्र किया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/ttv-dhinakarans-ammk-returns-to-nda-in-tamil-nadu-ahead-of-assembly-elections/article70532551.ece",
+            "source_title": "T.T.V. Dhinakaran’s AMMK returns to NDA in Tamil Nadu ahead of Assembly elections - The Hindu",
+            "scraped_at": "2026-01-21 02:26:52"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "दिव्यांग लड़के की पिटाई का वीडियो वायरल होने पर अक्षय और आनंदी पति-पत्नी हिरासत में",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/couple-detained-as-video-of-differently-abled-boy-being-beaten-goes-viral/article70420524.ece",
+            "source_title": "Couple detained as video of differently abled boy being beaten goes viral - The Hindu",
+            "scraped_at": "2025-12-21 08:02:24",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Dharmendra Pradhan",
+        "name_hi": "धर्मेंद्र प्रधान",
+        "aliases": [
+          "Pradhan",
+          "Education Minister"
+        ],
+        "role": "Education Minister",
+        "role_hi": "शिक्षा मंत्री",
+        "ministry": "Ministry of Education",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Odisha",
+        "state_hi": "ओडिशा",
+        "constituency": "Rajya Sabha",
+        "constituency_hi": "राज्यसभा",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dharmendra_Pradhan",
+        "known_promises": [],
+        "image_placeholder": "dharmendra_pradhan",
+        "controversies": [
+          {
+            "incident_text": "Dharmendra Pradhan ने बताया कि अगले साल NEET-UG एग्जाम कंप्यूटर-आधारित होगा",
+            "source_url": "https://www.thehindu.com/news/national/why-isnt-pm-sacking-education-minister-pradhan-despite-repeated-paper-leaks-asks-rahul/article70990121.ece",
+            "source_title": "Why isn't PM Modi sacking Education Minister Pradhan despite repeated paper leaks, asks Rahul Gandhi - The Hindu",
+            "scraped_at": "2026-05-17 05:43:42"
+          },
+          {
+            "incident_text": "मल्लिकार्जुन खड़गे ने कहा कि तबादले भ्रष्टाचार के आरोपों से ध्यान हटाने के लिए किए गए",
+            "source_url": "https://indianexpress.com/article/india/rahul-gandhi-cbse-transfer-dharmendra-pradhan-osm-row-10721006/",
+            "source_title": "Rahul says CBSE transfers a cover-up, demands Pradhan’s sacking | India News - The Indian Express",
+            "scraped_at": "2026-06-02 14:17:05"
+          },
+          {
+            "incident_text": "खरगे के मुताबिक धर्मेंद्र प्रधान ने लाखों युवाओं का भविष्य रोक दिया है",
+            "source_url": "https://www.thehindu.com/news/national/bjp-government-has-failed-first-test-of-accountability-by-not-seeking-pradhans-resignation-says-kharge/article71109005.ece",
+            "source_title": "BJP government has ‘failed’ first test of accountability by not seeking Pradhan's resignation, says Kharge - The Hindu",
+            "scraped_at": "2026-06-16 13:21:21"
+          },
+          {
+            "incident_text": "धर्मेंद्र प्रधान ने कॉकरोच जनता पार्टी को विघटनकारी तत्वों की 'B team' बताया",
+            "source_url": "https://www.ndtv.com/india-news/b-team-of-disruptive-elements-education-minister-dharmendra-pradhan-to-ndtv-on-cjp-11675087#publisher=newsstand",
+            "source_title": "\"B Team Of Disruptive Elements\": Education Minister Dharmendra Pradhan To NDTV On CJP",
+            "scraped_at": "2026-06-23 11:24:46"
+          },
+          {
+            "incident_text": "Dharmendra Pradhan ने भरोसा दिलाया कि नए UGC इक्विटी नियमों के तहत किसी के साथ भेदभाव नहीं होगा",
+            "source_url": "https://www.thehindu.com/news/national/ugc-row-consistency-of-not-consulting-anybody-reflects-in-every-decision-of-government-says-sibal/article70573751.ece",
+            "source_title": "UGC row: Consistency of not consulting anybody reflects in every decision of government, says Sibal - The Hindu",
+            "scraped_at": "2026-01-31 05:00:53"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "CJP विरोध के समर्थन में सोनम वांगचुक ने जंतर मंतर पर भूख हड़ताल शुरू की",
+            "source_url": "https://indianexpress.com/article/delhi/sonam-wangchuk-hunger-strike-jantar-mantar-cockroach-cjp-abhijeet-pradhan-10761818/",
+            "source_title": "Sonam Wangchuk launches hunger strike at Jantar Mantar in support of CJP protest | The Indian Express",
+            "scraped_at": "2026-06-28 16:17:50",
+            "incident_type": "broad"
+          }
+        ]
       }
     ],
     "opposition_leaders": [
