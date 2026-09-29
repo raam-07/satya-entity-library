@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5592,6 +5592,12 @@
             "source_url": "https://www.ndtv.com/india-news/revanth-reddy-orders-probe-into-farmhouse-linked-to-kcr-his-party-hits-back-12056588#publisher=newsstand",
             "source_title": "Revanth Reddy Orders Probe Into Farmhouse Linked To KCR, His Party Hits Back",
             "scraped_at": "2026-09-16 23:49:02"
+          },
+          {
+            "incident_text": "Revanth Reddy called Lord Shiva the God of the poor and Ram the God of the rich.",
+            "source_url": "https://www.ndtv.com/telangana-news/revanth-reddy-under-bjp-fire-over-lord-ram-god-of-rich-lord-shiva-of-poor-remarks-12112411#publisher=newsstand",
+            "source_title": "Revanth Reddy Under BJP Fire Over 'Ram God Of Rich, Shiva Of Poor' Remarks",
+            "scraped_at": "2026-09-29 06:04:44"
           }
         ],
         "criminal_cases_in_news": 8,
