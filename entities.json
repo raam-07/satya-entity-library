@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5604,6 +5604,12 @@
             "source_url": "https://www.ndtv.com/telangana-news/revanth-reddy-under-bjp-fire-over-lord-ram-god-of-rich-lord-shiva-of-poor-remarks-12112411#publisher=newsstand",
             "source_title": "Revanth Reddy Under BJP Fire Over 'Ram God Of Rich, Shiva Of Poor' Remarks",
             "scraped_at": "2026-09-29 06:04:44"
+          },
+          {
+            "incident_text": "Revanth Reddy claimed people are divided into Dravidian and Aryan groups.",
+            "source_url": "https://www.thehindu.com/news/national/congress-pursues-politics-of-divide-hindus-for-muslim-rule-bjp/article71527430.ece",
+            "source_title": "Congress pursues politics of “divide Hindus for Muslim rule”: BJP",
+            "scraped_at": "2026-09-30 10:04:50"
           }
         ],
         "criminal_cases_in_news": 8,
@@ -7266,7 +7272,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 12,
+        "criminal_cases_in_news": 13,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7351,9 +7357,16 @@
             "source_title": "CMRL-Exalogic payoff case: Pinarayi Vijayan says ED’s charges shows a ‘shared political agenda’ between BJP and Congress - The Hindu",
             "scraped_at": "2026-09-12 11:11:21",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "CMRL-Exalogic payoff case: Kerala HC reserves order on plea seeking FIR against Pinarayi, daughter Veena, Riyas On September 30, 2026, the **Kerala High Court** reserved its verdict in a petition seek",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-kerala-hc-reserves-order-on-plea-seeking-fir-against-pinarayi-daughter-veena-riyas/article71523995.ece",
+            "source_title": "CMRL-Exalogic payoff case: Kerala HC reserves order on plea seeking FIR against Pinarayi, daughter Veena, Riyas",
+            "scraped_at": "2026-09-30 10:05:32",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-12",
+        "criminal_last_updated": "2026-09-30",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
