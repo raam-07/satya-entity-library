@@ -41,6 +41,10 @@ WINDOW_CM_PARTY_DAYS     = 30
 WINDOW_PROMISES_DAYS     = 180
 WINDOW_CRIMINAL_DAYS     = 9999
 WINDOW_NEW_ENTITIES_DAYS = 30
+# The 30-day window detectors (CM / ruling party / central govt / portfolios / enrichment)
+# re-read ~8k articles each time. They run at most this often; runs in between only
+# handle newly classified articles. Override with WINDOW_SCAN_EVERY_HOURS (0 = every run).
+WINDOW_SCAN_EVERY_HOURS = float(os.environ.get('WINDOW_SCAN_EVERY_HOURS') or 6)
 
 AUTO_UPDATE_THRESHOLD   = 0.75
 REVIEW_THRESHOLD        = 0.40
@@ -176,7 +180,7 @@ def refresh_bridge_rows(cursor, article_id, kind, values, slugify_fn):
                 (article_id, kind, slugify_fn(v))
             )
 
-def fetch_articles(conn):
+def fetch_articles(conn, include_window=True):
     rescan_requested = os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
     logging.info(f"Fetching classified articles from SQLite database (rescan_requested={rescan_requested})...")
     articles = []
@@ -192,6 +196,19 @@ def fetch_articles(conn):
                 FROM articles 
                 WHERE status IN ('classified', 'entity_processed', 'processed')
             """)
+        elif not include_window:
+            # Between window scans: only the newly classified articles (the work queue).
+            import time
+            cutoff_timestamp = int(time.time()) - 30 * 24 * 3600
+            cursor.execute("""
+                SELECT id, cluster_id, source_id, title, url, content, image_url, scraped_at, 
+                       category, sentiment, sentiment_target, rephrased_article, 
+                       party_mentioned, ministers_mentioned, states_mentioned, cities_mentioned, 
+                       topic_tags, civic_flag, civic_flag_score, civic_flag_category, civic_flag_reason, 
+                       classified_at, status 
+                FROM articles INDEXED BY idx_articles_status_scraped
+                WHERE status = 'classified' AND scraped_at >= ?
+            """, (cutoff_timestamp,))
         else:
             # Optimize: Only fetch unprocessed articles OR processed articles from the last 30 days
             import time
@@ -2762,15 +2779,23 @@ def main():
         return
 
     # Else: process or both
-    articles = fetch_articles(conn)
-
-    if not articles:
-        logging.error("No articles found. Exiting.")
-        conn.close()
-        return
-
     entities = load_entities()
     entities = dedupe_entities(entities)
+
+    # Window detectors run at most every WINDOW_SCAN_EVERY_HOURS (or on a history rescan).
+    window_state = entities['metadata'].get('window_scan', {})
+    rescan_pending = (os.environ.get('RESCAN_HISTORY', '').lower() in ('1', 'true', 'yes')
+                      or entities['metadata'].get('rescan_history', {}).get('in_progress', False))
+    window_due = (rescan_pending
+                  or time.time() - float(window_state.get('last_ts', 0)) >= WINDOW_SCAN_EVERY_HOURS * 3600)
+    logging.info(f"30-day window scan due: {window_due} (last: {window_state.get('last', 'never')})")
+
+    articles = fetch_articles(conn, include_window=window_due)
+
+    if not articles:
+        logging.info("No new classified articles and no window scan due. Exiting.")
+        conn.close()
+        return
     logging.info(f"Loaded entities.json (version: {entities['metadata'].get('version', 'unknown')})")
 
     nlp = load_spacy()
@@ -2871,21 +2896,29 @@ def main():
 
     # Step 4: Run CM and ruling party aggregations using both historical and chunk articles
     # Combine processed articles with the newly processed chunk for correct aggregate confidence calculation
-    cm_party_articles = processed_articles + unprocessed_chunk
-    cm_updates, cm_flags = detect_cms(cm_party_articles, entities, nlp, llm)
-    all_flags.extend(cm_flags)
+    # These weigh evidence across the whole 30-day window, so they only run when the
+    # window was fetched (never on a partial set of articles).
+    cm_updates, party_updates, central_updates, role_updates = [], [], [], []
+    enriched_count = 0
+    if window_due:
+        cm_party_articles = processed_articles + unprocessed_chunk
+        cm_updates, cm_flags = detect_cms(cm_party_articles, entities, nlp, llm)
+        all_flags.extend(cm_flags)
 
-    party_updates, party_flags = detect_ruling_parties(cm_party_articles, entities, nlp, llm)
-    all_flags.extend(party_flags)
+        party_updates, party_flags = detect_ruling_parties(cm_party_articles, entities, nlp, llm)
+        all_flags.extend(party_flags)
 
-    central_updates, central_flags = detect_central_government(cm_party_articles, entities, nlp, llm)
-    all_flags.extend(central_flags)
+        central_updates, central_flags = detect_central_government(cm_party_articles, entities, nlp, llm)
+        all_flags.extend(central_flags)
 
-    role_updates, role_flags = detect_portfolio_changes(cm_party_articles, entities, nlp, llm)
-    all_flags.extend(role_flags)
+        role_updates, role_flags = detect_portfolio_changes(cm_party_articles, entities, nlp, llm)
+        all_flags.extend(role_flags)
 
-    enriched_count, enrich_flags = enrich_auto_added_entities(cm_party_articles, entities, llm)
-    all_flags.extend(enrich_flags)
+        enriched_count, enrich_flags = enrich_auto_added_entities(cm_party_articles, entities, llm)
+        all_flags.extend(enrich_flags)
+
+        entities['metadata']['window_scan'] = {'last_ts': int(time.time()),
+                                               'last': datetime.now().strftime('%Y-%m-%d %H:%M')}
 
     updated_entities = apply_updates(
         entities, cm_updates, party_updates, criminal_updates, new_promises, gaffe_updates,
