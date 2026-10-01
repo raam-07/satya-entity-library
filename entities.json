@@ -15,6 +15,10 @@
       "in_progress": false,
       "completed_on": "2026-06-12",
       "articles_scanned": 25144
+    },
+    "window_scan": {
+      "last_ts": 1790836556,
+      "last": "2026-10-01 06:35"
     }
   },
   "india": {
