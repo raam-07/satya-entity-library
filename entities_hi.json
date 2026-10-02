@@ -329,7 +329,7 @@
         ],
         "ideology": "Hindu nationalism, right-wing",
         "founded": "1980",
-        "president": "JP Nadda",
+        "president": "Nitin Nabin",
         "coalition": "NDA",
         "ruling_states": [
           "Arunachal Pradesh",
@@ -462,7 +462,7 @@
         ],
         "ideology": "Marxism, Communism",
         "founded": "1964",
-        "president": "Sitaram Yechury",
+        "president": "M. A. Baby",
         "coalition": "INDIA Alliance",
         "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
@@ -2640,11 +2640,10 @@
         "name_hi": "JP नड्डा",
         "aliases": [
           "Nadda",
-          "BJP President",
           "Health Minister"
         ],
-        "role": "Health Minister / BJP National President",
-        "role_hi": "स्वास्थ्य मंत्री / BJP राष्ट्रीय अध्यक्ष",
+        "role": "Health and Family Welfare Minister / Chemicals and Fertilizers Minister",
+        "role_hi": "स्वास्थ्य एवं परिवार कल्याण मंत्री / रसायन एवं उर्वरक मंत्री",
         "ministry": "Ministry of Health and Family Welfare",
         "party": "BJP",
         "party_hi": "BJP",
@@ -2725,31 +2724,6 @@
             "incident_type": "broad"
           }
         ]
-      },
-      {
-        "name": "Smriti Irani",
-        "name_hi": "स्मृति ईरानी",
-        "aliases": [
-          "Smriti",
-          "Irani"
-        ],
-        "role": "Former Women and Child Development Minister",
-        "role_hi": "पूर्व महिला और बाल विकास मंत्री",
-        "ministry": "Ministry of Women and Child Development",
-        "party": "BJP",
-        "party_hi": "BJP",
-        "state": "Uttar Pradesh",
-        "state_hi": "उत्तर प्रदेश",
-        "constituency": "Amethi",
-        "constituency_hi": "अमेठी",
-        "criminal_cases": 0,
-        "criminal_cases_in_news": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
-        "known_promises": [],
-        "image_placeholder": "smriti_irani",
-        "controversies": [],
-        "criminal_incidents": []
       },
       {
         "name": "Piyush Goyal",
@@ -9348,6 +9322,51 @@
         "image_placeholder": "sheikh_abdullah",
         "controversies": [],
         "criminal_incidents": []
+      },
+      {
+        "name": "Smriti Irani",
+        "name_hi": "स्मृति ईरानी",
+        "aliases": [
+          "Smriti",
+          "Irani"
+        ],
+        "role": "Former Women and Child Development Minister",
+        "role_hi": "पूर्व महिला और बाल विकास मंत्री",
+        "ministry": "Ministry of Women and Child Development",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttar Pradesh",
+        "state_hi": "उत्तर प्रदेश",
+        "constituency": "Amethi",
+        "constituency_hi": "अमेठी",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
+        "known_promises": [],
+        "image_placeholder": "smriti_irani",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Nitin Nabin",
+        "name_hi": "नितिन नबीन",
+        "aliases": [
+          "BJP National President"
+        ],
+        "role": "BJP National President",
+        "role_hi": "BJP राष्ट्रीय अध्यक्ष",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Bihar",
+        "state_hi": "बिहार",
+        "constituency": "Bankipur",
+        "constituency_hi": "बांकीपुर",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Nabin",
+        "image_placeholder": "nitin_nabin"
       }
     ]
   }

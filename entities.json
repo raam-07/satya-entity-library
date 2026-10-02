@@ -1137,10 +1137,9 @@
         "name": "JP Nadda",
         "aliases": [
           "Nadda",
-          "BJP President",
           "Health Minister"
         ],
-        "role": "Health Minister / BJP National President",
+        "role": "Health and Family Welfare Minister / Chemicals and Fertilizers Minister",
         "ministry": "Ministry of Health and Family Welfare",
         "party": "BJP",
         "state": "Himachal Pradesh",
@@ -1219,26 +1218,6 @@
         ],
         "criminal_cases_in_news": 3,
         "criminal_last_updated": "2026-06-16"
-      },
-      {
-        "name": "Smriti Irani",
-        "aliases": [
-          "Smriti",
-          "Irani"
-        ],
-        "role": "Former Women and Child Development Minister",
-        "ministry": "Ministry of Women and Child Development",
-        "party": "BJP",
-        "state": "Uttar Pradesh",
-        "constituency": "Amethi",
-        "criminal_cases": 0,
-        "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
-        "known_promises": [],
-        "image_placeholder": "smriti_irani",
-        "criminal_incidents": [],
-        "controversies": [],
-        "criminal_cases_in_news": 0
       },
       {
         "name": "Piyush Goyal",
@@ -7499,6 +7478,41 @@
         "auto_added_on": "2026-06-18",
         "gemma_confidence": "high",
         "mentions_detected": 1
+      },
+      {
+        "name": "Smriti Irani",
+        "aliases": [
+          "Smriti",
+          "Irani"
+        ],
+        "role": "Former Women and Child Development Minister",
+        "ministry": "Ministry of Women and Child Development",
+        "party": "BJP",
+        "state": "Uttar Pradesh",
+        "constituency": "Amethi",
+        "criminal_cases": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
+        "known_promises": [],
+        "image_placeholder": "smriti_irani",
+        "criminal_incidents": [],
+        "controversies": [],
+        "criminal_cases_in_news": 0
+      },
+      {
+        "name": "Nitin Nabin",
+        "role": "BJP National President",
+        "party": "BJP",
+        "state": "Bihar",
+        "constituency": "Bankipur",
+        "aliases": [
+          "BJP National President"
+        ],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Nabin",
+        "image_placeholder": "nitin_nabin"
       }
     ],
     "parties": [
@@ -7511,7 +7525,7 @@
         ],
         "ideology": "Hindu nationalism, right-wing",
         "founded": "1980",
-        "president": "JP Nadda",
+        "president": "Nitin Nabin",
         "coalition": "NDA",
         "ruling_states": [
           "Arunachal Pradesh",
@@ -7644,7 +7658,7 @@
         ],
         "ideology": "Marxism, Communism",
         "founded": "1964",
-        "president": "Sitaram Yechury",
+        "president": "M. A. Baby",
         "coalition": "INDIA Alliance",
         "ruling_states": [],
         "wikipedia": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
