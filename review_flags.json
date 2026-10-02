@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 08:58:44.463582",
+  "generated_at": "2026-10-02 10:48:49.182124",
   "summary": {
     "cm_updates_applied": 0,
     "central_updates_applied": 0,
@@ -11,9 +11,18 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 1
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "entity_enrichment",
+      "person": "Sheikh Abdullah",
+      "candidate_party": "BJP",
+      "mentions": 4,
+      "share": 0.67,
+      "reason": "Party evidence below auto threshold"
+    }
+  ]
 }
