@@ -6,7 +6,7 @@ name: Refresh site after entity changes
 on:
   push:
     branches: [main]
-    paths: ['entities.json', 'entities_hi.json']
+    paths: ['entities.json']   # not entities_hi.json: the Hindi service checkpoints it many times a day
   workflow_dispatch:
 
 jobs:
