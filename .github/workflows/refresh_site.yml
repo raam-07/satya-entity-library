@@ -1,0 +1,23 @@
+name: Refresh site after entity changes
+
+# A push that changes entities.json (e.g. a manual fix of a party head or a role) asks
+# satyadheesh.in to refresh its party / leader / state pages. The site rate-limits this tag
+# (30 min). Needs the REVALIDATE_SECRET repository secret (same value as the site's).
+on:
+  push:
+    branches: [main]
+    paths: ['entities.json', 'entities_hi.json']
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - env:
+          SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          [ -z "$SECRET" ] && { echo "::warning::REVALIDATE_SECRET not set; the site picks this up on its next refresh"; exit 0; }
+          OUT=$(curl -sS -X POST --get "https://satyadheesh.in/api/revalidate" \
+            --data-urlencode "tag=entities" --data-urlencode "secret=$SECRET")
+          echo "::notice title=Site refresh::$OUT"
