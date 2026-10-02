@@ -7491,6 +7491,425 @@
             "incident_type": "broad"
           }
         ]
+      },
+      {
+        "name": "Pushkar Singh Dhami",
+        "name_hi": "पुष्कर सिंह धामी",
+        "aliases": [
+          "Pushkar Dhami",
+          "Dhami"
+        ],
+        "role": "Chief Minister of Uttarakhand",
+        "role_hi": "उत्तराखंड के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttarakhand",
+        "state_hi": "उत्तराखंड",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pushkar_Singh_Dhami",
+        "known_promises": [],
+        "image_placeholder": "pushkar_singh_dhami",
+        "controversies": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "अंकिता भंडारी मर्डर केस में Congress ने CBI से मांगी टाइम-बाउंड जांच",
+            "source_url": "https://www.thehindu.com/news/national/uttarakhand/congress-seeks-time-bound-cbi-probe-into-ankita-bhandari-murder/article70495171.ece",
+            "source_title": "Congress seeks time-bound CBI probe into Ankita Bhandari murder - The Hindu",
+            "scraped_at": "2026-01-10 10:17:11",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Suvendu Adhikari",
+        "name_hi": "सुवेंदु अधिकारी",
+        "aliases": [
+          "Adhikari"
+        ],
+        "role": "Chief Minister of West Bengal",
+        "role_hi": "पश्चिम बंगाल के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "West Bengal",
+        "state_hi": "पश्चिम बंगाल",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 17,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Suvendu_Adhikari",
+        "known_promises": [],
+        "image_placeholder": "suvendu_adhikari",
+        "controversies": [
+          {
+            "incident_text": "सुवेंदु अधिकारी ने कहा कि मंदिर का नाम 'Jagannath Dham' रखने से ओडिशा और बंगाल के हिंदुओं की भावनाओं को ठेस पहुंची",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-to-remove-dham-tag-from-name-of-digha-temple/article71080968.ece",
+            "source_title": "Bengal government to remove ‘Dham’ tag from name of Digha temple - The Hindu",
+            "scraped_at": "2026-06-09 18:10:55.701145"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी की सरकार को बेदखली के लिए 'बुलडोज़र कल्चर' के रवैये के लिए आलोचना का सामना करना पड़ा",
+            "source_url": "https://indianexpress.com/article/political-pulse/bengal-bjp-govt-first-month-anti-corruption-border-fencing-welfare-schemes-10731896/",
+            "source_title": "Bengal BJP govt’s first month: From anti-corruption drive, border fencing to new welfare schemes | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-09 15:41:48.731058"
+          },
+          {
+            "incident_text": "ममता बनर्जी ने आरोप लगाया कि चुनाव आयोग ने अधिकारियों के ट्रांसफर में एकतरफा कार्रवाई की",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-accuses-mamata-of-poll-code-violation-demands-ec-action/article70766854.ece",
+            "source_title": "Suvendu Adhikari accuses Mamata of poll code violation, demands EC action - The Hindu",
+            "scraped_at": "2026-03-20 12:37:10"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने दावा किया कि अभिषेक बनर्जी के कोलकाता में 24 प्रॉपर्टी हैं",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
+            "source_title": "Suvendu targets Abhishek, says all his properties will be accounted for - The Hindu",
+            "scraped_at": "2026-05-16 20:00:22"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने कहा कि उनकी सरकार ऐसे मामलों में आरोपियों की प्रॉपर्टी नीलाम करने के लिए कानून लाएगी",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-worker-killed-in-howrah-wb-cm-promises-law-to-seize-properties-of-accused/article71123386.ece",
+            "source_title": "BJP worker killed in Howrah; W.B. CM promises law to seize properties of accused - The Hindu",
+            "scraped_at": "2026-06-19 20:55:38"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने Uniform Civil Code के साथ 'land jihad', 'love jihad' और जबरन धर्मांतरण के खिलाफ कानून लाने का वादा किया",
+            "source_url": "https://www.ndtv.com/india-news/bengal-to-implement-uniform-code-bring-anti-conversion-law-suvendu-adhikari-11692904#publisher=newsstand",
+            "source_title": "Bengal To Implement Uniform Code, Bring Anti-Conversion Law: Suvendu Adhikari",
+            "scraped_at": "2026-06-26 19:23:26"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने BJP को मुर्शिदाबाद में ज्यादा डींगें न हांकने की चेतावनी दी",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/mla-humayun-kabir-under-fire-after-threatening-bjp-workers-at-murshidabad-rally-10760316/",
+            "source_title": "MLA Humayun Kabir under fire after threatening BJP workers at Murshidabad rally | Kolkata News - The Indian Express",
+            "scraped_at": "2026-06-27 12:01:19"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने तारतला वेयरहाउस हादसे में फिरहाद हाकिम पर लगाया भ्रष्टाचार का आरोप",
+            "source_url": "https://indianexpress.com/article/political-pulse/taratala-warehouse-collapse-firhad-hakim-ex-aides-arrest-alarm-tmc-rebels-10760470/",
+            "source_title": "Taratala warehouse collapse: Why Firhad Hakim ex-aide’s arrest rings alarm bells among TMC rebels | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-27 13:58:02"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने ममता बनर्जी पर कार्यकाल के दौरान हेट स्पीच की अनुमति देने के लिए कमजोरी का आरोप लगाया",
+            "source_url": "https://www.ndtv.com/india-news/in-warning-to-humayun-kabir-suvendu-adhikaris-weak-jab-at-mamata-banerjee-11702423#publisher=newsstand",
+            "source_title": "In Warning To Humayun Kabir, Suvendu Adhikari's 'Weak' Jab At Mamata Banerjee",
+            "scraped_at": "2026-06-29 13:55:23"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने दावा किया कि कुछ अधिकारी डर, दबाव या अन्य कारणों से भ्रष्टाचार में शामिल थे",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/wont-use-you-for-political-interests-cm-suvendu-adhikari-to-west-bengal-civil-service-officers-10767282/",
+            "source_title": "Won’t use you for political interests: CM Suvendu Adhikari to West Bengal Civil Service officers | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-02 00:15:33"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने कहा कि राज्य में जल्द ही UCC लागू होगा",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-approves-panel-to-examine-draft-uniform-civil-code-bill/article71175436.ece",
+            "source_title": "West Bengal Cabinet approves panel to examine draft Uniform Civil Code Bill - The Hindu",
+            "scraped_at": "2026-07-02 17:55:16"
+          },
+          {
+            "incident_text": "अमित शाह के मुताबिक पश्चिम बंगाल में सुवेंदु अधिकारी की सरकार BJP के वादे पूरे कर रही है",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/bjp-govt-in-west-bengalis-fulfilling-the-promises-made-during-polls-shah/article71191907.ece",
+            "source_title": "BJP govt. in West Bengalis fulfilling the promises made during polls: Shah - The Hindu",
+            "scraped_at": "2026-07-06 22:17:29"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने दावा किया कि मोंडल पर हमला पहचान पता चलने के बाद हुआ, न कि मॉब लिंचिंग के दौरान",
+            "source_url": "https://indianexpress.com/article/cities/kolkata/baruipur-murder-case-suvendu-adhikari-indrajeet-mondal-compensation-10782218/",
+            "source_title": "‘Attacked after being identified’: Suvendu rejects ‘lynching’ tag for man’s death in Baruipur violence | Kolkata News - The Indian Express",
+            "scraped_at": "2026-07-11 15:37:26"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने मस्जिद पहुंच से ऊपर नेशनल और एयरपोर्ट सिक्योरिटी को प्राथमिकता दी",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-backs-curbs-on-kolkata-airport-mosque-entry-cites-security-concerns/article71215981.ece",
+            "source_title": "Suvendu Adhikari backs curbs on Kolkata airport mosque entry, cites security concerns - The Hindu",
+            "scraped_at": "2026-07-13 07:03:21"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने राजनीतिक फायदे के लिए शहीदों के परिवारों को नजरअंदाज करने पर ममता बनर्जी पर लगाया आरोप",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-makes-public-youth-congress-police-firing-report-slams-mamata-for-not-acting-on-it-when-she-was-cm/article71246039.ece",
+            "source_title": "Suvendu makes public July 21 police firing report; slams Mamata for not acting on it when she was CM - The Hindu",
+            "scraped_at": "2026-07-21 06:00:37"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "पश्चिम बंगाल सरकार का गठन LIVE: नए CM चुनने के लिए BJP लेजिस्लेचर पार्टी मीटिंग में कोलकाता पहुंचे अमित शाह",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-government-formation-live-updates-new-cm-to-be-elected-suvendu-adhikari-aide-death-sparks-unrest/article70954007.ece",
+            "source_title": "West Bengal government formation LIVE: Amit Shah arrives in Kolkata for BJP legislature party meet to elect new CM - The Hindu",
+            "scraped_at": "2026-05-08 06:58:00.243592",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "West Bengal शपथ ग्रहण LIVE: सुवेंदु अधिकारी बने पश्चिम बंगाल के पहले BJP CM, 5 अन्य MLAs ने भी ली शपथ",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece",
+            "source_title": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu",
+            "scraped_at": "2026-05-09 06:39:18.299777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CEC ने पश्चिम बंगाल अधिकारियों को चुनाव के बाद हिंसा रोकने के निर्देश दिए",
+            "source_url": "https://www.thehindu.com/elections/west-bengal-assembly/cec-orders-immediate-arrest-of-those-involved-in-post-poll-violence-in-bengal-official/article70945756.ece",
+            "source_title": "CEC directs West Bengal officials to ensure zero post-poll violence - The Hindu",
+            "scraped_at": "2026-05-07 01:24:04.915716",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal में सरकार बनाने की तैयारी शुरू - Mamata Banerjee, M.K. Stalin और Pinarayi Vijayan चुनाव हार गए",
+            "source_url": "https://www.thehindu.com/news/national/assembly-election-2026-results-live-west-bengal-tamil-nadu-kerala-puducherry-assam-may-5-2026/article70941224.ece",
+            "source_title": "Assembly Election 2026 results LIVE: TN, Kerala, West Bengal head into Govt formation mode - The Hindu",
+            "scraped_at": "2026-05-05 03:44:09.432326",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल पुलिस ने 2021 के चुनाव के बाद हुई हिंसा से जुड़े 59 केस दोबारा खोले और 181 नई FIR दर्ज कीं",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cid-reopens-59-cases-linked-to-2021-post-poll-violence-181-fresh-firs-registered/article70993198.ece",
+            "source_title": "West Bengal Police reopens 59 cases linked to 2021 post-poll violence, registers 181 fresh FIRs - The Hindu",
+            "scraped_at": "2026-05-18 17:37:48",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल में BJP कार्यकर्ता की हत्या और सैकड़ों गिरफ्तारियों के बाद तनाव बढ़ा",
+            "source_url": "https://www.theguardian.com/world/2026/may/07/tensions-high-west-bengal-bjp-aide-shot-dead-election-violence",
+            "source_title": "Tensions high in West Bengal after BJP aide shot dead and hundreds arrested | India | The Guardian",
+            "scraped_at": "2026-05-07 15:22:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल में BJP सरकार पर: BJP ने विधानसभा चुनाव में 294 में से 207 सीटें जीतकर बड़ी जीत हासिल की",
+            "source_url": "https://www.thehindu.com/opinion/editorial/take-east-on-the-bjp-government-in-west-bengal/article70956112.ece",
+            "source_title": "​Take east: On the BJP government in West Bengal - The Hindu",
+            "scraped_at": "2026-05-08 17:32:12",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool rebel को मिला समर्थन, कहा 'Mamata Banerjee हमारी लीडर'",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Abhishek Banerjee, Leader of Opposition, Ritabrata Banerjee, Sandipan Saha - \"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
+            "scraped_at": "2026-06-03 13:40:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बंगाल रेप-मर्डर मामला BJP सरकार के लिए पहली बड़ी परीक्षा क्यों",
+            "source_url": "https://indianexpress.com/article/political-pulse/baruipur-girl-murder-suvendu-adhikari-mamata-banerjee-protests-10774399/",
+            "source_title": "Why Bengal rape-murder is BJP government’s first big test | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-07-06 20:59:49",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी ने कोयला घोटाला आरोप पर ममता बनर्जी को कानूनी कार्रवाई की चेतावनी दी",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/adhikari-warns-mamata-of-legal-action-over-coal-scam-allegation/article70508891.ece",
+            "source_title": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu",
+            "scraped_at": "2026-01-14 04:04:36",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मेस्सी इवेंट में हिंसा पर Calcutta HC सुनेगी PILs; 5 लोग हिरासत में",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-to-hear-pils-on-violence-at-messi-event-five-spectators-held/article70399688.ece",
+            "source_title": "Calcutta HC to hear PILs on violence at Messi event; five spectators held - The Hindu",
+            "scraped_at": "2025-12-15 12:00:44",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "बंगाल लिंचिंग केस में 3 और गिरफ्तार",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/three-more-held-in-bengal-lynching-case/article71210804.ece",
+            "source_title": "Three more held in Bengal lynching case - The Hindu",
+            "scraped_at": "2026-07-11 19:49:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पश्चिम बंगाल छात्र रैली हिंसा में 2 और गिरफ्तार; CJP ने मुख्यमंत्री से प्रदर्शनकारियों की तुरंत रिहाई की अपील की",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/two-more-held-in-violence-at-west-bengal-students-rally-cjp-appeals-cm-for-immediate-release-of-protesters/article71273566.ece",
+            "source_title": "Two more held in violence at West Bengal students’ rally; CJP appeals CM for immediate release of protesters - The Hindu",
+            "scraped_at": "2026-07-27 20:26:19",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी के aide चंद्रनाथ रथ की हत्या में CBI ने 2 को गिरफ्तार किया, 'Political Angle' की जांच शुरू",
+            "source_url": "https://www.ndtv.com/india-news/cbi-arrests-2-probes-political-angle-in-murder-of-suvendu-adhikaris-aide-chandranath-rath-11849859#publisher=newsstand",
+            "source_title": "CBI Arrests 2, Probes 'Political Angle' In Murder Of Suvendu Adhikari's Aide Chandranath Rath",
+            "scraped_at": "2026-07-31 17:08:47",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "आतंकी संदिग्ध ने CJP विरोध प्रदर्शन को निशाना बनाने की योजना बनाई, पाक हैंडलर्स के लिए काम किया: बंगाल टास्क फोर्स",
+            "source_url": "https://www.ndtv.com/india-news/terror-suspect-planned-to-target-cjp-protest-worked-for-pak-handlers-bengal-task-force-11854771#publisher=newsstand",
+            "source_title": "Terror Suspect Planned To Target CJP Protest, Worked For Pak Handlers: Bengal Task Force",
+            "scraped_at": "2026-08-02 06:19:45",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "FIR में बंगाल आतंकी संदिग्ध हामिम मंडल के विदेशी हैंडलर्स Rana, C9Uzhair और Abid Jutt के नाम शामिल",
+            "source_url": "https://www.ndtv.com/india-news/fir-names-bengal-terror-suspect-hamim-mondals-foreign-handlers-rana-c9uzhair-abid-jutt-11856095#publisher=newsstand",
+            "source_title": "FIR Names Bengal Terror Suspect Hamim Mondal's Foreign Handlers: 'Rana, C9Uzhair, Abid Jutt'",
+            "scraped_at": "2026-08-02 15:41:54",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सुवेंदु अधिकारी से जुड़े FIR में घर की तलाशी में कुछ भी नहीं मिला: पुलिस ने Calcutta HC को बताया",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-suo-motu-fir-no-incriminating-material-calcutta-hc/article71523151.ece",
+            "source_title": "No incriminating items found in house search linked to Suvendu Adhikari’s suo motu FIR: police tell Calcutta HC",
+            "scraped_at": "2026-09-29 10:05:45",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Rekha Gupta",
+        "name_hi": "रेखा गुप्ता",
+        "aliases": [],
+        "role": "Chief Minister of Delhi",
+        "role_hi": "दिल्ली के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Delhi",
+        "state_hi": "दिल्ली",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rekha_Gupta",
+        "known_promises": [],
+        "image_placeholder": "rekha_gupta",
+        "controversies": [
+          {
+            "incident_text": "रेखा गुप्ता ने मोदी की लीडरशिप की तारीफ की और पिछले 12 सालों में सरकार की उपलब्धियों को हाईलाइट किया",
+            "source_url": "https://www.ndtv.com/india-news/bjp-marks-pm-narendra-modis-record-12-year-tenure-with-pujas-aartis-across-delhi-11617170#publisher=newsstand",
+            "source_title": "BJP Marks PM Narendra Modi's Record 12-Year Tenure With Pujas, Aartis Across Delhi",
+            "scraped_at": "2026-06-10 12:26:38.519138"
+          },
+          {
+            "incident_text": "अमित शाह ने RSS से जुड़े ग्रुप्स द्वारा आयोजित रैली में हिस्सा लिया",
+            "source_url": "https://indianexpress.com/article/delhi-confidential/nepal-rsp-delegation-bjp-delhi-visit-10721147/",
+            "source_title": "Delhi Confidential: Spiritual Bond | Delhi Confidential News - The Indian Express",
+            "scraped_at": "2026-06-03 00:14:15.719327"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Omar Abdullah",
+        "name_hi": "ओमर अब्दुल्ला",
+        "aliases": [
+          "Omar",
+          "J&K CM"
+        ],
+        "role": "Chief Minister of Jammu and Kashmir",
+        "role_hi": "जम्मू और कश्मीर के मुख्यमंत्री",
+        "ministry": "",
+        "party": "National Conference",
+        "party_hi": "National Conference",
+        "state": "Jammu and Kashmir",
+        "state_hi": "जम्मू और कश्मीर",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Omar_Abdullah",
+        "known_promises": [],
+        "image_placeholder": "omar_abdullah",
+        "controversies": [
+          {
+            "incident_text": "ओमर अब्दुल्ला ने कहा कि कांग्रेस ही एकमात्र पार्टी है जिसकी मौजूदगी सभी राज्यों में है और वह INDIA गठबंधन को एकजुट कर सकती है",
+            "source_url": "https://www.thehindu.com/opinion/op-ed/protecting-federalism-must-be-the-india-blocs-glue/article71085764.ece",
+            "source_title": "Protecting federalism must be the INDIA bloc’s ‘glue’ - The Hindu",
+            "scraped_at": "2026-06-10 23:30:52.812424"
+          },
+          {
+            "incident_text": "महबूबा मुफ्ती ने AIIMS साइट का दौरा किया और देरी से हुए प्रोजेक्ट का श्रेय लिया",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-health-minister-takes-exception-to-mehbooba-touring-aiims-says-suffering-from-political-amnesia/article71067110.ece",
+            "source_title": "J&K Health Minister takes exception to Mehbooba touring AIIMS, says ‘suffering from political amnesia’ - The Hindu",
+            "scraped_at": "2026-06-06 08:41:43.929151"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने कहा कि Article 370 हटाना केंद्र सरकार की सबसे बड़ी पॉलिसी गलती थी",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-omar-abdullah-session/article71064526.ece",
+            "source_title": "Abrogation of Article 370 was the biggest policy mistake by the government: Omar Abdullah - The Hindu",
+            "scraped_at": "2026-06-17 07:37:36"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने कहा कि जम्मू में IITs और IIMs की स्थापना के वक्त क्षेत्रीय संतुलन की चिंता नहीं थी",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-rebuffs-bjp-demand-to-set-up-national-law-university-in-jammu-instead-of-kashmir/article70502190.ece",
+            "source_title": "Omar Abdullah rebuffs BJP demand to set up National Law University in Jammu instead of Kashmir - The Hindu",
+            "scraped_at": "2026-01-12 16:16:22"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने दावा किया कि BJP ने विधायकों को रिश्वत देने की कोशिश की",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/prove-poaching-charge-or-face-100-crore-defamation-suit-bjp-to-omar-abdullah/article71216051.ece",
+            "source_title": "BJP issues ₹100 crore defamation notice to Omar Abdullah over ‘MLA poaching’ charges - The Hindu",
+            "scraped_at": "2026-07-13 07:02:15"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने 100 करोड़ रुपये के लीगल नोटिस को सम्मान का प्रतीक बताया",
+            "source_url": "https://www.ndtv.com/india-news/omar-abdullahs-hiding-behind-court-jibe-at-bjp-over-rs-100-crore-notice-11766122#publisher=newsstand",
+            "source_title": "Omar Abdullah's \"Hiding Behind Court\" Jibe At BJP Over Rs 100 Crore Notice",
+            "scraped_at": "2026-07-13 16:06:46"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने मानहानि के लिए BJP नेताओं पर केस करने की दी चेतावनी",
+            "source_url": "https://indianexpress.com/article/india/bjp-legal-notice-kashmir-omar-abdullah-poach-statehood-protest-delhi-10784877/",
+            "source_title": "Give proof or apologise: BJP’s Rs 100-cr defamation threat to Omar over MLA poaching claim | India News - The Indian Express",
+            "scraped_at": "2026-07-13 21:12:34"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने अपने भाषण में क्लिकबेट के लिए Donald Trump का नाम लिया",
+            "source_url": "https://indianexpress.com/article/opinion/editorials/on-jk-statehood-omar-abdullah-is-spot-on-he-doesnt-need-trump-clickbait-10785051/",
+            "source_title": "On J&K statehood, Omar Abdullah is spot on. He doesn’t need Trump clickbait | The Indian Express",
+            "scraped_at": "2026-07-14 00:59:03"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला का दावा कि BJP UCC के लिए बैकडोर रूट का इस्तेमाल कर रही है",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-challenges-bjp-to-bring-ucc-bill-in-parliament/article71467102.ece",
+            "source_title": "BJP using ‘backdoor route’ to implement UCC, should legislate in Parliament: Omar Abdullah - The Hindu",
+            "scraped_at": "2026-09-15 11:37:55"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने आरोप लगाया कि delimitation एक पार्टी को फायदा पहुँचाने के लिए बनाई गई थी",
+            "source_url": "https://www.ndtv.com/india-news/omar-abdullah-flags-delimitation-amid-poll-body-controversy-was-designed-to-benefit-a-party-12088346#publisher=newsstand",
+            "source_title": "Omar Abdullah Flags Delimitation Amid Poll Body Controversy: 'Was Designed To Benefit A Party'",
+            "scraped_at": "2026-09-23 17:59:12"
+          },
+          {
+            "incident_text": "ओमर अब्दुल्ला ने आधिकारिक छुट्टियों से शेख अब्दुल्ला की सालगिरह हटाने की आलोचना की",
+            "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-observes-holiday-on-dogra-king-hari-singhs-birthday-bjp-holds-special-functions/article71499861.ece",
+            "source_title": "J&K observes holiday on Dogra king Hari Singh’s birthday; BJP holds special functions - The Hindu",
+            "scraped_at": "2026-09-23 23:56:03"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "N. Rangasamy",
+        "name_hi": "एन. रंगसामी",
+        "aliases": [
+          "Rangasamy"
+        ],
+        "role": "Chief Minister of Puducherry",
+        "role_hi": "पुडुचेरी के मुख्यमंत्री",
+        "ministry": "",
+        "party": "AINRC",
+        "party_hi": "AINRC",
+        "state": "Puducherry",
+        "state_hi": "पुडुचेरी",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Rangasamy",
+        "known_promises": [],
+        "image_placeholder": "n_rangasamy",
+        "controversies": [],
+        "criminal_incidents": []
       }
     ],
     "generic_politicians": [
