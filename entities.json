@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1790987416,
-      "last": "2026-10-03 00:30"
+      "last_ts": 1791009702,
+      "last": "2026-10-03 06:41"
     }
   },
   "india": {
@@ -6422,6 +6422,12 @@
             "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece",
             "source_title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget - The Hindu",
             "scraped_at": "2026-08-05 02:46:59"
+          },
+          {
+            "incident_text": "M.K. Stalin allegedly body-shamed a candidate by questioning her physical ability to perform somersaults.",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-ministers-slam-dmk-chief-stalin-over-alleged-body-shaming-of-dharapuram-bypoll-candidate/article71539648.ece",
+            "source_title": "TVK Ministers slam DMK chief Stalin over alleged body-shaming of Dharapuram bypoll candidate",
+            "scraped_at": "2026-10-03 06:04:34"
           }
         ],
         "criminal_cases_in_news": 4,
