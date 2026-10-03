@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 1
+      "gaffe_updates": 0
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1791031910,
-      "last": "2026-10-03 12:51"
+      "last_ts": 1791053757,
+      "last": "2026-10-03 18:55"
     }
   },
   "india": {
