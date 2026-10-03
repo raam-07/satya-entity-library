@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2969,6 +2969,12 @@
             "source_url": "https://www.thehindu.com/news/national/kharge-slams-bjp-for-humiliating-the-people-says-arrogance-of-power-has-peaked/article71519582.ece",
             "source_title": "Kharge slams BJP for ‘humiliating’ the people, says ‘arrogance of power’ has peaked",
             "scraped_at": "2026-09-28 16:05:06"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge referred to Narendra Modi and Amit Shah as illegal.",
+            "source_url": "https://www.thehindu.com/news/national/insulting-peoples-mandate-is-congress-old-habit-bjp/article71541566.ece",
+            "source_title": "Insulting people’s mandate is Congress’ old habit: BJP",
+            "scraped_at": "2026-10-03 18:03:59"
           }
         ],
         "criminal_cases_in_news": 2,
