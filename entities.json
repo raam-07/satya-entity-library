@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -2541,6 +2541,12 @@
             "source_url": "https://www.ndtv.com/india-news/pressure-mounts-on-chief-poll-officer-as-opposition-plans-concerted-action-12106352#publisher=newsstand",
             "source_title": "Pressure Mounts On Chief Poll Officer As Opposition Plans Concerted Action",
             "scraped_at": "2026-09-27 20:25:57"
+          },
+          {
+            "incident_text": "Rahul Gandhi alleged that Chief Election Commissioner Gyanesh Kumar illegally changed Form 6.",
+            "source_url": "https://www.ndtv.com/india-news/gyanesh-kumar-rahul-gandhi-eci-election-commission-factchecks-rahul-gandhis-form-6-allegations-12142478#publisher=newsstand",
+            "source_title": "Election Commission \"Fact-Checks\" Rahul Gandhi's Form 6 Allegations",
+            "scraped_at": "2026-10-05 18:04:43"
           }
         ]
       },
@@ -5994,6 +6000,12 @@
             "source_url": "https://www.thehindu.com/news/national/west-bengal/suvendu-makes-public-youth-congress-police-firing-report-slams-mamata-for-not-acting-on-it-when-she-was-cm/article71246039.ece",
             "source_title": "Suvendu makes public July 21 police firing report; slams Mamata for not acting on it when she was CM - The Hindu",
             "scraped_at": "2026-07-21 06:00:37"
+          },
+          {
+            "incident_text": "Suvendu Adhikari claimed Mamata Banerjee faked her injuries.",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/mamata-serves-legal-notice-on-hospital-health-department-over-disclosure-of-her-medical-records/article71548033.ece",
+            "source_title": "Mamata serves legal notice on hospital, Health Department over disclosure of her medical records",
+            "scraped_at": "2026-10-05 18:06:33"
           }
         ]
       },
