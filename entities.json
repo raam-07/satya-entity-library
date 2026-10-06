@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1685,7 +1685,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 30,
+        "criminal_cases_in_news": 31,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1896,9 +1896,16 @@
             "source_title": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case",
             "scraped_at": "2026-09-22 17:16:14",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "India opposition leaders briefly arrested in protest against election chief On Tuesday, police in **New Delhi** briefly arrested several opposition legislators, including **Rahul Gandhi**, for breachi",
+            "source_url": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss",
+            "source_title": "India opposition leaders briefly arrested in protest against election chief",
+            "scraped_at": "2026-10-06 12:03:34",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-26",
+        "criminal_last_updated": "2026-10-06",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
