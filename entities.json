@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1791333229,
-      "last": "2026-10-07 00:33"
+      "last_ts": 1791355658,
+      "last": "2026-10-07 06:47"
     }
   },
   "india": {
@@ -1685,7 +1685,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 31,
+        "criminal_cases_in_news": 32,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1903,9 +1903,16 @@
             "source_title": "India opposition leaders briefly arrested in protest against election chief",
             "scraped_at": "2026-10-06 12:03:34",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM **A. Revanth Reddy**, **Telangana Chief Minister**, criticized the unlawful detention of **Rahul Gandhi**, **Pr",
+            "source_url": "https://www.thehindu.com/news/national/telangana/unlawful-detention-of-rahul-gandhi-reflective-of-hubris-of-a-failing-govt-telangana-cm/article71552977.ece",
+            "source_title": "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM",
+            "scraped_at": "2026-10-07 06:05:55",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-10-06",
+        "criminal_last_updated": "2026-10-07",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
