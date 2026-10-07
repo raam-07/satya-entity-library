@@ -6249,6 +6249,501 @@
             "incident_type": "broad"
           }
         ]
+      },
+      {
+        "name": "V.D. Satheesan",
+        "name_hi": "वी.डी. सतिशन",
+        "aliases": [
+          "Satheesan"
+        ],
+        "role": "Chief Minister of Kerala",
+        "role_hi": "केरल के मुख्यमंत्री",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": "Kerala",
+        "state_hi": "केरल",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "",
+        "wikipedia": "",
+        "known_promises": [],
+        "image_placeholder": "",
+        "controversies": [
+          {
+            "incident_text": "V.D. Satheesan ने Left से बगावत की संभावना का संकेत दिया",
+            "source_url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-political-crossovers-gather-pace-in-kerala-as-assembly-elections-near/article70749723.ece",
+            "source_title": "Kerala Assembly Elections 2026: Political crossovers gather pace in Kerala as Assembly elections near - The Hindu",
+            "scraped_at": "2026-03-16 23:01:00.277422"
+          },
+          {
+            "incident_text": "वी.डी. सतिस्यान ने कहा कि कांग्रेस हाई कमांड तय करेगी कि MPs विधानसभा चुनाव लड़ेंगे या नहीं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-high-command-will-decide-on-mps-contesting-says-satheesan/article70742605.ece",
+            "source_title": "Kerala Assembly elections: High command will decide on MPs contesting, says Satheesan - The Hindu",
+            "scraped_at": "2026-03-14 05:07:22"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि मुनामबम होल्डिंग वक्फ प्रॉपर्टी नहीं है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/munambam-is-waqf-property-says-chairperson/article71110466.ece",
+            "source_title": "Munambam is Waqf property, says board chairperson - The Hindu",
+            "scraped_at": "2026-06-16 18:24:04"
+          },
+          {
+            "incident_text": "V.D. Satheesan के संशोधित बजट में State Planning Board में बदलाव और नेहरूवादी आर्थिक सिद्धांतों को छोड़ने का प्रस्ताव",
+            "source_url": "https://www.thehindu.com/news/national/kerala/planning-to-be-abandoned-says-binoy-viswam-on-kerala-budget/article71123294.ece",
+            "source_title": "Kerala Budget: Planning to be abandoned, says Binoy Viswam - The Hindu",
+            "scraped_at": "2026-06-19 19:05:32"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि केरल 30 दिन का नोटिस दिए बिना PM SHRI समझौते से बाहर नहीं निकल सकता",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-provision-for-kerala-to-withdraw-from-pm-shri-deal-chief-minister-v-d-satheesan/article71123209.ece",
+            "source_title": "No provision for Kerala to withdraw from PM SHRI deal: Chief Minister V. D. Satheesan - The Hindu",
+            "scraped_at": "2026-06-19 19:05:50"
+          },
+          {
+            "incident_text": "T.M. Thomas Isaac के मुताबिक V.D. Satheesan का बजट सिर्फ रुका हुआ विकास ही सुनिश्चित करता है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-budget-new-budget-has-a-long-wish-list-but-not-enough-money-allocated-to-make-it-a-reality-says-thomas-isaac/article71122889.ece",
+            "source_title": "Kerala Budget: New Budget has a long wish list, but not enough money allocated to make it a reality, says Thomas Isaac - The Hindu",
+            "scraped_at": "2026-06-19 22:10:32"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि स्वास्थ्य मंत्री Veena George पर हमले के दावे सिर्फ ड्रामा हैं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/claims-of-ksu-attack-on-health-minister-veena-george-baseless-and-drama-says-kerala-opposition-leader/article70678670.ece",
+            "source_title": "Claims of KSU attack on Health Minister Veena George ‘drama’, says Kerala Opposition Leader - The Hindu",
+            "scraped_at": "2026-02-26 02:38:53"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने आरोप लगाया कि Tantri की गिरफ्तारी CPI(M) के आरोपों से ध्यान हटाने की साजिश थी",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vd-satheesan-questions-tantris-arrest-in-sabarimala-gold-case-asks-sit-to-clarify/article70659588.ece",
+            "source_title": "V.D Satheesan questions Tantri’s arrest in Sabarimala gold case, asks SIT to clarify - The Hindu",
+            "scraped_at": "2026-02-21 06:19:56"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि PM SHRI MoU पर UDF सरकार का स्टैंड असंवैधानिक है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/udf-governments-stance-on-pm-shri-unconstitutional/article71141787.ece",
+            "source_title": "UDF government’s stance on PM SHRI unconstitutional - The Hindu",
+            "scraped_at": "2026-06-25 09:57:19"
+          },
+          {
+            "incident_text": "V.D. Satheesan का दावा कि सरकार ने बार के समय बढ़ाने पर विपक्ष से सलाह नहीं ली",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-talks-with-opposition-on-bar-timing-extension-says-kerala-leader-of-the-opposition/article70648109.ece",
+            "source_title": "No talks with Opposition on bar timing extension, says Kerala Leader of the Opposition - The Hindu",
+            "scraped_at": "2026-02-18 13:36:35"
+          },
+          {
+            "incident_text": "V.D. Satheesan की चेतावनी, अगर मौजूदा ट्रेंड जारी रहा तो केरल 5 साल में 'old-age home' बन सकता है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/ahead-of-udfs-puthuyuga-yatra-launch-vd-satheesan-flags-keralas-financial-crisis-and-promises-vision-for-states-future/article70599342.ece",
+            "source_title": "UDF’s Puthuyuga Yatra: V.D. Satheesan flags Kerala’s financial crisis and promises vision for State’s future - The Hindu",
+            "scraped_at": "2026-02-06 05:18:48"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने जांच में शामिल अधिकारियों को एक्सपोज करने की धमकी दी जिसे हाई कोर्ट ने डिफेंड किया",
+            "source_url": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-row-ldf-in-kerala-questions-sonia-gandhi-link-to-put-congress-on-the-defensive/article70586519.ece",
+            "source_title": "Sabarimala gold row: LDF in Kerala questions Sonia Gandhi link to put Congress on the defensive - The Hindu",
+            "scraped_at": "2026-02-03 03:13:31"
+          },
+          {
+            "incident_text": "वी.डी. सतीशान ने कहा कि CPI(M) का हिंसा की प्रवृत्ति उसके अंत की शुरुआत है",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vdsatheesan-slams-attack-on-congress-protestors-expresses-concerns-about-vizhinjam-port-project/article70549172.ece",
+            "source_title": "V.D.Satheesan slams attack on Congress protestors; expresses concerns about Vizhinjam port project - The Hindu",
+            "scraped_at": "2026-01-25 04:58:29"
+          },
+          {
+            "incident_text": "वी.डी. सतीशान ने कहा कि उम्मेन चंडी ने गणेश कुमार की शादी बचाने के लिए काम किया",
+            "source_url": "https://www.thehindu.com/news/national/kerala/udf-demands-public-apology-from-ganesh-kumar-for-disparaging-oommen-chandy/article70542764.ece",
+            "source_title": "UDF demands public apology from Ganesh Kumar for ‘disparaging’ Oommen Chandy - The Hindu",
+            "scraped_at": "2026-01-23 09:04:47"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि राज्यपाल के नीतिगत संबोधन में LDF सरकार के 'आधे सच और झूठे दावे' शामिल हैं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/satheesan-slams-kerala-governors-policy-address-as-filled-with-half-truths-and-fake-claims-of-ldf-govt/article70528608.ece",
+            "source_title": "Satheesan slams Kerala Governor’s policy address as filled with ‘half-truths and fake claims’ of LDF govt - The Hindu",
+            "scraped_at": "2026-01-20 05:06:52"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि UDF द्वारा CMDRF योगदान को हतोत्साहित करने के सोशल मीडिया दावे झूठे हैं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/kerala-opposition-leader-says-udf-never-campaigned-against-making-contributions-to-cmdrf/article70518196.ece",
+            "source_title": "Kerala Opposition Leader says UDF never campaigned against making contributions to CMDRF - The Hindu",
+            "scraped_at": "2026-01-17 04:55:13"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा मंदिर जाना व्यक्तिगत अधिकार है, सॉफ्ट हिंदुत्व नहीं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/mookambika-temple-visit-my-personal-right-not-soft-hindutva-says-kerala-cm-vd-satheesan/article71224714.ece",
+            "source_title": "Mookambika temple visit ‘my personal right, not soft Hindutva’, says Kerala CM V.D. Satheesan - The Hindu",
+            "scraped_at": "2026-07-15 09:18:04"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि सरकारी वकील मेरिट के आधार पर नियुक्त होते हैं, दबाव पर नहीं",
+            "source_url": "https://www.thehindu.com/news/national/kerala/no-rift-between-ksu-kerala-cm-over-govt-pleader-appointment-ramesh-chennithala/article71237430.ece",
+            "source_title": "No rift between KSU, Kerala CM over govt pleader appointment: Ramesh Chennithala - The Hindu",
+            "scraped_at": "2026-07-18 11:17:30"
+          },
+          {
+            "incident_text": "VD सतिसयन ने विजयन पर सांप्रदायिक प्रोपेगेंडा फैलाने का आरोप लगाया",
+            "source_url": "https://www.ndtv.com/kerala-news/trying-to-mislead-muslims-vd-satheesan-slams-pinarayi-vijayan-over-kerala-waqf-board-row-11804886#publisher=newsstand",
+            "source_title": "Trying To Mislead Muslims: VD Satheesan Slams Pinarayi Vijayan Over Kerala Waqf Board Row",
+            "scraped_at": "2026-07-22 11:29:59"
+          },
+          {
+            "incident_text": "VD Satheesan ने पूछा क्या खाना अपराध है",
+            "source_url": "https://www.ndtv.com/india-news/no-feiicitation-i-ate-lunch-vd-satheesan-on-flood-time-meal-row-11861607#publisher=newsstand",
+            "source_title": "\"No FeIicitation, I Had Lunch\": VD Satheesan On Meal During Flood Review",
+            "scraped_at": "2026-08-03 20:14:43"
+          },
+          {
+            "incident_text": "V.D. Satheesan ने कहा कि वंदे मातरम पर सरकार का स्टैंड Independence Day पर साफ किया जाएगा",
+            "source_url": "https://www.thehindu.com/news/national/kerala/vande-mataram-row-kerala-govts-stance-will-be-made-clear-on-independence-day-says-cm-satheesan/article71340023.ece",
+            "source_title": "Vande Mataram row: Kerala govt’s stance will be ‘made clear’ on Independence Day, says CM Satheesan - The Hindu",
+            "scraped_at": "2026-08-13 09:21:24"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "Assembly Elections LIVE अपडेट्स: AIADMK ने उम्मीदवारों की पहली लिस्ट जारी की - मक्कल नीधि मयम के संस्थापक कमल हासन ने 2026 तमिलनाडु चुनाव से पार्टी की वापसी की घोषणा की",
+            "source_url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+            "source_title": "Assembly Elections LIVE updates: AIADMK releases its first list of candidates - The Hindu",
+            "scraped_at": "2026-03-25 05:03:23.619762",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Mohan Yadav",
+        "name_hi": "मोहन यादव",
+        "aliases": [
+          "Mohan Yadav",
+          "MP CM"
+        ],
+        "role": "Chief Minister of Madhya Pradesh",
+        "role_hi": "मध्य प्रदेश के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Madhya Pradesh",
+        "state_hi": "मध्य प्रदेश",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Yadav",
+        "known_promises": [],
+        "image_placeholder": "mohan_yadav",
+        "controversies": [
+          {
+            "incident_text": "मोहन यादव का दावा कांग्रेस नेताओं ने खुद के लिए राज्यसभा सीट पाने के लिए मीनाक्षी नटराजन की नामांकन में बाधा डाली",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/meenakshi-natarajan-nomination-congress-leaders-eyeing-rs-seat-spoilt-chances-of-party-nominee-says-mp-cm/article71085352.ece",
+            "source_title": "Meenakshi Natarajan nomination: Congress leaders eyeing RS seat ‘spoilt’ chances of party nominee, says M.P. CM - The Hindu",
+            "scraped_at": "2026-06-10 21:37:18.591976"
+          },
+          {
+            "incident_text": "मोहन यादव ने दावा किया कि नेहरू-गांधी परिवार राष्ट्रीय हित से ऊपर राजनीति को रखता है",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/nehru-gandhi-family-has-always-put-politics-above-country-madhya-pradesh-cm/article70675934.ece",
+            "source_title": "Nehru-Gandhi family has always put politics above country: Madhya Pradesh CM - The Hindu",
+            "scraped_at": "2026-02-25 08:21:47"
+          },
+          {
+            "incident_text": "मोहन यादव पर परिवार के जरिए जमीन खरीदकर 'लूट का इंजन' चलाने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/engine-of-plunder-running-at-full-speed-under-bjps-double-engine-govt-in-mp-congress/article71136515.ece",
+            "source_title": "'Engine of plunder' running at full speed under BJP's double-engine govt in MP: Congress - The Hindu",
+            "scraped_at": "2026-06-23 07:57:47"
+          },
+          {
+            "incident_text": "मोहन यादव ने 2 हिंदू सदस्यों के साथ वक्फ बोर्ड का पुनर्गठन किया",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-waqf-board-reorganised-hindu-members-included/article71188097.ece",
+            "source_title": "Madhya Pradesh govt. reconstitutes Waqf Board under new law, inclusion of Hindu members draws criticism - The Hindu",
+            "scraped_at": "2026-07-06 23:41:16"
+          },
+          {
+            "incident_text": "मोहन यादव ने कहा कि केवल एक शादी वाले लोग ही मध्य प्रदेश में कानूनी रूप से रह सकते हैं",
+            "source_url": "https://www.ndtv.com/india-news/madhya-pradesh-chief-minister-mohan-yadav-on-uniform-civil-code-bill-those-with-one-marriage-will-stay-in-madhya-pradesh-11785503#publisher=newsstand",
+            "source_title": "Madhya Pradesh Chief Minister Mohan Yadav On Uniform Civil Code Bill: Those With One Marriage Will Stay In Madhya Pradesh",
+            "scraped_at": "2026-07-18 11:14:12"
+          },
+          {
+            "incident_text": "मोहन यादव ने OBC आरक्षण पर गलत जानकारी फैलाने के लिए राहुल गांधी की आलोचना की",
+            "source_url": "https://www.ndtv.com/india-news/long-term-plans-rahul-gandhi-and-sons-wedding-mohan-yadav-at-ndtv-conclave-12088435#publisher=newsstand",
+            "source_title": "Long-Term Plans, Rahul Gandhi and Son's Wedding: Mohan Yadav At NDTV Conclave",
+            "scraped_at": "2026-09-23 17:58:23"
+          },
+          {
+            "incident_text": "मोहन यादव ने गांधी के व्यवहार को शर्मनाक बताया",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-leaders-slam-mimicry-of-pm-at-rahul-gandhis-student-event/article71488585.ece",
+            "source_title": "BJP leaders slam mimicry of PM at Rahul Gandhi’s student event - The Hindu",
+            "scraped_at": "2026-09-21 01:29:19"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "उज्जैन लैंड 'scam' पर दिग्विजय सिंह के जवाब से MP में कांग्रेस में फिर छिड़ा विवाद",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/congress-hit-with-new-infighting-row-in-mp-after-digvijaya-singh-refutes-jitu-patwaris-claims-over-ujjain-land-scam/article71179990.ece",
+            "source_title": "Congress hit with new infighting row in M.P. after Digvijaya Singh refutes Jitu Patwari’s claims over Ujjain land ‘scam’ - The Hindu",
+            "scraped_at": "2026-07-04 00:11:09",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Devendra Fadnavis",
+        "name_hi": "देवेंद्र फडणवीस",
+        "aliases": [
+          "Fadnavis",
+          "Maharashtra CM"
+        ],
+        "role": "Chief Minister of Maharashtra",
+        "role_hi": "महाराष्ट्र के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Maharashtra",
+        "state_hi": "महाराष्ट्र",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Devendra_Fadnavis",
+        "known_promises": [],
+        "image_placeholder": "devendra_fadnavis",
+        "controversies": [
+          {
+            "incident_text": "देवेंद्र फडणवीस ने 2015 मालवानी शराब त्रासदी कमेटी की सिफारिशों को लागू करने पर सरकार की प्रतिबद्धता पर सवाल उठाए",
+            "source_url": "https://indianexpress.com/article/cities/pune/pune-hooch-tragedy-congress-maharashtra-government-response-10726203/",
+            "source_title": "Hooch deaths: ‘Perfect case of government negligence; what was learned from 2015 Malwani liquor tragedy?’ asks Congress | Pune News - The Indian Express",
+            "scraped_at": "2026-06-05 15:41:13.820641"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस का मानना है कि वोटरों पर पैसे नहीं बल्कि प्यार का असर होता है",
+            "source_url": "https://indianexpress.com/article/cities/pune/maharashtra-mlc-election-horse-trading-supriya-sule-open-voting-reform-10727306/",
+            "source_title": "‘Will introduce a Bill in Parliament to stop horse-trading’: Supriya Sule after Maharashtra MLC poll row | Pune News - The Indian Express",
+            "scraped_at": "2026-06-06 12:10:36.336496"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि बिल का मकसद जबरन, धोखाधड़ित या प्रेरित धार्मिक धर्मांतरण को रोकना है",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/freedom-of-religion-bill-passed-in-maharashtra-assembly-not-against-any-community-says-fadnavis/article70751702.ece",
+            "source_title": "Freedom of Religion Bill passed in Maharashtra Assembly; 'not against any community', says Fadnavis - The Hindu",
+            "scraped_at": "2026-03-16 23:40:11.368501"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने नागपुर में CJP विरोध प्रदर्शन के दौरान जान गंवाने वाले NEET एस्पिरेंट के परिजनों से संपर्क नहीं किया",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस पर MPs को ₹15 crore की रिश्वत देने के आरोप में टैग किया गया",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/15-crore-will-be-paid-to-mps-tonight-says-shiv-sena-ubt-leader/article71110702.ece",
+            "source_title": "₹15 crore will be paid to MPs tonight, says Shiv Sena (UBT) leader - The Hindu",
+            "scraped_at": "2026-06-16 21:33:16"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने दावा किया कि विपक्ष ने सरकार की आलोचना करने वाला पत्र लिखने के लिए ChatGPT का इस्तेमाल किया",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-accuses-of-mva-of-sending-ai-generated-letter-to-boycott-tea-party/article71130032.ece",
+            "source_title": "Maharashtra CM accuses of MVA of sending AI-generated letter to boycott tea party - The Hindu",
+            "scraped_at": "2026-06-21 20:56:34"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि अजीत पवार महाराष्ट्र के अब तक के सबसे अच्छे मुख्यमंत्री रहे",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-was-best-cm-maharashtra-never-had-says-fadnavis/article70666971.ece",
+            "source_title": "Ajit Pawar was best CM Maharashtra never had, says Fadnavis - The Hindu",
+            "scraped_at": "2026-02-23 09:27:39"
+          },
+          {
+            "incident_text": "संजय राउत ने देवेंद्र फडणवीस से राज्य की कानून व्यवस्था पर सवाल पूछे",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/after-the-split-mudslinging-begins-between-the-newly-inducted-shiv-sena-mps-and-the-shiv-senaubt/article71138956.ece",
+            "source_title": "After the split, mudslinging begins between the newly inducted Shiv Sena MPs and the Shiv Sena(UBT) - The Hindu",
+            "scraped_at": "2026-06-23 22:50:29"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि पुलिस धमकी देने वालों के खिलाफ एक्शन लेगी",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/raut-seeks-action-against-rebel-mp-sanjay-patil-over-threats-fadnavis-says-police-will-act/article71145613.ece",
+            "source_title": "Raut seeks action against rebel MP Sanjay Patil over 'threats'; Fadnavis says police will act - The Hindu",
+            "scraped_at": "2026-06-25 09:55:21"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि उद्धव ठाकरे के साथ उनकी मीटिंग आज की सबसे बड़ी खबर थी",
+            "source_url": "https://www.ndtv.com/india-news/biggest-news-of-the-day-devendra-fadnavis-after-sharing-flight-with-uddhav-thackeray-11692439#publisher=newsstand",
+            "source_title": "\"Biggest News Of The Day\": Devendra Fadnavis After Sharing Flight With Uddhav Thackeray",
+            "scraped_at": "2026-06-26 17:05:06"
+          },
+          {
+            "incident_text": "",
+            "source_url": "https://indianexpress.com/article/mumbai/uddhav-thackeray-tiger-amit-shah-fadnavis-pm-race-eknath-shinde-10760705/",
+            "source_title": "Uddhav: Shah behind defections, move aimed at stopping Fadnavis’s rise | The Indian Express",
+            "scraped_at": "2026-06-27 18:10:51"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने सपकल की तुलना को 'घिनौनी तुष्टीकरण' बताया",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-chief-draws-flak-over-remarks-on-tipu-sultan-chhatrapati-shivaji/article70632937.ece",
+            "source_title": "Maharashtra Congress chief draws flak over remarks on Tipu Sultan, Chhatrapati Shivaji - The Hindu",
+            "scraped_at": "2026-02-14 12:03:49"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने उद्धव ठाकरे को कमजोर करने के लिए 6 लोकसभा सांसदों के इस्तीफे की साजिश रची",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/uddhav-thackeray-babar-janata-party-operation-devendra-fadnavis-10761750/",
+            "source_title": "Uddhav Thackeray calls BJP ‘Babar Janata Party’, says ‘Op tiger’ targeted Fadnavis | Mumbai News - The Indian Express",
+            "scraped_at": "2026-06-28 14:56:33"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि उनके पास पंख काटने के लिए कुछ नहीं है क्योंकि उन्हें महाराष्ट्र की जनता का समर्थन प्राप्त है",
+            "source_url": "https://www.ndtv.com/india-news/im-human-d-fadnavis-after-uddhav-thackerays-clip-wings-remark-11699555#publisher=newsstand",
+            "source_title": "\"I'm Human\": D Fadnavis After Uddhav Thackeray's \"Clip Wings\" Remark",
+            "scraped_at": "2026-06-28 17:46:37"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने NCP गुट के विलय पर शरद पवार के दावों को नकारा",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/praful-patel-denies-piyush-goyals-claim-that-he-has-been-appointed-ncp-chief/article70579295.ece",
+            "source_title": "Praful Patel denies Piyush Goyal’s claim that he has been appointed NCP chief - The Hindu",
+            "scraped_at": "2026-02-01 12:01:24"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने सुनेत्रा पवार को डिप्टी CM नियुक्त करने का समर्थन किया",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-maharashtra-deputy-chief-minister-ncp-meeting-maharashtra-politics/article70573019.ece",
+            "source_title": "Sunetra Pawar reaches Mumbai, all set to become Maharashtra first woman deputy CM - The Hindu",
+            "scraped_at": "2026-01-30 22:53:49"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि उद्धव ठाकरे की राजनीतिक गिरावट का कारण 'भगवान राम' का रास्ता छोड़ना है",
+            "source_url": "https://www.ndtv.com/india-news/bjp-retort-on-uddhav-thackerays-temple-theft-barbs-abandoned-rams-path-11730758#publisher=newsstand",
+            "source_title": "BJP Retort On Uddhav Thackeray's Temple Theft Barbs: Abandoned Ram's Path",
+            "scraped_at": "2026-07-05 18:07:18"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि BJP महाराष्ट्र में गठबंधन में नई पार्टियों को नहीं ले रही है",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/devendra-fadnavis-no-new-nda-allies-ncp-sp-speculation-10776156/",
+            "source_title": "BJP’s doors not open for any new party in Maharashtra, says CM Fadnavis | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-07 19:10:58"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने दावा किया कि विपक्ष Missing Link प्रोजेक्ट की आलोचना करके महाराष्ट्र को बदनाम कर रहा है",
+            "source_url": "https://indianexpress.com/article/cities/mumbai/pune-mumbai-missing-link-landslide-devendra-fadnavis-defends-project-10777354/",
+            "source_title": "‘Abuse me, not Maharashtra’: Fadnavis hits back over ‘Missing Link’ landslide row | Mumbai News - The Indian Express",
+            "scraped_at": "2026-07-08 11:30:52"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस में हम सबको लीड करने की काबिलियत है, जब तक वो हैं तब तक मुख्यमंत्री के पद पर कोई वैकेंसी नहीं है",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/we-are-firmly-with-nda-no-question-of-ncp-reunification-praful-patel/article70506920.ece",
+            "source_title": "We are firmly with NDA, no question of NCP reunification: Praful Patel - The Hindu",
+            "scraped_at": "2026-01-13 13:55:30"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने तर्क दिया कि अडानी महाराष्ट्र में रोजगार लाते हैं",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/i-oppose-growing-monopoly-of-adani-group-not-development-raj-thackeray/article70504731.ece",
+            "source_title": "I oppose growing monopoly of Adani group; not development: Raj Thackeray - The Hindu",
+            "scraped_at": "2026-01-13 04:59:31"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा कि फ्लेक्स बैनर और होर्डिंग्स शहर की खूबसूरती खराब करते हैं",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/bjp-complains-to-eci-over-illegal-hoardings-put-up-by-ncp-other-parties-in-pune/article70504051.ece",
+            "source_title": "BJP complains to ECI over 'illegal' hoardings put up by NCP, other parties in Pune - The Hindu",
+            "scraped_at": "2026-01-13 00:00:42"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने दावा किया कि BJP और NCP अलग कैंपेन के बावजूद 'फ्रेंडली' मुकाबले पर सहमत हुए",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/we-agreed-on-friendly-fights-but-ajit-pawars-restraint-appears-shaken-devendra-fadnavis/article70500301.ece",
+            "source_title": "We agreed on friendly fights, but Ajit Pawar’s restraint appears shaken: Devendra Fadnavis - The Hindu",
+            "scraped_at": "2026-01-12 01:13:41"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने Missing Link लैंडस्लाइड की चिंताओं के बजाय अपमानजनक भाषा का इस्तेमाल किया",
+            "source_url": "https://indianexpress.com/article/cities/pune/raj-thackeray-uddhav-sena-criticise-devendra-fadnavis-missing-link-landslide-speech-10779518/",
+            "source_title": "Missing Link row: Raj Thackeray, Uddhav Sena criticise CM Fadnavis’s remarks in House | Pune News - The Indian Express",
+            "scraped_at": "2026-07-09 18:03:25"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने कहा PM से मिलने में \"कुछ भी गलत नहीं था\"",
+            "source_url": "https://www.thehindu.com/news/national/maharashtra/nothing-wrong-says-fadnavis-on-ncpsp-mps-meeting-pm-modi/article71329177.ece",
+            "source_title": "‘Nothing wrong’, says Fadnavis on NCP(SP) MPs meeting PM Modi - The Hindu",
+            "scraped_at": "2026-08-11 03:53:40"
+          },
+          {
+            "incident_text": "देवेंद्र फडणवीस ने सवाल किया कि प्रियंका गांधी को ज्यादा बड़ी भूमिकाएं क्यों नहीं दी गईं",
+            "source_url": "https://www.ndtv.com/india-news/why-priyanka-gandhi-not-given-chance-d-fadnavis-targets-rahul-gandhi-on-womens-bill-11984032#publisher=newsstand",
+            "source_title": "Why Priyanka Gandhi \"Not Given Chance\": D Fadnavis Targets Rahul Gandhi On Women's Bill",
+            "scraped_at": "2026-08-31 21:37:45"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "मीनाक्षी नटराजन केस में EC ने कानून के मुताबिक काम किया: तेलंगाना BJP अध्यक्ष",
+            "source_url": "https://www.thehindu.com/society/fifa-world-cup-2026-fever-grips-thiruvananthapuram-as-messi-and-ronaldo-fans-prepare-for-footballs-biggest-stage/article71083554.ece",
+            "source_title": "EC acted as per law in Meenakshi Natarajan case, says Telangana BJP chief - The Hindu",
+            "scraped_at": "2026-06-10 12:26:50.498411",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CJP के नागपुर विरोध प्रदर्शन में जान गंवाने वाले NEET छात्र के परिजनों से न मिलने पर Dipke ने Fadnavis को घेरा",
+            "source_url": "https://indianexpress.com/article/mumbai/dipke-fadnavis-neet-died-cjps-nagpur-protest-cockroach-modi-pradhan-10743073/",
+            "source_title": "Dipke targets Fadnavis for not reaching out to kin of NEET aspirant who died in CJP’s Nagpur protest | The Indian Express",
+            "scraped_at": "2026-06-16 18:22:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पुणे हॉरर: 9 साल की बच्ची से रेप और मर्डर, 25 साल का पड़ोसी गिरफ्तार",
+            "source_url": "https://www.ndtv.com/india-news/pune-horror-9-year-old-girl-raped-murdered-25-year-old-neighbour-arrested-11929828#publisher=newsstand",
+            "source_title": "Pune Horror: 9-Year-Old Girl Raped, Murdered. 25-Year-Old Neighbour Arrested",
+            "scraped_at": "2026-08-19 09:39:55",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "N. Biren Singh",
+        "name_hi": "N. Biren Singh",
+        "aliases": [
+          "N. Singh"
+        ],
+        "role": "Chief Minister of Manipur",
+        "role_hi": "मणिपुर के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Manipur",
+        "state_hi": "मणिपुर",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/N._Biren_Singh",
+        "known_promises": [],
+        "image_placeholder": "n_biren_singh",
+        "controversies": [],
+        "criminal_incidents": [
+          {
+            "incident_text": "सुप्रीम कोर्ट ने याचिकाकर्ता से लीक हुए मणिपुर ऑडियो की ओरिजिनल कॉपी फॉरेंसिक लैब में देने को कहा",
+            "source_url": "https://www.thehindu.com/news/national/manipur/supreme-court-asks-petitioner-to-turn-in-first-gen-copy-of-leaked-audio-to-forensic-lab/article70923991.ece",
+            "source_title": "Supreme Court asks petitioner to turn in first-generation copy of leaked Manipur audio to forensic lab - The Hindu",
+            "scraped_at": "2026-04-30 22:33:08.403010",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Conrad Sangma",
+        "name_hi": "कॉनराड संग्मा",
+        "aliases": [
+          "Sangma"
+        ],
+        "role": "Chief Minister of Meghalaya",
+        "role_hi": "मेघालय के मुख्यमंत्री",
+        "ministry": "",
+        "party": "NPP",
+        "party_hi": "NPP",
+        "state": "Meghalaya",
+        "state_hi": "मेघालय",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Sangma",
+        "known_promises": [],
+        "image_placeholder": "conrad_sangma",
+        "controversies": [],
+        "criminal_incidents": []
       }
     ],
     "generic_politicians": [
