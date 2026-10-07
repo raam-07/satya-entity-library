@@ -5885,6 +5885,377 @@
             "incident_type": "broad"
           }
         ]
+      },
+      {
+        "name": "Narendra Modi",
+        "name_hi": "नरेन्द्र मोदी",
+        "aliases": [],
+        "role": "Chief Minister of Gujarat",
+        "role_hi": "गुजरात के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Gujarat",
+        "state_hi": "गुजरात",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "known_promises": [],
+        "image_placeholder": "narendra_modi",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Nayab Singh Saini",
+        "name_hi": "नयब सिंह सैनी",
+        "aliases": [
+          "Nayab Saini",
+          "Saini"
+        ],
+        "role": "Chief Minister of Haryana",
+        "role_hi": "हरियाणा के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Haryana",
+        "state_hi": "हरियाणा",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nayab_Singh_Saini",
+        "known_promises": [],
+        "image_placeholder": "nayab_singh_saini",
+        "controversies": [
+          {
+            "incident_text": "पंजाब बार-बार जाने पर नयब सिंह सैनी को 'डिप्यूटेशन पर सीएम' कहा गया",
+            "source_url": "https://www.thehindu.com/news/national/haryana/bhupinder-hooda-confident-of-congress-win-in-rajya-sabha-polls-in-haryana/article70746072.ece",
+            "source_title": "Bhupinder Hooda confident of Congress win in Rajya Sabha polls in Haryana - The Hindu",
+            "scraped_at": "2026-03-15 10:38:20.934261"
+          },
+          {
+            "incident_text": "नयब सिंह सैनी ने आरोप लगाया कि कांग्रेस ने 1937 में मुस्लिम लीग के दबाव में 'वंदे मातरम' को छोटा कर दिया था",
+            "source_url": "https://www.thehindu.com/news/national/haryana/congress-chose-appeasement-over-nation-by-truncating-vande-mataram-says-haryana-cm-saini/article70684722.ece",
+            "source_title": "Congress chose appeasement over nation by truncating Vande Mataram, says Haryana CM Saini - The Hindu",
+            "scraped_at": "2026-02-27 20:42:17"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Sukhvinder Singh Sukhu",
+        "name_hi": "सुखविंदर सिंह सुखू",
+        "aliases": [
+          "Sukhu",
+          "Himachal CM"
+        ],
+        "role": "Chief Minister of Himachal Pradesh",
+        "role_hi": "हिमाचल प्रदेश के मुख्यमंत्री",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": "Himachal Pradesh",
+        "state_hi": "हिमाचल प्रदेश",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sukhvinder_Singh_Sukhu",
+        "known_promises": [],
+        "image_placeholder": "sukhvinder_sukhu",
+        "controversies": [
+          {
+            "incident_text": "सुखविंदर सिंह सुखू ने लोकल बॉडी चुनाव के नतीजों को 'लोकल फैक्टर्स' बताया",
+            "source_url": "https://indianexpress.com/article/political-pulse/why-himachal-local-body-poll-results-come-as-boost-to-bjp-despite-cm-sukhvinder-singh-sukhus-local-factors-argument-10719096/",
+            "source_title": "Why Himachal local body poll results come as boost to BJP despite CM Sukhu’s ‘local factors’ argument | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-02 02:01:02.628872"
+          },
+          {
+            "incident_text": "सुखविंदर सिंह सुखू ने BJP पर हिमाचल प्रदेश के हितों की अनदेखी करने और मुश्किल समय में राज्य को नजरअंदाज करने का आरोप लगाया",
+            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+            "source_title": "Himachal CM Sukhu presents ₹54,928-crore budget for 2026-27 - The Hindu",
+            "scraped_at": "2026-03-21 08:00:59.766390"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार कर्नाटक के 25वें मुख्यमंत्री बने",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 09:54:24"
+          },
+          {
+            "incident_text": "सुखविंदर सिंह सुखू की सरकार ने लोकल बॉडी चुनावों में 6 महीने की देरी की मांग की",
+            "source_url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-asks-himachal-pradesh-govt-sec-to-hold-local-body-polls-by-may-31/article70627549.ece",
+            "source_title": "Supreme Court asks Himachal Pradesh govt, SEC to hold local body polls by May 31 - The Hindu",
+            "scraped_at": "2026-02-13 03:23:04"
+          },
+          {
+            "incident_text": "सुखविंदर सिंह सुखू ने वंदे मातरम मुद्दे को राजनीतिक बनाने पर BJP पर साधा निशाना",
+            "source_url": "https://www.ndtv.com/india-news/himachal-pradesh-assembly-adjourned-within-10-minutes-over-vande-mataram-row-11940150#publisher=newsstand",
+            "source_title": "Himachal Pradesh Assembly Adjourned Within 10 Minutes Over Vande Mataram Row",
+            "scraped_at": "2026-08-21 10:34:46"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Hemant Soren",
+        "name_hi": "हेमंत सोरेन",
+        "aliases": [
+          "Hemant",
+          "Jharkhand CM"
+        ],
+        "role": "Chief Minister of Jharkhand",
+        "role_hi": "झारखंड के मुख्यमंत्री",
+        "ministry": "",
+        "party": "JMM",
+        "party_hi": "JMM",
+        "state": "Jharkhand",
+        "state_hi": "झारखंड",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 1,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hemant_Soren",
+        "known_promises": [],
+        "image_placeholder": "hemant_soren",
+        "controversies": [
+          {
+            "incident_text": "हेमंत सोरेन ने शिकायत की कि कांग्रेस ने बिना सलाह लिए अपना उम्मीदवार घोषित कर दिया",
+            "source_url": "https://www.ndtv.com/india-news/congress-jmm-seat-share-plan-for-rajya-sabha-polls-heres-how-they-can-win-11603099#publisher=newsstand",
+            "source_title": "Congress-JMM Seat Share Plan For Rajya Sabha Polls: Here's How They Can Win",
+            "scraped_at": "2026-06-07 11:52:49.380769"
+          },
+          {
+            "incident_text": "FIR दर्ज करने के लिए पुराने CrPC के इस्तेमाल पर झारखंड में हेमंत सोरेन सरकार की आलोचना",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/in-place-of-bnss-crpc-is-still-being-used-in-jharkhand-says-former-congress-mla-amba-prasad/article70574713.ece",
+            "source_title": "In place of BNSS, CrPC is still being used in Jharkhand, says former Congress MLA Amba Prasad - The Hindu",
+            "scraped_at": "2026-01-31 16:59:52"
+          },
+          {
+            "incident_text": "हेमंत सोरेन ने कहा कि उनके पिता शिबू सोरेन लोगों के दिलों में हमेशा भारत रत्न बने रहेंगे",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/shibu-soren-is-and-will-forever-remain-bharat-ratna-jharkhand-cm-on-padma-bhushan-to-father/article70550847.ece",
+            "source_title": "Shibu Soren is and will forever remain 'Bharat Ratna': Jharkhand CM on Padma Bhushan to father - The Hindu",
+            "scraped_at": "2026-01-25 14:12:44"
+          },
+          {
+            "incident_text": "हेमंत सोरेन ने BJP को 'परजीवी' कहा",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-cm-hemant-soren-calls-bjp-a-parasite/article71332841.ece",
+            "source_title": "Jharkhand CM Hemant Soren calls BJP a ‘parasite’ - The Hindu",
+            "scraped_at": "2026-08-11 17:31:04"
+          },
+          {
+            "incident_text": "हेमंत सोरेन ने माइनिंग बिल को 'ब्लैक बिल' बताया",
+            "source_url": "https://www.thehindu.com/news/national/odisha/mining-bill-a-blow-to-odishas-fiscal-autonomy-bjd-chief-asks-majhi-to-convene-all-party-meet/article71346463.ece",
+            "source_title": "‘Mining Bill a blow to Odisha’s fiscal autonomy’: BJD chief asks Majhi to convene all-party meet - The Hindu",
+            "scraped_at": "2026-08-14 21:30:58"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "झारखंड के मुख्यमंत्री हेमंत सोरेन को जान से मारने की धमकी देने के आरोप में विश्वजीत कुमार गिरफ्तार",
+            "source_url": "https://www.ndtv.com/india-news/man-arrested-for-allegedly-threatening-to-kill-jharkhand-chief-minister-hemant-soren-11912010#publisher=newsstand",
+            "source_title": "Man Arrested For Allegedly Threatening To Kill Jharkhand Chief Minister Hemant Soren",
+            "scraped_at": "2026-08-14 20:36:08",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "D.K. Shivakumar",
+        "name_hi": "डी.के. शिवकुमार",
+        "aliases": [
+          "Shivakumar"
+        ],
+        "role": "Chief Minister of Karnataka",
+        "role_hi": "कर्नाटक के मुख्यमंत्री",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": "Karnataka",
+        "state_hi": "कर्नाटक",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 3,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/D.K._Shivakumar",
+        "known_promises": [],
+        "image_placeholder": "dk_shivakumar",
+        "controversies": [
+          {
+            "incident_text": "डी.के. शिवकुमार अक्सर कहते हैं, 'कोशिशें नाकाम हो सकती हैं, लेकिन प्रार्थनाएं नहीं'",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/former-karnataka-mlc-kidnapped-released-after-extortion-bid-in-attibele/article71054148.ece",
+            "source_title": "D.K. Shivakumar: How the ‘rock’ of Congress became Karnataka CM - The Hindu",
+            "scraped_at": "2026-06-03 05:29:14.896823"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार का आरोप, BJP ने ओडिशा कांग्रेस विधायकों को ₹5 करोड़ की रिश्वत दी",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार कर्नाटक के 25वें मुख्यमंत्री बने",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-sworn-in-as-25th-chief-minister-of-karnataka/article71057097.ece",
+            "source_title": "D.K. Shivakumar sworn-in as 25th Chief Minister of Karnataka - The Hindu",
+            "scraped_at": "2026-06-03 15:24:24.218444"
+          },
+          {
+            "incident_text": "सिद्धारमैया ने बी.के. हरिप्रसाद समेत कांग्रेस के बड़े नेताओं से सार्वजनिक रूप से असहमति जताई",
+            "source_url": "https://www.ndtv.com/india-news/bk-hariprasad-replaces-dk-shivakumar-as-karnataka-congress-chief-11587982#publisher=newsstand",
+            "source_title": "BK Hariprasad Replaces DK Shivakumar As Karnataka Congress Chief",
+            "scraped_at": "2026-06-03 22:16:12.589341"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने बेंगलुरु डेवलपमेंट पोर्टफोलियो छोड़ दिया जिसे वे पहले डिप्टी सीएम के तौर पर संभाल रहे थे",
+            "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bheemili-mla-inspects-tagarapuvalasa-roads/article71061998.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:34.835256"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने उपमुख्यमंत्री के तौर पर अपने बेंगलुरु डेवलपमेंट पोर्टफोलियो से इस्तीफा दे दिया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-portfolios-allocated-but-disgruntlement-remains/article71062542.ece",
+            "source_title": "Karnataka cabinet portfolios allocated, but disgruntlement remains - The Hindu",
+            "scraped_at": "2026-06-05 00:15:23.494826"
+          },
+          {
+            "incident_text": "D.K. Shivakumar ने कृष्ण बायर गौड़ा को पोर्टफोलियो देने के बावजूद BDA और BMRDA पर अपना कंट्रोल बनाए रखा",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-keeping-bda-bmrda-to-drive-prr-and-bidadi-township-raises-questions/article71073566.ece",
+            "source_title": "Karnataka Chief Minister D.K. Shivakumar keeping BDA, BMRDA to drive PRR and Bidadi Township raises questions - The Hindu",
+            "scraped_at": "2026-06-07 15:54:09.127238"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने केंद्र सरकार की \"One Nation One Election\" पहल का कड़ा विरोध किया",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/cong-aap-oppose-simultaneous-polls-while-bjp-welcomes/article70988060.ece",
+            "source_title": "Cong., AAP oppose simultaneous polls, while BJP welcomes - The Hindu",
+            "scraped_at": "2026-05-16 16:01:33"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि वे भारतीय राज्यों से नहीं बल्कि चीन और जापान से मुकाबला कर रहे हैं",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 03:10:42"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि सिद्धारमैया के साथ उनके रिश्ते मजबूत हैं और विपक्ष के आरोपों से प्रभावित नहीं हैं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-rubbishes-allegations-of-spying-on-dk-shivakumar-loyalists/article70700262.ece",
+            "source_title": "Siddaramaiah rubbishes allegations of spying on D.K. Shivakumar loyalists - The Hindu",
+            "scraped_at": "2026-03-03 13:55:52"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने आरोपों पर कोई टिप्पणी करने से इनकार किया और कहा कि वे इसके संदर्भ से अनजान हैं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/i-am-targeted-but-wont-be-a-coward-says-cm-setting-off-more-speculation/article70659929.ece",
+            "source_title": "I am ‘targeted’, but won’t be a ‘coward’, says CM, setting off more speculation - The Hindu",
+            "scraped_at": "2026-02-21 12:03:02"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार एक वफादार कांग्रेस नेता हैं और पार्टी को शर्मिंदा नहीं करेंगे",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/congress-mlc-channaraj-hattiholi-dismisses-rumours-that-deputy-cm-dk-shivakumar-is-planning-coup-in-karnataka/article70625591.ece",
+            "source_title": "Congress MLC dismisses rumours of coup by Deputy CM D.K. Shivakumar in Karnataka - The Hindu",
+            "scraped_at": "2026-02-13 02:07:48"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि वे दिल्ली में केंद्रीय जल शक्ति मंत्री और कानूनी सलाहकारों समेत पार्टी नेताओं से मिलेंगे",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/shivakumar-to-visit-delhi/article70612367.ece",
+            "source_title": "Shivakumar to visit Delhi - The Hindu",
+            "scraped_at": "2026-02-09 12:49:31"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि बजट पेश होने के बाद कर्नाटक की लीडरशिप में बदलाव होगा या नहीं यह वक्त बताएगा",
+            "source_url": "https://www.thehindu.com/news/cities/Mangalore/time-will-reveal-if-there-is-change-in-leadership-in-karnataka-says-deputy-cm-d-k-shivakumar/article70603397.ece",
+            "source_title": "Time will reveal if there is change in leadership in Karnataka: D. K. Shivakumar - The Hindu",
+            "scraped_at": "2026-02-07 05:19:19"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि कांग्रेस हाई कमांड को यथिंद्र के लीडरशिप दावों पर रिएक्ट करना चाहिए",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/high-command-will-have-to-react-says-dcm/article70601258.ece",
+            "source_title": "High Command will have to react, says DCM - The Hindu",
+            "scraped_at": "2026-02-06 14:16:16"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि राजनीति में एक साहसी व्यक्ति ही बहुमत बनाता है",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/one-man-with-courage-makes-a-majority-says-dk-shivakumar/article70584004.ece",
+            "source_title": "One man with courage makes a majority, says D.K. Shivakumar - The Hindu",
+            "scraped_at": "2026-02-02 10:38:45"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार 'Brand Bengaluru' कैंपेन पर शांत, अशोक का दावा है कि उनके नेतृत्व में यह खराब हुआ है",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/r-ashok-questions-silence-of-karnataka-deputy-cm-dk-shivakumar-on-brand-bengaluru-absence-from-house/article70582652.ece",
+            "source_title": "R. Ashok questions silence of Karnataka Deputy CM D.K. Shivakumar on Brand Bengaluru, absence from House - The Hindu",
+            "scraped_at": "2026-02-02 06:15:02"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार पर कांग्रेस सरकार के भीतर राजनीतिक कलह कराने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/dharmasthala-case-suresh-kumar-asks-govt-to-make-sit-report-public/article70570122.ece",
+            "source_title": "Dharmasthala case: Suresh Kumar asks govt. to make SIT report public - The Hindu",
+            "scraped_at": "2026-01-30 07:36:50"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि कैबिनेट विस्तार पर सेंट्रल लीडरशिप फैसला करेगी",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/remain-patient-karnataka-chief-minister-dk-shivakumar-tells-ministerial-aspirants/article71185669.ece",
+            "source_title": "Remain patient, Karnataka Chief Minister D.K. Shivakumar tells ministerial aspirants - The Hindu",
+            "scraped_at": "2026-07-05 21:08:52"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि राज्य के हित में उन्हें विपक्ष के नेताओं की सलाह पर विचार करना चाहिए",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-deputy-chief-minister-dk-shivakumar-to-travel-to-davos/article70526461.ece",
+            "source_title": "Karnataka Deputy Chief Minister D.K. Shivakumar to travel to Davos - The Hindu",
+            "scraped_at": "2026-01-19 14:14:39"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने व्यस्तता का हवाला देकर Davos छोड़ दिया जिसे विजयेंद्र ने लीडरशिप चेंज से जोड़ा",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-takes-a-dig-at-karnataka-deputy-chief-minister-for-skipping-wef/article70522800.ece",
+            "source_title": "BJP takes a dig at Karnataka Deputy Chief Minister for skipping WEF - The Hindu",
+            "scraped_at": "2026-01-18 11:51:46"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार पावर रोटेशन एग्रीमेंट के आधार पर प्रमोशन के लिए दबाव बना रहे हैं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/siddaramaiah-dk-shivakumar-will-be-called-to-delhi-when-necessary-says-kharge/article70502053.ece",
+            "source_title": "Siddaramaiah, D.K. Shivakumar will be called to Delhi ‘when necessary’, says Kharge - The Hindu",
+            "scraped_at": "2026-01-12 15:01:59"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने कहा कि फेक न्यूज़ से कानून और व्यवस्था समेत कई सामाजिक समस्याएं हो रही हैं",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/karnataka-government-to-take-steps-to-stop-fake-news/article71201786.ece",
+            "source_title": "Karnataka government to take steps to stop fake news - The Hindu",
+            "scraped_at": "2026-07-09 12:18:03"
+          },
+          {
+            "incident_text": "डी.के. शिवकुमार ने तिरुपति मंदिर की पहली आरती में कर्नाटक विधायकों को शामिल करने का प्रस्ताव दिया",
+            "source_url": "https://indianexpress.com/article/cities/bangalore/tirupati-aarti-row-ttd-rejects-dk-shivakumar-karnataka-proposal-10784920/",
+            "source_title": "‘Don’t make it a political arena’: Tirupati official slams Shivakumar’s ‘aarti’ plan | Bangalore News - The Indian Express",
+            "scraped_at": "2026-07-13 21:12:06"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "BJP पर ओडिशा में कांग्रेस विधायकों को तोड़ने की कोशिश का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bjp-accused-of-attempting-to-poach-odisha-congress-legislators/article70746280.ece",
+            "source_title": "BJP accused of attempting to poach Odisha Congress legislators - The Hindu",
+            "scraped_at": "2026-03-15 15:02:18.550638",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "हनूर शूट-आउट: विरोध प्रदर्शन वापस लेने से पोस्टमार्टम का रास्ता साफ",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/hanur-shoot-out-withdrawal-of-protest-paves-way-for-post-mortem/article71353481.ece",
+            "source_title": "Hanur shoot-out: Withdrawal of protest paves way for post-mortem - The Hindu",
+            "scraped_at": "2026-08-16 16:33:11",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "ब्यारमंगल में अवैध प्रदर्शन के लिए बिदादी पुलिस ने प्रदर्शनकारियों पर FIR दर्ज की",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/bidadi-police-book-protesters-for-unauthorised-demonstration-at-byramangala/article71516114.ece",
+            "source_title": "Bidadi police book protesters for unauthorised demonstration at Byramangala - The Hindu",
+            "scraped_at": "2026-09-27 17:19:30",
+            "incident_type": "broad"
+          }
+        ]
       }
     ],
     "generic_politicians": [
