@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 1,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1791377941,
-      "last": "2026-10-07 12:59"
+      "last_ts": 1791399971,
+      "last": "2026-10-07 19:06"
     }
   },
   "india": {
@@ -4231,7 +4231,7 @@
         "criminal_last_updated": "2026-07-11"
       },
       {
-        "name": "Bhupendra Patel",
+        "name": "Narendra Modi",
         "role": "Chief Minister of Gujarat",
         "party": "BJP",
         "state": "Gujarat",
@@ -4239,10 +4239,10 @@
         "criminal_cases": 0,
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
-        "image_placeholder": "bhupendra_patel",
+        "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
+        "image_placeholder": "narendra_modi",
         "auto_added": true,
-        "auto_added_on": "2026-06-05",
+        "auto_added_on": "2026-10-07",
         "gemma_confidence": "high",
         "criminal_incidents": [],
         "controversies": []
@@ -7551,6 +7551,23 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Nabin",
         "image_placeholder": "nitin_nabin"
+      },
+      {
+        "name": "Bhupendra Patel",
+        "role": "Former Chief Minister of Gujarat",
+        "party": "BJP",
+        "state": "Gujarat",
+        "aliases": [],
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
+        "image_placeholder": "bhupendra_patel",
+        "auto_added": true,
+        "auto_added_on": "2026-06-05",
+        "gemma_confidence": "high",
+        "criminal_incidents": [],
+        "controversies": []
       }
     ],
     "parties": [
@@ -8256,12 +8273,12 @@
         "aliases": [],
         "capital": "Gandhinagar",
         "ruling_party": "BJP",
-        "cm": "Bhupendra Patel",
+        "cm": "Narendra Modi",
         "region": "West",
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
-        "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-18"
+        "cm_confidence": 1.0,
+        "cm_last_updated": "2026-10-07"
       },
       {
         "name": "Haryana",
