@@ -6751,6 +6751,238 @@
         "image_placeholder": "conrad_sangma",
         "controversies": [],
         "criminal_incidents": []
+      },
+      {
+        "name": "Lalduhoma",
+        "name_hi": "लालदुहोमा",
+        "aliases": [],
+        "role": "Chief Minister of Mizoram",
+        "role_hi": "मिजोरम के मुख्यमंत्री",
+        "ministry": "",
+        "party": "ZPM",
+        "party_hi": "ZPM",
+        "state": "Mizoram",
+        "state_hi": "मिजोरम",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lalduhoma",
+        "known_promises": [],
+        "image_placeholder": "lalduhoma",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Neiphiu Rio",
+        "name_hi": "नेफ्यू रियो",
+        "aliases": [],
+        "role": "Chief Minister of Nagaland",
+        "role_hi": "नागालैंड के मुख्यमंत्री",
+        "ministry": "",
+        "party": "NDPP",
+        "party_hi": "NDPP",
+        "state": "Nagaland",
+        "state_hi": "नागालैंड",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Neiphiu_Rio",
+        "known_promises": [],
+        "image_placeholder": "neiphiu_rio",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Mohan Majhi",
+        "name_hi": "मोहन माझी",
+        "aliases": [
+          "Majhi"
+        ],
+        "role": "Chief Minister of Odisha",
+        "role_hi": "ओडिशा के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Odisha",
+        "state_hi": "ओडिशा",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mohan_Majhi",
+        "known_promises": [],
+        "image_placeholder": "mohan_majhi",
+        "controversies": [
+          {
+            "incident_text": "मोहन चरण माझी सरकार पर धान खरीद के चुनावी वादे पूरे न करने और किसानों को धोखा देने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-attacks-mohan-majhi-government-over-paddy-procurement/article70611619.ece",
+            "source_title": "Naveen Patnaik attacks Mohan Majhi government over paddy procurement - The Hindu",
+            "scraped_at": "2026-02-09 18:11:41"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Bhagwant Mann",
+        "name_hi": "भगवंत मान",
+        "aliases": [],
+        "role": "Chief Minister of Punjab",
+        "role_hi": "पंजाब के मुख्यमंत्री",
+        "ministry": "",
+        "party": "AAP",
+        "party_hi": "AAP",
+        "state": "Punjab",
+        "state_hi": "पंजाब",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 6,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhagwant_Mann",
+        "known_promises": [],
+        "image_placeholder": "bhagwant_mann",
+        "controversies": [
+          {
+            "incident_text": "भगवंत मान ने कहा कि SAD-BJP गठबंधन अवसरवादी और पंजाब के लिए हानिकारक होगा",
+            "source_url": "https://indianexpress.com/article/political-pulse/desperate-bid-to-regain-power-why-bhagwant-mann-is-talking-about-an-sad-bjp-reunion-10733661/",
+            "source_title": "‘Desperate bid to regain power’: Why Bhagwant Mann is talking about an SAD-BJP reunion | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-11 02:03:51.529239"
+          },
+          {
+            "incident_text": "भगवंत मान ने कहा कि सिख गुरुओं पर शराब छिड़कने वाला वीडियो AI से बनाया गया है",
+            "source_url": "https://www.ndtv.com/india-news/bhagwant-mann-declared-anti-guru-by-akal-takht-ahead-of-punjab-polls-11639198#publisher=newsstand",
+            "source_title": "Bhagwant Mann Declared 'Anti-Guru' By Akal Takht Ahead Of Punjab Polls",
+            "scraped_at": "2026-06-15 12:24:22"
+          },
+          {
+            "incident_text": "भगवंत मान ने धार्मिक संस्थाओं पर राजनीतिक दबाव में गलत प्रोपेगेंडा फैलाने का आरोप लगाया",
+            "source_url": "https://indianexpress.com/article/political-pulse/amid-akal-takht-vs-cm-bhagwant-mann-a-look-at-jathedar-role-in-turbulent-panthic-politics-10743175/",
+            "source_title": "Amid Akal Takht vs CM Bhagwant Mann, a look at Jathedar role in turbulent panthic politics | Political Pulse News - The Indian Express",
+            "scraped_at": "2026-06-17 02:05:54"
+          },
+          {
+            "incident_text": "भगवंत मान की पार्टी ने इंडिपेंडेंट फॉरेंसिक एनालिसिस के जरिए वीडियो की सच्चाई पर सवाल उठाए",
+            "source_url": "https://www.ndtv.com/india-news/in-bhagwant-mann-video-row-a-battle-of-competing-narratives-11661059#publisher=newsstand",
+            "source_title": "In Bhagwant Mann Video Row, A Battle Of Competing Narratives",
+            "scraped_at": "2026-06-19 17:00:56"
+          },
+          {
+            "incident_text": "भगत मान पर वायरल वीडियो को बदनाम करने के लिए फर्जी फॉरेंसिक रिपोर्ट तैयार करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:15"
+          },
+          {
+            "incident_text": "भगत मान पर वायरल वीडियो को बदनाम करने के लिए फर्जी फॉरेंसिक रिपोर्ट तैयार करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-couple-booked-for-another-birthday-celebration-on-brahmaputra-bridge/article71142583.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:42"
+          },
+          {
+            "incident_text": "भगवंत मान ने दावा किया कि वीडियो में दिख रहा व्यक्ति वो नहीं है",
+            "source_url": "https://indianexpress.com/article/india/punjab-row-over-mann-video-police-get-custody-of-two-in-forensic-report-case-10756060/",
+            "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
+            "scraped_at": "2026-06-24 23:10:37"
+          },
+          {
+            "incident_text": "गुरुग्राम पुलिस द्वारा वीडियो को असली बताने के बाद राघव चड्ढा ने भगवंत मान के इस्तीफे की मांग की",
+            "source_url": "https://www.ndtv.com/india-news/raghav-chadha-demands-bhagwant-manns-resignation-over-video-row-11686179#publisher=newsstand",
+            "source_title": "Raghav Chadha Demands Bhagwant Mann's Resignation Over Video Row",
+            "scraped_at": "2026-06-25 12:27:23"
+          },
+          {
+            "incident_text": "पंजाब की आर्थिक स्थिति के कारण भगवंत मान सरकार ने VB-G RAM जी. रोजगार गारंटी स्कीम पर अपना फैसला बदला",
+            "source_url": "https://indianexpress.com/article/india/what-changed-in-the-last-six-months-bjp-asks-mann-as-punjab-implements-rural-job-scheme-10767196/",
+            "source_title": "‘What changed in the last six months’, BJP asks Mann as Punjab implements rural job scheme | India News - The Indian Express",
+            "scraped_at": "2026-07-01 22:52:33"
+          },
+          {
+            "incident_text": "अकाल तख्त विवाद के बीच डिटॉक्स के लिए बेंगलुरु जा रहे हैं भगवंत मान",
+            "source_url": "https://indianexpress.com/article/cities/chandigarh/bhagwant-mann-bengaluru-detox-programme-akal-takht-row-10767464/",
+            "source_title": "Bhagwant Mann to visit Bengaluru for detox amid Akal Takht row",
+            "scraped_at": "2026-07-02 04:45:36"
+          },
+          {
+            "incident_text": "भगत मान ने प्रदूषण के दावों पर मरियम नवाज़ को चुनौती दी",
+            "source_url": "https://www.ndtv.com/india-news/ahead-of-smog-season-bhagwant-mann-defends-punjab-farmers-with-a-lahore-dig-12070092#publisher=newsstand",
+            "source_title": "Ahead Of Smog Season, Bhagwant Mann Defends Punjab Farmers With A Lahore Dig",
+            "scraped_at": "2026-09-19 20:19:55"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "अकाल तख्त विवाद बढ़ा: सुखबीर बादल का मान पर हमला, BJP ने मांगी CBI जांच",
+            "source_url": "https://www.ndtv.com/india-news/akal-takht-row-escalates-sukhbir-badal-attacks-mann-bjp-seeks-cbi-probe-11651411#publisher=newsstand",
+            "source_title": "Akal Takht Row Escalates: Sukhbir Badal Attacks Mann, BJP Seeks CBI Probe",
+            "scraped_at": "2026-06-17 18:45:18",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "फर्जी फॉरेंसिक रिपोर्ट की साजिश पर BJP हरियाणा अध्यक्ष ने पंजाब CM Mann को घेरा, इस्तीफे की मांग",
+            "source_url": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:15",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "फर्जी फॉरेंसिक रिपोर्ट की साजिश पर BJP हरियाणा अध्यक्ष ने पंजाब CM Mann को घेरा, इस्तीफे की मांग की",
+            "source_url": "https://www.thehindu.com/news/national/assam/assam-couple-booked-for-another-birthday-celebration-on-brahmaputra-bridge/article71142583.ece",
+            "source_title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation - The Hindu",
+            "scraped_at": "2026-06-24 23:09:42",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "पंजाब 'Mann वीडियो' विवाद: फॉरेंसिक रिपोर्ट केस में पुलिस ने 2 को हिरासत में लिया, दिल्ली और हरियाणा के पतों पर कोई 'labs' नहीं मिले",
+            "source_url": "https://indianexpress.com/article/india/punjab-row-over-mann-video-police-get-custody-of-two-in-forensic-report-case-10756060/",
+            "source_title": "Punjab row over ‘Mann video’: Police get custody of two in forensic report case, no ‘labs’ at Delhi and Haryana addresses | India News - The Indian Express",
+            "scraped_at": "2026-06-24 23:10:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "सुप्रीम कोर्ट ने Mann और अन्य AAP नेताओं के खिलाफ 2020 दंगों के केस को फिर से खोलने से किया इनकार",
+            "source_url": "https://indianexpress.com/article/legal-news/supreme-court-bhagwant-mann-chandigarh-administration-rioting-case-naarebaazi-10789906/",
+            "source_title": "Supreme Court not inclined to revive 2020 rioting case against Mann, other AAP leaders | Legal News - The Indian Express",
+            "scraped_at": "2026-07-16 15:47:56",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Fazilka पुलिस स्टेशन ब्लास्ट: रविवार सुबह 2 बजे पंजाब के Fazilka जिले में ग्रेनेड हमले से 2 गाड़ियाँ क्षतिग्रस्त",
+            "source_url": "https://www.ndtv.com/india-news/fazilka-police-station-blast-grenade-attack-behind-punjab-police-station-blast-12044920#publisher=newsstand",
+            "source_title": "Fazilka Police Station Blast: Grenade Attack Behind Punjab Police Station Blast",
+            "scraped_at": "2026-09-14 13:15:17",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Bhajanlal Sharma",
+        "name_hi": "भजनलाल शर्मा",
+        "aliases": [
+          "Bhajanlal",
+          "Rajasthan CM"
+        ],
+        "role": "Chief Minister of Rajasthan",
+        "role_hi": "राजस्थान के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Rajasthan",
+        "state_hi": "राजस्थान",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhajanlal_Sharma",
+        "known_promises": [],
+        "image_placeholder": "bhajanlal_sharma",
+        "controversies": [],
+        "criminal_incidents": []
       }
     ],
     "generic_politicians": [
