@@ -7018,6 +7018,540 @@
         "image_placeholder": "bhajanlal_sharma",
         "controversies": [],
         "criminal_incidents": []
+      },
+      {
+        "name": "Prem Singh Tamang",
+        "name_hi": "प्रेम सिंह तमांग",
+        "aliases": [
+          "Prem Tamang",
+          "Tamang"
+        ],
+        "role": "Chief Minister of Sikkim",
+        "role_hi": "सिक्किम के मुख्यमंत्री",
+        "ministry": "",
+        "party": "SKM",
+        "party_hi": "SKM",
+        "state": "Sikkim",
+        "state_hi": "सिक्किम",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Prem_Singh_Tamang",
+        "known_promises": [],
+        "image_placeholder": "prem_singh_tamang",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "C. Joseph Vijay",
+        "name_hi": "C. Joseph Vijay",
+        "aliases": [
+          "C. Joseph Vijay**"
+        ],
+        "role": "Chief Minister of Tamil Nadu",
+        "role_hi": "तमिलनाडु के मुख्यमंत्री",
+        "ministry": "",
+        "party": "TVK",
+        "party_hi": "TVK",
+        "state": "Tamil Nadu",
+        "state_hi": "तमिलनाडु",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 5,
+        "affidavit_url": "",
+        "wikipedia": "",
+        "known_promises": [],
+        "image_placeholder": "",
+        "controversies": [
+          {
+            "incident_text": "C. Joseph Vijay ने नई TVK-led सरकार को 'Vijay-model government' बताया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-inaugurates-two-day-training-programme-for-mlas/article71108198.ece",
+            "source_title": "Tamil Nadu CM Vijay inaugurates two-day training programme for MLAs - The Hindu",
+            "scraped_at": "2026-06-16 08:33:40"
+          },
+          {
+            "incident_text": "C. Joseph Vijay की सरकार गवर्नेंस के बजाय सोशल मीडिया ट्रेंड्स पर ज्यादा ध्यान दे रही है",
+            "source_url": "https://indianexpress.com/article/entertainment/tamil/as-vijays-suit-and-lunchbox-trends-udhayanidhi-stalin-says-everythings-reels-with-him-10746241/",
+            "source_title": "As Vijay’s suit and lunchbox trends, Udhayanidhi Stalin says everything’s ‘reels with him’ | Tamil News - The Indian Express",
+            "scraped_at": "2026-06-18 13:01:01"
+          },
+          {
+            "incident_text": "C. Joseph Vijay के करीबी सहयोगी Jagadish Palanisamy को उनका Private Secretary नियुक्त किया गया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/vijays-close-aide-jagadish-palanisamy-appointed-as-private-secretary-to-cm/article71135955.ece",
+            "source_title": "T.N. Chief Minister Vijay’s close aide Jagadish Palanisamy appointed as CM’s Private Secretary - The Hindu",
+            "scraped_at": "2026-06-23 07:58:06"
+          },
+          {
+            "incident_text": "C. Joseph Vijay ने खुद की तुलना किसी को ढूंढते बुजुर्ग से की जिसे कुछ लोगों ने M.K. Stalin की हार से जोड़कर देखा",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-tells-short-story-in-assembly-udhayanidhi-says-house-turned-into-a-cinema/article71137692.ece",
+            "source_title": "CM Vijay tells ‘short story’ in Assembly; Udhayanidhi says House turned into a cinema - The Hindu",
+            "scraped_at": "2026-06-24 00:04:02"
+          },
+          {
+            "incident_text": "C. Joseph Vijay ने हर समस्या के लिए पुरानी DMK सरकार को जिम्मेदार ठहराया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-stuck-in-disaster-under-tvk-rule-udhayanidhi-stalin/article71157521.ece",
+            "source_title": "Tamil Nadu stuck in ‘disaster’ under TVK rule: Udhayanidhi Stalin - The Hindu",
+            "scraped_at": "2026-06-28 13:02:11"
+          },
+          {
+            "incident_text": "C. Joseph Vijay पर बच्चों को ब्लैकमेल कर परिवार के वोट प्रभावित करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-blackmailed-children-by-appealing-to-them-two-election-petitioners-allege-before-madras-high-court/article71192440.ece",
+            "source_title": "Chief Minister Vijay “blackmailed” children by appealing to them, two election petitioners allege before Madras High Court - The Hindu",
+            "scraped_at": "2026-07-07 21:10:28"
+          },
+          {
+            "incident_text": "C. Joseph Vijay ने DMK को भ्रष्टाचार की 'vending machine' बताया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-karur-visit-live-updates-stampede-victim-families-meet-tvk-party-meeting-job-order/article71205273.ece",
+            "source_title": "Vijay Karur visit LIVE: Chief Minister announces memorial for stampede victims on behalf of TVK - The Hindu",
+            "scraped_at": "2026-07-10 09:56:58"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "जज ने व्यक्तिगत किस्से का हवाला देते हुए विजय की अपील को जांचने लायक बताया",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/worth-examining-vijays-appeal-to-children-to-convince-adults-to-vote-for-him-says-judge-citing-personal-anecdote/article71037673.ece",
+            "source_title": "Worth examining Vijay’s appeal to children to convince adults to vote for him, says judge citing personal anecdote - The Hindu",
+            "scraped_at": "2026-05-30 03:52:17.421777",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "TVK चीफ विजय ने Perambur और Tiruchi East में विसंगतियों को सुधारते हुए संशोधित नामांकन दाखिल किए",
+            "source_url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-files-revised-set-of-nominations-in-perambur-tiruchi-east-correcting-discrepancies/article70825908.ece",
+            "source_title": "TVK chief Vijay files revised set of nominations in Perambur, Tiruchi East correcting discrepancies - The Hindu",
+            "scraped_at": "2026-04-05 05:18:19.309562",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "विजय सरकार ने तिरुप्पारंकुंड्रम विवाद पर सुप्रीम कोर्ट का रुख किया",
+            "source_url": "https://www.thehindu.com/news/national/vijay-government-moves-supreme-court-on-thirupparankundram-row/article71136318.ece",
+            "source_title": "Vijay government moves Supreme Court on Thirupparankundram row - The Hindu",
+            "scraped_at": "2026-06-23 07:56:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "मद्रास हाई कोर्ट ने CM विजय के खिलाफ आपत्तिजनक टिप्पणी के लिए अनिता आर. राधाकृष्णन की अग्रिम जमानत खारिज की",
+            "source_url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-denies-advance-bail-to-anitha-r-radhakrishnan-for-his-objectionable-remarks-against-cm-vijay/article71177455.ece",
+            "source_title": "Madras High Court denies advance bail to Anitha R. Radhakrishnan for his objectionable remarks against CM Vijay - The Hindu",
+            "scraped_at": "2026-07-03 07:54:08",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "वीडियो: अनिता राधाकृष्णन की गिरफ्तारी से DMK-TVK में टकराव",
+            "source_url": "https://www.thehindu.com/videos/watch-anitha-radhakrishnans-arrest-triggers-dmk-tvk-standoff/article71179707.ece",
+            "source_title": "Watch: Anitha Radhakrishnan’s arrest triggers DMK-TVK standoff - The Hindu",
+            "scraped_at": "2026-07-03 17:02:13",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Revanth Reddy",
+        "name_hi": "रेवंत रेड्डी",
+        "aliases": [
+          "Revanth",
+          "Telangana CM"
+        ],
+        "role": "Chief Minister of Telangana",
+        "role_hi": "तेलंगाना के मुख्यमंत्री",
+        "ministry": "",
+        "party": "INC",
+        "party_hi": "INC",
+        "state": "Telangana",
+        "state_hi": "तेलंगाना",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 8,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Revanth_Reddy",
+        "known_promises": [],
+        "image_placeholder": "revanth_reddy",
+        "controversies": [
+          {
+            "incident_text": "Revanth Reddy की सरकार HYDRAA के जरिए सिर्फ गरीबों और मिडिल क्लास को निशाना बना रही है",
+            "source_url": "https://www.ndtv.com/india-news/k-kavitha-slams-revanth-reddy-demands-action-on-land-owned-by-pawan-kalyan-11610260#publisher=newsstand",
+            "source_title": "K Kavitha Slams Revanth Reddy, Demands Action On Land Owned By Pawan Kalyan",
+            "scraped_at": "2026-06-09 04:48:15.959112"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि औपचारिक अनुरोध पर वे HILT और TDR आरोपों की जांच के लिए तैयार हैं",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-slams-opposition-for-criticising-governors-address/article70759223.ece",
+            "source_title": "Revanth slams Opposition for criticising Governor’s address - The Hindu",
+            "scraped_at": "2026-03-18 23:36:53.293151"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि वे चीन और जापान से मुकाबला कर रहे हैं, न कि भारतीय राज्यों से",
+            "source_url": "https://www.thehindu.com/the-huddle/the-hindu-huddle-2026-day-2-live-updates-june-6/article71066675.ece",
+            "source_title": "The Hindu Huddle 2026 Day 2 live updates: Not competing with Indian states, I'm competing with China, Japan, etc, says Revanth Reddy - The Hindu",
+            "scraped_at": "2026-06-06 08:40:42.964767"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने HYDRAA के कामकाज को एडोल्फ हिटलर के कार्यों से जोड़ा",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ktr-slams-cm-for-citing-hitler-as-inspiration-behind-hydraa/article71072985.ece",
+            "source_title": "KTR slams CM for citing Hitler as inspiration behind HYDRAA - The Hindu",
+            "scraped_at": "2026-06-07 14:02:56.909896"
+          },
+          {
+            "incident_text": "G. Kishan Reddy पर BRS नेताओं से मिले और प्रोजेक्ट अप्रूवल्स रोके के आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-seeks-cooperation-of-parties-cutting-across-political-lines-in-the-development-of-the-city/article71073507.ece",
+            "source_title": "CM seeks cooperation of parties cutting across political lines in the development of the city - The Hindu",
+            "scraped_at": "2026-06-07 18:52:22.571559"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने दावा किया कि Asian Development Bank ने Musi Riverfront Development प्रोजेक्ट के लिए ₹4,100 करोड़ मंजूर किए",
+            "source_url": "https://www.thehindu.com/news/national/telangana/brs-alleges-cm-misled-assembly-on-adb-loan-for-musi-project/article70739720.ece",
+            "source_title": "BRS alleges CM misled Assembly on ADB loan for Musi project - The Hindu",
+            "scraped_at": "2026-03-13 12:37:49"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि तेलंगाना SC कैटेगराइजेशन लागू करने वाला पहला राज्य बना",
+            "source_url": "https://www.thehindu.com/news/national/telangana/state-committed-to-take-steps-to-uplift-scs-says-cm/article70711715.ece",
+            "source_title": "State committed to take steps to uplift SCs, says CM - The Hindu",
+            "scraped_at": "2026-03-06 08:41:29"
+          },
+          {
+            "incident_text": "A. Revanth Reddy पर वरिष्ठ अधिकारियों के बार-बार तबादले कर तेलंगाना प्रशासन को अस्थिर करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/frequent-transfers-hitting-governance-in-telangana-harish-rao/article70703410.ece",
+            "source_title": "Frequent transfers hitting governance in Telangana: Harish Rao - The Hindu",
+            "scraped_at": "2026-03-04 08:45:53"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी पर राजनीतिक फायदे के लिए तेलंगाना के मुद्दों का फायदा उठाने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bjp-leaders-criticise-rahul-gandhis-visit-demand-accountability-on-poll-promises/article70699502.ece",
+            "source_title": "BJP leaders criticise Rahul Gandhi’s visit, demand accountability on poll promises - The Hindu",
+            "scraped_at": "2026-03-03 08:46:21"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने दावा किया कि केंद्र सरकार टी. प्रभाकर राव को यू.एस. से वापस लाने में सहयोग नहीं कर रही है",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-revanth-says-probe-into-phone-tapping-delayed-due-to-prabhakar-raos-long-absence/article70612115.ece",
+            "source_title": "CM Revanth says probe into phone tapping delayed due to Prabhakar Rao’s long absence - The Hindu",
+            "scraped_at": "2026-02-09 10:34:19"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि BRS तेलंगाना में जिला पुनर्गठन को लेकर गलत प्रोपेगेंडा फैला रही है",
+            "source_url": "https://www.thehindu.com/news/national/telangana/no-proposal-for-districts-reorganisation-before-the-government-cm-revanth-reddy/article70608124.ece",
+            "source_title": "No proposal for districts reorganisation before the government: CM Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 10:28:03"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने दावा किया कि BRS ने अनैतिक तरीकों से ₹1,500 करोड़ अवैध रूप से जुटाए",
+            "source_url": "https://www.thehindu.com/news/national/telangana/why-is-centre-not-initiating-cbi-inquiry-against-kcr-asks-revanth-reddy/article70608461.ece",
+            "source_title": "Why is Centre not initiating CBI inquiry against KCR, asks Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-08 12:04:19"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने आरोप लगाया कि KTR ने फोन टैपिंग के सबूत मिटाने के लिए फॉरेंसिक लैब में आग लगवाई",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-accused-should-be-suspected-in-the-telangana-fsl-fire-accident-congress-mp/article70606892.ece",
+            "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
+            "scraped_at": "2026-02-08 04:06:33"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि BRS शासन के दौरान भ्रष्टाचार और फंड का गलत इस्तेमाल हमेशा याद रखा जाएगा",
+            "source_url": "https://www.thehindu.com/news/national/telangana/ten-years-of-brs-loot-will-be-etched-in-states-annals-cm-revanth-reddy/article70604728.ece",
+            "source_title": "Ten years of BRS loot will be etched in State’s annals: CM Revanth Reddy - The Hindu",
+            "scraped_at": "2026-02-07 10:02:29"
+          },
+          {
+            "incident_text": "आगामी म्युनिसिपल चुनाव में हार के डर से रेवंत रेड्डी ने करीमनगर जाने से परहेज किया",
+            "source_url": "https://www.thehindu.com/news/national/telangana/congress-mim-have-clandestine-pact-bandi/article70600983.ece",
+            "source_title": "Congress, MIM have clandestine pact: Bandi - The Hindu",
+            "scraped_at": "2026-02-06 14:16:43"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी पर चुनावी फायदे के लिए KMC को जारी ₹1,400 करोड़ के बारे में झूठा दावा करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-terms-claims-on-release-of-funds-for-kmc-as-ridiculous-demands-white-paper/article70596903.ece",
+            "source_title": "Bandi Sanjay terms claims on release of funds for KMC as ‘ridiculous’, demands white paper - The Hindu",
+            "scraped_at": "2026-02-05 12:48:57"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी का दावा कि नई दिल्ली की 60 यात्राओं से तेलंगाना को कोई वित्तीय लाभ नहीं हुआ",
+            "source_url": "https://www.thehindu.com/news/national/telangana/union-budget-continuation-of-injustice-to-telangana-say-brs-leaders-ktr-harish-rao/article70579937.ece",
+            "source_title": "Union Budget continuation of injustice to Telangana, say BRS leaders KTR, Harish Rao - The Hindu",
+            "scraped_at": "2026-02-01 12:25:06"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने सार्वजनिक रूप से कहा कि उनके फोन टैप किए गए थे",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cong-lacks-courage-to-take-action-against-phone-tapping-masterminds-bandi-sanjay/article70543021.ece",
+            "source_title": "Cong. lacks courage to take action against phone tapping masterminds: Bandi Sanjay - The Hindu",
+            "scraped_at": "2026-01-23 10:04:59"
+          },
+          {
+            "incident_text": "Revanth Reddy पर BC आरक्षण की मांगों से ध्यान हटाने के लिए BRS नेता T. Harish Rao के साथ मिलकर काम करने का आरोप",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-enquiry-is-a-staged-drama-of-congress-and-brs-kavitha/article70534506.ece",
+            "source_title": "Phone tapping enquiry is a staged drama of Congress and BRS: Kavitha - The Hindu",
+            "scraped_at": "2026-01-21 11:25:39"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि उनकी सरकार व्यक्तिगत एजेंडा के बजाय राज्य के हितों को प्राथमिकता देती है",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-asks-media-not-to-drag-his-cabinet-colleagues-into-their-agenda/article70522654.ece",
+            "source_title": "Revanth asks media not to drag his Cabinet colleagues into their agenda - The Hindu",
+            "scraped_at": "2026-01-18 11:24:29"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि राज्य फंड के लिए वे जरूरत पड़ने पर पीएम मोदी या मंत्रियों से मिलेंगे",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-says-meeting-modi-will-continue-in-states-interests/article70519457.ece",
+            "source_title": "Revanth says meeting Modi will continue in State’s interests - The Hindu",
+            "scraped_at": "2026-01-17 11:23:12"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कानूनी कार्रवाई से बचने के लिए एक DA जारी किया, कर्मचारियों की चिंता से नहीं",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-announced-just-one-da-for-state-government-employees-out-of-compulsion-bandi-sanjay/article70502363.ece",
+            "source_title": "CM announced just one DA for State government employees out of ‘compulsion’: Bandi Sanjay - The Hindu",
+            "scraped_at": "2026-01-12 11:04:52"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने कहा कि पिछली सरकार का जिला पुनर्गठन अवैज्ञानिक था",
+            "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-announces-commission-to-study-reorganisation-of-districts-and-mandals/article70501081.ece",
+            "source_title": "Telangana CM Revanth announces Commission to study reorganisation of districts and mandals - The Hindu",
+            "scraped_at": "2026-01-12 06:16:44"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने फसलों की ग्रोथ के लिए विपक्षी नेताओं के खून छिड़कने का सुझाव दिया",
+            "source_url": "https://www.ndtv.com/telangana-news/kaleshwaram-lift-irrigation-project-revanth-reddys-blood-belt-treatment-jibe-at-kcr-ignite-political-row-in-telangana-11764176#publisher=newsstand",
+            "source_title": "Kaleshwaram Lift Irrigation Project: Revanth Reddy's 'Blood', 'Belt Treatment' Jibe At KCR Ignite Political Row In Telangana",
+            "scraped_at": "2026-07-13 10:36:45"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने चेतावनी दी कि पार्टी की लापरवाही से 21 percent वोट खतरे में हैं",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-expresses-displeasure-over-partys-handling-ongoing-sir/article71342104.ece",
+            "source_title": "CM expresses displeasure over party’s handling ongoing SIR - The Hindu",
+            "scraped_at": "2026-08-13 17:35:15"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने US यात्रा से इनकार को तेलंगाना के लोगों के प्रति अपमानजनक बताया",
+            "source_url": "https://www.ndtv.com/india-news/against-federal-cooperatism-telangana-chief-minister-revanth-reddy-after-centres-no-to-us-visit-11951964#publisher=newsstand",
+            "source_title": "\"Against Federal Cooperatism\": Telangana Chief Minister Revanth Reddy After Centre's No To US Visit",
+            "scraped_at": "2026-08-24 12:56:58"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने खुद की तुलना पवित्र बैल से और पूर्व मुख्यमंत्री की तुलना सुअर से की",
+            "source_url": "https://www.ndtv.com/india-news/absolute-lack-of-culture-ktr-slams-revanth-reddy-over-bull-pig-remark-11994340#publisher=newsstand",
+            "source_title": "\"Absolute Lack Of Culture\": KTR Slams Revanth Reddy Over \"Bull-Pig\" Remark",
+            "scraped_at": "2026-09-02 20:49:09"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने सवाल किया कि क्या KCR की जमीन Agricultural Land Ceiling Act की सीमा से ज्यादा है",
+            "source_url": "https://www.ndtv.com/india-news/revanth-reddy-orders-probe-into-farmhouse-linked-to-kcr-his-party-hits-back-12056588#publisher=newsstand",
+            "source_title": "Revanth Reddy Orders Probe Into Farmhouse Linked To KCR, His Party Hits Back",
+            "scraped_at": "2026-09-16 23:49:02"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने भगवान शिव को गरीबों के और राम को अमीरों के भगवान बताया",
+            "source_url": "https://www.ndtv.com/telangana-news/revanth-reddy-under-bjp-fire-over-lord-ram-god-of-rich-lord-shiva-of-poor-remarks-12112411#publisher=newsstand",
+            "source_title": "Revanth Reddy Under BJP Fire Over 'Ram God Of Rich, Shiva Of Poor' Remarks",
+            "scraped_at": "2026-09-29 06:04:44"
+          },
+          {
+            "incident_text": "रेवंत रेड्डी ने दावा किया कि लोग द्रविड़ और आर्यन समूहों में बंटे हुए हैं",
+            "source_url": "https://www.thehindu.com/news/national/congress-pursues-politics-of-divide-hindus-for-muslim-rule-bjp/article71527430.ece",
+            "source_title": "Congress pursues politics of “divide Hindus for Muslim rule”: BJP",
+            "scraped_at": "2026-09-30 10:04:50"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "कलेश्वरम जांच में तेजी के लिए रेवंत और उत्तम CBI डायरेक्टर से करेंगे मुलाकात",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanthuttamto-meetcbidirectorfor-expeditingkaleshwaramprobe/article70898797.ece",
+            "source_title": "Revanth, Uttam to meet CBI Directorfor expediting Kaleshwaram probe - The Hindu",
+            "scraped_at": "2026-04-23 23:56:55.724370",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "तेलंगाना हाई कोर्ट ने पूर्व MLA Balka Suman को दी जमानत",
+            "source_url": "https://www.thehindu.com/news/national/telangana/hc-grants-bail-to-balka-suman/article71142907.ece",
+            "source_title": "HC grants bail to Balka Suman - The Hindu",
+            "scraped_at": "2026-06-24 18:21:22",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CM के पास दिखाने के लिए कुछ नहीं इसलिए वो अभद्र भाषा का सहारा ले रहे हैं: KTR",
+            "source_url": "https://www.thehindu.com/news/national/telangana/cm-resorting-to-vulgarity-as-he-has-nothing-to-show-ktr/article70612184.ece",
+            "source_title": "CM resorting to vulgarity as he has nothing to show: KTR - The Hindu",
+            "scraped_at": "2026-02-09 10:33:50",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "तेलंगाना FSL आग हादसे में फोन टैपिंग आरोपी पर शक होना चाहिए: कांग्रेस MP",
+            "source_url": "https://www.thehindu.com/news/national/telangana/phone-tapping-accused-should-be-suspected-in-the-telangana-fsl-fire-accident-congress-mp/article70606892.ece",
+            "source_title": "Phone tapping accused should be suspected in the Telangana FSL fire accident: Congress MP - The Hindu",
+            "scraped_at": "2026-02-08 04:06:33",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "BRS के 10 साल के शासन में कभी कोई अवैध गतिविधि नहीं हुई: KTR",
+            "source_url": "https://www.thehindu.com/news/national/telangana/never-indulged-in-illegal-activities-in-10-years-of-brs-rule-says-ktr/article70541141.ece",
+            "source_title": "Never indulged in illegal activities in 10-years of BRS rule, says KTR - The Hindu",
+            "scraped_at": "2026-01-23 01:11:37",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Harish Rao पर SIT नोटिस ध्यान भटकाने की रणनीति है: KTR",
+            "source_url": "https://www.thehindu.com/news/national/telangana/sit-notice-on-harish-rao-is-an-attention-diversion-tactics-ktr/article70529658.ece",
+            "source_title": "SIT notice on Harish Rao is an attention diversion tactics: KTR - The Hindu",
+            "scraped_at": "2026-01-20 20:28:59",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "NTV पत्रकारों की गिरफ्तारी पर विपक्ष और पत्रकार संगठनों ने जताया विरोध",
+            "source_url": "https://www.thehindu.com/news/national/telangana/opposition-journalist-bodies-condemn-arrest-of-ntv-journalists/article70509497.ece",
+            "source_title": "Opposition, journalist bodies condemn arrest of NTV journalists - The Hindu",
+            "scraped_at": "2026-01-14 08:16:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "कांग्रेस सरकार की इमरजेंसी वाली मानसिकता: BJP - द हिंदू एन. रामचंदर राव, तेलंगाना BJP अध्यक्ष ने एयरपोर्ट पर प्राइवेट न्यूज़ चैनल के 3 पत्रकारों की आधी रात को गिरफ्तारी की निंदा की",
+            "source_url": "https://www.thehindu.com/news/national/telangana/emergency-era-mindset-of-congress-govt-bjp/article70509341.ece",
+            "source_title": "Emergency era mindset of Congress govt.: BJP - The Hindu",
+            "scraped_at": "2026-01-14 08:18:16",
+            "incident_type": "broad"
+          }
+        ]
+      },
+      {
+        "name": "Manik Saha",
+        "name_hi": "मणिक साहा",
+        "aliases": [],
+        "role": "Chief Minister of Tripura",
+        "role_hi": "त्रिपुरा के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Tripura",
+        "state_hi": "त्रिपुरा",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Manik_Saha",
+        "known_promises": [],
+        "image_placeholder": "manik_saha",
+        "controversies": [
+          {
+            "incident_text": "मणिक साहा ने कहा कि केवल राष्ट्रीय पार्टियां ही आदिवासी समुदायों को निरंतर विकास दे सकती हैं",
+            "source_url": "https://www.thehindu.com/news/national/tripura/tripura-council-poll-no-alliance-call-yet-by-bjp-ally-ipft-keen-on-tie-up/article70601716.ece",
+            "source_title": "Tripura council poll: no alliance call yet by BJP, ally IPFT keen on tie-up - The Hindu",
+            "scraped_at": "2026-02-06 14:53:53"
+          }
+        ],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Yogi Adityanath",
+        "name_hi": "योगी आदित्यनाथ",
+        "aliases": [
+          "Yogi",
+          "UP CM",
+          "Gorakhpur CM"
+        ],
+        "role": "Chief Minister of Uttar Pradesh",
+        "role_hi": "उत्तर प्रदेश के मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttar Pradesh",
+        "state_hi": "उत्तर प्रदेश",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 2,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yogi_Adityanath",
+        "known_promises": [],
+        "image_placeholder": "yogi_adityanath",
+        "controversies": [
+          {
+            "incident_text": "योगी आदित्यनाथ ने भर्ती बोर्ड्स को जाति, पंथ या समुदाय के खिलाफ अपमानजनक टिप्पणी से बचने के निर्देश दिए",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/cm-adityanath-tells-recruitment-boards-to-avoid-making-undignified-remarks-on-any-community/article70745847.ece",
+            "source_title": "CM Adityanath tells recruitment boards to avoid making undignified remarks on any community - The Hindu",
+            "scraped_at": "2026-03-15 06:35:36.759141"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि भारतीय परंपरा में गायों को माता के रूप में पूजा जाता है और मुस्लिम धर्मगुरुओं को अपने अनुयायियों को उनका अपमान न करने की सलाह देनी चाहिए",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/cow-not-animal-its-revered-as-mother-yogi-adityanath-asks-clerics-to-caution-followers-against-any-disrespect-10719211/",
+            "source_title": "‘Cow not animal, it’s revered as mother’: Yogi Adityanath asks clerics to caution followers against any disrespect | Lucknow News - The Indian Express",
+            "scraped_at": "2026-06-02 02:03:27.367304"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने भगवान राम की आस्था का अपमान करने पर विपक्षी दलों की आलोचना की",
+            "source_url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
+            "source_title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu - The Hindu",
+            "scraped_at": "2026-03-19 17:59:45.291579"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ से पुलिस परीक्षा के सवाल की जांच की मांग जिसमें 'अवसर के अनुसार बदलने वाले' के लिए 'पंडित' विकल्प था",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/pandit-option-for-question-on-opportunists-trips-up-bjp-in-up-days-after-anti-brahmin-claim-by-opposition/article70744437.ece",
+            "source_title": "‘Pandit’ option for question on opportunists trips up BJP in U.P. days after ‘anti-Brahmin’ claim by opposition - The Hindu",
+            "scraped_at": "2026-03-14 23:34:29.826596"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने अखिलेश यादव से कार्यकर्ताओं को महिलाओं और बेटियों का सम्मान करने को कहा",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/yogi-adityanath-fir-akhilesh-yadav-daughter-remarks-up-politics-10738000/",
+            "source_title": "Yogi Adityanath orders FIR over remarks on Akhilesh Yadav’s daughter",
+            "scraped_at": "2026-06-13 12:54:18"
+          },
+          {
+            "incident_text": "अखिलेश यादव के मुताबिक योगी आदित्यनाथ जापान जा रहे हैं लेकिन क्योटो नहीं",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/corruption-misgovernance-intensified-in-up-during-bjp-rule-akhilesh-yadav/article70663428.ece",
+            "source_title": "Corruption, misgovernance intensified in UP during BJP rule: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-22 10:26:49"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि बाबरी ढांचा कभी नहीं बनेगा क्योंकि 'कयामत' कभी नहीं आएगी",
+            "source_url": "https://www.thehindu.com/news/national/asaduddin-owaisi-takes-swipe-at-yogi-adityanath-over-qayamat-remark-on-babri-masjid/article70631713.ece",
+            "source_title": "Asaduddin Owaisi takes swipe at Yogi Adityanath over ‘Qayamat’ remark on Babri Masjid - The Hindu",
+            "scraped_at": "2026-02-14 05:05:26"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि हर कोई 'Shankaracharya' की उपाधि इस्तेमाल करने का हकदार नहीं है",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/derogatory-language-against-shankaracharya-is-verbal-violence-akhilesh-yadav/article70631542.ece",
+            "source_title": "Derogatory language against Shankaracharya is verbal violence: Akhilesh Yadav - The Hindu",
+            "scraped_at": "2026-02-14 02:08:28"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि कांग्रेस ने काशी को बदनाम करने और विकास रोकने के लिए झूठा प्रोपेगेंडा फैलाया",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/kashi-redevelopment-manikarnika-ghat-temple-demolition-up-cm-yogi-adityanath/article70519054.ece",
+            "source_title": "U.P. CM Adityanath accuses Congress of spreading ‘false propaganda’ on Kashi redevelopment - The Hindu",
+            "scraped_at": "2026-01-17 12:14:22"
+          },
+          {
+            "incident_text": "अजय राय ने दावा किया कि योगी-मोदी सरकार हिंदुत्व के दावे के बावजूद नास्तिक है",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-slams-up-govt-over-manikarnika-ghat-redevelopment-alleges-damage-to-varanasis-heritage/article70515390.ece",
+            "source_title": "Congress slams U.P. govt over Manikarnika Ghat redevelopment, alleges damage to Varanasi’s heritage - The Hindu",
+            "scraped_at": "2026-01-16 12:22:55"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा कि दान की चोरी से भक्तों को दुख हुआ लेकिन इससे अयोध्या की छवि खराब नहीं होनी चाहिए",
+            "source_url": "https://indianexpress.com/article/cities/lucknow/ram-temple-donation-theft-has-hurt-rambhakts-but-using-it-to-defame-ayodhya-is-not-justified-yogi-10788561/",
+            "source_title": "Ram Temple donation ‘theft’ has hurt Rambhakts, but using it to defame Ayodhya is not justified: Yogi | Lucknow News - The Indian Express",
+            "scraped_at": "2026-07-15 23:34:36"
+          },
+          {
+            "incident_text": "योगी आदित्यनाथ ने कहा भारत की विरासत को नकारना जन्मसिद्ध अधिकार है",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
+            "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
+            "scraped_at": "2026-08-24 11:58:22"
+          }
+        ],
+        "criminal_incidents": [
+          {
+            "incident_text": "उत्तर प्रदेश: बलिया में योगी आदित्यनाथ पर आपत्तिजनक फेसबुक पोस्ट के लिए पत्रकार गिरफ्तार",
+            "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/journalist-arrested-for-objectionable-facebook-post-on-up-cm-adityanath-in-ballia/article70613792.ece",
+            "source_title": "Uttar Pradesh: Journalist arrested for objectionable Facebook post on Yogi Adityanath in Ballia - The Hindu",
+            "scraped_at": "2026-02-09 23:39:52",
+            "incident_type": "serious"
+          },
+          {
+            "incident_text": "PM Modi, Shah और Adityanath को जान से मारने की धमकी देने वाले झारखंड के शख्स पर FIR",
+            "source_url": "https://www.thehindu.com/news/national/jharkhand/fir-lodged-against-jharkhand-man-for-threatening-to-kill-pm-modi-shah-adityanath/article71298890.ece",
+            "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
+            "scraped_at": "2026-08-02 18:31:58",
+            "incident_type": "broad"
+          }
+        ]
       }
     ],
     "generic_politicians": [
