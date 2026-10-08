@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4207,7 +4207,14 @@
             "incident_type": "broad"
           }
         ],
-        "controversies": [],
+        "controversies": [
+          {
+            "incident_text": "Samrat Choudhary claimed critics could only find five viral sexual assault videos in Bihar.",
+            "source_url": "https://www.thehindu.com/news/national/bihar/bihar-cm-sparks-controversy-again-over-remark-on-molestation-videos-says-media-could-find-only-five-videos/article71558775.ece",
+            "source_title": "Bihar CM sparks controversy again over remark on molestation videos, says media ‘could find only five videos’",
+            "scraped_at": "2026-10-08 12:08:17"
+          }
+        ],
         "criminal_cases_in_news": 2,
         "criminal_last_updated": "2026-07-11"
       },
