@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08 14:44:09.789063",
+  "generated_at": "2026-10-08 17:03:56.111296",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 1,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,9 +11,27 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 2
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Narendra Modi",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "amaneni Ramesh has written to Chief Minister N. Chandrababu Naidu urging him to mark Prime Minister Narendra Modi’s 25 years in public service on October 7 through prayers and service activities. Mr. "
+    },
+    {
+      "type": "entity_enrichment",
+      "person": "Sheikh Abdullah",
+      "candidate_party": "BJP",
+      "mentions": 4,
+      "share": 0.67,
+      "reason": "Party evidence below auto threshold"
+    }
+  ]
 }
