@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 1,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1791426874,
-      "last": "2026-10-08 02:34"
+      "last_ts": 1791449926,
+      "last": "2026-10-08 08:58"
     }
   },
   "india": {
@@ -1685,7 +1685,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 33,
+        "criminal_cases_in_news": 34,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1916,6 +1916,13 @@
             "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-sonia-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
             "source_title": "At least two fresh FIRs against Rahul Gandhi, Sonia Gandhi over alleged assault on cops, police vehicle vandalism",
             "scraped_at": "2026-10-08 06:05:06",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "At least two fresh FIRs against Rahul Gandhi, Priyanka Gandhi over alleged assault on cops, police vehicle vandalism **Delhi Police** registered at least two fresh FIRs against **Rahul Gandhi**, **Pri",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-priyanka-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
+            "source_title": "At least two fresh FIRs against Rahul Gandhi, Priyanka Gandhi over alleged assault on cops, police vehicle vandalism",
+            "scraped_at": "2026-10-08 08:05:38",
             "incident_type": "broad"
           }
         ],
@@ -2768,6 +2775,13 @@
             "source_title": "Rahul Gandhi dharna in Delhi LIVE: Congress leader demands FIR over pellet gun use in student protest - The Hindu",
             "scraped_at": "2026-08-21 09:41:55",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "At least two fresh FIRs against Rahul Gandhi, Priyanka Gandhi over alleged assault on cops, police vehicle vandalism **Delhi Police** registered at least two fresh FIRs against **Rahul Gandhi**, **Pri",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-priyanka-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
+            "source_title": "At least two fresh FIRs against Rahul Gandhi, Priyanka Gandhi over alleged assault on cops, police vehicle vandalism",
+            "scraped_at": "2026-10-08 08:05:38",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -2808,8 +2822,8 @@
             "scraped_at": "2026-07-29 04:25:25"
           }
         ],
-        "criminal_cases_in_news": 9,
-        "criminal_last_updated": "2026-08-21"
+        "criminal_cases_in_news": 10,
+        "criminal_last_updated": "2026-10-08"
       },
       {
         "name": "Mallikarjun Kharge",
