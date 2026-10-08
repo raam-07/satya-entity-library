@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 1,
+      "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 2,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1685,7 +1685,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 34,
+        "criminal_cases_in_news": 35,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1923,6 +1923,13 @@
             "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-priyanka-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
             "source_title": "At least two fresh FIRs against Rahul Gandhi, Priyanka Gandhi over alleged assault on cops, police vehicle vandalism",
             "scraped_at": "2026-10-08 08:05:38",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Forum for Constitutional Democracy condemns criminal cases against Rahul Gandhi and MPs The **Forum for Constitutional Democracy (FCD)**, including convenor **K. Ramachandra Murthy** and **Justice B. ",
+            "source_url": "https://www.thehindu.com/news/national/telangana/forum-for-constitutional-democracy-condemns-criminal-cases-against-rahul-gandhi-and-mps/article71559058.ece",
+            "source_title": "Forum for Constitutional Democracy condemns criminal cases against Rahul Gandhi and MPs",
+            "scraped_at": "2026-10-08 10:09:47",
             "incident_type": "broad"
           }
         ],
