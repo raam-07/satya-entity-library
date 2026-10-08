@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 2,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1685,7 +1685,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 32,
+        "criminal_cases_in_news": 33,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1910,9 +1910,16 @@
             "source_title": "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM",
             "scraped_at": "2026-10-07 06:05:55",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "At least two fresh FIRs against Rahul Gandhi, Sonia Gandhi over alleged assault on cops, police vehicle vandalism **Delhi Police** registered at least two fresh FIRs against **Rahul Gandhi**, **Priyan",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-sonia-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
+            "source_title": "At least two fresh FIRs against Rahul Gandhi, Sonia Gandhi over alleged assault on cops, police vehicle vandalism",
+            "scraped_at": "2026-10-08 06:05:06",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-10-07",
+        "criminal_last_updated": "2026-10-08",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
@@ -2578,7 +2585,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
         "image_placeholder": "sonia_gandhi",
-        "criminal_cases_in_news": 8,
+        "criminal_cases_in_news": 9,
         "criminal_incidents": [
           {
             "incident_text": "National Herald case: Delhi High Court to hear on Monday ED plea against Sonia, Rahul - The Hindu The **Delhi High Court** will hear a case on Monday, April 20, 2026, where the **Enforcement Directora",
@@ -2635,9 +2642,16 @@
             "source_title": "Gandhis' \"Extraneous Considerations\" Charge In National Herald Case",
             "scraped_at": "2026-09-22 17:16:14",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "At least two fresh FIRs against Rahul Gandhi, Sonia Gandhi over alleged assault on cops, police vehicle vandalism **Delhi Police** registered at least two fresh FIRs against **Rahul Gandhi**, **Priyan",
+            "source_url": "https://www.thehindu.com/news/cities/Delhi/at-least-two-fresh-firs-against-rahul-gandhi-sonia-gandhi-over-alleged-assault-on-cops-police-vehicle-vandalism/article71558486.ece",
+            "source_title": "At least two fresh FIRs against Rahul Gandhi, Sonia Gandhi over alleged assault on cops, police vehicle vandalism",
+            "scraped_at": "2026-10-08 06:05:06",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-26",
+        "criminal_last_updated": "2026-10-08",
         "controversies": [
           {
             "incident_text": "Sonia Gandhi offered Himanta Biswa Sarma the Chief Minister position in 2014.",
