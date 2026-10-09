@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7335,7 +7335,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 14,
+        "criminal_cases_in_news": 15,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7433,6 +7433,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-kerala-hc-orders-registration-of-fir-against-pinarayi-vijayan-kin-based-on-ed-report/article71562715.ece",
             "source_title": "CMRL pay-off case: Kerala HC orders registration of FIR against Pinarayi Vijayan, kin based on ED report",
             "scraped_at": "2026-10-09 06:04:26",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "CMRL-Exalogic case: CPI(M) accuses UDF of aiding ‘BJP-controlled ED’, withholding facts to ‘mislead’ Kerala HC On Friday, **CPI(M)** leader **M.V. Jayarajan** accused the **UDF** in **Keralam** of aid",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-case-cpim-accuses-udf-of-aiding-bjp-controlled-ed-withholding-facts-to-mislead-kerala-hc/article71562881.ece",
+            "source_title": "CMRL-Exalogic case: CPI(M) accuses UDF of aiding ‘BJP-controlled ED’, withholding facts to ‘mislead’ Kerala HC",
+            "scraped_at": "2026-10-09 08:06:02",
             "incident_type": "broad"
           }
         ],
