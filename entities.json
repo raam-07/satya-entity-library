@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 0,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2582,6 +2582,12 @@
             "source_url": "https://www.ndtv.com/india-news/gyanesh-kumar-rahul-gandhi-eci-election-commission-factchecks-rahul-gandhis-form-6-allegations-12142478#publisher=newsstand",
             "source_title": "Election Commission \"Fact-Checks\" Rahul Gandhi's Form 6 Allegations",
             "scraped_at": "2026-10-05 18:04:43"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed the President accepted allegations of vote theft.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-says-rahuls-account-of-india-bloc-meeting-with-president-politically-motivated/article71565642.ece",
+            "source_title": "BJP says Rahul’s account of INDIA bloc meeting with President ‘politically motivated’",
+            "scraped_at": "2026-10-09 19:03:03"
           }
         ]
       },
