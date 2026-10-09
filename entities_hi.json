@@ -9385,6 +9385,101 @@
             "incident_type": "broad"
           }
         ]
+      },
+      {
+        "name": "Sheikh Abdullah",
+        "name_hi": "शेख अब्दुल्ला",
+        "aliases": [
+          "Abdullah"
+        ],
+        "role": "Former Chief Minister of Jammu",
+        "role_hi": "जम्मू के पूर्व मुख्यमंत्री",
+        "ministry": "",
+        "party": "",
+        "party_hi": "",
+        "state": "Jammu",
+        "state_hi": "जम्मू",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sheikh_Abdullah",
+        "known_promises": [],
+        "image_placeholder": "sheikh_abdullah",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Smriti Irani",
+        "name_hi": "स्मृति ईरानी",
+        "aliases": [
+          "Smriti",
+          "Irani"
+        ],
+        "role": "Former Women and Child Development Minister",
+        "role_hi": "पूर्व महिला और बाल विकास मंत्री",
+        "ministry": "Ministry of Women and Child Development",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Uttar Pradesh",
+        "state_hi": "उत्तर प्रदेश",
+        "constituency": "Amethi",
+        "constituency_hi": "अमेठी",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smriti_Irani",
+        "known_promises": [],
+        "image_placeholder": "smriti_irani",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Nitin Nabin",
+        "name_hi": "नितिन नबीन",
+        "aliases": [
+          "BJP National President"
+        ],
+        "role": "BJP National President",
+        "role_hi": "BJP राष्ट्रीय अध्यक्ष",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Bihar",
+        "state_hi": "बिहार",
+        "constituency": "Bankipur",
+        "constituency_hi": "बांकीपुर",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Nabin",
+        "known_promises": [],
+        "image_placeholder": "nitin_nabin",
+        "controversies": [],
+        "criminal_incidents": []
+      },
+      {
+        "name": "Bhupendra Patel",
+        "name_hi": "भूपेंद्र पटेल",
+        "aliases": [],
+        "role": "Former Chief Minister of Gujarat",
+        "role_hi": "गुजरात के पूर्व मुख्यमंत्री",
+        "ministry": "",
+        "party": "BJP",
+        "party_hi": "BJP",
+        "state": "Gujarat",
+        "state_hi": "गुजरात",
+        "constituency": "",
+        "constituency_hi": "",
+        "criminal_cases": 0,
+        "criminal_cases_in_news": 0,
+        "affidavit_url": "https://affidavit.eci.gov.in",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhupendra_Patel",
+        "known_promises": [],
+        "image_placeholder": "bhupendra_patel",
+        "controversies": [],
+        "criminal_incidents": []
       }
     ]
   }
