@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7335,7 +7335,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 13,
+        "criminal_cases_in_news": 14,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7427,9 +7427,16 @@
             "source_title": "CMRL-Exalogic payoff case: Kerala HC reserves order on plea seeking FIR against Pinarayi, daughter Veena, Riyas",
             "scraped_at": "2026-09-30 10:05:32",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "CMRL pay-off case: Kerala HC orders registration of FIR against Pinarayi Vijayan, kin based on ED report On October 9, 2026, the **Kerala High Court** ordered an FIR against former Chief Minister **Pi",
+            "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-kerala-hc-orders-registration-of-fir-against-pinarayi-vijayan-kin-based-on-ed-report/article71562715.ece",
+            "source_title": "CMRL pay-off case: Kerala HC orders registration of FIR against Pinarayi Vijayan, kin based on ED report",
+            "scraped_at": "2026-10-09 06:04:26",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-09-30",
+        "criminal_last_updated": "2026-10-09",
         "controversies": [
           {
             "incident_text": "Pinarayi Vijayan stated that Unnikrishnan was a staunch spokesperson of secular politics who opposed Hindutva politics.",
