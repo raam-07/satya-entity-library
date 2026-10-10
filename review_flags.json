@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10 14:54:46.449243",
+  "generated_at": "2026-10-10 15:04:04.851289",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,9 +11,35 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 3
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.62,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "ster on Friday (October 2, 2026) jointly launched the ₹1 lakh crore Global Horticulture Hub - Rayalaseema Rising project and laid the foundation stone for the Indian School of Agriculture (ISA) here, "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "ses. **Siddaramaiah** expressed confidence that **D.K. Shivakumar** will continue these welfare initiatives. Former Chief Minister Siddaramaiah on Monday said the guarantee schemes implemented by the "
+    },
+    {
+      "type": "entity_enrichment",
+      "person": "Sheikh Abdullah",
+      "candidate_party": "BJP",
+      "mentions": 4,
+      "share": 0.67,
+      "reason": "Party evidence below auto threshold"
+    }
+  ]
 }
