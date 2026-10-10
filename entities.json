@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -6870,6 +6870,13 @@
             "source_title": "Adhikari warns Mamata of legal action over coal scam allegation - The Hindu",
             "scraped_at": "2026-01-14 04:04:36",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Mamata Banerjee, Arvind Kejriwal, P Vijayan Detained During Protest Near Delhi's Jantar Mantar On Saturday, **Mamata Banerjee**, **Arvind Kejriwal**, and former Kerala CM **Pinarayi Vijayan** were det",
+            "source_url": "https://www.ndtv.com/india-news/mamata-banerjee-cjp-protests-gyanesh-kumar-mamata-banerjee-trinamool-mps-detained-during-protest-near-delhis-jantar-mantar-12165714#publisher=newsstand",
+            "source_title": "Mamata Banerjee, Arvind Kejriwal, P Vijayan Detained During Protest Near Delhi's Jantar Mantar",
+            "scraped_at": "2026-10-10 10:03:40",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -7072,9 +7079,9 @@
             "scraped_at": "2026-01-12 16:54:02"
           }
         ],
-        "criminal_cases_in_news": 29,
+        "criminal_cases_in_news": 30,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-07-09"
+        "criminal_last_updated": "2026-10-10"
       },
       {
         "name": "Siddaramaiah",
