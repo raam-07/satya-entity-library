@@ -7631,7 +7631,15 @@
         "criminal_cases_in_news": 0,
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Nitin_Nabin",
-        "image_placeholder": "nitin_nabin"
+        "image_placeholder": "nitin_nabin",
+        "controversies": [
+          {
+            "incident_text": "Nitin Nabin suggested dealing strictly with those staging protests.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-discrediting-opposition-for-raising-questions-over-election-commission-ashok-gehlot/article71569089.ece",
+            "source_title": "BJP discrediting opposition for raising questions over Election Commission: Ashok Gehlot",
+            "scraped_at": "2026-10-10 15:53:41"
+          }
+        ]
       },
       {
         "name": "Bhupendra Patel",
