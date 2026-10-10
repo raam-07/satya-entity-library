@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 2,
+      "cm_updates": 0,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2594,6 +2594,12 @@
             "source_url": "https://www.ndtv.com/india-news/cjp-protest-flop-show-democracy-has-won-over-mobocracy-bjps-sambit-patra-12165901#publisher=newsstand",
             "source_title": "CJP Protest \"Flop Show\", Democracy Has Won Over Mobocracy: BJP",
             "scraped_at": "2026-10-10 12:05:22"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed President Droupadi Murmu accepted the 'election theft' charge.",
+            "source_url": "https://www.thehindu.com/news/national/blot-on-democracy-piyush-goyal-slams-rahul-gandhi-for-president-accepted-vote-chori-charge-claim/article71568964.ece",
+            "source_title": "‘Blot on democracy’: Piyush Goyal slams Rahul Gandhi for President accepted ‘vote chori’ charge claim",
+            "scraped_at": "2026-10-10 15:56:39"
           }
         ]
       },
