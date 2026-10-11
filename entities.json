@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7360,7 +7360,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 16,
+        "criminal_cases_in_news": 17,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7472,6 +7472,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/hectic-schedule-on-cards-for-ruling-front-opposition-as-nine-day-keralam-assembly-session-opens-on-october-12/article71568065.ece",
             "source_title": "Hectic schedule on cards for ruling front, Opposition as nine-day Keralam Assembly session opens on October 12",
             "scraped_at": "2026-10-11 04:03:45",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Keralam Assembly session begins on October 12, 2026 The **Keralam Legislative Assembly** convenes for a nine-day session from October 12 to October 29, 2026. The **UDF** and **LDF** will clash over th",
+            "source_url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-session-begins-on-october-12-2026/article71572304.ece",
+            "source_title": "Keralam Assembly session begins on October 12, 2026",
+            "scraped_at": "2026-10-11 18:05:58",
             "incident_type": "broad"
           }
         ],
