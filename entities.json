@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 3,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1791903917,
-      "last": "2026-10-13 15:05"
+      "last_ts": 1791930753,
+      "last": "2026-10-13 22:32"
     }
   },
   "india": {
@@ -6889,6 +6889,13 @@
             "source_title": "Mamata Banerjee, Arvind Kejriwal, P Vijayan Detained During Protest Near Delhi's Jantar Mantar",
             "scraped_at": "2026-10-10 10:03:40",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Woman Tried To Attack Mamata Banerjee With Knife Near Her House, Claims Party On Tuesday at 6 pm, **Anusua Saha**, a 38-year-old civic volunteer, allegedly tried to attack **Mamata Banerjee** with a k",
+            "source_url": "https://www.ndtv.com/india-news/woman-tried-to-attack-mamata-banerjee-with-knife-near-her-house-claims-party-12181119#publisher=newsstand",
+            "source_title": "Woman Tried To Attack Mamata Banerjee With Knife Near Her House, Claims Party",
+            "scraped_at": "2026-10-13 21:53:47",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -7091,9 +7098,9 @@
             "scraped_at": "2026-01-12 16:54:02"
           }
         ],
-        "criminal_cases_in_news": 30,
+        "criminal_cases_in_news": 31,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-10-10"
+        "criminal_last_updated": "2026-10-13"
       },
       {
         "name": "Siddaramaiah",
@@ -8463,7 +8470,7 @@
         "ruling_party": "BJP",
         "cm": "Devendra Fadnavis",
         "region": "West",
-        "cm_confidence": 0.8,
+        "cm_confidence": 1.0,
         "cm_last_updated": "2026-10-13"
       },
       {
