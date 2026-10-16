@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7374,7 +7374,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 19,
+        "criminal_cases_in_news": 20,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7508,6 +7508,13 @@
             "source_title": "Pinarayi Vijayan moves SC against HC order to lodge FIR in CMRL bribery case",
             "scraped_at": "2026-10-16 08:05:09",
             "incident_type": "serious"
+          },
+          {
+            "incident_text": "Differences crop up in Congress over Keralam government’s 'soft approach' in CMRL-Exalogic pay-off case **Congress** leader **Mathew Kuzhalnadan** criticized the **State government** for a \"soft appro",
+            "source_url": "https://www.thehindu.com/news/national/kerala/differences-crop-up-in-congress-over-keralam-governments-soft-approach-in-cmrl-exalogic-pay-off-case/article71592795.ece",
+            "source_title": "Differences crop up in Congress over Keralam government’s 'soft approach' in CMRL-Exalogic pay-off case",
+            "scraped_at": "2026-10-16 16:05:30",
+            "incident_type": "broad"
           }
         ],
         "criminal_last_updated": "2026-10-16",
