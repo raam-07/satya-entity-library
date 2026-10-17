@@ -1,11 +1,11 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 3,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792170410,
-      "last": "2026-10-16 17:06"
+      "last_ts": 1792197020,
+      "last": "2026-10-17 00:30"
     }
   },
   "india": {
@@ -4302,7 +4302,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "image_placeholder": "narendra_modi",
         "auto_added": true,
-        "auto_added_on": "2026-10-16",
+        "auto_added_on": "2026-10-17",
         "gemma_confidence": "high",
         "criminal_incidents": [],
         "controversies": []
@@ -8416,7 +8416,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-10-16"
+        "cm_last_updated": "2026-10-17"
       },
       {
         "name": "Haryana",
@@ -8492,7 +8492,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-10-16"
+        "cm_last_updated": "2026-10-17"
       },
       {
         "name": "Manipur",
