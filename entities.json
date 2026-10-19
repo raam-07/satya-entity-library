@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 3,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792385104,
-      "last": "2026-10-19 04:45"
+      "last_ts": 1792411080,
+      "last": "2026-10-19 11:58"
     }
   },
   "india": {
@@ -1619,6 +1619,12 @@
             "source_url": "https://www.ndtv.com/india-news/opposition-naraaz-fufas-because-they-havent-been-able-to-win-kiren-rijiju-12066619#publisher=newsstand",
             "source_title": "Opposition 'Naraaz Fufas' Because They Haven't Been Able To Win: Kiren Rijiju",
             "scraped_at": "2026-09-18 20:41:35"
+          },
+          {
+            "incident_text": "Kiren Rijiju stated that India is not Bangladesh regarding 'regime change' allegations.",
+            "source_url": "https://www.ndtv.com/india-news/india-is-not-bangladesh-shashi-tharoor-agrees-to-disagree-with-kiren-rijiju-over-regime-change-row-12206267#publisher=newsstand",
+            "source_title": "\"India Is Not Bangladesh\": Shashi Tharoor Agrees To Disagree With Kiren Rijiju Over \"Regime Change\" Row",
+            "scraped_at": "2026-10-19 11:19:00"
           }
         ],
         "criminal_cases_in_news": 0
