@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792479926,
-      "last": "2026-10-20 07:05"
+      "last_ts": 1792508601,
+      "last": "2026-10-20 15:03"
     }
   },
   "india": {
@@ -8421,7 +8421,7 @@
         "region": "West",
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
-        "cm_confidence": 1.0,
+        "cm_confidence": 0.8,
         "cm_last_updated": "2026-10-20"
       },
       {
@@ -8550,7 +8550,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-27",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-07-21"
+        "cm_last_updated": "2026-10-20"
       },
       {
         "name": "Rajasthan",
