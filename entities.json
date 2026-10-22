@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7387,7 +7387,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Pinarayi_Vijayan",
         "image_placeholder": "pinarayi_vijayan",
-        "criminal_cases_in_news": 21,
+        "criminal_cases_in_news": 22,
         "criminal_incidents": [
           {
             "incident_text": "Defiant Pinarayi Vijayan raises fist after ED raid, vows ‘long battle’ against BJP and Congress - The Hindu **Pinarayi Vijayan**, former Kerala Chief Minister and now Leader of the Opposition, emerged",
@@ -7534,6 +7534,13 @@
             "source_url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-ed-likely-to-oppose-appeal-by-pinarayi-vijayan-against-corruption-fir-before-hc-division-bench/article71610076.ece",
             "source_title": "CMRL-Exalogic payoff case: ED likely to oppose appeal by Pinarayi Vijayan against corruption FIR before HC Division Bench",
             "scraped_at": "2026-10-22 05:25:57",
+            "incident_type": "broad"
+          },
+          {
+            "incident_text": "Keralam Leader of the Opposition Pinarayi Vijayan files appeal before Kerala HC, challenging Single Judge order in CMRL-Exalogic pay-off case **Pinarayi Vijayan**, **T. Veena**, and **P.A. Mohamed Riy",
+            "source_url": "https://www.thehindu.com/news/national/kerala/keralam-leader-of-the-opposition-pinarayi-vijayan-files-appeal-before-kerala-hc-challenging-single-judge-order-in-cmrl-exalogic-pay-off-case/article71611207.ece",
+            "source_title": "Keralam Leader of the Opposition Pinarayi Vijayan files appeal before Kerala HC, challenging Single Judge order in CMRL-Exalogic pay-off case",
+            "scraped_at": "2026-10-22 12:03:32",
             "incident_type": "broad"
           }
         ],
