@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -734,6 +734,12 @@
             "source_url": "https://www.thehindu.com/news/national/when-we-go-you-will-come-rahul-gandhi-says-pm-told-him-only-congress-can-defeat-bjp/article71523738.ece",
             "source_title": "‘When we go, you will come’: Rahul Gandhi says PM told him only Congress can defeat BJP",
             "scraped_at": "2026-09-29 14:08:05"
+          },
+          {
+            "incident_text": "Narendra Modi described the Congress party as a 'parasite' and 'mental naxals'.",
+            "source_url": "https://www.ndtv.com/india-news/pm-modi-says-parasite-congress-hurts-dissent-movements-honest-critics-amid-protests-on-gyanesh-kumar-by-cockroach-janta-party-india-bloc-aap-12222339#publisher=newsstand",
+            "source_title": "PM Modi Says 'Parasite' Congress Hurts 'Honest' Dissent Movements",
+            "scraped_at": "2026-10-22 20:04:04"
           }
         ]
       },
