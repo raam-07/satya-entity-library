@@ -48,7 +48,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "known_promises": [],
         "image_placeholder": "narendra_modi",
-        "criminal_cases_in_news": 15,
+        "criminal_cases_in_news": 16,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -154,9 +154,16 @@
             "source_title": "Is abusive language a criminal offence in India? | Explained - The Hindu",
             "scraped_at": "2026-08-05 11:25:52",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Case against MSF, SFI students in Keralam for ‘trampling on’ PM Modi’s photograph On October 22, 2026, officials reported a case against around 15 members of the **Muslim Students Federation** (**MSF*",
+            "source_url": "https://www.thehindu.com/news/national/kerala/case-against-msf-sfi-students-in-keralam-for-trampling-on-pm-modis-photograph/article71610186.ece",
+            "source_title": "Case against MSF, SFI students in Keralam for ‘trampling on’ PM Modi’s photograph",
+            "scraped_at": "2026-10-22 06:05:16",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-05",
+        "criminal_last_updated": "2026-10-22",
         "controversies": [
           {
             "incident_text": "Narendra Modi blamed the Congress for slow growth, calling it the 'Congress Growth Rate'.",
