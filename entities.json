@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -973,6 +973,12 @@
             "source_url": "https://www.thehindu.com/news/national/amit-shah-flags-off-indias-first-lng-train-claims-modi-transformed-railways-congress-known-for-scams/article71516554.ece",
             "source_title": "Amit Shah flags off India's first LNG train; claims ‘Modi transformed railways, Congress known for scams’ - The Hindu",
             "scraped_at": "2026-09-28 02:00:57"
+          },
+          {
+            "incident_text": "Amit Shah claimed the Congress party will not return to power for 30 years.",
+            "source_url": "https://www.ndtv.com/india-news/congress-wont-return-to-power-for-30-years-amit-shahs-jibe-at-rahul-gandhi-12219455#publisher=newsstand",
+            "source_title": "Congress Won't Return To Power For 30 Years: Amit Shah's Jibe At Rahul Gandhi",
+            "scraped_at": "2026-10-22 14:04:58"
           }
         ]
       },
