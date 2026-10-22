@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792659654,
-      "last": "2026-10-22 09:00"
+      "last_ts": 1792687922,
+      "last": "2026-10-22 16:52"
     }
   },
   "india": {
@@ -2619,6 +2619,12 @@
             "source_url": "https://www.thehindu.com/news/national/blot-on-democracy-piyush-goyal-slams-rahul-gandhi-for-president-accepted-vote-chori-charge-claim/article71568964.ece",
             "source_title": "‘Blot on democracy’: Piyush Goyal slams Rahul Gandhi for President accepted ‘vote chori’ charge claim",
             "scraped_at": "2026-10-10 15:56:39"
+          },
+          {
+            "incident_text": "Rahul Gandhi characterized the meeting with Marco Rubio as a 'summoning'.",
+            "source_url": "https://www.ndtv.com/world-news/ndtv-world-summit-s-jaishankars-indira-reminder-after-rahul-gandhis-marco-rubio-jibe-12221121#publisher=newsstand",
+            "source_title": "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
+            "scraped_at": "2026-10-22 15:43:25"
           }
         ]
       },
