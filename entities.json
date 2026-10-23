@@ -1,11 +1,11 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-22",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -4333,7 +4333,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "image_placeholder": "narendra_modi",
         "auto_added": true,
-        "auto_added_on": "2026-10-23",
+        "auto_added_on": "2026-10-22",
         "gemma_confidence": "high",
         "criminal_incidents": [],
         "controversies": []
