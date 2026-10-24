@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792839289,
-      "last": "2026-10-24 10:54"
+      "last_ts": 1792862099,
+      "last": "2026-10-24 17:14"
     }
   },
   "india": {
@@ -4020,6 +4020,12 @@
             "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raise-public-issues-during-monsoon-session-of-parliament-jagan-tells-ysrcp-mps/article71230550.ece",
             "source_title": "Raise public issues during monsoon session of Parliament, Jagan tells YSRCP MPs - The Hindu",
             "scraped_at": "2026-07-17 00:09:18"
+          },
+          {
+            "incident_text": "Chandrababu Naidu accused YS Jagan Reddy of being like Kansa Mama.",
+            "source_url": "https://www.ndtv.com/india-news/chandrababu-naidus-kansa-mama-jab-at-jagan-reddy-over-wedding-venue-row-with-sister-12230479#publisher=newsstand",
+            "source_title": "Palace, Siblings And A 'Kansa <i>Mama</i>' Jibe: Jagan Reddy-Sister Row Over Wedding",
+            "scraped_at": "2026-10-24 16:05:22"
           }
         ],
         "criminal_cases_in_news": 7,
