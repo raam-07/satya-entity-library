@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -1716,7 +1716,7 @@
         "affidavit_url": "https://affidavit.eci.gov.in",
         "wikipedia": "https://en.wikipedia.org/wiki/Rahul_Gandhi",
         "image_placeholder": "rahul_gandhi",
-        "criminal_cases_in_news": 35,
+        "criminal_cases_in_news": 36,
         "criminal_incidents": [
           {
             "incident_text": "Fresh hearing ordered on plea seeking FIR against Rahul over remarks on Hindu god Ram - The Hindu A **Special Court** in Varanasi overturned a Magistrate Court's decision to dismiss an FIR against **R",
@@ -1962,9 +1962,16 @@
             "source_title": "Forum for Constitutional Democracy condemns criminal cases against Rahul Gandhi and MPs",
             "scraped_at": "2026-10-08 10:09:47",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Rahul Gandhi gets bail over ‘defamatory remarks’ against Amit Shah in 2018 **Rahul Gandhi**, **Leader of the Opposition** in the **Lok Sabha**, was granted conditional bail by **Judge Supriya Rani Tig",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-gets-bail-from-jharkhand-court-over-defamatory-remarks-against-amit-shah-in-2018/article69900362.ece",
+            "source_title": "Rahul Gandhi gets bail over ‘defamatory remarks’ against Amit Shah in 2018",
+            "scraped_at": "2026-10-26 08:06:27",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-10-08",
+        "criminal_last_updated": "2026-10-26",
         "controversies": [
           {
             "incident_text": "Rahul Gandhi allegedly referred to Lord Ram as a 'mythological and fictional character'.",
