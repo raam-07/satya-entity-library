@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3079,6 +3079,12 @@
             "source_url": "https://www.thehindu.com/news/national/insulting-peoples-mandate-is-congress-old-habit-bjp/article71541566.ece",
             "source_title": "Insulting people’s mandate is Congress’ old habit: BJP",
             "scraped_at": "2026-10-03 18:03:59"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge stated that even Prime Minister Modi's father would have to go.",
+            "source_url": "https://www.ndtv.com/india-news/storm-over-m-kharges-baap-retort-against-pm-modi-then-comes-a-misunderstanding-twist-12233627#publisher=newsstand",
+            "source_title": "Storm Over M Kharge's <i>'Baap'</i> Retort Against PM Modi. Then A 'Misunderstanding' Twist",
+            "scraped_at": "2026-10-25 14:03:29"
           }
         ],
         "criminal_cases_in_news": 2,
