@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -740,6 +740,12 @@
             "source_url": "https://www.ndtv.com/india-news/pm-modi-says-parasite-congress-hurts-dissent-movements-honest-critics-amid-protests-on-gyanesh-kumar-by-cockroach-janta-party-india-bloc-aap-12222339#publisher=newsstand",
             "source_title": "PM Modi Says 'Parasite' Congress Hurts 'Honest' Dissent Movements",
             "scraped_at": "2026-10-22 20:04:04"
+          },
+          {
+            "incident_text": "Narendra Modi characterized Rahul Gandhi's speech on federalism as separatist and divisive.",
+            "source_url": "https://www.thehindu.com/news/national/political-line-local-national-and-anti-national/article65042538.ece",
+            "source_title": "Political Line | Local, national, and anti-national",
+            "scraped_at": "2026-10-26 05:20:43"
           }
         ]
       },
@@ -5866,6 +5872,12 @@
             "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/consider-it-your-birthright-to-denounce-indias-heritage-yogi-adityanath-slams-rahul-gandhi-over-manusmriti-remarks/article71383668.ece",
             "source_title": "Consider it your birthright to denounce India's heritage: Yogi Adityanath slams Rahul Gandhi over Manusmriti remarks - The Hindu",
             "scraped_at": "2026-08-24 11:58:22"
+          },
+          {
+            "incident_text": "Yogi Adityanath warned voters that Uttar Pradesh might become like Kerala, West Bengal, or Kashmir.",
+            "source_url": "https://www.thehindu.com/news/national/political-line-local-national-and-anti-national/article65042538.ece",
+            "source_title": "Political Line | Local, national, and anti-national",
+            "scraped_at": "2026-10-26 05:20:43"
           }
         ],
         "criminal_cases_in_news": 2,
