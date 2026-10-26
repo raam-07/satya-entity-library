@@ -1,11 +1,11 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-10-24",
+    "last_updated": "2026-10-26",
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1792862099,
-      "last": "2026-10-24 17:14"
+      "last_ts": 1792975339,
+      "last": "2026-10-26 00:42"
     }
   },
   "india": {
@@ -4339,7 +4339,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Narendra_Modi",
         "image_placeholder": "narendra_modi",
         "auto_added": true,
-        "auto_added_on": "2026-10-24",
+        "auto_added_on": "2026-10-26",
         "gemma_confidence": "high",
         "criminal_incidents": [],
         "controversies": []
@@ -8474,7 +8474,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-10-24"
+        "cm_last_updated": "2026-10-26"
       },
       {
         "name": "Haryana",
@@ -8550,7 +8550,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-10-24"
+        "cm_last_updated": "2026-10-26"
       },
       {
         "name": "Manipur",
@@ -8602,7 +8602,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-07-27",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-10-24"
+        "cm_last_updated": "2026-10-26"
       },
       {
         "name": "Rajasthan",
@@ -8684,7 +8684,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 0.75,
-        "cm_last_updated": "2026-10-24"
+        "cm_last_updated": "2026-10-26"
       },
       {
         "name": "Delhi",
