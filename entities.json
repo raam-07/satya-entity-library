@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 1,
+      "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -3110,6 +3110,12 @@
             "source_url": "https://www.thehindu.com/news/national/bihar/india-will-not-have-lasting-peace-until-rss-ideology-is-dismantled-kharge/article71623455.ece",
             "source_title": "India will not have lasting peace until RSS ideology is dismantled: Kharge",
             "scraped_at": "2026-10-25 16:07:27"
+          },
+          {
+            "incident_text": "Mallikarjun Kharge remarked that Prime Minister Modi's father would also pass away.",
+            "source_url": "https://www.ndtv.com/india-news/bjp-holds-protests-across-india-seeks-mallikarjun-kharges-apology-over-baap-jibe-12236750#publisher=newsstand",
+            "source_title": "BJP Holds Protests Across Country, Seeks M Kharge's Apology Over \"<i>Baap</i>\" Jibe",
+            "scraped_at": "2026-10-26 10:03:38"
           }
         ],
         "criminal_cases_in_news": 2,
