@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2644,6 +2644,12 @@
             "source_url": "https://www.ndtv.com/world-news/ndtv-world-summit-s-jaishankars-indira-reminder-after-rahul-gandhis-marco-rubio-jibe-12221121#publisher=newsstand",
             "source_title": "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
             "scraped_at": "2026-10-22 15:43:25"
+          },
+          {
+            "incident_text": "Rahul Gandhi alleged that Tata is being criminally destroyed.",
+            "source_url": "https://www.ndtv.com/india-news/will-ensure-justice-rahul-gandhis-post-on-tata-boardroom-battle-12247411#publisher=newsstand",
+            "source_title": "\"Will Ensure Justice\": Rahul Gandhi's Post On Tata Boardroom Battle",
+            "scraped_at": "2026-10-28 12:05:41"
           }
         ]
       },
