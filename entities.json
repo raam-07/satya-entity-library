@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 0,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -746,6 +746,12 @@
             "source_url": "https://www.thehindu.com/news/national/political-line-local-national-and-anti-national/article65042538.ece",
             "source_title": "Political Line | Local, national, and anti-national",
             "scraped_at": "2026-10-26 05:20:43"
+          },
+          {
+            "incident_text": "Narendra Modi mocked the opposition's performance in the MLC elections.",
+            "source_url": "https://www.thehindu.com/news/national/stop-sermonising-others-introspect-why-bjp-lost-varanasi-seats-in-mlc-polls-congress-slams-pm/article71639229.ece",
+            "source_title": "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Congress slams PM",
+            "scraped_at": "2026-10-29 08:06:55"
           }
         ]
       },
