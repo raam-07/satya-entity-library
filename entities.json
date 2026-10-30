@@ -5,9 +5,9 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 4,
+      "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3565,6 +3565,13 @@
             "source_title": "Court Orders Charges Against Lalu Yada, Wife Rabri Devi And Son Tejashwi Yadav In IRCTC Hotel Scam",
             "scraped_at": "2026-09-10 13:27:56",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Delhi court defers framing of money laundering charges in ED IRCTC hotel scam against Lalu Yadav On October 30, 2026, **Special Judge Prashant Kumar** adjourned the framing of money laundering charges",
+            "source_url": "https://www.thehindu.com/news/national/delhi-court-defers-framing-of-money-laundering-charges-in-ed-irctc-hotel-scam-against-lalu-yadav/article71644318.ece",
+            "source_title": "Delhi court defers framing of money laundering charges in ED IRCTC hotel scam against Lalu Yadav",
+            "scraped_at": "2026-10-30 10:05:21",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -3587,8 +3594,8 @@
             "scraped_at": "2026-06-20 23:14:35"
           }
         ],
-        "criminal_cases_in_news": 7,
-        "criminal_last_updated": "2026-09-10"
+        "criminal_cases_in_news": 8,
+        "criminal_last_updated": "2026-10-30"
       },
       {
         "name": "Tejashwi Yadav",
