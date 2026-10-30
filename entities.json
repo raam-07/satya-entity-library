@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -4952,6 +4952,12 @@
             "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/bjp-leaders-slam-mimicry-of-pm-at-rahul-gandhis-student-event/article71488585.ece",
             "source_title": "BJP leaders slam mimicry of PM at Rahul Gandhi’s student event - The Hindu",
             "scraped_at": "2026-09-21 01:29:19"
+          },
+          {
+            "incident_text": "Mohan Yadav claimed Rahul Gandhi acts as if he is coming from Pakistan.",
+            "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/ignorant-rahul-spreading-anarchy-seems-like-he-has-come-from-pakistan-to-do-politics-here-mp-cm/article71644905.ece",
+            "source_title": "M.P. CM attacks Congress over anti-CEC protests, says Rahul Gandhi seems to be ‘coming from Pakistan’",
+            "scraped_at": "2026-10-30 14:07:16"
           }
         ],
         "criminal_cases_in_news": 1,
