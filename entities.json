@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2656,6 +2656,12 @@
             "source_url": "https://www.ndtv.com/india-news/will-ensure-justice-rahul-gandhis-post-on-tata-boardroom-battle-12247411#publisher=newsstand",
             "source_title": "\"Will Ensure Justice\": Rahul Gandhi's Post On Tata Boardroom Battle",
             "scraped_at": "2026-10-28 12:05:41"
+          },
+          {
+            "incident_text": "Rahul Gandhi stated that Hindutvavadis must be thrown out once again.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-targets-rahul-gandhi-over-past-remarks-on-hindutva-questions-congress-on-eci-appointment-process/article71644523.ece",
+            "source_title": "BJP targets Rahul Gandhi over past remarks on Hindutva, questions Congress on ECI appointment process",
+            "scraped_at": "2026-10-30 12:05:57"
           }
         ]
       },
