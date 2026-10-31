@@ -5,7 +5,7 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 4,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1793396174,
-      "last": "2026-10-30 21:36"
+      "last_ts": 1793421829,
+      "last": "2026-10-31 04:43"
     }
   },
   "india": {
@@ -8548,7 +8548,7 @@
         "party_confidence": 1.0,
         "party_last_updated": "2026-05-23",
         "cm_confidence": 0.8,
-        "cm_last_updated": "2026-10-30"
+        "cm_last_updated": "2026-10-31"
       },
       {
         "name": "Haryana",
@@ -8624,7 +8624,7 @@
         "cm": "Devendra Fadnavis",
         "region": "West",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-10-30"
+        "cm_last_updated": "2026-10-31"
       },
       {
         "name": "Manipur",
@@ -8758,7 +8758,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 0.78,
-        "cm_last_updated": "2026-10-30"
+        "cm_last_updated": "2026-10-31"
       },
       {
         "name": "Delhi",
