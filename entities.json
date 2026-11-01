@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
+      "cm_updates": 3,
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1793518604,
-      "last": "2026-11-01 07:36"
+      "last_ts": 1793545667,
+      "last": "2026-11-01 15:07"
     }
   },
   "india": {
@@ -2662,6 +2662,12 @@
             "source_url": "https://www.thehindu.com/news/national/bjp-targets-rahul-gandhi-over-past-remarks-on-hindutva-questions-congress-on-eci-appointment-process/article71644523.ece",
             "source_title": "BJP targets Rahul Gandhi over past remarks on Hindutva, questions Congress on ECI appointment process",
             "scraped_at": "2026-10-30 12:05:57"
+          },
+          {
+            "incident_text": "Rahul Gandhi alleged that the 2024 election was illegal due to vote theft.",
+            "source_url": "https://www.ndtv.com/india-news/flop-show-ground-empty-bjp-attacks-oppositions-ramlila-maidan-rally-12267561#publisher=newsstand",
+            "source_title": "\"Flop Show, Ground Empty\": BJP Attacks Opposition's Ramlila Maidan Rally",
+            "scraped_at": "2026-11-01 14:03:17"
           }
         ]
       },
@@ -8763,7 +8769,7 @@
         "region": "East",
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
-        "cm_confidence": 0.78,
+        "cm_confidence": 0.88,
         "cm_last_updated": "2026-11-01"
       },
       {
