@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5784,6 +5784,12 @@
             "source_url": "https://www.thehindu.com/news/national/congress-pursues-politics-of-divide-hindus-for-muslim-rule-bjp/article71527430.ece",
             "source_title": "Congress pursues politics of “divide Hindus for Muslim rule”: BJP",
             "scraped_at": "2026-09-30 10:04:50"
+          },
+          {
+            "incident_text": "Revanth Reddy likened PM Modi to Ravana and Congress to Vanara Sena.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece",
+            "source_title": "Telangana CM Revanth Reddy likens PM Modi to ‘Ravana’ and Congress to ‘Vanara Sena’",
+            "scraped_at": "2026-11-01 10:04:07"
           }
         ],
         "criminal_cases_in_news": 8,
