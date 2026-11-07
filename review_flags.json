@@ -1,19 +1,80 @@
 {
-  "generated_at": "2026-11-07 02:53:36.293119",
+  "generated_at": "2026-11-07 04:40:41.566621",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
-    "party_updates_applied": 0,
+    "party_updates_applied": 1,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.71,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "s diverse films such as “Krantiveer” and “Khamoshi: The Musical”, died at his Goa home in the early hours of Thursday (October 8, 2026). He is suspected to have suffered a heart attack, doctors said. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.55,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "rat Bhushan** and managing director **K. Viswanathan** also honored filmmaker **Singeetam Srinivasa Rao**. Condolences poured in for the demise of veteran actor and producer Nana Patekar on Thursday. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Jammu",
+      "candidate": "Omar Abdullah",
+      "confidence": 0.75,
+      "reason": "Gemma rejected",
+      "context": "d Congress-led protests in Kashmir at the call of the INDIA bloc, which is seeking the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar over the alleged voter list fraud. Meanwhile, J&K "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 0.4,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": ". Shah kickstarted the daylong meeting at the Dr. Ram Manohar Lohia National Law University auditorium. It was chaired by BJP State president and Union Minister of State for Finance Pankaj Chaudhary. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "’: H.D. Kumaraswamy reaches Bengaluru Police Commissioner’s office, dares police to commence probe from him Union Minister for Heavy Industries and Steel H.D. Kumaraswamy on October 15, 2026, accused "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "emanded the **Maharashtra** model of waiving farm loans up to ₹2 lakh and providing ₹50,000 per hectare in compensation. He further claimed the state is bankrupt and facing a financial emergency. The "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Telangana",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "ober 13, 2026, citing concerns over staff, debt, and limited power sources. HYDERABAD Deputy Leader of Bharat Rashtra Samithi (BRS) Legislature Party and former minister T. Harish Rao has accused the "
+    }
+  ]
 }
