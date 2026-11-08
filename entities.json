@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3697,7 +3697,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 22,
+        "criminal_cases_in_news": 23,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -3856,9 +3856,16 @@
             "source_title": "Calcutta High Court says custodial interrogation of Abhishek Banerjee not required in cases registered against him after May 4 - The Hindu",
             "scraped_at": "2026-08-11 22:47:40",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Abhishek Banerjee Named In FIR As Kolkata Cops Probe Birthday Night Clashes **Kalighat police** arrested two men and filed several cases following a clash between **Trinamool Congress** workers and **",
+            "source_url": "https://www.ndtv.com/kolkata-news/trinamool-congress-abhishek-banerjee-named-in-fir-as-police-probe-birthday-night-clashes-12299471#publisher=newsstand",
+            "source_title": "Abhishek Banerjee Named In FIR As Kolkata Cops Probe Birthday Night Clashes",
+            "scraped_at": "2026-11-08 08:04:44",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-11",
+        "criminal_last_updated": "2026-11-08",
         "controversies": [
           {
             "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
