@@ -1,71 +1,19 @@
 {
-  "generated_at": "2026-11-08 20:41:50.063159",
+  "generated_at": "2026-11-08 20:45:06.366507",
   "summary": {
-    "cm_updates_applied": 4,
+    "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
-    "party_updates_applied": 1,
+    "party_updates_applied": 0,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 6
+    "items_needing_review": 0
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Jammu",
-      "candidate": "Omar Abdullah",
-      "confidence": 0.75,
-      "reason": "Gemma rejected",
-      "context": "d Congress-led protests in Kashmir at the call of the INDIA bloc, which is seeking the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar over the alleged voter list fraud. Meanwhile, J&K "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Uttar Pradesh",
-      "candidate": "Yogi Adityanath",
-      "confidence": 0.4,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": ". Shah kickstarted the daylong meeting at the Dr. Ram Manohar Lohia National Law University auditorium. It was chaired by BJP State president and Union Minister of State for Finance Pankaj Chaudhary. "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.5,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "’: H.D. Kumaraswamy reaches Bengaluru Police Commissioner’s office, dares police to commence probe from him Union Minister for Heavy Industries and Steel H.D. Kumaraswamy on October 15, 2026, accused "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.6,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "degrees, including 123 PhDs. **Poojal Devidas Mapari** received 23 medals, while **Dr Abhijat Sheth** of the **National Medical Commission** received an Honorary Doctor of Science degree. Maharashtra "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Karnataka",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "rkers with respect to the Form 7 issue. Briefing presspersons after a meeting of the party’s State core committee in the presence of the newly appointed co in-charge Kasam Venkateshwarlu, he said the "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Telangana",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "ober 13, 2026, citing concerns over staff, debt, and limited power sources. HYDERABAD Deputy Leader of Bharat Rashtra Samithi (BRS) Legislature Party and former minister T. Harish Rao has accused the "
-    }
-  ]
+  "items_needing_manual_review": []
 }
