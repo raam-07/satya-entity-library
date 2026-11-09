@@ -7,9 +7,9 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -752,6 +752,12 @@
             "source_url": "https://www.thehindu.com/news/national/stop-sermonising-others-introspect-why-bjp-lost-varanasi-seats-in-mlc-polls-congress-slams-pm/article71639229.ece",
             "source_title": "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Congress slams PM",
             "scraped_at": "2026-10-29 08:06:55"
+          },
+          {
+            "incident_text": "Narendra Modi labeled political opponents as 'Dimagi Naxals' infiltrating parties.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-repeats-debate-dare-after-pm-modis-dimagi-naxal-jibe/article71682318.ece",
+            "source_title": "Rahul Gandhi repeats debate dare after PM Modi's 'Dimagi Naxal' jibe",
+            "scraped_at": "2026-11-09 12:05:31"
           }
         ]
       },
@@ -3697,7 +3703,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 23,
+        "criminal_cases_in_news": 24,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -3863,9 +3869,16 @@
             "source_title": "Abhishek Banerjee Named In FIR As Kolkata Cops Probe Birthday Night Clashes",
             "scraped_at": "2026-11-08 08:04:44",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Cases booked on all seen attackers in Kalighat clash, West Bengal CM says **West Bengal Chief Minister Suvendu Adhikari** announced on November 9, 2026, that individuals who assaulted or threatened po",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/cases-booked-on-all-seen-attackers-in-kalighat-clash-west-bengal-cm-says/article71682106.ece",
+            "source_title": "Cases booked on all seen attackers in Kalighat clash, West Bengal CM says",
+            "scraped_at": "2026-11-09 12:06:37",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-11-08",
+        "criminal_last_updated": "2026-11-09",
         "controversies": [
           {
             "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
