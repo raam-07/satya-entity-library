@@ -5,11 +5,11 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 3,
-      "party_updates": 1,
+      "cm_updates": 0,
+      "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2794,6 +2794,12 @@
             "source_url": "https://www.ndtv.com/india-news/himanta-sarmas-anarchy-jibe-at-sonia-rahul-gandhi-over-vande-mataram-row-11922118#publisher=newsstand",
             "source_title": "Himanta Sarma's 'Anarchy' Jibe At Sonia, Rahul Gandhi Over Vande Mataram Row",
             "scraped_at": "2026-08-17 15:53:42"
+          },
+          {
+            "incident_text": "Sonia Gandhi described the 1975 Emergency as a mistake in her memoir.",
+            "source_url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-should-be-called-whitewashing-says-bjp-on-memoir-12306495#publisher=newsstand",
+            "source_title": "'Should Be Called <i>Whitewashing</i>, Not <i>Belonging</i>': BJP On Sonia Gandhi's Book",
+            "scraped_at": "2026-11-10 08:06:06"
           }
         ]
       },
