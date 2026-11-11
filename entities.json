@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2800,6 +2800,12 @@
             "source_url": "https://www.ndtv.com/india-news/sonia-gandhi-book-belonging-a-journey-of-love-should-be-called-whitewashing-says-bjp-on-memoir-12306495#publisher=newsstand",
             "source_title": "'Should Be Called <i>Whitewashing</i>, Not <i>Belonging</i>': BJP On Sonia Gandhi's Book",
             "scraped_at": "2026-11-10 08:06:06"
+          },
+          {
+            "incident_text": "Sonia Gandhi claimed General Vaidya delayed mobilizing units because they were manned by Sikhs.",
+            "source_url": "https://www.ndtv.com/opinion/opinion-sonia-gandhis-attempt-to-rewrite-1984-army-was-ready-but-congress-failed-sikhs-12310746#publisher=newsstand",
+            "source_title": "Sonia Gandhi's Attempt To Rewrite 1984: Army Was Ready, But Congress Failed Sikhs",
+            "scraped_at": "2026-11-11 04:03:31"
           }
         ]
       },
