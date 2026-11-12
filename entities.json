@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -7058,6 +7058,13 @@
             "source_title": "Mamata’s party files police complaint over alleged ‘knife attack attempt’ on former CM near her home",
             "scraped_at": "2026-10-14 06:04:35",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "FIR against former CM Mamata Banerjee over alleged communal remarks in Bengal A first information report was registered against **Mamata Banerjee** for allegedly making provocative and communal remark",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/fir-against-former-cm-mamata-banerjee-over-alleged-communal-remarks-in-bengal/article71094869.ece",
+            "source_title": "FIR against former CM Mamata Banerjee over alleged communal remarks in Bengal",
+            "scraped_at": "2026-11-12 06:05:35",
+            "incident_type": "broad"
           }
         ],
         "controversies": [
@@ -7260,9 +7267,9 @@
             "scraped_at": "2026-01-12 16:54:02"
           }
         ],
-        "criminal_cases_in_news": 32,
+        "criminal_cases_in_news": 33,
         "constituency": "Bhawanipur",
-        "criminal_last_updated": "2026-10-14"
+        "criminal_last_updated": "2026-11-12"
       },
       {
         "name": "Siddaramaiah",
