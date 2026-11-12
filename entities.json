@@ -5,8 +5,8 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 0,
+      "cm_updates": 2,
+      "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 0
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1794434392,
-      "last": "2026-11-11 21:59"
+      "last_ts": 1794458611,
+      "last": "2026-11-12 04:43"
     }
   },
   "india": {
@@ -8718,9 +8718,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-11-11",
-        "cm_confidence": 0.86,
-        "cm_last_updated": "2026-11-11"
+        "party_last_updated": "2026-11-12",
+        "cm_confidence": 0.83,
+        "cm_last_updated": "2026-11-12"
       },
       {
         "name": "Rajasthan",
@@ -8802,7 +8802,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-11-11"
+        "cm_last_updated": "2026-11-12"
       },
       {
         "name": "Delhi",
