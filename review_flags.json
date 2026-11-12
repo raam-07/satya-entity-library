@@ -1,19 +1,72 @@
 {
-  "generated_at": "2026-11-12 23:02:53.390247",
+  "generated_at": "2026-11-12 23:28:15.526173",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 2,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
-    "party_updates_applied": 0,
+    "party_updates_applied": 1,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 6
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 0.56,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": ". Shah kickstarted the daylong meeting at the Dr. Ram Manohar Lohia National Law University auditorium. It was chaired by BJP State president and Union Minister of State for Finance Pankaj Chaudhary. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.5,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "’: H.D. Kumaraswamy reaches Bengaluru Police Commissioner’s office, dares police to commence probe from him Union Minister for Heavy Industries and Steel H.D. Kumaraswamy on October 15, 2026, accused "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.5,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "Chief Minister Chandrababu Naidu directs steps to prevent rise in prices of essential commodities in Andhra Pradesh On October 21, 2026, **Andhra Pradesh** Chief Minister **N. Chandrababu Naidu** and "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.6,
+      "mentions": 3,
+      "reason": "Below auto-update threshold",
+      "context": "degrees, including 123 PhDs. **Poojal Devidas Mapari** received 23 medals, while **Dr Abhijat Sheth** of the **National Medical Commission** received an Honorary Doctor of Science degree. Maharashtra "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Telangana",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "SCCL) and trying to hand it over to big corporate entities. Addressing the ‘Singareni Karmika Garjana’ public meeting in Godavarikhani in Peddapalli district on Wednesday evening, Mr. Rao accused the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "Kumaraswamy accuses Congress government in Karnataka of funding CJP protests in Delhi On October 16, Union Minister **H.D. Kumaraswamy** accused the **Congress** in **Karnataka** of using public funds"
+    }
+  ]
 }
