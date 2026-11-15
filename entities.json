@@ -5,8 +5,8 @@
     "description": "Satya Entity Library — comprehensive reference data for Indian and international political figures, institutions, and corporations",
     "maintainer": "Satya Project",
     "auto_updated_fields": {
-      "cm_updates": 0,
-      "party_updates": 0,
+      "cm_updates": 3,
+      "party_updates": 1,
       "criminal_updates": 0,
       "new_promises": 0,
       "gaffe_updates": 0
@@ -17,8 +17,8 @@
       "articles_scanned": 25144
     },
     "window_scan": {
-      "last_ts": 1794699066,
-      "last": "2026-11-14 23:31"
+      "last_ts": 1794725091,
+      "last": "2026-11-15 06:44"
     }
   },
   "india": {
@@ -8557,7 +8557,7 @@
         "cm": "Himanta Biswa Sarma",
         "region": "Northeast",
         "cm_confidence": 1.0,
-        "cm_last_updated": "2026-11-14"
+        "cm_last_updated": "2026-11-15"
       },
       {
         "name": "Bihar",
@@ -8725,9 +8725,9 @@
         "cm": "Bhagwant Mann",
         "region": "North",
         "party_confidence": 1.0,
-        "party_last_updated": "2026-11-14",
+        "party_last_updated": "2026-11-15",
         "cm_confidence": 0.83,
-        "cm_last_updated": "2026-11-14"
+        "cm_last_updated": "2026-11-15"
       },
       {
         "name": "Rajasthan",
@@ -8809,7 +8809,7 @@
         "party_confidence": 0.88,
         "party_last_updated": "2026-08-19",
         "cm_confidence": 0.89,
-        "cm_last_updated": "2026-11-14"
+        "cm_last_updated": "2026-11-15"
       },
       {
         "name": "Delhi",
