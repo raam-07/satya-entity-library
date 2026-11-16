@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16 15:22:00.127418",
+  "generated_at": "2026-11-16 17:06:47.228569",
   "summary": {
-    "cm_updates_applied": 3,
+    "cm_updates_applied": 0,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
@@ -11,79 +11,9 @@
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 8
+    "items_needing_review": 0
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": [
-    {
-      "type": "cm_detection",
-      "state": "Maharashtra",
-      "candidate": "Devendra Fadnavis",
-      "confidence": 0.5,
-      "mentions": 3,
-      "reason": "Below auto-update threshold",
-      "context": "degrees, including 123 PhDs. **Poojal Devidas Mapari** received 23 medals, while **Dr Abhijat Sheth** of the **National Medical Commission** received an Honorary Doctor of Science degree. Maharashtra "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Karnataka",
-      "candidate": "D.K. Shivakumar",
-      "confidence": 0.5,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "adesh**, and **Telangana**. Activist **Rupesh Rajanna** shared the video, while **BJP** spokesperson **Ashok Gowda** questioned the **Congress** government's actions regarding job creation. Karnataka "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Andhra Pradesh",
-      "candidate": "Chandrababu Naidu",
-      "confidence": 0.62,
-      "mentions": 5,
-      "reason": "Below auto-update threshold",
-      "context": "Chief Minister Chandrababu Naidu directs steps to prevent rise in prices of essential commodities in Andhra Pradesh On October 21, 2026, **Andhra Pradesh** Chief Minister **N. Chandrababu Naidu** and "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Uttar Pradesh",
-      "candidate": "Yogi Adityanath",
-      "confidence": 0.5,
-      "mentions": 6,
-      "reason": "Below auto-update threshold",
-      "context": ". Shah kickstarted the daylong meeting at the Dr. Ram Manohar Lohia National Law University auditorium. It was chaired by BJP State president and Union Minister of State for Finance Pankaj Chaudhary. "
-    },
-    {
-      "type": "cm_detection",
-      "state": "Uttarakhand",
-      "candidate": "Pushkar Singh Dhami",
-      "confidence": 0.67,
-      "mentions": 4,
-      "reason": "Below auto-update threshold",
-      "context": "rashed into a hillside near Chai village in Joshimath around 2:20 pm, officials said. India's aviation regulator has dispatched a team to Dehradun to conduct a preliminary assessment of the accident. "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Punjab",
-      "candidate": "AAP",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "ffected families want concrete action against drugs and justice for the victims and Mr. Shah’s visit has sparked new hope for families affected by drugs. While Mr. Shah, in a post on ‘X’ targeted the "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Karnataka",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "ed by the **Cauvery Water Management Authority** and **Cauvery Water Regulation Committee** to protect delta farmers' livelihoods. Tamil Nadu Congress Committee president B. Manickam Tagore urged the "
-    },
-    {
-      "type": "ruling_party",
-      "state": "Telangana",
-      "candidate": "INC",
-      "confidence": 1.0,
-      "reason": "Gemma rejected",
-      "context": "t corruption before 2028. Bharatiya Janata Party (BJP) national vice-president Ram Madhav on Thursday (November 5, 2026) asserted that the party is the only “viable and undisputed” alternative to the "
-    }
-  ]
+  "items_needing_manual_review": []
 }
