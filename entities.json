@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -778,7 +778,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Amit_Shah",
         "known_promises": [],
         "image_placeholder": "amit_shah",
-        "criminal_cases_in_news": 5,
+        "criminal_cases_in_news": 6,
         "criminal_incidents": [
           {
             "incident_text": "West Bengal oath-taking LIVE: Suvendu Adhikari sworn in as first BJP CM of West Bengal, five other MLAs also take oath - The Hindu **Suvendu Adhikari**, the newly sworn-in BJP Chief Minister of West B",
@@ -814,9 +814,16 @@
             "source_title": "FIR lodged against Jharkhand man for 'threatening to kill' PM Modi, Shah, Adityanath - The Hindu",
             "scraped_at": "2026-08-02 18:31:58",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Some Congress leaders stalled probe into Modi in Gujarat riots case, claims Veerappa Moily Former Union Minister **M. Veerappa Moily** alleged that some **Congress** leaders in the **UPA** government ",
+            "source_url": "https://www.thehindu.com/news/national/karnataka/some-congress-leaders-stalled-probe-into-modi-in-gujarat-riots-case-claims-veerappa-moily/article71711952.ece",
+            "source_title": "Some Congress leaders stalled probe into Modi in Gujarat riots case, claims Veerappa Moily",
+            "scraped_at": "2026-11-17 16:06:12",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-08-02",
+        "criminal_last_updated": "2026-11-17",
         "controversies": [
           {
             "incident_text": "Amit Shah attended a rally organized by RSS-linked groups.",
