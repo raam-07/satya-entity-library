@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 2
     },
     "rescan_history": {
       "in_progress": false,
@@ -3263,6 +3263,12 @@
             "source_url": "https://www.ndtv.com/india-news/satyendar-jain-arrest-case-will-be-proven-fake-says-arvind-kejriwal-11927524#publisher=newsstand",
             "source_title": "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
             "scraped_at": "2026-08-18 17:32:06"
+          },
+          {
+            "incident_text": "Arvind Kejriwal made remarks regarding the conduct of Justice Swarana Kanta Sharma.",
+            "source_url": "https://indianexpress.com/article/legal-news/arvind-kejriwal-manish-sisodia-delhi-high-court-contempt-case-10966489/",
+            "source_title": "‘Taking us for a ride’: Delhi High Court raps Kejriwal, Sisodia for not replying in contempt case",
+            "scraped_at": "2026-11-17 08:05:29"
           }
         ]
       },
@@ -3939,6 +3945,12 @@
             "source_url": "https://www.thehindu.com/news/national/supreme-court-allows-abhishek-banerjee-to-travel-abroad-for-eye-treatment/article71327697.ece",
             "source_title": "Supreme Court allows Abhishek Banerjee to travel abroad for eye treatment - The Hindu",
             "scraped_at": "2026-08-10 10:47:38"
+          },
+          {
+            "incident_text": "Abhishek Banerjee made remarks allegedly scandalising the court and interfering with justice.",
+            "source_url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-issues-criminal-contempt-proceedings-against-abhishek-banerjee/article71710835.ece",
+            "source_title": "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
+            "scraped_at": "2026-11-17 08:04:33"
           }
         ]
       },
