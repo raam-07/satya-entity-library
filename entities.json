@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2681,6 +2681,12 @@
             "source_url": "https://www.ndtv.com/india-news/flop-show-ground-empty-bjp-attacks-oppositions-ramlila-maidan-rally-12267561#publisher=newsstand",
             "source_title": "\"Flop Show, Ground Empty\": BJP Attacks Opposition's Ramlila Maidan Rally",
             "scraped_at": "2026-11-01 14:03:17"
+          },
+          {
+            "incident_text": "Rahul Gandhi defended his remark about his mother sitting on his father's lap.",
+            "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-invokes-hindu-faith-to-defend-his-mama-sitting-on-papas-lap-remark/article71713190.ece",
+            "source_title": "Rahul Gandhi invokes Hindu faith to defend his ‘Mama sitting on Papa’s lap’ remark",
+            "scraped_at": "2026-11-17 18:04:47"
           }
         ]
       },
