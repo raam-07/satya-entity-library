@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -2687,6 +2687,12 @@
             "source_url": "https://www.thehindu.com/news/national/rahul-gandhi-invokes-hindu-faith-to-defend-his-mama-sitting-on-papas-lap-remark/article71713190.ece",
             "source_title": "Rahul Gandhi invokes Hindu faith to defend his ‘Mama sitting on Papa’s lap’ remark",
             "scraped_at": "2026-11-17 18:04:47"
+          },
+          {
+            "incident_text": "Rahul Gandhi claimed the Indian electoral system has been completely demolished.",
+            "source_url": "https://www.thehindu.com/news/national/bjp-mocks-rahul-gandhis-us-remarks-says-ai-can-predict-his-speeches/article71719550.ece",
+            "source_title": "BJP mocks Rahul Gandhi's U.S. remarks, says AI can predict his speeches",
+            "scraped_at": "2026-11-19 10:04:00"
           }
         ]
       },
