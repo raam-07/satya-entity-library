@@ -7,7 +7,7 @@
     "auto_updated_fields": {
       "cm_updates": 0,
       "party_updates": 0,
-      "criminal_updates": 0,
+      "criminal_updates": 1,
       "new_promises": 0,
       "gaffe_updates": 0
     },
@@ -3747,7 +3747,7 @@
           "Banerjee"
         ],
         "criminal_cases": 0,
-        "criminal_cases_in_news": 24,
+        "criminal_cases_in_news": 25,
         "auto_added": true,
         "auto_added_on": "2026-05-31",
         "gemma_confidence": "high",
@@ -3920,9 +3920,16 @@
             "source_title": "Cases booked on all seen attackers in Kalighat clash, West Bengal CM says",
             "scraped_at": "2026-11-09 12:06:37",
             "incident_type": "broad"
+          },
+          {
+            "incident_text": "Comments by Abhishek Banerjee painful but not contemptuous: Calcutta High Court The **Calcutta High Court** extended interim protection to **Abhishek Banerjee** on November 20, 2026, in a case filed b",
+            "source_url": "https://www.thehindu.com/news/national/west-bengal/comments-by-abhishek-banerjee-painful-but-not-contemptuous-calcutta-high-court/article71724792.ece",
+            "source_title": "Comments by Abhishek Banerjee painful but not contemptuous: Calcutta High Court",
+            "scraped_at": "2026-11-20 22:04:01",
+            "incident_type": "broad"
           }
         ],
-        "criminal_last_updated": "2026-11-09",
+        "criminal_last_updated": "2026-11-20",
         "controversies": [
           {
             "incident_text": "Abhishek Banerjee accused the police of harassment during the raid on his residence.",
