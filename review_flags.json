@@ -1,19 +1,81 @@
 {
-  "generated_at": "2026-11-21 08:55:35.870320",
+  "generated_at": "2026-11-21 11:02:28.795175",
   "summary": {
-    "cm_updates_applied": 0,
+    "cm_updates_applied": 3,
     "central_updates_applied": 0,
     "role_updates_applied": 0,
     "entities_enriched": 0,
-    "party_updates_applied": 0,
+    "party_updates_applied": 1,
     "criminal_updates_applied": 0,
     "gaffe_updates_applied": 0,
     "promises_extracted": 0,
     "new_entities_auto_added": 0,
     "new_entities_needs_review": 0,
-    "items_needing_review": 0
+    "items_needing_review": 7
   },
   "new_entities_auto_added": [],
   "new_entities_needs_review": [],
-  "items_needing_manual_review": []
+  "items_needing_manual_review": [
+    {
+      "type": "cm_detection",
+      "state": "Maharashtra",
+      "candidate": "Devendra Fadnavis",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "claims **Shrikant Shinde** delivered ₹500 crore to the activist. **Jarange** alleged a plot using \"party funds\" to defame him and stated he will wait 15-30 days for a government response. Maharashtra "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttar Pradesh",
+      "candidate": "Yogi Adityanath",
+      "confidence": 0.53,
+      "mentions": 8,
+      "reason": "Below auto-update threshold",
+      "context": ". Shah kickstarted the daylong meeting at the Dr. Ram Manohar Lohia National Law University auditorium. It was chaired by BJP State president and Union Minister of State for Finance Pankaj Chaudhary. "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Andhra Pradesh",
+      "candidate": "Chandrababu Naidu",
+      "confidence": 0.56,
+      "mentions": 5,
+      "reason": "Below auto-update threshold",
+      "context": "27, hitting between Bapatla and Visakhapatnam on October 28 with gusts reaching 140 kmph. **APCPDCL CMD P. Pulla Reddy** reviewed power preparedness while 21 rescue teams stood ready. Andhra Pradesh C"
+    },
+    {
+      "type": "cm_detection",
+      "state": "Karnataka",
+      "candidate": "D.K. Shivakumar",
+      "confidence": 0.55,
+      "mentions": 6,
+      "reason": "Below auto-update threshold",
+      "context": "adesh**, and **Telangana**. Activist **Rupesh Rajanna** shared the video, while **BJP** spokesperson **Ashok Gowda** questioned the **Congress** government's actions regarding job creation. Karnataka "
+    },
+    {
+      "type": "cm_detection",
+      "state": "Uttarakhand",
+      "candidate": "Pushkar Singh Dhami",
+      "confidence": 0.57,
+      "mentions": 4,
+      "reason": "Below auto-update threshold",
+      "context": "rashed into a hillside near Chai village in Joshimath around 2:20 pm, officials said. India's aviation regulator has dispatched a team to Dehradun to conduct a preliminary assessment of the accident. "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Karnataka",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "ed by the **Cauvery Water Management Authority** and **Cauvery Water Regulation Committee** to protect delta farmers' livelihoods. Tamil Nadu Congress Committee president B. Manickam Tagore urged the "
+    },
+    {
+      "type": "ruling_party",
+      "state": "Telangana",
+      "candidate": "INC",
+      "confidence": 1.0,
+      "reason": "Gemma rejected",
+      "context": "t corruption before 2028. Bharatiya Janata Party (BJP) national vice-president Ram Madhav on Thursday (November 5, 2026) asserted that the party is the only “viable and undisputed” alternative to the "
+    }
+  ]
 }
