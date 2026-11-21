@@ -9,7 +9,7 @@
       "party_updates": 0,
       "criminal_updates": 0,
       "new_promises": 0,
-      "gaffe_updates": 0
+      "gaffe_updates": 1
     },
     "rescan_history": {
       "in_progress": false,
@@ -5873,6 +5873,12 @@
             "source_url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-likens-pm-modi-to-ravana-and-congress-to-vanara-sena/article71652391.ece",
             "source_title": "Telangana CM Revanth Reddy likens PM Modi to ‘Ravana’ and Congress to ‘Vanara Sena’",
             "scraped_at": "2026-11-01 10:04:07"
+          },
+          {
+            "incident_text": "Revanth Reddy allegedly used foul language against his own party MLAs.",
+            "source_url": "https://www.thehindu.com/news/national/telangana/revanth-reddy-losing-control-over-tongue-even-on-his-party-mlas-harish-rao/article71728755.ece",
+            "source_title": "Revanth Reddy losing control over tongue even on his party MLAs: Harish Rao",
+            "scraped_at": "2026-11-21 16:07:01"
           }
         ],
         "criminal_cases_in_news": 8,
